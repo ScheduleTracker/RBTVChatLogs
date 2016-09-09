@@ -8555,3 +8555,792 @@
 [13:59:16] <ImEnzo> gz gerrit
 [13:59:28] <Hannes Langner> dann kann ich meine konsole ja am besten jetzt verkaufen
 [13:59:32] <Chris Schneider> für ps4 grafik reicht ne 200 euro graka
+[13:59:51] <CocaColiker> @MCMIGHTY ich auch Microsoft wird auf natives 4k setzen aber natürlich nicht für 500 €
+[13:59:53] <ImEnzo> ja Hannes
+[13:59:56] <Haggis mcmutton> warum sollte man auch mehr FPS bringen so ein quatsch aber auch 😀
+[14:00:03] <Loughing Man> @Jeantastic ich habs nur gelesen mich kümmert das kaum ich setze meine hoffnungen was konsolen angeht auf die NX will wieder neuen spielspaß anstatt wieder ne mörder grafikhure ^^
+[14:00:18] <Mara cuja> werden doch eh alle in die pro rein gebaited ez money für sony
+[14:00:28] <Row Land> Leute - keine der "neuen" Konsolen wird native 4k gerenderte SPiele bringen - da sind wir noch etwas davon entfernt
+[14:00:33] <McMIGHTY> @CocaColiker Mal schauen, durchaus möglich. Obwohl ich bereits gehört habe, dass sie sehr stark subventionieren möchten.
+[14:00:35] <DaBlackMac> ich gehe davon aus dass die nächste die letzte Konsolengeneration ist. danach sinds anwendungen für PC
+[14:00:52] <BlurLive> aber ich müsste bei meinem rechner sowohl graka als auch chip tauschen...und bin da auch wieder gut dabei...da bin ich ein wenig froh das die konsolen ein wenig bremsen 😀
+[14:00:53] <Mara cuja> eine passive LUL
+[14:00:57] <McMIGHTY> @CocaColiker Leisten könnten sie sich es ja.
+[14:01:02] <DaBlackMac> XBOX wird dann eine Referenzplattform für PC-Spiele
+[14:01:02] <Florian ĸarl> es aktualisiert sich am PC eh schon alles selbst
+[14:01:03] <Butch Cassady> Sony & Microsoft = letzter dreck! Schön die kunden verarscht mit ihrem Pro-und S- scheiss! f++t... und dem ganzen drumherum
+[14:01:14] <Der Lord> Arkham Knight ist auf dem PC gut geworden
+[14:01:29] <Jeantastic> die jetzige ist die letze ... sie besteht schon bereits zu 90% aus pc-komponenten bzw. custom-pc komponenten
+[14:01:30] <Row Land> @Butch Cassady und auf dem PC läuft alles korrekt? mit Steam/EA/Ubisoft BEschiss?
+[14:01:30] <metalpig12> konsolen eine referenzplattform für pc? niemals
+[14:01:39] <Jeantastic> die nicht im retail zu finden sind
+[14:01:39] <Consensual Clown> haben die neuen konsolen immer noch HDDs? Die ladezeiten sind neben den FPS der größte abturner bei konsolen für mich...
+[14:01:46] <metalpig12> konsolen referenzieren den pc wenn dann
+[14:02:00] <Row Land> @Consensual Clown das hat aber nix mit den Festplatten zu tun 😉
+[14:02:02] <CocaColiker> die Hersteller müssen nur aufpassen das Sie etwas bauen das sowieso ein PC ist fürs Wohnzimmer und alle halbe Jahr upgrades brauch
+[14:02:05] <Taucherglocke> Hat die PS4 keine SSD?
+[14:02:09] <DaBlackMac> @Jeantastic kann sein, ich denke aber dass sie erst den misserfolg brauchen bevor das Konzept Konsole als untauglich erachtet wird
+[14:02:10] <Butch Cassady> es geht gerad um konsolen! Roland...
+[14:02:11] <metalpig12> der nächste schritt sind modulare konsolen in einem in sich geschlossenen ökosystem
+[14:02:18] <MauKaiMF> @Row Land vergiss nicht den Bethesda Runner (Steam Klon)
+[14:02:18] <Denis> konsolen sind beschnittene pcs
+[14:02:20] <Bardaouil> die heutige 400 € Graka ist schon morgen die 200 € Graka.
+[14:02:20] <ninthprime> @Taucherglocke du kannst in die PS4 einbauen, was du willst
+[14:02:21] <Beanstalk> hi böhnchen
+[14:02:22] <BlurLive> solang VR auf PS4 läuft werde ich die Pro einfach ignorieren
+[14:02:31] <Taucherglocke> @nin
+[14:02:37] <Taucherglocke> @ninthprime Auhc geil
+[14:02:40] <Row Land> @Consensual Clown der Flaschenhals der Konsolen ist nicht die Festplatte weil da die Ladezeiten zwar 20% schneller sind aber das in echt nur 0.5 sekunden sind. Die LAufwerke sind das Schlimme
+[14:03:03] <Mani2> nein, läuft nicht alles korrekt, aber das war ja mal das argument pro konsole, mimttlerweile gibts ja auch da 3BG day one patch @Row Land
+[14:03:05] <ninthprime> @Taucherglocke ich würde da aber eher auf Platz setzen.. also wenn ne 2TB Hybridplatte (reine SSDs sind dann doch teuer :))
+[14:03:11] <Row Land> @MauKaiMF ich wusste nicht wieviel Textplatz ich habe - aber ja ^^
+[14:03:21] <Chris Schneider> wobei man für 4k schon wirklich leistung braucht
+[14:03:24] <Ati1m> echt traurig das gregor so ein pc fanboy geworden ist. also pc ist kein stück wie konsole allein wegen drm und zu freies system heißt hacker raubkopierer ohne ende.
+[14:03:37] <BlurLive> angelich werden SSD in naher zukunft schnell günstiger werden
+[14:03:39] <Consensual Clown> @Row Land hat man auf konsolen nicht bei manchen spielen bereits die möglichkeit die komplett auf die Festplatte zu installieren?
+[14:03:48] <Row Land> BEIDES hat Vor und Nachteile - basta
+[14:03:58] <Taucherglocke> @ninthprime Konsolen sind für mich eher nur interessant um mit Kollegen Bier zu saufen und zu zocken 😉 Klar, paar exklusiv Titel sind echt schon nice, aber das kann ich verkraften ^^
+[14:03:59] <metalpig12> welche natürlich nicht vorhanden sind auf konsolen...da gibt es natürlich keine piraterie /s
+[14:04:04] <Haggis mcmutton> Ganz schöne abzocke einfach ne PS4 mit bisschen mehr performance zu verkaufen. Und dann kommen die in nächstes jahr mit ner ganz neuen console und bitten alle neu zur kasse -.-
+[14:04:16] <Row Land> nichts war geiler im Mutliplayer als sich mit MArio PArty oder Super Smash Brothers den Freunden aufs Maul zu geben
+[14:04:17] <bassmensch> pc vs. xbox vs. ps4 debatten in 2016 kek
+[14:04:26] <GAPK6> @Ati1m Dass mit dem Raubkopierer hören wir seit den 90er. Wie wärs wenn wir alles Gut finden?
+[14:04:31] <metalpig12> @row land naja pc überwiegt bei weitem mit den vorteilen
+[14:04:32] <Row Land> das gibts auf PC nicht - dafür hat der GRafik zum umhauen und extrem witzige Mods
+[14:04:34] <Jeantastic> @Haggis mcmutton es zwingt dich doch keiner die ps4 pro zu kaufen
+[14:04:34] <Sephirothxxl1> symboligie
+[14:04:40] <Sephirothxxl1> das wort heißt symbologie.....
+[14:04:44] <bassmensch> ich fand auf LANs UT immer am geilsten 😉
+[14:04:44] <Rohti> die einzige konsole die man für multiplayer nutzen kann is die WiiU oder Wii
+[14:04:45] <MD aus HH> symolistik Oo
+[14:04:46] <CocaColiker> gut das ich mir für Tomb Raider die Xbox geholt hab...so könnte ich unter umständen die PS4 Pro nachlegen
+[14:04:47] <Sephirothxxl1> xD
+[14:04:51] <MauKaiMF> @bassmensch schon schlimm, dass es sowas immer noch gibt 😞 😞 😞 😭
+[14:04:59] <gromsbard> symbolik
+[14:05:03] <MD aus HH> symbolik nicht symbologie 😉
+[14:05:08] <MauKaiMF> also die PC/Konsolen Diskussion
+[14:05:11] <Row Land> @Consensual Clown ja und nein, scheinbar braucht man auch wegen "Kopierschutz" geschichten trotzdem noch die CD selbst. Außer du hast es aus dem Store
+[14:05:15] <Florian ĸarl> hier gibts echt zuviel Mimimimi -.-
+[14:05:22] <Sephirothxxl1> i know. war ja auch nur nen scherz lol 😃
+[14:05:25] <gromsbard> hat denn keiner Der blutige Pfad Gottes gesehen?
+[14:05:25] <Mani2> und pc hat keine exclusiven games? 😑 @Row Land
+[14:05:38] <Ati1m> @GAPK6 sorry aber ist halt die wahrheit. warum gibt es drm?
+[14:05:39] <MD aus HH> @gromsbard lol genau mein gedanke xD
+[14:05:39] <BlurLive> @Row Land (legal nicht :D) aber es gibt auch eine ganze reihe von sehr witzigen Perlen auf STEAM für eine solche Runde
+[14:05:39] <bassmensch> naja, wers braucht 😃 ich zock gern am pc und an konsole, außer anne wii, da gibs einfach nichts für mich 😃
+[14:05:43] <Sephirothxxl1> danke @ groms
+[14:05:45] <Rohti> @row land lol man braucht immernoch die cd´s?:D
+[14:05:49] <gromsbard> 😀
+[14:05:51] <Need TP for my bunghole> was das fürn game
+[14:05:51] <samanosuke95> pcs exklusive games sind müll punkt
+[14:05:52] <Bambus Ratte> Warum kommt eigentlich Beans VS nicht mehr :(
+[14:05:58] <Butch Cassady> wie lange gabs die PS3 ?? und wie lange die PS4 ?? merkste selber ne
+[14:05:58] <ninthprime> PC hat keine wirklich exklusiven games... eher weil die's nicht porten können.
+[14:05:58] <Sebastian Ott> warum sind die körper schwerelos wenn sie tot sind ?
+[14:06:01] <Sephirothxxl1> ^^ bester film
+[14:06:06] <Sebastian Ott> ich dachte die haben magnet schuhe
+[14:06:07] <CocaColiker> die beste WErbung für Konsolen ist aber nVidias Preispolitik im Moment 800 € graka is ein witz
+[14:06:14] <McMIGHTY> @samanosuke95 So ein Quatsch.
+[14:06:17] <MauKaiMF> PC & Konsole 💜
+[14:06:20] <ninthprime> sonst heissen exklusive games ja eher, dass der konsolenhersteller extra dafür bezahlt (und so auch mehr budget für die entwicklung zur verfügung steht)
+[14:06:23] <dejaypw> ich hab beide filme geschaut der beste film ist zwar der erste aber der blutige pfad gottes einer meiner lieblingsfilme total geil
+[14:06:24] <Jeantastic> @samanosuke95 sag das mal den wow, starcraft und cs:go spielern
+[14:06:24] <McMIGHTY> Games. 💜
+[14:06:25] <GAPK6> @samanosuke95 Warum?
+[14:06:27] <Rohti> pc hat keine exklusiven titel? seid ihr deppert?
+[14:06:29] <Row Land> @Rohti bei fast allen Spielen, ja. Außer die digitalkäufe aus dem Store
+[14:06:35] <Bambus Ratte> ?
+[14:06:37] <BlurLive> Best of both worlds...gut finden muss man dennoch nicht alles
+[14:06:41] <gromsbard> jap der erste ist einfach genial
+[14:06:48] <Haggis mcmutton> @Jeantastic naja ich sowieso nich weil ich eher mehr am Pc spiele. Aber ich finde es etwas beunruhigend was die Hersteller heute für ein Marketing an den Tag legen.
+[14:06:51] <McMIGHTY> @Jeantastic Bin auch anderer Meinung, aber CS:GO ist nicht exklusiv. 😉
+[14:06:57] <Cookie TheCook> ähm natürlich gibt es pc-exclusive spiele ... nicht alle spiele die du auf pc spielst sind auch für die konsole
+[14:06:58] <metalpig12> man braucht ja keine 800€ graka, 250€ und man ist gut dabei, das ist ein schwaches argument
+[14:07:01] <ninthprime> wäre höchstens gespannt, ob es irgendwann games geben wird, die exklusiv für AMD oder NVIDIA sind 😀
+[14:07:01] <Sephirothxxl1> jo
+[14:07:01] <Lord Helmchen> also eim starcraft ist für mich ein pc exklusives spiel
+[14:07:04] <Need TP for my bunghole> na ist doch klar, die magnetschuhe werden mit elektrizität vom körper betrieben. ist doch loooogisch Kappa xD
+[14:07:04] <Jeantastic> @McMIGHTY naja .... das csgo für xbox wird nich upgedatet
+[14:07:12] <Row Land> Ich war schon immer "Zocker" oder "Spieler" und nicht PC'er oder Konsolero...das ist Bullshit
+[14:07:15] <Bambus Ratte> Ich vermisse Beans VS :(
+[14:07:16] <samanosuke95> ja weil die spiele net so spektakulär sind wie uncharted last of us oder god of war, metal gear das ist einfach einzigartig
+[14:07:22] <McMIGHTY> @Jeantastic Das stimmt.
+[14:07:24] <Row Land> Hauptsache Spaß auf welcher Plattform auch immer - außer XBox die is kacke 😛
+[14:07:28] <Butch Cassady> konsolen und pc markt ist kapitalismus für bekloppte... alle werden verarscht
+[14:07:30] <Mangamaniac71> Hotel Mario gabs exklusiv aufm Philips CDi, beste Konsole ever!!
+[14:07:31] <ninthprime> @Row Land ja, dieses ewige rumgehacke auf den anderen is echt kacke
+[14:07:31] <bassmensch> bambus ratte nächsten freitag 😞
+[14:07:37] <CocaColiker> ich lad mal overwatch für Xbox...mal sehen wie lange man das aushält mit Controller 😀
+[14:07:38] <Cookie TheCook> ich vermisse royal beef 😞
+[14:07:42] <Sebastian Ott> Die toten Astronauten dürften gar nicht schwerelos rumfliegen, die verlieren Ihre Stiefel doch nicht wenn sie sterben o_O
+[14:07:44] <supermodulaire> Kostengründe/Zeitmangel sind das einzige, weshalb man sich NUR auf eine Konsole/PC beschränken sollte. Gibt so viele gute Games, die exklusiv auf einer Plattform sind. Da verpasst man soviel.
+[14:07:44] <Need TP for my bunghole> metal gear ist tot. hideo ist ausgestiegen. ruhe in frieden
+[14:07:45] <Row Land> @Bambus Ratte kommt am Freitag wieder 😉 mit Donkey Kong
+[14:07:46] <McMIGHTY> @Row Land Banause. 😜
+[14:07:50] <BlurLive> BEANS VS. DK ist angekündig
+[14:07:52] <Rohti> @samanosuke schönen mumpitz haste da aufgezählt
+[14:07:52] <dejaypw> omg die ps4 ist mist die xbox ist wenigstens noch ok
+[14:07:54] <Bardaouil> PC keine exklusiven Spiele. Hallo? Schonmal im Media Markt durch die PC Spiele Abteilung gelaufen?
+[14:07:57] <MauKaiMF> Alle Konsolen sind geil und alle PCs sind geil....außer das Turbographix...der war nicht so schnafte
+[14:08:06] <Cookie TheCook> weiß jemand wann royal beef wieder kommt ??
+[14:08:12] <Jeantastic> niemals
+[14:08:15] <Jeantastic> is abgesetzt
+[14:08:20] <BlurLive> ich glaube die schaffen nicht ein DK aus den SNES Zeit
+[14:08:21] <MauKaiMF> noch kein Termin @Cookie
+[14:08:23] <ninthprime> wie viele hier das konzept von exklusivtiteln einfach nicht verstehen m(
+[14:08:24] <Kieran Waugh> ouya ist die beste konsole
+[14:08:29] <shrpdrts> Hate monk?
+[14:08:30] <gromsbard> @BlurLive DK? Dungeon Keeper 😀 ? bestimmt nicht oder?
+[14:08:33] <ForboJack> @Cookie TheCook Gibt noch kein Datum
+[14:08:36] <Rohti> metal gear solid is sowieso komplett überbewerteter rotz
+[14:08:37] <Haggis mcmutton> @CocaColiker haha OW mit Pad 😀 Ragequit incomming 😀
+[14:08:42] <BlurLive> Donkey Kong
+[14:08:42] <Cookie TheCook> ok danke 😉
+[14:08:43] <Row Land> Stimmt - Ouya über Allen!
+[14:08:43] <dejaypw> shield tv beschte man
+[14:08:44] <McMIGHTY> @Cookie TheCook Offiziell ist noch nichts bekannt
+[14:08:50] <gromsbard> danke, geil
+[14:08:54] <Hadouken> huhuuuuuuu
+[14:08:57] <metalpig12> dungeon keeper ein verdammt gutes spiel!
+[14:08:58] <samanosuke95> ja es ist doxh so, sag mir paar pc exklusivs die solche spiele überbieten
+[14:09:05] <Need TP for my bunghole> metal gear 1 und 3 fand ich extrem cool und inovativ
+[14:09:05] <Bambus Ratte> Danke für die Info 😍
+[14:09:07] <Oi Junge> Gregott ballert nur rein
+[14:09:17] <ninthprime> @metalpig12 jaaa, dungeon keeper habe ich geliebt
+[14:09:19] <Sascha M> yamas
+[14:09:22] <Need TP for my bunghole> den rest hätten sie sich sparen können, find uch auch
+[14:09:25] <shrpdrts> Mit Team Deathmatch, beste Team
+[14:09:25] <bassmensch> fand mgs phantom pain sexy 😚 quiet 💜
+[14:09:27] <Need TP for my bunghole> also für playsi
+[14:09:33] <ninthprime> @metalpig12 "keeper, einer eurer imps kann euch sehr gut nachmachen. sogar die sache mit den ohren kriegt er hin."
+[14:09:39] <Hadouken> wird es eigentlich MW1 auch für den PC geben?
+[14:09:39] <Row Land> stellt euch vor.. SUper Smash Brother aufm PC mit 64 Spielern
+[14:09:41] <Butch Cassady> gregor zockt nen shooter und noch mp ... gregott is doch klar gekauft von xbox
+[14:09:42] <Row Land> und 1440p
+[14:09:49] <Mojo Mota> bassmensch 😅
+[14:09:50] <Rohti> @samanosuke Half Life 2
+[14:09:54] <Row Land> das gibt Tote durch epiläptische Anfälle
+[14:09:59] <k4loenneli> gregott an 2 orten gleichzeitig? WutFace
+[14:10:00] <Jeantastic> half life 1
+[14:10:02] <wizz0r_86> 60p?
+[14:10:08] <Row Land> epileptisch..so
+[14:10:16] <ninthprime> epischleptisch
+[14:10:23] <Bardaouil> Spiele sind doch Geschmackssache. Manche spielen ausschließlich Strategiespiele und finden das als geilstes Genre.
+[14:10:26] <Row Land> eppischlepptisch?
+[14:10:31] <metalpig12> stalker reihe ist schon ganz gut und pc exklusiv
+[14:10:33] <Bambus Ratte> Die neuen Konsolen Kauf ich mir nicht 😡
+[14:10:34] <Row Land> Zuckungen halt 😛
+[14:10:47] <BlurLive> SSB klassik 1v1v1v1 auf dem PC bei der letzten Lan 😀 ^^
+[14:10:53] <Rohti> civilization gibts doch auf konsolen auch nicht oder?
+[14:10:55] <metalpig12> half life natürlich auch aber das ist selbstverständlich
+[14:11:02] <UNES7> Star Citzen
+[14:11:05] <Leonarda Leon> Hallo leute, hallo Gregor, Collin und Seb😁
+[14:11:10] <UNES7> Citizen
+[14:11:15] <BlurLive> HL ist nich exklusiv 😀
+[14:11:15] <McMIGHTY> @CocaColiker Spielt sich sehr sauber mit dem Xbox Controller.
+[14:11:21] <Lord Helmchen> es geht um fertige spiele 😀
+[14:11:26] <metalpig12> und was aktuelleres, star citizen
+[14:11:28] <BlurLive> die OrangeBox gabs auch für XBox
+[14:11:29] <ninthprime> @Rohti es gab Civilization Revolution auf Konsolen, aber das war ein extra schnelles Gameplay mit weniger Details
+[14:11:30] <samanosuke95> okay gegen half life darf man nix sagen :D aber welche titel gibts den noch (ernste frage)
+[14:11:33] <Consensual Clown> hat man automatischen aim assist auf konsolen?
+[14:11:40] <Mike Köhler> ja
+[14:11:43] <UNES7> ja
+[14:11:43] <Kieran Waugh> die beigabe ist besser als das spiel an sich...
+[14:11:46] <UNES7> leider
+[14:11:48] <ninthprime> @samanosuke95 Duke Nukem 3D
+[14:11:51] <Hadouken> Squad... Red-Orchestra und viele mehr
+[14:11:56] <Eddie No2> LoL, DotA, CS und Starcraft sind glaub PC only, oder 😀
+[14:11:58] <Marco Bücker> cod 4?
+[14:12:01] <metalpig12> half life 1 jedoch nicht, 2 schon fast vergessen^^
+[14:12:11] <McMIGHTY> @ninthprime Gibt es auf diversen Konsolen.
+[14:12:12] <Mike Köhler> cs gibt es glaub schon auf konsole Eddie
+[14:12:15] <Butch Cassady> gibts auch hunde und fische die richtig schwimmen im neuen COD? TV TV TV TV!! Sports! TV! Xbox
+[14:12:17] <Jeantastic> @samanosuke 10.000 strategiespiele, 10.000 indie-spiele, hunderte esport-spiele ... du lebst halt in deiner konsolen bubble
+[14:12:18] <Leonarda Leon> hahhaha hahahah ahahhah
+[14:12:21] <BlurLive> aber spielen will man es dann doch auf dem Pc ^^
+[14:12:25] <Rohti> cs auf konsole... mit aimhilfe oder was?
+[14:12:27] <bassmensch> i jan zurviel zwiebelmettbrötchern giergesst 😞
+[14:12:41] <Mike Köhler> rohti da bin ich überfragt 😀
+[14:12:42] <Mighty Moren> Cs gibts auf Xbox, is aber scheiße
+[14:12:43] <Jeantastic> @Rohti nein ohne, deswegen ist es auf der konsole auch gefloppt 🌝
+[14:12:43] <Haggis mcmutton> Ich hoffe die verkaufen das Remaster COD4 auch ohne das neue drecksgame 😞
+[14:12:43] <FourTwenty> ragemon inc ^^
+[14:12:46] <MC Hodenflash> Call of Diddy?
+[14:12:47] <k4loenneli> die taktische positionierung muss bimon aber noch lernen 🌝
+[14:12:55] <Rohti> @jeantastic 😀 😀 😀
+[14:12:57] <UNES7> cs auf konsole? really?
+[14:12:57] <sonnenbrille80> grafisch hat sich kaum was geändert da merkt man wie veraltet cod engine is
+[14:12:58] <BlurLive> ich glaube TF2 und CS haben keine Aim-Hilfe..
+[14:13:04] <metalpig12> cod remastered kriegst nur im ganzen paket...eh klar
+[14:13:13] <Bardaouil> PC Exclusive: Emulatoren
+[14:13:15] <Nuclearcameleon> jo hab mal ne frage warum läuft auf twitch nix mehr
+[14:13:16] <Bambus Ratte> Abzocke
+[14:13:19] <samanosuke95> @jeantastic nein du verstejst mich net ich weis schon dass es sehr viele pc only gibts aber quantitativ, ich red von aaa titeln highlights, wie z.b. half life
+[14:13:39] <Mighty Moren> Unes7 Ja, wurde aber meines wissens nie gepatched 😀 Hast nichtmal en ranking system da
+[14:13:44] <Haggis mcmutton> Hm dann werd ich den mein Geld nich in den rachen werfen sorry
+[14:13:47] <ForboJack> @Nuclearcameleon SIe sind umgezogen auf Youtube Gaming
+[14:13:52] <Rohti> @samanosuke das was du als highlight empfindest, find ich zum beispiel auch lame
+[14:13:52] <metalpig12> @samanosuke95 arma reihe vorzeige titel
+[14:13:53] <UNES7> ah okay 😀
+[14:13:53] <GAPK6> @Bardaouil Meine PS3 mit Snes Emulator wiederspricht dir.
+[14:13:54] <Crazy Zwayze> Half life war nie AAA
+[14:13:57] <BlurLive> die ganze Remastered geschichten arbeiten nur mit der romantisierunge der alten spiele ^^
+[14:13:59] <McMIGHTY> s@amanosuke95 Half-Life (2) gibt es auch auf Konsole. 😉
+[14:14:00] <MD aus HH> die taktik des lamen rumcampens 😀
+[14:14:05] <Sturmwut> hi
+[14:14:09] <Butch Cassady> emus gibts auch auf konsole^^
+[14:14:12] <M4STR0> map control > campen LUL
+[14:14:17] <McMIGHTY> @samanosuke95 Half-Life (2) gibt es auch auf Konsole. 😉
+[14:14:20] <Nuclearcameleon> warum ? einfach so oder gibt es einen bestimmten grund
+[14:14:22] <Bardaouil> AAA Titel sind ohnehin 99 % Multiplatform. Die haben ja auch ein Monsterbudget. Deswegen auch AAA Titel.
+[14:14:30] <Mojo Mota> Ragemon
+[14:14:34] <Snowball115> Saltmon
+[14:14:34] <MC Hodenflash> Ich würde ja Call of Diddy mal ne Chance geben. Könnte ja mal die Beta testen. Ach nein warte... die gibt's ja nur für Vorbesteller und nur auf Konsole 😑
+[14:14:36] <Mojo Mota> 😀
+[14:14:42] <Steen Rai> gleich kommt "digga"
+[14:14:44] <Hadouken> und er läuft einfach mal beim gegner vorbei xD
+[14:15:07] <Bambus Ratte> xD
+[14:15:08] <samanosuke95> @rohti hast du die spiele je gespielt? last of us lame ? gow ?
+[14:15:11] <Mojo Mota> bwahahaha
+[14:15:16] <MD aus HH> xD
+[14:15:17] <Lord Kratzebart> ich mag auch sein extrem epsilon F 😲
+[14:15:19] <MD aus HH> der simon 😀
+[14:15:20] <sonnenbrille80> würg ihn
+[14:15:27] <k4loenneli> ragemon 💜
+[14:15:31] <Jeantastic> @samanosuke95 sc2, wow, dota2, lol, battlefield 1942, civilization, diablo 2, gothic 1-3, etc. etc.
+[14:15:32] <MD aus HH> einfach der herrlichste typ 😃
+[14:15:32] <Timo Müller> Es fliegen wieder Pads. 😀
+[14:15:35] <Rohti> @samanosuke god of war find ich von der premisse schon dämlich
+[14:15:46] <Bausparbartels> es wäre nice wenn modern warfare rm auch noch einzeln kommen würde
+[14:15:55] <McMIGHTY> @Rohti ALLE Nintendo Titel findest du lame?
+[14:15:58] <Hadouken> ich will endlich MW1 fürn PC 😞
+[14:15:59] <Leonarda Leon> gaaaaaaanz ruhig, Simon *ömmchen*😇
+[14:16:02] <projection2> lel
+[14:16:05] <M4STR0> wenn Leute nicht pre ordern
+[14:16:08] <Bausparbartels> das hab ich früher gejunked wie ein kleiner junkyboy
+[14:16:09] <Lord Kratzebart> xDD
+[14:16:10] <Bambus Ratte> Äh xD
+[14:16:10] <ForboJack> Boi 😚
+[14:16:11] <Ir0nstorm> MW remaster kommt auch einzeln, aber digital only
+[14:16:12] <M4STR0> kommt es auch so raus 😀
+[14:16:13] <skycheck209> Hightech
+[14:16:16] <Mojo Mota> xD
+[14:16:17] <Rohti> @mcmighty das hab ich nirgends behauptet
+[14:16:18] <wizz0r_86> xD
+[14:16:20] <Butch Cassady> cod😨⛪
+[14:16:22] <Sascha M> lol
+[14:16:26] <MC Hodenflash> Naja
+[14:16:30] <Mia Muh> Gregor xD
+[14:16:34] <RedSheep89 _____> Dafür liebe ich Simon... echte Gefühle
+[14:16:35] <Leonarda Leon> Gregott!!!
+[14:16:37] <Hadouken> @ir0nstorm wirklich? woher hast du die info?
+[14:16:37] <samanosuke95> okay von gothik hab ich auch einiges gehörz
+[14:16:37] <MC Hodenflash> xD
+[14:16:39] <riesen bigman> meddl loide
+[14:16:40] <SuperStirling> Beans vs. Donkey Kong wird mega 💜 Werde mich den ganzen Tag in meiner Wohnung verbarrikadieren 💜
+[14:16:41] <Ju Tupe> Ragemon
+[14:16:46] <DukeMortal> kann die robovoice auch die zukunft voraussagen?
+[14:16:51] <Rohti> @mcmighty die nintendo spiele sind die einzigen vernünftigen konsolen spiele:D
+[14:16:56] <MC Hodenflash> 🙈 Gregor 😑
+[14:16:59] <NicoApplication> wo ist simon btw ?
+[14:17:00] <Bardaouil> Geil! Saltmon Ragemon Mimimimon
+[14:17:00] <McMIGHTY> @Rohti Dann habe ich dich missverstanden.
+[14:17:06] <Steen Rai> @Rohti ist echt so
+[14:17:11] <Leonarda Leon> kann ich gut nachvollziehen, simon😇😈
+[14:17:15] <Bambus Ratte> Wann wird die NX vorgestellt?
+[14:17:25] <McMIGHTY> @Rohti 👍
+[14:17:33] <Ju Tupe> nxt friday
+[14:17:37] <Butch Cassady> sabsi kann alles was du willst
+[14:17:39] <Bardaouil> Döhla: "Die NX wird geil"
+[14:17:44] <UNES7> Nintendo 💙
+[14:17:47] <Hass Blut> Jetzt ihr Schwanz Kutscher
+[14:17:57] <Haggis mcmutton> Aggromon
+[14:17:57] <Consensual Clown> der ehrgeizmon
+[14:18:03] <MC Hodenflash> Döhla = NX
+[14:18:09] <Lord Kratzebart> beleidigungsmon POGCHAMP
+[14:18:27] <Leonarda Leon> im Gegensatz zu früher war Simon aber noch relativ relaxt😇
+[14:18:43] <Hass Blut> ey ihrr drei Schwanz lutscher
+[14:18:44] <k4loenneli> wer kennt sie nicht die rage attacke bei zelda 💜
+[14:18:54] <Bardaouil> Beauf Royale
+[14:19:02] <MC Hodenflash> Is halt kein Halo 🌝
+[14:19:03] <Hass Blut> Sieg heil deine Mutter lutscher meiner Mutter ihren schwanz
+[14:19:04] <Jean Puetz> ☺
+[14:19:17] <Haggis mcmutton> Ich find das raging in Overwatch momentan voll lustig 😀 Blizzard ersetzt immer die Posts mit anderen Sätzen 😀
+[14:19:22] <Hass Blut> Hals Smaul
+[14:19:29] <Hass Blut> scheis spiel
+[14:19:30] <SuperStirling> Ich liebe Nintendo musste aber bei der WII meist ein Gamecube Controller benutzen. Diese Rumfuchtelei gefällt mir leider gar nicht
+[14:19:44] <Ju Tupe> nice selbstdiss Hass blut
+[14:19:45] <k4loenneli> mods?
+[14:19:47] <bassmensch> 😚
+[14:19:48] <ForboJack> @Haggis mcmutton Weswegen ragen die?
+[14:19:50] <Hass Blut> über was reden die da
+[14:19:54] <MC Hodenflash> Hasen Blut ist gemein 😞
+[14:19:55] <Lord Helmchen> ich rieche troll
+[14:20:01] <shrpdrts> Hi Blass Hut, Tschüss Blass Hut
+[14:20:02] <Hass Blut> battlefiel3?
+[14:20:05] <bassmensch> nofx - eat the meek 😚 ballerts euch rein
+[14:20:15] <Leonarda Leon> hat mutti wida die zimmertür aufgelassen
+[14:20:33] <Lord Helmchen> und papi wohl seinen arbeits pc
+[14:20:34] <Hass Blut> scheis cod
+[14:20:36] <Haggis mcmutton> @ForboJack naja der umgangston is ziemlich rau in OW bei den leuten die verlieren.
+[14:20:38] <k4loenneli> hat wohl die flasche nicht bekommen und ist stinkig
+[14:20:49] <Hatchi> er scheint zwei väter zu haben wenn man seiner "mutter" den schwanz lutschen kann :;D
+[14:20:52] <Leonarda Leon> 😁😁
+[14:21:06] <MC Hodenflash> Werbung in 60 FPS 😯
+[14:21:07] <Leonarda Leon> 😁😁😁😁😁😁😁😁😁
+[14:21:09] <Lord Helmchen> vielleicht isse nen ladyboy? 😀
+[14:21:09] <Hatchi> also nicht schlimm aber seine väter sollten mal mit ihn reden und ihn das erklären
+[14:21:17] <ForboJack> @Haggis mcmutton achso, du meintest allgemein. Dachte es geht um einen bestimmten vorfall.
+[14:21:35] <Hass Blut> spielt battlefield und nicht so ein Kindergarten müll
+[14:21:41] <Alpdaumn> 80€ für ein spiel + filter für eines, was man schon hat feelsgoodman
+[14:21:50] <MC Hodenflash> Was reimt sich auf leise?
+[14:21:54] <k4loenneli> dukascopy modeschau Kreygasm
+[14:22:00] <Hass Blut> tschau ihr homos
+[14:22:01] <Butch Cassady> wann wurde denn der stream reseted? nur 791 daumen hoch??! mehr daumen👍👍👍
+[14:22:03] <Nexiz™> orange
+[14:22:06] <Hass Blut> scheise
+[14:22:13] <m00nwa1ker> MC Hodenflash ameise 🌝
+[14:22:16] <Leonarda Leon> zum abschied leise scheise
+[14:22:22] <Haggis mcmutton> @ForboJack nein ^^ Blizzard ersetz jetz Die schimpfwörter mit sätzen wie " Es hat spaß gemacht mit euch zu spielen, aber meine Mutti sagt ich muss jetz ins Bett " :DDDD
+[14:22:29] <GesichtsKuchen> @MC Hodenflash 💜
+[14:22:34] <UNES7> vor 11 stunden..steht doch da
+[14:22:36] <sonnenbrille80> die wissen das sich ihr cod müll nur noch in nostalgie happen zuführen lässt
+[14:22:37] <Nexiz™> irgendwie war twitch für die bohnen besser
+[14:22:41] <MC Hodenflash> 😢 @m00nwa1ker
+[14:22:44] <Creylon> Ist es eigentlich normal, dass der Ton immer ganz kurz hängt?
+[14:22:48] <Lord Helmchen> schade das ich auf der ps4 beim overwatch keinen chat hab, klingt lustig 😀
+[14:22:53] <MC Hodenflash> @GesichtsKuchen 💜
+[14:23:00] <ForboJack> @Haggis mcmutton DAs finde ich grandios 😀
+[14:23:00] <Haggis mcmutton> @ForboJack 😀
+[14:23:01] <MauKaiMF> @MC Hodenflash Du willst Reime? Du hast doch einen an der Meise
+[14:23:03] <Bambus Ratte> Pimmel im Hoden
+[14:23:28] <Leonarda Leon> achgottchen auch mal ganz nett...
+[14:23:31] <MC Hodenflash> MC MauKaiMF 😯
+[14:23:33] <UNES7> Reime und Meise...naaaaja 😀
+[14:23:39] <hans wurst> Seit wann sieht man nicht mehr wie lange die Werbung noch geht?  da war doch immer eine Progress bar...
+[14:23:49] <bassmensch> die is immer noch da
+[14:23:56] <Bardaouil> Sieht man am schwarzen Balken
+[14:23:57] <Timo Müller> Bei mir ist die immer noch da
+[14:23:58] <Jannis Meyer> schwarzer Balken unten
+[14:24:02] <shrpdrts> Gleich wieder lustiges rimming mit dennis 🌚
+[14:24:03] <m00nwa1ker> hans wurst ganz unten 😀
+[14:24:09] <Lord Helmchen> unten das schwarze ding... (thats what she said)
+[14:24:09] <k4loenneli> ich seh die progress bar immer noch
+[14:24:10] <hans wurst> oh. da is die ja. nur bei der xbox nicht
+[14:24:19] <SuperStirling> Verdammt Hans, du bist so ne Wurst 🌝
+[14:24:21] <Leonarda Leon> otzelott geht mir sowas von auf den sack
+[14:24:32] <MauKaiMF> @MC Hodenflash But i'm not a rapper 😉
+[14:24:40] <Hansdampf> ist sonst noch beiw em die YT gamign seite down?
+[14:24:52] <ForboJack> @hans wurst ist dein Fernseher eventuell so eingestellt, dass unten etwas abgeschnitten wird.
+[14:24:56] <k4loenneli> wechsel einfach den browser 😃
+[14:24:58] <M4STR0> Harame meme HAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[14:25:00] <Bambus Ratte> LUL
+[14:25:00] <Avayo Music> lol
+[14:25:10] <Tron> wer oder was ist harambe ?
+[14:25:11] <sonnenbrille80> Bananen raus los leute
+[14:25:12] <ForboJack> @Hansdampf Ich schau über die seite
+[14:25:22] <SirHitzerot> Der Stream bei GamingYT ist nicht down
+[14:25:23] <MauKaiMF> @Hansdampf also bei mir geht es...vielleicht mal resetten?
+[14:25:24] <MC Hodenflash> Wat? 😅
+[14:25:30] <shrpdrts> Papier junge <3
+[14:25:36] <Rache der Banane> Tron Der Gorilla der erschossen wurde
+[14:25:39] <ForboJack> @Tron Der Affe der in nem Zoo erschossen wurde, weil ein Kind in sein Gehege gefallen ist.
+[14:25:43] <Hatchi> harambe der affe der babys frisst
+[14:25:43] <projection2> nehmt mich
+[14:25:45] <Hatchi> glaube ich
+[14:25:55] <MauKaiMF> @Tron ein erzwungenes Meme
+[14:26:00] <MC Hodenflash> 😯
+[14:26:00] <Haggis mcmutton> Ich bin zu alt für den scheiß 😞
+[14:26:02] <Avayo Music> ich wohn dann aber auch bei euch xD
+[14:26:19] <KatarzynaLenkaSabria> haha, wie schick simon mit anzug aussieht 😀
+[14:26:28] <MC Hodenflash> Was dazwischen 😚
+[14:26:29] <UNES7> toll...ich bin zu alt
+[14:26:31] <UNES7> 😞
+[14:26:33] <ninthprime> fuck, ich bin auch zu alt
+[14:26:33] <Ju Tupe> LUL
+[14:26:39] <Paul Sander> was dazwischen wäre interessant
+[14:26:39] <bassmensch> 😞 bims zu alt 😞
+[14:26:42] <Bausparbartels> ich bin raus 😞
+[14:26:42] <Marius Meyer> Irgendwas dazwischen lul
+[14:26:44] <PATzellent> 18-29.. na toll
+[14:26:44] <Haggis mcmutton> lol
+[14:26:47] <AntiChristStollen> war das nicht im mai? warum ist es jetzt auf einmal thema?
+[14:26:47] <Lord Kratzebart> bin grad 30 geworden 😢
+[14:26:48] <Hansdampf> der scheiss kann doch nur in die hose gehen
+[14:26:50] <Termo23> Ich bin zu geil für den Job
+[14:26:50] <darknesses90> mist ich bin der auf dem sofa
+[14:26:52] <MC Hodenflash> Ich bin auch alt 😖
+[14:26:54] <ClubFive AtomiCz> Ich bin genau richtig 😀
+[14:26:54] <ninthprime> ich bin schon 31 😃
+[14:26:55] <PATzellent> is 30 seit ner woche noch ok? xD
+[14:26:55] <Bausparbartels> ich auch^^
+[14:26:57] <Jeantastic> voll die altersdiskriminierung
+[14:26:59] <Haggis mcmutton> warum ist Simons sack am ende explodiert 😀
+[14:27:04] <Jeantastic> die sind doch selber alle über 40
+[14:27:06] <PATzellent> weilas kann
+[14:27:06] <sonnenbrille80> ich bin zu sexy für diesen job
+[14:27:06] <Hari Mullato> Ich nicht bin 30 😞
+[14:27:08] <Karies _> stellt nen hauptberuflichen lets player en.
+[14:27:11] <DaBlackMac> wieviel % der bewerbungenwohl müll sind und wieviel wirklich gute Moderatoren kein bock haben sich zu bewerben werden wir nie erfahren
+[14:27:12] <ninthprime> im zweifelsfall ist das talent sicher wichtiger, als das alter...
+[14:27:15] <Hatchi> ich bin am mittwoch 28 geworden. die 30 kommt immer näher
+[14:27:17] <ninthprime> aber talent habe ich auch nicht 😀
+[14:27:18] <Leonarda Leon> ohhmann...mir ist kurz schlecht geworden
+[14:27:24] <SuperStirling> Ich mach den Job, ich kann viel zu Emma Stone, Twilight und One Piece erzählen. Auf dem Gebiet des Müll laberns bin ich auch sehr bewandert 💜
+[14:27:24] <BlurLive> für den jugendsender :9
+[14:27:28] <shrpdrts> Die wollen n flippigen jungen Moderator für die youtube crowd
+[14:27:32] <bassmensch> dabei hätten die rocker biers tv n geilen wahrenmännermetal mann gebrauchen können, der ihnen mal etwas männerlichkeit reinwürgt im sender von männlichkeit her 😕
+[14:27:37] <ForboJack> @Jeantastic Genau deshalb suchen sie ja neue Leute
+[14:27:40] <Mia Muh> Youtube Gaming geht nicht kann das sein?
+[14:27:41] <chintoNRW85> Schade gronkh wollte grad ne Bewerbung rausschicken
+[14:27:46] <Bambus Ratte> LUL
+[14:27:46] <MC Hodenflash> Was soll das buffering YouTube? 😠 Meine Leitung steht!
+[14:27:52] <ForboJack> 😂
+[14:27:58] <Karies _> der sender muss junge leute ranholen.. sonst ist rbtv bald wie der computer club im wdr.
+[14:28:01] <Mojo Mota> bassmensch wieso ,kennst du einen ? 🌝
+[14:28:06] <Karies _> der zwar gut war
+[14:28:07] <Leonarda Leon> hör schon grasrascheln😕
+[14:28:07] <Jeantastic> @ForboJack aber was spricht gegen 35 jährige?
+[14:28:11] <samanosuke95> lol
+[14:28:11] <Avayo Music> @Mia Muh Stream wurde neugestarten... musst nochmal suchen 😉
+[14:28:14] <sonnenbrille80> muss man da persönlichkeit haben?
+[14:28:15] <ninthprime> ok, die scheinen das mit der 29 wohl doch genau zu nehmen 😃
+[14:28:15] <bassmensch> ja mir 👿
+[14:28:16] <fashionforfairies> gehalt?
+[14:28:20] <AntiChristStollen> ich werd nächste woche 30. hab mir extra urlaub genommen um in die verganenheit zu reisen
+[14:28:25] <AntiChristStollen> g+
+[14:28:26] <Ju Tupe> 10 Mark 50
+[14:28:32] <Mojo Mota> bassmensch 😬
+[14:28:36] <Jeantastic> gehalt wird bestimmt ein vologehalt um die 1k€ sein
+[14:28:37] <SuperStirling> Sie sollten Emma Stone als Moderatorin holen...sag ich schon seit Jahren
+[14:28:42] <Bambus Ratte> :D
+[14:28:43] <MadHatt0r> neuer moderator = alter moderator geht weg? 😖
+[14:28:44] <Butch Cassady> nich noch mehr teens bei rbtv ab 30 wär ok
+[14:28:45] <Avayo Music> is hamburg teuer zum wohnen? ^^
+[14:28:49] <PATzellent> broofooorce
+[14:28:54] <Mia Muh> Avayo Music Ah danke 😸
+[14:28:55] <ForboJack> @Jeantastic Es geht ja um die Zusammenarbeit mit den Öffis und sie suchen Moderatoren, die zur Zielgruppe passen.
+[14:28:59] <samanosuke95> @superstirling wenn dann emma watson? mhmm
+[14:29:00] <Humpernickel> azeroth
+[14:29:13] <Leonarda Leon> ...scheiss drauf...WOMBO!!!😎
+[14:29:16] <Asuke Sanjop> niiice direkt video machen
+[14:29:18] <SuperStirling> @samanosuke95 nein verdammt noch mal 😠
+[14:29:21] <Rache der Banane> smack!!!
+[14:29:24] <Hatchi> 25-35 wäre besser
+[14:29:34] <Jeantastic> ja
+[14:29:35] <supermodulaire> Fynn und Hauke bei ChatDuell? 😱
+[14:29:35] <MC Hodenflash> An dem Leichenwagen bleiben sie alle hängen 😅
+[14:29:37] <UNES7> immernoch zu alt
+[14:29:39] <Hatchi> wer will nen 18jährigen kleinen jungen da stehen habenb
+[14:29:53] <Colonel_HoganV2> #dergutealtestein
+[14:29:55] <MC Hodenflash> Blind Schnuck
+[14:29:56] <Leonarda Leon> ....hm...wird nich besser...
+[14:29:58] <Jeantastic> @ForboJack und deswegen direkt einen 18 jährigen auf 16 jährige loslassen?
+[14:30:04] <CoffinEd13> STEEIIIINNN
+[14:30:06] <fashionforfairies> mädchen ab 18, kerle ab 25? :>
+[14:30:09] <sonnenbrille80> nur alte menschen hier
+[14:30:14] <Rache der Banane> Wer auch immer es wird. Wird die ersten Wochen gehated ass hell
+[14:30:21] <k4loenneli> es ist 30!!!
+[14:30:21] <samanosuke95> @superstirling sag nix gegen hermine
+[14:30:23] <Vanessa Wolz> Bb
+[14:30:33] <Haggis mcmutton> Ich bin 31 also zu alt für die stelle 😞
+[14:30:35] <Hatchi> fashion 💜
+[14:30:37] <bassmensch> i wäre bierfekt gierwesen 😕 hätte der verweichlichten männerschaft mal wieder zur alten stärke zurückgeführt, und den mann aus den klauen einer frauengeführten gesellschaft wieder zurück zur spitze
+[14:30:38] <Bambus Ratte> Hermine ist geil
+[14:30:39] <bassmensch> gebracht
+[14:30:41] <Steen Rai> @Rache der Banane oder wird Marco
+[14:30:43] <UNES7> jo...wer ist der äteste? <<<36
+[14:30:51] <ForboJack> @Jeantastic Naja, ich denke mal die AUsbildung/Einarbeitung wird schon ne Weile dauern und man denkt wohl langfristig
+[14:30:52] <MC Hodenflash> 0 😂
+[14:30:52] <Jeantastic> 47
+[14:30:53] <Leonarda Leon> was hat sheldon immer genommen?
+[14:30:54] <Bambus Ratte> 😆
+[14:30:57] <Steen Rai> 25
+[14:30:59] <SuperStirling> @samanosuke95 Hat Emma Watson schon mal Saturday Night Live moderiert? Hat sie schon irgendwas moderiert? Nein verdammt noch mal 😠Eure Zaubergöre ist eine hübsche, durchschnittliche Schauspielerin!
+[14:31:01] <UNES7> oh hab n L vergessen
+[14:31:06] <samanosuke95> die wollen wahrscheinlich den nachwuchs stärken damit rbtv auch langfristig bestehen bleibt
+[14:31:07] <cubic mind> <--- 107
+[14:31:11] <sonnenbrille80> darf man sein alter in der bewerbung faken?
+[14:31:12] <MC Hodenflash> 100 gg 🌝
+[14:31:16] <UNES7> 47 okay...winner 😀
+[14:31:16] <Jeantastic> pics for proof
+[14:31:18] <Mojo Mota> lol
+[14:31:26] <Nic Sidious> Was geehhtt?
+[14:31:31] <Haggis mcmutton> ja 47 is winner
+[14:31:36] <Manoel Durán> 42
+[14:31:42] <Bambus Ratte> Geht weg Hermine gehört nur mir
+[14:31:55] <Pik Caro> 😴
+[14:32:02] <Bambus Ratte> 😆
+[14:32:03] <Steen Rai> Hemine> hermioni
+[14:32:03] <CoffinEd13> GG
+[14:32:11] <Manoel Durán> GIGA Games old schools :-)
+[14:32:13] <samanosuke95> @superstirling ja emma watson muss diese ganzen sachen machen um wahrgenommen zu werden!!! watson is einfach watson und der wahnsinn
+[14:32:16] <bassmensch> heroin>hermine
+[14:32:16] <Mani Spitzi> omG
+[14:32:19] <MC Hodenflash> 😅
+[14:32:22] <Hatchi> @sonnenbrille80 wurde extra gesagt das es kein 29jähriger sein soll der sein 29sten schon 10x gefeiert hat 😀
+[14:32:42] <Butch Cassady> lul
+[14:32:53] <CoffinEd13> WTF
+[14:32:55] <Haggis mcmutton> Denzel is C64 Gott
+[14:32:56] <SuperStirling> @samanosuke95 Emma Stone macht das weil sie es kann und die Leute sehen wollen. Also das Gegenteil von Emma Watson 🌝
+[14:33:06] <ninthprime> ich bin 31, aber habe den 29ten garnicht gefeiert 😃
+[14:33:11] <Leonarda Leon> möp😷
+[14:33:13] <MrJohn> beans vs donkey kong wird geil 😚
+[14:33:28] <MC Hodenflash> 😠 Was gibt's da zu buffern?
+[14:33:34] <Pik Caro> @SuperStirling Lass Hermine in Ruhe 😠
+[14:33:36] <M Ha> Gregott mal wieder
+[14:33:41] <Steen Rai> Emma Watson ist zu schön für permanente Kamerapräsenz.
+[14:33:42] <Bambus Ratte> LUL
+[14:33:50] <MC Hodenflash> Richt Arschi
+[14:33:50] <Mojo Mota> lol
+[14:33:55] <bassmensch> i feier seit i 22 bims keim gierburtstage mehr von feierei her aber muss jeder selber wissen ok
+[14:34:06] <Butch Cassady> richTarschi
+[14:34:08] <Mia Muh> sie sprickt das ski wie ski halt aus xD
+[14:34:09] <MrJohn> 😝
+[14:34:25] <SuperStirling> @Pik Caro Lasst Emma Stone in Ruhe, die zu einem Bestandteil von RBTV geworden ist
+[14:34:42] <Steen Rai> @bassmensch warum feiert man auch, dass man n Jahr näher am Tod ist
+[14:34:50] <Pik Caro> @SuperStirling Hab nix gegen sie 😉 Knorke Sau. Watson aber mehr 😸
+[14:34:58] <Tron> :>
+[14:34:58] <bassmensch> eben
+[14:34:59] <MC Hodenflash> Adonis Kartsios 🌝
+[14:35:11] <Tron> ♋
+[14:35:22] <Butch Cassady> oha 60fps now WoW 💜
+[14:35:25] <Jeantastic> 27.
+[14:35:27] <Mojo Mota> das was Pik Caro sagt 🌝
+[14:35:29] <Morpheus> mag die Dudes von ABXO
+[14:35:31] <sonnenbrille80> Adonis Lauchius
+[14:35:34] <MC Hodenflash> NXO?
+[14:35:34] <SuperStirling> @Pik Caro du gehörst zu den 60%, die die Emma Watson Cancer Community darstellt 😵😖
+[14:35:42] <bassmensch> i vermiss FigurenSchlecken 😞
+[14:35:53] <supermodulaire> WoW, WoW, und noch mehr WoW
+[14:36:07] <samanosuke95> emma stone punktet mit ihrem gingertum und spiderman rolle mehr nicht!
+[14:36:12] <The Art of Staubsaugen> such Rollenspiel much WoW
+[14:36:16] <Morpheus> LOL
+[14:36:17] <Bambus Ratte> Und ich vermisse den Chad 😭
+[14:36:20] <MC Hodenflash> Von Gefühlen her? @bassmensch
+[14:36:32] <MC Hodenflash> Chad 😭
+[14:36:32] <Pik Caro> @SuperStirling Genau. natürlich gehöre ich dazu. Wie andere. Klar. 😏
+[14:36:34] <Colonel_HoganV2> vor allem, er hätte dieses shirt ausgegraben 😀
+[14:36:35] <Steen Rai> Emma Stone punktet auch mit ihrer Zombielandrolle ja
+[14:36:39] <GesichtsKuchen> oh gott
+[14:36:49] <shrpdrts> HALLO richarschi
+[14:36:49] <Pik Caro> @Mojo Mota 😸
+[14:36:50] <Steen Rai> RIMWORLD!!
+[14:36:52] <Morpheus> weiß gar nicht was ihr an der Stone findet
+[14:36:52] <FleischDealer> ich bin bereit 😃
+[14:37:03] <Hansdampf> 💤💤💤💤💤💤💤💤💤💤💤
+[14:37:06] <Lutz Priebe> buhhh, soziale aktivitäten, buhhh
+[14:37:09] <MrJohn> rimworld 😴😵💤
+[14:37:10] <MC Hodenflash> Ist das die traurige Folge? 😭
+[14:37:12] <SuperStirling> @samanosuke95 eben nicht, gerade die Spider-Man sind ihre schlechtesten. EMma Stone punktet durch 2 Oscar Nominierungen für sehr gute Filme, von denen Emma Watson nut träumt
+[14:37:13] <ChannelOen> ist das live?
+[14:37:13] <Steen Rai> Stone schlägt Scissors 🌝
+[14:37:16] <Jaho177> Denzel 😚😚😚
+[14:37:21] <M4STR0> Wie alt ist den das?! LUL
+[14:37:33] <Michael Weber> War Livestream down?
+[14:37:45] <Colonel_HoganV2> >final wenn auf steam
+[14:37:50] <Colonel_HoganV2> hahaha, still early access 😢
+[14:37:53] <Steen Rai> Amazing Spidey 1 war so ziemlich der beste Spideyfilm, obwohl Mcguire der beste Parker war
+[14:37:55] <SuperStirling> @samanosuke95 und Ginger ist sie auch nicht.
+[14:38:13] <MC Hodenflash> Mia will survive! 😭
+[14:38:13] <Hasenpriester> durchspielen? Kann man das überhaupt durchspielen?!
+[14:38:16] <suuN> Uh lalala
+[14:38:24] <SuperStirling> @Steen Rai in Sachen Emma Stone Filme gehört Spider-Man zu den schlechteren
+[14:38:40] <M4STR0> @Hasenpriester, man kann. Man muss das Raumschiff bauen , um vom Planeten wegzukommen
+[14:38:41] <Leonarda Leon> Rimworld jibs noch??😱
+[14:38:42] <shrpdrts> Neu = doof, seems legit
+[14:38:43] <Butch Cassady> badaduum
+[14:38:43] <Steen Rai> @SuperStirling okay das mag sein
+[14:38:50] <MC Hodenflash> Windows Neu
+[14:39:14] <samanosuke95> @superstirling ja guut ginger auch nicht machts nur noch schlimmer!
+[14:39:14] <Hasenpriester> ah ok, als ich es das letzte mal gespielt hatte, da war das Raumschiff noch Deko 😀
+[14:39:18] <frostnetz> Oh wow, das ist echt schon URALT
+[14:39:36] <samanosuke95> fake red hair
+[14:39:39] <shrpdrts> Vertical Sink - Extreme Spülen
+[14:39:47] <Steen Rai> man kann rimworld durchspielen, man kann nur danach weiterspielen
+[14:39:49] <Chris Pütz> Oh ha eine MEGA alte Folge.
+[14:39:51] <Oi Junge> God damn mia
+[14:40:01] <Rache der Banane> Der geile Eduard
+[14:40:08] <Kerutas> denzel hat ja garnichts zufuttern im kühlschrank
+[14:40:11] <MC Hodenflash> Spoiler: Er zieht es bis zum bittern Ende durch! 😭
+[14:40:16] <Hass Blut> jass
+[14:40:27] <SuperStirling> @samanosuke95 klar, du findest Emma Watson wegen ihrem Gingertum toll 🌝 Emma Stone kann einfach jede Farbe tragen, deswegen überfordert es viele zu wissen, was ihre natürliche Farbe ist 💜
+[14:40:36] <fashionforfairies> was ist denn das für ein spiel?
+[14:40:47] <Kerutas> Rimworld
+[14:40:48] <MC Hodenflash> Rimwörld
+[14:40:54] <fashionforfairies> danke
+[14:40:58] <Rache der Banane> Rimworld 30€ auf steam
+[14:40:58] <Kerutas> np
+[14:41:02] <Leonarda Leon> datt müsste schon nach der lanngen zeit´n paralleluniversum gebildet haben☺
+[14:41:18] <ForboJack> Ich will mal wieder ein neues Rimworld, FTL o.ä. mit Dennis und am besten 6 Stunden am Stück 💜
+[14:41:30] <Kerutas> das wäre geil
+[14:41:47] <Steen Rai> ich hätte gern ein rimworld multiplayer
+[14:41:57] <Maurice W> Rim World 💜
+[14:41:58] <Justin Strecker> Warum jetzt eigentlich kein Twitch mehr?
+[14:42:19] <Justin Strecker> Kappa
+[14:42:22] <Kerutas> Multiplayer würde so spaß machen
+[14:42:22] <Rache der Banane> bräuchte man aber mal größere karten für multiplayer
+[14:42:26] <Hasenpriester> auf Twitch darf man keine Nippel zeigen 😛
+[14:42:29] <SuperStirling> Außerdem hasse ich Emma Watson Fans nicht, dürft ihr ruhig besser finden. Aber ihr habt mein Lebenswerk bei RBTV zerstört und deswegen dürft ihr zur Hölle fahren 🌝
+[14:42:32] <ForboJack> Von Youtube erhoffen sie sich langfristig mehr Wachstum
+[14:42:38] <Bardaouil> Hä? Ist das dieser Dennis Richtarski mit diesen komischen Spielen, die kein Anderer spielt?
+[14:42:43] <Sven R> servus
+[14:43:05] <Wytchlord> wann hat rimworld angefangen?
+[14:43:09] <Sven R> das ist prison architect und is genial
+[14:43:14] <tekka rhymes> Rimworld ist Mega fett !
+[14:43:16] <ChrisX3M> @SuperStirling 😖
+[14:43:19] <Sven R> wann isst mal wieder ne pizza
+[14:43:22] <Oi Junge> rimworld for president
+[14:43:23] <Rache der Banane> 14:30
+[14:43:25] <Zeddy Man> emma watson beste emma, die gibt 😀
+[14:43:43] <Steen Rai> Rimworld macht sehr viel spaß, aber die KI ist ein ganz schöner dreckssack
+[14:43:46] <Wytchlord> @Rache der Banane OK, dann guck ichs mir an, danke 😀
+[14:43:47] <Hasenpriester> emma watstone
+[14:43:50] <Scaronar> gute Kombo aus entspannender Musik mit Dennis' nicer Stimme
+[14:44:05] <Leonarda Leon> also da fand ich hannes´achterbahnspiel wesentlich ätzender
+[14:44:13] <Steen Rai> Emma stone ist unbesiegbar in Schnickschnackschnuck
+[14:44:15] <Butch Cassady> Dennis soll sich mal Project Highrise anschauene💖
+[14:44:26] <SuperStirling> Diese Emma Watson Cancer Community treibt mir in den letzten Tagen immer mehr die Tränen in die Augen 😖😖
+[14:44:26] <Rache der Banane> Wytchlord in der beschreibung gibt es immer einen sendeplan
+[14:44:37] <Zeddy Man> @Steen Rai nich, wenn emma watson anfängt zu zaubern 😉
+[14:44:50] <Kerutas> wie die basis aufgeräumt ist 😀 würde alles auf tragen und putzen stellen
+[14:44:54] <xam> Die Games di9e Dennis spielt sind eigentlich immer cool
+[14:45:01] <xam> Dennis ist sehr unterhaltmsa! 💜
+[14:45:07] <Steen Rai> @Zeddy Man Emma Watson würde den Brunnen nutzen xD
+[14:45:19] <SuperStirling> Nur weil Emma Watson Hermine gespielt hat, eine Rolle, die nicht einmal zu ihr passt 😵 Sonst hat die ja kaum Filme...
+[14:45:36] <SuperStirling> nur "Vielleicht lieber morgen" war ganz nice
+[14:45:39] <Bardaouil> Wieso steht der Dennis so auf diese Nischenspiele wie das hier oder dieses Dark Souls?
+[14:45:42] <Maurice W> SPOILER: Alle sterben
+[14:45:48] <Karies _> rimworld hat coole neue updates bekommen, um die bewohner noch mehr zu beuteln.. zb. drogensüchte 😀
+[14:45:50] <Steen Rai> Kommen wir mal von den Emmas zu Highschool Musical 🌝
+[14:46:03] <Zeddy Man> @Steen Rai der brunnen is zwar besser und deshalb auch nicht im richtigen spiel vorhandebn, aber noch lange nicht imba
+[14:46:05] <Os Drag> Wo ist Spoilermon
+[14:46:07] <Wytchlord> @Rache der Banane Stimmt, danke, übersehen. Weißt du warum der Livestream neu gestartet wurde?
+[14:46:17] <Sir-Apex> wieso hat sich der link für rbtv auf youtube geändert?
+[14:46:38] <UNES7> weil der stream neu gestartet ist
+[14:46:47] <Nikolaj Ramchen> was für ein spiel ist rimworld? kenne das gar nicht
+[14:46:52] <Karies _> hier darf rbtv mehhr machen.. long story short
+[14:46:55] <Steen Rai> @Zeddy Man Emma Watson ist auch nicht imba xD aber sehr nah dran
+[14:46:57] <Zeddy Man> @Sir-Apex weil sie es können
+[14:47:04] <Rache der Banane> @Wytchlord Ne keine ahnung, vieleicht gabs probleme
+[14:47:12] <Sir-Apex> hmm ok...
+[14:47:13] <Steen Rai> Schere Stone Papier Emma Watson
+[14:47:29] <Zeddy Man> @Steen Rai emma watson is eine göttin un göttinnen sind imba 😉
+[14:47:50] <Karies _> ist der link nicht immer gaming.youtube.com/user/ROCKETBEANSTV/live
+[14:48:04] <Steen Rai> @Zeddy Man da sprichst du nicht die Unwahrheit
+[14:48:16] <Zeddy Man> @Steen Rai 😃
+[14:48:51] <Dreck Fresse> hahaha mein vadda is auchn defrag-fanboy
+[14:48:57] <SuperStirling> Wenn Emma Watson eine Göttin ist dann ist dieser Titel nichts mehr wert 🌝
+[14:49:09] <Nephalem> erstmal liken-dann schauen
+[14:49:22] <kreXiTs> Karies_ das /user kann man weglassen
+[14:49:22] <Steen Rai> @SuperStirling What, son?
+[14:49:35] <Garet2k> ist das live
+[14:49:37] <Claim1234> habe den stream ausversehen über die normale youtubeseite aufgerufen #lebenamlimit
+[14:49:37] <SuperStirling> ?
+[14:49:42] <Zeddy Man> @SuperStirling naja kommt drauf an ob du auch ein gott bist, wenn ja hast du wohl recht 😉
+[14:49:43] <NicoApplication> nö
+[14:49:48] <Jacob v. Borstel> analyser bauen
+[14:49:59] <Karies _> diese mischgesichter aus emma watson und emma stone sind strange... brrr
+[14:50:15] <SuperStirling> @Zeddy Man Wenn Emma Watson eine Göttin ist, dann bin ich definitiv ein Gott 🌝
+[14:50:22] <Zeddy Man> @Karies _ sind das soi mischgesischter nicht immer?
+[14:50:23] <xzarrus> Ist das Live?
+[14:50:25] <Vin> wieso wurde der stream denn neugestartet?
+[14:50:26] <Wytchlord> @Karies_ Ne, wenn man so auf das Video vom Stream geht hat das ganz normal eine youtube link 😀 Dein Link ist aber besser zum abspeichern ^^
+[14:50:46] <Karies _> achso ok.. wusste ich nicht
+[14:50:56] <Loyft Gamer> lol
+[14:50:57] <xzarrus> Rocketview ist back Kreygasm
+[14:50:57] <Zeddy Man> @SuperStirling ok dann ist der titel wirklich nix mehr wert, bin ich wohl auch einer 😀
+[14:51:13] <Dominik Hemeli> ist das live?
+[14:51:14] <B4d Guµ> Free Xbox Gold Download Forza Horizon
+[14:51:17] <B4d Guµ> 😃
+[14:51:18] <SirHitzerot> nop
+[14:51:20] <crytectobi> gibts da demnächst mal neue folgen?
+[14:51:20] <Karsten Knastfuß> Nicht live
+[14:51:20] <Steen Rai> Emma Watstone (mischgesicht) sieht aus wie die von Suburgatory
+[14:51:21] <SuperStirling> @Zeddy Man wir alle sind in den Augen Gottes Götter 😏
+[14:51:23] <XVadim> ♦♦♦Все ко мне на стрим♦♦♦
+[14:51:30] <sch0sch92> chaaaaad <3
+[14:51:39] <SuperStirling> @Steen Rai Jane Levy, die mag ich auch 💜
+[14:51:53] <xzarrus> Hmh was ist denn mit Rocketview passiert ? Ich seh keine farbigen Namen mehr und die Twitch EMotes funktionieren auch nicht. 😕
+[14:51:53] <Zeddy Man> @SuperStirling aber dann wäre dieser gott uns ja auch gleichberechtigt und man würde uns anbeten?
+[14:52:03] <SuperStirling> aber Jane Levy hat bisher auch noch nicht so viel gemacht
+[14:52:19] <DerEddyTeddy> Denzel rockt
+[14:52:24] <Steen Rai> @SuperStirling genau die 😀
+[14:52:38] <SuperStirling> @Zeddy Man wenn wir alle Götter sind, ist niemand mehr da um uns anzubeten...so deep 😮
+[14:52:51] <Hasenpriester> Es gibt ja noch die Orici 😉
+[14:52:57] <Zeddy Man> @SuperStirling ameisen? 😀
+[14:53:00] <Steen Rai> die einzigen, die uns immer anbeten, sind unsere Hunde
+[14:53:01] <Chinahotel> lass sie frei dann bekommste freundschaftspunkte (:
+[14:53:02] <Wytchlord> Lass die Leute freu damit du eine bessere Beziehung zu ihren Clans hast, damit sie dich irgendwann nicht mehr bedrohen 😀
+[14:53:38] <Kerutas> würde ich auch machen die essen dir sonst das zeug weg
+[14:53:39] <xzarrus> Ist nicht Leif , Leute.
+[14:53:52] <Zeddy Man> @Steen Rai sieht bestimmt witzig aus, wie dein hund dich anbetet, kniet der dann vor dir? 😉
+[14:53:55] <DaBlackMac> schade dass richtarski das nihct live zoggt
+[14:53:59] <Juri Thiel> ich bin neu auf dem canal
+[14:54:05] <Butch Cassady> ► (18:00): World of Warcraft: Legion mit Florentin & Olli (LIVE)
+[14:54:14] <SuperStirling> @Zeddy Man wenn sie nur erkennen könnten, dass wir Götter sind dann ka
+[14:54:14] <SuperStirling> ja
+[14:54:25] <DaBlackMac> nicht schonwieder wow ._.'
+[14:54:28] <Leonarda Leon> Schweinim weltall
+[14:54:32] <Steen Rai> @Zeddy Man hab garkeinen hund Feelsbadman
+[14:54:46] <leee eeey> Musik BOCKT !!
+[14:54:52] <Zeddy Man> @SuperStirling wenn nich machen wir sie eben platt, machen götter das nich auch immer so? 😉
+[14:55:10] <Zeddy Man> @Steen Rai ich auch nich 😖
+[14:55:13] <HunterMK22> stream offline?
+[14:55:16] <Os Drag> spielen die um 16 Uhr wieder CS:GO?
+[14:55:21] <Zeddy Man> @HunterMK22 npö
+[14:55:22] <Karsten Knastfuß> Ist Dennis noch im Twitchchat oder wo sieht er diese ominösen Fragen?!
+[14:55:25] <Zeddy Man> @HunterMK22 nö
+[14:55:29] <SuperStirling> @Zeddy Man ich bin ein friedfertiger Gott 🌝
+[14:55:30] <Steen Rai> Wenn wir Götter sind, dürfen wir dann nicht nurnoch Götterspeise essen?
+[14:55:40] <HunterMK22> bei mir steht nur dieses video ist privat Oo
+[14:56:00] <xzarrus> Refresh mal oder so.
+[14:56:12] <PandaBlack> @HunterMK22 https://gaming.youtube.com/rocketbeanstv/live
+[14:56:13] <Zeddy Man> @SuperStirling ach was, gibbet inner griechischen mythologie auch nich 🌝
+[14:56:14] <Dario Maroulis> bei mir steht wieder 1080p und 6fps. Haben die jetzt das aktuelle Programm auf 60fps umgestellt?
+[14:56:15] <Leonarda Leon> freu mir schon auf CS😂
+[14:56:27] <PandaBlack> @Dario Maroulis ne 😀
+[14:56:32] <Rocket Beans TV> Hallo lieber Chad 😃
+[14:56:33] <DaBlackMac> @Karsten Knastfuß korrekt, die fragen kommen von twitch
+[14:56:37] <daribb> stand bei meinem lesezeichen auch
+[14:56:37] <Dario Maroulis> schade 😞
+[14:56:42] <DaBlackMac> hi rbtv
+[14:56:45] <daribb> das es privat ist
+[14:56:46] <xzarrus> Hallu Marco 🙋
+[14:56:49] <Kerutas> hey rbtv
+[14:56:52] <ic3y81> @Rocket Beans TV 🙋
+[14:56:55] <PandaBlack> Ahoy @Rocket Beans TV
+[14:56:57] <bassmensch> hi @rocker biers tv
+[14:57:03] <SuperStirling> So Leute, ich bin mal raus. Schaut ein paar Emma Stone Filme vllt. kommt ihr auf den Pfad der Qualität und des guten Geschmacks zurück 😼 Bis später , Emma Watson Cancer Community 😿😿
+[14:57:05] <Wytchlord> 🙋
+[14:57:06] <PandaBlack> @Rocket Beans TV öfter hier? 😎
+[14:57:09] <Dario Maroulis> @Rocket Beans Tv Hallo 😃 Was hat es mit der 60pfs Anzeige auf sich, wenn ihr noch nicht in 60fps sendet?
+[14:57:22] <PandaBlack> @SuperStirling ik hab dia lüb 💜
+[14:57:23] <Herr K.> Wie cool die Musik bei dem Game ist 😱
+[14:57:33] <Wytchlord> wann lief rimworld life?
+[14:57:38] <xzarrus> @PandaBlack Hast du ne Ahnung wieso ich bei RocketView keine farbigen Namen sehe & wieso dort keine Twitch Emotes funktionieren ?
+[14:57:40] <Zeddy Man> @SuperStirling bis später denn mal un guck du mehr harry potter, am besten 24/7 😉
+[14:57:46] <PandaBlack> @xzarrus ne sry
+[14:57:47] <bassmensch> als dennis r. noch nich schwanger war 😞
+[14:57:50] <DaBlackMac> @Rocket beans TV Welche Rollenspielereien sind das heute abend? tatsächlich WOW? und wenn ja dann wieder Dämonenjägermissionen ? oder diesmal was neues?
+[14:57:54] <HunterMK22> dankle panda. muss ich jetzt immer die seite wechseln wenn ich gucken will? war bis jetzt immer bei rocketbeans.tv online
+[14:57:59] <ic3y81> @Wytchlord vor monaten
+[14:58:04] <SuperStirling> @PandaBlack ich dich auch, nur belastet mich die ganze Situation im Moment sehr 😖 Bis später
+[14:58:13] <Rage HQ> oida
+[14:58:31] <PandaBlack> @HunterMK22 eigentlich sollte es auf rocketbeans.tv auch laufen, heute morgen gab es nur Probleme 😕
+[14:58:36] <ic3y81> @xzarrus muss aber an dir liegen den bei mir gehts
+[14:58:46] <Rocket Beans TV> @Dario Maroulis haben wir schon kommuniziert. Ist nur ein Anzeigefehler. Wir stream nicht in 60 FPS
+[14:58:47] <xzarrus> Solang sie heute Abend bei WoW keinen neuen Char anfangen soll mir alles egal sein 😂
+[14:59:00] <Ry0k4i> funktioniert bei euch noch der livestream bei gaming. youtube?
+[14:59:04] <HunterMK22> das ist aber eine alte folge, oder?
+[14:59:09] <Butch Cassady> Ausgezeichnet mit dem Deutschen Webvideopreis 2014 und 2015 sowie dem 1. Deutschen Content Marketing Preis desselben Jahres gestaltet Rocket Beans TV die Fernsehunterhaltung der Zukunft. go go go
+[14:59:09] <Wytchlord> @ic3y81 achso ok .. dachte das wäre eine neue Folge weil ich mich so gar nicht an sie erinnern kann. Dann hab ich sie damals halt verpasst XD
+[14:59:10] <kakuro1711> WIE HEIßT DAS SPIEL? HABS LEIDER VERPASST 😕
+[14:59:17] <ic3y81> @Ry0k4i ja und auch rocketview
+[14:59:20] <SuperStirling> @Zeddy Man Kenne ich, Alan Rickman ist da der Star. aber vor allen Dingen die Bücher, die Hermine nicht gerade als Fotomodel beschrieben haben 🌝
+[14:59:24] <MauKaiMF> Rimworld
+[14:59:25] <UNES7> hmmm
+[14:59:26] <Dario Maroulis> @Rocket Beans Tv, ja das wusste ich schon, die Anzeige war bei mir die letzten Tage weg und jetzt wieder da, deshalb frag ich 😉
+[14:59:34] <kakuro1711> perfekt danke!!
+[14:59:42] <Zeddy Man> @SuperStirling ich hasse harry potter 😀
