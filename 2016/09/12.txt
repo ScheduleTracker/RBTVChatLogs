@@ -2265,3 +2265,1624 @@
 [09:58:58] <Marie P.> Drückt man bei Treibern nicht einfach installieren und fertig
 [09:59:22] <b1z2y> Marie P weiß nich braucht man dafür nicht touch screen?
 [09:59:37] <DMC05> soo werbe mode vorbei xD ^^ // wer instaliert auch beta treiber oder treiber am ersten tag 😉 ^^
+[10:00:27] <inge braun> ja wenn ich alle halbes jahr formatiere installier ich die treiber am ersten tag
+[10:00:36] <Valkyrie0025> knopf drücken bei den treibern? und ich sitze hier mit der peitsche...
+[10:00:52] <DMC05> @inge braun wer formatiert jedes halbe jahr ?
+[10:00:58] <MG Smooth> ich
+[10:00:59] <DMC05> was ist den falsch mit dir 😮
+[10:00:59] <inge braun> ich
+[10:01:05] <MG Smooth> mindestens
+[10:01:17] <DMC05> okey ... ihr hab kein spass am pc 😉 ^^
+[10:01:23] <Viper3062> lol alle halbe jahr... wie nutzt ihr denn eure PCs 😀
+[10:01:34] <inge braun> frag besser nicht^^
+[10:01:34] <DMC05> hier bleibt alles so wie es ist biss es brenn oder ersäuft ^^ xD
+[10:01:39] <ninthprime> @Valkyrie0025 du wirst mir immer sympathischer 😃
+[10:01:40] <b1z2y> die haben bestimmt noch windows 98 drauf 🌝
+[10:01:45] <PandaBlack> Halle halbe Jahr? RIP SSD 😖
+[10:01:46] <Marie P.> Never change a running system
+[10:01:49] <MG Smooth> den ganzen tag und viel.....ssd defragmentieren is nich aufgrund der lebensdauer
+[10:01:52] <MG Smooth> also wird formattiert
+[10:01:52] <DMC05> ich glaub deswegn muss ich mir nicht jede 2 jahre eein neuen PC kaufen 😉 ^^ xD
+[10:02:12] <DMC05> jajaa genau so dachte ich 1998
+[10:02:20] <Valkyrie0025> @ninthprime löl ich kann meinen symathieskill bei dir noch pushen? ^^
+[10:02:45] <ninthprime> SSD defragmentieren ist Unsinn. das verringert nicht nur die Lebenszeit, es ist absolut unnötig, weil bei SSDs keine Schreib- und Leseköpfe hin und her fahren, sondern wahlfreier Zugriff stattfindet
+[10:02:46] <DMC05> das ist so sinn los 😉 ^^ ... aber ich merk schon ich bin da gechilliter als die junge generation ^^ xD
+[10:02:48] <PandaBlack> Aber solange ihr nur formatiert und nicht defragmentiert 😄
+[10:02:52] <Viper3062> gregor ballert PogChamp
+[10:02:59] <Marie P.> Mein PC ist 4 Jahre alt. Außer Grafikkarte keine Treiber geladen und es läuft alles wie geschmiert. 😀
+[10:03:14] <ninthprime> Bei alten HDs machte man das, damit Dateien an fortlaufenden Adressen lagen, da dort eben kein wahlfreier Zugriff stattfand
+[10:03:16] <JanIngwer> gregor peinlich
+[10:03:25] <Viper3062> DMC05 mega unsinnig das ganze. Aber wenn man das Gefühl hat es wird besser 😀
+[10:03:29] <DMC05> @PandaBlack am besten auch noch ne partionierte festplate die komprimiert ist Defragmentieren 😉 ^^
+[10:03:32] <KO.s Oo> gibts denn neun plauschangriff schon zum downlode ? da wo ich in gefunden habe leuft er nich
+[10:03:50] <ninthprime> @Valkyrie0025 man könnte den Eindruck gewinnen, du legtest es darauf an 😀
+[10:04:00] <DMC05> so oft wie ich damals den MRB retten musste 😉 ^^ hmm schöne zeiten eigntlich ;D
+[10:04:22] <DMC05> und bei SSDS defragmentieren heist auch Rip in 3 jahren SSD ^^ xD
+[10:04:41] <DMC05> @KO.s Oo jap ^^
+[10:04:52] <KO.s Oo> und wo
+[10:04:56] <Viper3062> auf welcher LAN war der feine Herr Simon denn 😀
+[10:04:57] <DMC05> @KO.s Oo mom ^^ ich such mal den xml link raus ^^
+[10:04:58] <Valkyrie0025> @ninthprime ich lege nicht....ich bin so 😀
+[10:05:02] <Creyzooo> bischen weniger halbwissen hier bitte
+[10:05:05] <ninthprime> und intelligente Dateisysteme brauchen selbst auf klassischen HDs keine Defragmentierung. Vergleiche Quellcode von ext zum Beispiel.
+[10:05:08] <MG Smooth> cod expo
+[10:05:12] <inge braun> ssd sind eh abfallprodukte
+[10:05:13] <ninthprime> @Valkyrie0025 hach 💜
+[10:05:16] <DMC05> .rocketbeans.tv/plauschangriff.xml
+[10:05:19] <KO.s Oo> cool danke
+[10:05:41] <DMC05> + ww w dann kannste den in WInamp und co rein hauen
+[10:06:23] <DMC05> @inge braun mal sehn ^^ ich trau SSD platten halt nicht ^^
+[10:06:32] <Valkyrie0025> @ninthprime das macht mir jetzt aber angst ^^
+[10:06:33] <Wolfsrudel85> @Viper3062 😯 /
+[10:07:00] <Viper3062> Wolfsrudel85🙋
+[10:07:02] <Valkyrie0025> ist viper in den raum gehoppst ohne hallo zu sagen?
+[10:07:15] <Viper3062> sry ich war iwie BrainAFK
+[10:07:22] <DMC05> @ninthprime das ist noch so ein irrglaube aus win 95 und MS dos zeiten das man das machen muss 😉 ^^
+[10:07:27] <ninthprime> @Valkyrie0025 was? dir? Angst? 😃
+[10:07:28] <Viper3062> Guten Morgen ihr geilen Schnittchen Kreygasm 😀
+[10:07:29] <Dreck Fresse> man sagt ja immer bei Controllersteuerung isses zusehen angenehmer. Mir wird davon schlecht im vergleich zu Maus. Meinungen?
+[10:07:42] <ninthprime> @DMC05 ja, geht halt nicht weg sowas 😃
+[10:07:43] <Valkyrie0025> na gut @viper3062 \ 😀 /
+[10:08:04] <Creyzooo> dito @ dreckfresse
+[10:08:13] <xzarrus> Jan sieht so anders aus 🌝
+[10:08:16] <DMC05> @ninthprime eben 😉 ^^ aber haben wir nicht alle mal wintune97 oder wie das hies benutzt 😉 und dachten das hilft 😀 ^^
+[10:08:20] <Creyzooo> vorallem sieht es immer so hart ungelenk aus und ich denk mir "dreh doch mal schneller du otto"
+[10:08:22] <DMC05> ach jaa die gute alte zeit xDDD ^^
+[10:08:27] <Olliwanda> Moin moin
+[10:08:35] <ninthprime> ich verbring halt den halben Tag damit, an Betriebssystemen für Embedded Systems rumzuoptimieren... da ist sowas mein täglich Brot 😀
+[10:08:40] <xzarrus> Moin 🙋
+[10:08:42] <aerialz51> moinsen
+[10:08:46] <Valkyrie0025> so muss zur prime time gleich frischen kaff haben ...afk
+[10:08:47] <JustChaos> Moin Chad! 💜
+[10:08:51] <Sau Bert> kann man den chatt schließen?
+[10:08:52] <Mikasa Ackerman> Bah Controller-Aiming 😕
+[10:08:57] <MG Smooth> moin
+[10:08:59] <Viper3062> das was Valkyrie0025 sagt
+[10:09:03] <aerialz51> PJSalt
+[10:09:04] <ninthprime> ja @Sau Bert - unten drunter "Chat Ausblenden"
+[10:09:04] <Creyzooo> Oben links der doppelpfeil
+[10:09:07] <Creyzooo> @ sau bert
+[10:09:29] <Viper3062> Shooter mit Controller 😭😖😔
+[10:09:32] <DMC05> deswegen spiel man kein COD !
+[10:09:42] <MG Smooth> campen is einfach nur ehrenlos
+[10:09:44] <Sau Bert> dankee
+[10:09:46] <DMC05> und warum Macht die regie so ein mist xD
+[10:09:47] <Viper3062> diese COD Version ist aber 💜
+[10:09:49] <Creyzooo> das spiel sieht hart scheiße aus
+[10:09:49] <MG Smooth> egal ob taktisch klug oder nicht
+[10:09:50] <shadoom> was isn das fürn f2p shooter?
+[10:09:50] <DemonicLoner> Simpl
+[10:09:50] <Mikasa Ackerman> CoD kann man schon spielen vorallem die Classics aber bitte ohne Controller
+[10:09:52] <MG Smooth> es ist ehrenlos
+[10:09:53] <Andy_ Flow> Goooooooooddddddddddddd Morning Vietnam
+[10:10:14] <DMC05> BF >>>>>>>>>> cod !
+[10:10:16] <Mikasa Ackerman> Aber ich bleibe auch lieber bei Squad
+[10:10:22] <GalvaBart> haha simon wieder am ragen
+[10:10:25] <aerialz51> haha,man fühlt so mit
+[10:10:26] <ninthprime> kurz afk
+[10:10:39] <DMC05> das fazit er hast es so sehr ^^
+[10:10:45] <MG Smooth> simon 💜
+[10:11:26] <KO.s Oo> der Podcast scheint wohl falsch hochgeladen zu sein oder so 404NF
+[10:11:39] <DMC05> wer auch shooter mit PAD zockt !
+[10:11:47] <Viper3062> Ragemon
+[10:11:48] <DMC05> jaa aggromon 💜
+[10:11:48] <GalvaBart> Ragemon
+[10:11:49] <GalvaBart> haha
+[10:11:52] <Dave.H> HATEMON
+[10:12:15] <KO.s Oo> podcast 404 NF
+[10:12:19] <DMC05> man muss ihn immer in dem level dazwischen halten im happy und rage mon ! ^^
+[10:12:24] <DMC05> dann ist simon der beste ^^
+[10:12:49] <DMC05> soo ein besserer Gronkh ^^
+[10:13:17] <Viper3062> Gronkh? wer ist Gronkh? DansGame 😦
+[10:13:21] <MG Smooth> schiess mich tot edition
+[10:13:23] <DMC05> @KO.s Oo ich hab den schon auf platte 😲 .... hmmm
+[10:13:26] <MG Smooth> preordered
+[10:14:23] <xzarrus> !penis
+[10:14:40] <xzarrus> mhm... !sendeplan
+[10:14:41] <PandaBlack> @xzarrus he is dead jim
+[10:14:45] <DMC05> nimm nicht den link von podbean ( hat nix mit RBTV zutun ) der geht auch nicht ... das ist ne app
+[10:14:47] <Viper3062> Gassner 💜
+[10:14:52] <Guatrau> 💜
+[10:14:54] <Valkyrie0025> yay 💜
+[10:14:56] <DMC05> @KO.s Oo
+[10:15:02] <xzarrus> 😖 Neeeeeeeiiiinnn ! Wwwwieeesssoooooo nuuur 😖
+[10:15:10] <Viper3062> Nun.
+[10:15:14] <DMC05> nun
+[10:15:20] <Simon Basler> nun
+[10:15:20] <KO.s Oo> das müst ich dann über handy mach oder wie
+[10:15:22] <TheWASAABI> NUN
+[10:15:23] <DMC05> 😼
+[10:15:23] <Michael Piskernik> nun
+[10:15:25] <MG Smooth> ich kann da 10 minuten zuhören, dann hängt mein hirn sich weg
+[10:15:33] <Viper3062> KappaPride
+[10:15:53] <DemonicLoner> Der NUN-Sager
+[10:16:01] <Viper3062> Rachel 💜
+[10:16:02] <llLexxlll> HAAAACH endlich wieder zrück aus dem Urlaub
+[10:16:03] <PandaBlack> https://www.rocketbeans.tv/wochenplan/
+[10:16:05] <ruf sascha> nun
+[10:16:06] <Michael Piskernik> !pimmelplan
+[10:16:07] <JimWatson10> nun
+[10:16:10] <xzarrus> Was bedeutet es eig. wenn ich Smileys wie 👬 nicht sehe sondern nur das Wort? Hat derjenige dann kein RBTV ?
+[10:16:16] <ninthprime> da bin ich wieder... re 😃
+[10:16:21] <KO.s Oo> egal die werden den fehler ja schon auf kurtz oder lang behebn
+[10:16:23] <xzarrus> BetterRBTV*
+[10:16:37] <ruf sascha> ich hab die nästen 2 wochen urlaub
+[10:16:39] <Michael Piskernik> Bin gerade von der Schule heim 🌝
+[10:16:46] <Viper3062> BetterRBTV geht noch nicht für Firefox FeelsBadMan 😞
+[10:16:47] <llLexxlll> ooooohhhhkaaaaaayyyyy
+[10:16:53] <ninthprime> @Michael Piskernik um die Zeit?
+[10:16:58] <Simon Basler> #harambe
+[10:17:00] <Valkyrie0025> @ninthprime ach auch weg warst? und ja bin scheu wie n reh ^^
+[10:17:03] <ruf sascha> hitzefrei oder
+[10:17:04] <DMC05> @xzarrus nee die sehen andere Emotes und das wirkt dann lächerlich ^^ xD
+[10:17:18] <ninthprime> @Valkyrie0025 als ob 😃 ja, war ich
+[10:17:20] <ruf sascha> das hatte ich daals auch öferts ma
+[10:17:20] <DMC05> deswegen ist es schon schae hier ... ^^
+[10:17:37] <Zaldarion> guten morgen bohnen und bohnitas 🙋
+[10:17:44] <Wolfsrudel85> Grills 😯
+[10:17:50] <Wolfsrudel85> Zaldarion 😚 / 💜
+[10:17:52] <Michael Piskernik> @ninthprime Bei mir beginnt die Schule erst ab Mittwoch 😺
+[10:17:52] <xzarrus> Hitzefrei um 10:17 ? Wie warm ists denn bei euch ? 35° ? 😀
+[10:17:53] <KO.s Oo> jemand ne ahnug ob es mit tilt weiter geht
+[10:17:54] <Valkyrie0025> @zaldarion 😀 /
+[10:17:56] <Viper3062> Simon 😀
+[10:18:09] <Wolfsrudel85> Businessmon
+[10:18:11] <Viper3062> Zaldarion morge !!
+[10:18:12] <DMC05> ist halt schade das RBTV nicht einen eigenen IRC gemacht hat um ihre seiete zu bewerben 😉
+[10:18:18] <DMC05> Nö
+[10:18:19] <Dreck Fresse> MLG 😀
+[10:18:24] <Zaldarion> \ 😚 / VoHiyo 💜
+[10:18:28] <Viper3062> *Bewerbung schreib*
+[10:18:32] <Zaldarion> damsn 👿
+[10:18:36] <DMC05> halfbaked anspielung
+[10:18:38] <Wolfsrudel85> 💠
+[10:18:39] <Kira Sternenfeuer> bin zu alt XD
+[10:18:43] <MG Smooth> @DMC05 wo gibts denn den smiley pack von twitch
+[10:18:43] <Zaldarion> 💠
+[10:18:46] <Zaldarion> 😀
+[10:18:47] <DMC05> ich mag half baked xD
+[10:18:47] <KO.s Oo> botschaft
+[10:18:49] <Guatrau> den schluffi nicht
+[10:18:55] <DMC05> Booootschafffft
+[10:18:57] <Wolfsrudel85> @Zaldarion 👿
+[10:19:10] <Lodrik Bardic> wenn ich in Hamburg wohnen würde, würde ich es machen ^^
+[10:19:11] <Ricky kuku Bra> Muss man eine bestimmte Ausbildung haben?
+[10:19:14] <Kira Sternenfeuer> bin vor 1 Monat und 2 Wochen 30 geworden ^^
+[10:19:19] <PandaBlack> @DMC05 B&J?
+[10:19:20] <xzarrus> Was macht man denn so als Games Moderator? Spiele vorstellen ? 🌝
+[10:19:23] <Flo K3tchum> Straßenabitur wird benötigt
+[10:19:25] <Dreck Fresse> Ich bin leider zu fett und hab zu viel Dreck in der Fresse um zu moderieren. :(
+[10:19:26] <DMC05> @MG Smooth jap im Forum ist auch verlingt wenn man nach betterRBTV sucht da kann man das einbinden ^^
+[10:19:28] <Zaldarion> 👿 wer hat meine tasten hier umsortiert... ich find die nimmer
+[10:19:30] <PandaBlack> @Kira Sternenfeuer alles Gute nachträglich 😀
+[10:19:30] <Kira Sternenfeuer> Ricky ja Talent ^^
+[10:19:37] <aerialz51> @xzarrus + scheisse labern 😀
+[10:19:38] <DMC05> @PandaBlack nee ich bn kein Pferd xD ^^
+[10:19:44] <Kira Sternenfeuer> 30 der Anfang vom Ende
+[10:19:46] <Michael Piskernik> @xzarrus Die Schule war schon um 9:00 aus, nur die Heimreise hat gedauert 😺
+[10:19:47] <Ricky kuku Bra> Wow du bist lustig in wie fern hilft mir das jetzt weiter Kira?
+[10:19:49] <Wolfsrudel85> Grill rein, Flo raus
+[10:19:52] <PandaBlack> @DMC05 wat 😀
+[10:20:09] <DMC05> @PandaBlack xD
+[10:20:26] <Valkyrie0025> grill...seufz ihr seid mir welche ^^
+[10:20:27] <Marie P.> Man muss mindestens 18 sein?
+[10:20:28] <Flo K3tchum> Wer macht heute das MoinMoin ?
+[10:20:30] <Marie P.> 😞
+[10:20:32] <Wolfsrudel85> @DMC05 wieder in Bestform? 📙
+[10:20:46] <Kira Sternenfeuer> Ricky na in dem das Talent die ienzige Vorraussetzung ist
+[10:20:56] <Wolfsrudel85> @Valkyrie0025 da musst du durch, Tante suepchicken 😀
+[10:20:58] <Zaldarion> bis 29?? 📙 die zuschauer sind doch siweos alle älter 👿
+[10:21:01] <DMC05> @PandaBlack Scavenger Smoker aka snoop im film jap das war ich ^^ xD
+[10:21:11] <ruf sascha> paperboy bin in der zeit zurückgereist
+[10:21:12] <DMC05> naja fast das wäre ich gerne gewesen 😉
+[10:21:14] <Wolfsrudel85> @Zaldarion es gibt eine Obergrenze? 😧
+[10:21:19] <Spun Montana> paperboy... er muss immer drehen für die gruppe..
+[10:21:29] <xzarrus> Fährt jemand für mich einkaufen ? 🌝
+[10:21:32] <Michael Piskernik> Wenn ich von der Schule fliege, bewerbe ich mich bei RBTV 🌝
+[10:21:34] <Zaldarion> @Wolfsrudel85 ja.. CSU bedingt 👿
+[10:21:38] <Marie P.> Alle die älter als 29 sind, gerade auf Suicide Watch
+[10:21:43] <Nilero> b
+[10:21:46] <Wolfsrudel85> @Zaldarion Danke Merkel! 👿
+[10:21:48] <Valkyrie0025> @wolfrudel85 höömma ....pass upp ^^
+[10:21:53] <GhostHawk95> der gute alte stein
+[10:21:55] <Wolfsrudel85> @Valkyrie0025 😀
+[10:21:55] <GhostHawk95> !
+[10:21:59] <Flo K3tchum> @xzarrus wenn du mir den Führerschein und ein Auto zahlst und wartest bis den Führerschein gemacht habe, dann bin ich dein Mann fürs einkaufen 😀
+[10:22:02] <Kira Sternenfeuer> Marie P. bin den en schon vorraus habe Krankenschein XD
+[10:22:05] <Die Schwarze Bohne> Guten Morgen
+[10:22:06] <Zaldarion> @Wolfsrudel85 seehofer 👿
+[10:22:06] <DMC05> @Wolfsrudel85 ich will mich nur in gute laune bringen vor dem moin moin mit einer unbekannten person xD ^^
+[10:22:08] <MG Smooth> merci @dmc05
+[10:22:19] <Wolfsrudel85> @Zaldarion generell 👿
+[10:22:25] <DMC05> @MG Smooth Np 😉 🍺 ^^
+[10:22:28] <xzarrus> @Flo K3tchum Nein. Aber Danke für's Angebot.
+[10:22:29] <Zaldarion> @Wolfsrudel85 👍
+[10:22:39] <Wolfsrudel85> @DMC05 meinte Deine Tastaturskills 😀
+[10:22:57] <inge braun> deswegen machen sie auch rbtv die sind sogar zum zeitung austragen zu blöd
+[10:23:05] <PandaBlack> @DMC05 habe nur gefragt ob dein half backed sich auf half baked ben and jerry's bezieht aber anscheinend ist der Film gemeint 😀
+[10:23:05] <Marie P.> @Kira Sternenfeuer 😀
+[10:23:07] <DMC05> @Wolfsrudel85 da achte ich net drauf ... ^^ sollen die leser es entiffern xD ^^
+[10:23:09] <Flo K3tchum> @xzarrus dann hilft nur allyouneedfresh.de - der Online Supermarkt 😀
+[10:23:19] <Marie P.> Bei mir ist der Ventilator wieder an!
+[10:23:29] <prokrastinatur> wen gibt es heute im moin moin?
+[10:23:30] <Wolfsrudel85> @DMC05 xD
+[10:23:37] <ninthprime> @Marie P. oh, ich freu mich garnicht auf die 32 Grad Celsius die nächsten Tage...
+[10:23:45] <Kira Sternenfeuer> aber 30 ist ein scheiß alter zu alt für U30 Partys und zu jung für Ü 30 Partys quasi der vorhof zur Hölle
+[10:23:49] <ninthprime> hab hier auch schon wieder den Ventilator frontal auf die Fresse gerichtet...
+[10:23:52] <Wolfsrudel85> @pro
+[10:23:57] <xzarrus> Das ist super, Marie P ! 👍 hier in NRW brauchen wir keinen Ventilator, eher noch nen Pullover weils doch recht frisch ist 😀
+[10:23:59] <DMC05> @PandaBlack nein aber schon weil dadurch ein pferd stirbt im FILM half Baked 😉 ^^ xD
+[10:24:00] <Wolfsrudel85> @prokrastinatur Montags meistens Lars
+[10:24:06] <ninthprime> @Kira Sternenfeuer welch Glück, dass ich schon 31 bin 😃 aber bin eh kein Partygänger
+[10:24:14] <DMC05> @PandaBlack ich war wieder zu meta xD dachte du kennst den film ^^ xD
+[10:24:14] <Flo K3tchum> ich sitze auch in NRW und brauche grad nen Ventilator 😀
+[10:24:26] <prokrastinatur> @Wolfsrudel85 dane
+[10:24:30] <DMC05> wat ?
+[10:24:30] <MG Smooth> 😴
+[10:24:30] <prokrastinatur> *danke
+[10:24:36] <ninthprime> ich bin ebenfalls in NRW und hab nen Ventilator laufen
+[10:24:37] <Kira Sternenfeuer> ninthprime also biste schon in der Hölle angekommen ^^
+[10:24:37] <DMC05> wentilator in NRW ?
+[10:24:39] <Valkyrie0025> komisch auch nrw ...aber sitze im kühlen raum 😀
+[10:24:39] <Marie P.> Wer hätte jetzt alles lust auf Kratzeis 😢
+[10:24:44] <DMC05> hier ist es kühl ^^
+[10:25:07] <Flo K3tchum> NRWentilator - dafür steht das W also, für Wentilator 😀 Das V ist für den rest deutschlands
+[10:25:08] <DMC05> Chemtrails regeln 💜
+[10:25:10] <Valkyrie0025> dmc wo ist hier?^^
+[10:25:15] <JuletzMusic> moin lieber Chad :)
+[10:25:15] <MG Smooth> was zur hölle ist kratzeis
+[10:25:24] <DMC05> @Valkyrie0025 aus dem westen ^^ xD
+[10:25:26] <Spun Montana> isst
+[10:25:36] <Brainex> nrw is doch im mom angenehm
+[10:25:37] <Marie P.> Wassereis zum löffeln im Becher 😀
+[10:25:40] <Olliwood09> Moin
+[10:25:43] <ninthprime> @Kira Sternenfeuer klar, Dämonen fangen dort an 😃
+[10:25:47] <Kira Sternenfeuer> MG Smooth das ist wen nman den Gefrierschrank abtaut und das restliche Eis von den Felgen kratzt
+[10:25:48] <Valkyrie0025> @dmc0z westlicher als nrw? 😀
+[10:25:58] <MG Smooth> aha 🌝
+[10:26:07] <Felix M> gibt es irgendwo einen "ständigen" sendeplan?
+[10:26:08] <ninthprime> @Marie P. ich hab noch Ben & Jerries 😀
+[10:26:22] <Marie P.> 😵 Neid
+[10:26:27] <Raytheon T-1> !sendeplan
+[10:26:35] <Felix M> !sendeplan
+[10:26:44] <Raytheon T-1> was das für 1 youtube
+[10:26:48] <OVERLOAD949494> wann kommt denn das nachste Beans VS. ?
+[10:26:52] <DerFozzy> 😛 Gregor der selbstverliebte ^^ 💜
+[10:26:54] <xzarrus> Ben & Jerries ist viel zu teuer. 5€ für so ne kleine Dose 👿
+[10:26:56] <Kira Sternenfeuer> Felix M der wird jede woche neugemacht einfach den Wochenplan aufrufen und dort die Tage und Zeiten anklicken also früh mittags abends usw.
+[10:27:00] <blorbitalframe> freitag, beans vs donkey kang
+[10:27:03] <Flo K3tchum> !cd larissa
+[10:27:08] <NEO MIMZY NEO MIMZY> moinmoin
+[10:27:16] <Valkyrie0025> hagendaz
+[10:27:29] <Jeantastic> was labert der gregor
+[10:27:30] <Caedus_42> @OVERLOAD949494 diese woche Freitag
+[10:27:37] <Felix M> dankeschön
+[10:27:38] <JotunnLoki> 😀 Gregor
+[10:27:40] <Narakhin> 😎
+[10:27:49] <Marie P.> Da kommt der nationalistische Grieche aus Gregor
+[10:27:50] <JotunnLoki> doch doch Alarm für Döner 11
+[10:27:53] <Firebreath> gregor ist halt etwas älter xD
+[10:27:53] <Kira Sternenfeuer> Kaufland Tiramisu kostet nur 1.19 und schmeckt so geil XD
+[10:27:54] <ninthprime> 3 Minuten noch!!!! *nerveus umhertanz*
+[10:28:02] <Olliwood09> @Narakhin Ahoy Borusse ^^
+[10:28:09] <Flo K3tchum> wer macht denn nun moinmoin, halte die Spannung nicht aus haha
+[10:28:10] <Wolfsrudel85> ß, miese Schweine!
+[10:28:13] <Kira Sternenfeuer> also das Eis net das richtige Tiramisu ^^
+[10:28:16] <Narakhin> @Olliwood09 Ahoi Borusse.... 👿
+[10:28:19] <Jeantastic> endlich mal ein geiler filler
+[10:28:19] <Wolfsrudel85> @Narakhin 💠 💜
+[10:28:22] <Cyberblitzbirne> Na ihr Säcke :)
+[10:28:22] <MG Smooth> 😺 wtf
+[10:28:27] <Wolfsrudel85> BVB in 2016 😂
+[10:28:28] <ninthprime> oh, nice, das erinnert mich gerade total an Fraktus
+[10:28:30] <SuperStirling> RB Leipzig 💜 🌝
+[10:28:33] <Narakhin> @Wolfsrudel85 Strudel! 💠 💜
+[10:28:33] <inge braun> tiramisu 1.19 ......möchte nicht wissen was da drin gewesen ist
+[10:28:35] <Olliwood09> @Narakhin 😖
+[10:28:37] <Wolfsrudel85> @SuperStirling 💜
+[10:28:42] <Wolfsrudel85> RB Leipzig 💜
+[10:28:43] <Narakhin> @SuperStirling Stirb qualvoll. 👿
+[10:28:48] <NiceSMG> es ist immer großartig wenn man das ganze ohne ton sieht
+[10:28:48] <SuperStirling> @Wolfsrudel85 💜
+[10:28:50] <MinaLeFay> Ich bin jetzt etwas wuschig xD
+[10:28:52] <Christian Rose> Hannes 👑
+[10:28:53] <MrJohn> 📟📟📟
+[10:28:55] <SuperStirling> @Narakhin Haha 💜
+[10:29:00] <MauKaiMF> Heute Bohndesliga 💜
+[10:29:00] <Kira Sternenfeuer> inge braun wie gesagt Eis tiramisugeschmack und das ist echt lecker
+[10:29:01] <Olliwood09> @Wolfsrudel85 ☕
+[10:29:01] <Jeantastic> rb leipzig 💜 wahre liebe
+[10:29:01] <NiceSMG> erster gameplus und dann naja...^^
+[10:29:02] <OVERLOAD949494> @2 thx
+[10:29:06] <Marie P.> Lebt Hannes noch
+[10:29:09] <Philipp Ranits> Guten morgen Chad
+[10:29:16] <nofuckinghero2> MoinMoin mit Soso Kreygas
+[10:29:18] <ChronicE99> RedBull zum Frühstück
+[10:29:20] <nofuckinghero2> 😚
+[10:29:23] <Wolfsrudel85> @Olliwood09 hatte dich schon gegrüßt 👿 / 💜
+[10:29:25] <MrJohn> 😯😯😯😯
+[10:29:32] <ChronicE99> Mosche
+[10:29:39] <Michael Krogmann> AChtung gleich gehts los!
+[10:29:44] <Olliwood09> @Wolfsrudel85 nicht gesehen 😖
+[10:29:45] <Narakhin> KROGMEISTER! 💜
+[10:29:46] <Sascha Robel> moin moin
+[10:29:46] <Wolfsrudel85> Hab' ich richtig gelesen, LP mit Eddy und Metroid Prime?
+[10:29:48] <r Oy> uiuiuiuiui
+[10:29:48] <OVERLOAD949494> @Caedus_42 thx
+[10:29:49] <NEO MIMZY NEO MIMZY> moinmoin 💜
+[10:29:50] <xzarrus> 😯 /
+[10:29:53] <MrJohn> krogi😮
+[10:29:56] <ChronicE99> uijuijui
+[10:29:59] <FlashGamer> 💜
+[10:30:00] <DMC05> @Wolfsrudel85 so ein scheiss game
+[10:30:01] <Eppmaster> Moin Krogi <3#
+[10:30:01] <Marie P.> 🙋
+[10:30:01] <DMC05> xD
+[10:30:04] <Au wolf> Krogmann!!!! 😱
+[10:30:05] <Michael Piskernik> Jetzt die volle Tranceception 😚
+[10:30:06] <Eppmaster> 💜
+[10:30:06] <CMDR Clepto> moin ☕
+[10:30:10] <Monser198> zu spät
+[10:30:10] <DMC05> Krogi ?
+[10:30:10] <ElectroVoIt> CHAMPIONS 🌝
+[10:30:11] <Wolfsrudel85> @DMC05 Ede wird wieder ragen
+[10:30:11] <xzarrus> Moin Moin mit Krogi 😚
+[10:30:13] <FlashGamer> 💜 💜 💜
+[10:30:14] <Narakhin> CHAMPIONS! 💜
+[10:30:16] <Butcher32> 💜
+[10:30:16] <DasKraftKorn> wieso bewerungen ausgestellt
+[10:30:16] <Esusa> Moin 💜
+[10:30:16] <FlashGamer> 💜
+[10:30:16] <DrumsMetallica> 💜
+[10:30:17] <MasterFarr> Krogi 💜
+[10:30:17] <Jamil Abaya> Heut Abend Dead Space 2 mit Simon HYPE
+[10:30:17] <SuperStirling> 💜 💜 💜
+[10:30:17] <Top Doge> Champions 💜💜💜💜💜
+[10:30:18] <Gamemonster82> 💜💜💜
+[10:30:18] <Olliwood09> @DMC05 mittach^^
+[10:30:18] <Wolfsrudel85> rbtvLove SwiftRage CHAMPIONS rbtvLogo rbtvLove
+[10:30:20] <Philipp Ranits> 💜 💜 💜 💜
+[10:30:21] <Jeremy Behne> 💜💜💜💜💜
+[10:30:21] <FlashGamer> 💜
+[10:30:22] <Asielaa> 💜 💜 💜
+[10:30:22] <Mexi Driver> 💜
+[10:30:23] <FlashGamer> 💜
+[10:30:23] <Eppmaster> 💜 💜 💜
+[10:30:23] <FlashGamer> 💜
+[10:30:24] <nofuckinghero2> 💜 💜 💜
+[10:30:24] <Michael Krogmann> nope bin nur am Ton 😉
+[10:30:24] <kleine fussel> 💜 💜 💜
+[10:30:24] <FlashGamer> 💜
+[10:30:24] <Lena Rö> 💜 💜 💜
+[10:30:25] <LightShadow> 💜 💜 💜
+[10:30:25] <RockBee89> 💜 💜 💜
+[10:30:27] <Au wolf> 💜
+[10:30:28] <MasterRaik> #moinmoin
+[10:30:28] <Maier Müller Schulze> ❤️
+[10:30:29] <CMDR Clepto> 💜 💜
+[10:30:29] <hass von grundauf> 💜
+[10:30:30] <Flo K3tchum> 💜
+[10:30:30] <Meeres Grund> Krogi 💜💜
+[10:30:30] <Midoriya Izuku> 💜
+[10:30:30] <Ivy ImHaus> <3<3<3
+[10:30:31] <the_white_husky> FeelsBadMan
+[10:30:31] <ninthprime> 💜 💜 💜
+[10:30:31] <NEO MIMZY NEO MIMZY> Nebel bei monmoin?
+[10:30:32] <NiceSMG> <3<3<3
+[10:30:32] <Narakhin> @Wolfsrudel85 😑
+[10:30:33] <Flo K3tchum> <3<3<3
+[10:30:36] <RockBee89> schade
+[10:30:36] <Flo K3tchum> 💜 💜 💜 💜
+[10:30:36] <gundi91> 💜💜💜
+[10:30:36] <MasterRaik> 💜 💜 💜
+[10:30:37] <kleine fussel> 💜
+[10:30:37] <Flo K3tchum> 💜
+[10:30:38] <Valkyrie0025> 💜
+[10:30:38] <Sascha Robel> 💜 💜 💜 <3
+[10:30:38] <xzarrus> Kein Moin Moin mit Krogi 😖 😖
+[10:30:38] <NiceSMG> 💜💜💜💜
+[10:30:40] <Dondon Don> 💜
+[10:30:40] <124horst> 💜 l o v e 💜
+[10:30:40] <Flo K3tchum> 💜 💜 💜 💜 💜
+[10:30:41] <Schlumpf Gaming> 💜
+[10:30:41] <dondunnothegenius> <3 <3
+[10:30:42] <Flo K3tchum> 💜
+[10:30:42] <Schlumpf Gaming> 💜
+[10:30:42] <ZJennyZ> das intro wird auch nie alt xD
+[10:30:42] <JotunnLoki> Krogazer 💜
+[10:30:42] <Flo K3tchum> 💜
+[10:30:43] <Schlumpf Gaming> 💜
+[10:30:43] <kleine fussel> 💜
+[10:30:43] <Jeremy Behne> 💜💜💜💜
+[10:30:44] <Flo K3tchum> 💜
+[10:30:44] <Flo K3tchum> 💜
+[10:30:44] <Blacky Mojo> 💜 💜 💜
+[10:30:45] <Wolfsrudel85> @Narakhin rip Emotes 😖
+[10:30:45] <DMC05> @Olliwood09 tach auch ^^
+[10:30:46] <NEO MIMZY NEO MIMZY> 💜 💜 💜 💜
+[10:30:46] <Asielaa> 💜
+[10:30:46] <Flo K3tchum> 💜
+[10:30:47] <FlashGamer> hallo
+[10:30:47] <Ska Mensch> 💜
+[10:30:48] <Chris Wild> MoinMoin Sofia ♥♥♥♥♥♥♥♥♥♥
+[10:30:48] <LexLandau> ohjeeee
+[10:30:48] <Ja Mac> Gott die frau in der massenszene mit eddy links tanzt komplett falsch, das macht mich kirre
+[10:30:49] <Flo K3tchum> 💜 💜
+[10:30:49] <Asielaa> 💜
+[10:30:49] <CMDR Clepto> 😞
+[10:30:51] <JustChaos> 💜💜💜💜💜💜💜💜💜
+[10:30:51] <KO.s Oo> ahhhhhhh
+[10:30:52] <Flo K3tchum> 💜 💜 💜
+[10:30:52] <DMC05> hallo Grogi SOfia ^^
+[10:30:52] <Butcher32> Sofia 💜
+[10:30:53] <Lex Noctu> halloohoo Sofia
+[10:30:53] <DasKraftKorn> aaaand I'm out
+[10:30:53] <LetsAndru> 🌝 /
+[10:30:54] <Wolfsrudel85> Tierchenmama \ 😚 /
+[10:30:54] <FlashGamer> ja
+[10:30:56] <Jeantastic> green screen O_o
+[10:30:56] <Philipp Ranits> Sofia Montag wieder nach der Uni ^^
+[10:30:56] <Die Schwarze Bohne> 💜
+[10:30:57] <GernhardtReinlunzen> 😮 😮 😮
+[10:30:57] <Andi Jan> oh no...
+[10:30:57] <Emmett Brown> Heute ist der Ton top...Danke Krogi
+[10:30:57] <Psynom> Sifia 💜
+[10:30:57] <blorbitalframe> was, so früh?
+[10:30:59] <Salih19ka> 💜 💜 💜
+[10:30:59] <nofuckinghero2> Soso 💜
+[10:30:59] <Flo K3tchum> Saufiaaaaaa
+[10:31:00] <Au wolf> sophia!!!! 😍😍
+[10:31:00] <Rocketbeans Cuts> bah ne
+[10:31:01] <Firebreath> 💜
+[10:31:01] <MrJohn> 😮😮😮😮😮
+[10:31:01] <NiceSMG> einfach das beste intro
+[10:31:01] <Ichigoni 1> Saufia 💜
+[10:31:01] <inge braun> Fitness is so gay
+[10:31:02] <Raytheon T-1> analplag
+[10:31:02] <SuperStirling> Sofia 💜 😮 💜
+[10:31:03] <Esusa> Wir arbeiten seit 7^^
+[10:31:03] <Narakhin> @Wolfsrudel85 BetterRBTV geht einwandfrei.
+[10:31:04] <MirkoPhon> Saufia <3
+[10:31:04] <Sascha Kullmann> Gude Mosche
+[10:31:04] <Gamemonster82> Sofia 😮 💜
+[10:31:04] <ManganGER> Hui Hui SOfia
+[10:31:04] <ninthprime> Ich bin schon seit 5:15 wach!
+[10:31:06] <DMC05> warum Green screen ?
+[10:31:06] <Valkyrie0025> sofia 💜
+[10:31:07] <jesflyaway> och nee. direkt ausschalten. cya
+[10:31:07] <FenderFlix> 💜
+[10:31:09] <llLexxlll> oh bitte nicht über festivals reden...lieber über vögel
+[10:31:09] <BObavaria> grüß gott
+[10:31:10] <GreyPilgrim> 💜
+[10:31:11] <Wolfsrudel85> Stimmt, Cutfia heute
+[10:31:11] <MasterRaik> Saufia 💜
+[10:31:12] <Der Name> was für 1 langweiliger Hintergrund
+[10:31:13] <Christian Rose> Sofia 💜
+[10:31:14] <Chris Pütz> Sofi Alice Baxter 💜
+[10:31:15] <ElectroVoIt> Krogi um die Uhrzeit schon auf😯 Nicenstein 🌝
+[10:31:20] <NerdsCook> Servus.
+[10:31:21] <Ska Mensch> oh nein...sie hat wieder montag abbekommen ;-;
+[10:31:22] <MasterFarr> Saufia 💜
+[10:31:27] <Jeantastic> sofia willst du mein moinmoin machen?
+[10:31:28] <DMC05> macht den Greenscreen weg ANDREAS !
+[10:31:31] <kleine fussel> Sofia 💜
+[10:31:32] <MG Smooth> hallo sofia^^
+[10:31:33] <bertmaan> Wieder nur Greenscreen?
+[10:31:34] <blorbitalframe> ahh! hilfe! chad!
+[10:31:35] <Raytheon T-1> Analplug
+[10:31:36] <Dondon Don> 😮
+[10:31:36] <JimWatson10> WoW Werbung 😀
+[10:31:36] <ninthprime> Huhu
+[10:31:36] <Wolfsrudel85> Cutfia 💜
+[10:31:36] <Chris Wild> Sofia die beste frau ♥♥♥♥
+[10:31:37] <Eppmaster> Greenscreen :(
+[10:31:37] <xzarrus> Saufia 🙋
+[10:31:38] <DemonicLoner> Sofiaaa
+[10:31:38] <OVERLOAD949494> wiebekommt man die raketenbohne vor den namen?
+[10:31:38] <tazzz001> hallo saufia
+[10:31:38] <Philipp Dorn> Legion Werbung 😀
+[10:31:38] <Ichigoni 1> Huhu Saufia
+[10:31:39] <Duchess D.> Hallo Sofia
+[10:31:39] <Ceziᴴᴰ> hallo soso ❤️
+[10:31:40] <Kira Sternenfeuer> 2529 jellybeans im Bohneneintopf 2529 Jellybeans und geht dann eine Jellybean off sind noch 2528 Jellybeans im bohneneintopf
+[10:31:41] <KatarzynaLenkaSabria> guten morgen sofia 💜 warum mit greenscreen??
+[10:31:41] <Old Bandit> Tach
+[10:31:42] <Au wolf> hai 😌
+[10:31:42] <SquidwardTesticle> sofia ist ja gar nicht nackt diesmal 👿
+[10:31:42] <NEO MIMZY NEO MIMZY> Sofia die Einzige die uns NICHT hängen lässt 😉
+[10:31:43] <Olliwood09> Moin Sofia
+[10:31:43] <Cutthroat02> challo
+[10:31:44] <bertmaan> EI3
+[10:31:44] <124horst> ich bin im pfernzehen
+[10:31:45] <MasterRaik> falsche seite^^
+[10:31:46] <Viper3062> ich bin im Fernseeeehehen
+[10:31:47] <Ballerbecks> 💜
+[10:31:47] <Internet Dude> Yoyo Sofia
+[10:31:47] <Ska Mensch> Mädchen, du musst endlich lehrenn nein zu sagen ;__;
+[10:31:49] <Valkyrie0025> 💜
+[10:31:50] <bertmaan> DIE LEGION
+[10:31:50] <MrJohn> für moin moin ist sofia immer leicht zu haben 😖
+[10:31:51] <tazzz001> chat
+[10:31:53] <Gamemonster82> 😀
+[10:31:53] <DMC05> xDD
+[10:31:54] <Rohti> sofia hat gestern so viele snaps geschickt, ich war total überfordert
+[10:31:54] <KatarzynaLenkaSabria> schnittmoinmoin 😃 💜
+[10:31:54] <DrumsMetallica> 💜
+[10:31:55] <JotunnLoki> TP for my Bunghole
+[10:31:57] <DMC05> CHAD !
+[10:31:57] <FlashGamer> 😴 schnitt moinmoin
+[10:31:57] <B42K1NG> was für ein langweiliger vodergrund
+[10:31:58] <Brainex> ohh ne bin weg
+[10:31:59] <xzarrus> Mama ich bin im Fernseh ! 💜
+[10:32:00] <Christian Weiß> DIE LEGIOOON
+[10:32:00] <Blacky Mojo> I need TP for my Bunghole
+[10:32:00] <Christian Rose> beste sofia
+[10:32:00] <Monty> Bei Andreas geht man ja auch nicht dran ... selbst schuld
+[10:32:01] <KO MA> i need tp for my bunghole!
+[10:32:01] <Michael Krogmann> chad
+[10:32:01] <Hamsi Bohnen?> langweilig!
+[10:32:01] <kleine fussel> Schicke Frisur!!
+[10:32:01] <Sascha Kullmann> HEY HO
+[10:32:03] <Philipp Ranits> Moin Sofia frisch von der Uni
+[10:32:03] <Wolfsrudel85> Schnitt. Krankenwagen
+[10:32:04] <ninthprime> Beavis and Butthead ftw!
+[10:32:07] <124horst> schneid dich nicht sofia 😲
+[10:32:10] <DannyTheKidd> ok...und wo ist jetzt dein ausSchnitt?
+[10:32:11] <dead_ohio_sky> Auf Youtube Gaming schauen, Sofia 🙈
+[10:32:12] <xzarrus> JA KROGI?
+[10:32:12] <Flo K3tchum> Saufia von Suffiasen
+[10:32:13] <MasterRaik> gaming.youtube
+[10:32:13] <MinaLeFay> Guten Morgen, die Dame^^
+[10:32:14] <tazzz001> Oma Opa ist im Internetz!!
+[10:32:16] <Ceziᴴᴰ> hallo wiederholungschat 👍🏼
+[10:32:17] <Darkzero> schnitt sofia 💜💜💜
+[10:32:17] <JimWatson10> GRÜße aus Bristol !!! 😃
+[10:32:18] <Philipp Dorn> Blödsinn incoming
+[10:32:18] <DMC05> ach nee sofa ... ich hab ab heute kein urlaub mehr 😲
+[10:32:19] <Olliwood09> Die Legion 👿
+[10:32:21] <DMC05> ;D
+[10:32:21] <supermodulaire> Gaming YouTube bitte, nicht das Normale-YouTube
+[10:32:22] <koopolis> "Schnitt mit Schnitte" - die neue Show!
+[10:32:23] <DMC05> 😀
+[10:32:23] <crying_devil> #Schneidzeit
+[10:32:25] <KO.s Oo> ps1
+[10:32:25] <Zeddy Man> @Rocketbeans Cuts besser: gaming.youtube.com/user/ROCKETBEANSTV/live
+[10:32:26] <Narakhin> Playstation 1 😯
+[10:32:26] <Angelo Overmeier> Chad ist im Fernsehen! 😲
+[10:32:26] <Jeantastic> saufia
+[10:32:29] <Dreck Fresse> moin krogi
+[10:32:29] <Pfadfinder Heber> immer die tussi :/
+[10:32:29] <Viper3062> Saufia1337
+[10:32:31] <Ichigoni 1> Saufia
+[10:32:31] <GreyPilgrim> Sofisant
+[10:32:31] <Old Bandit> Moin saufia
+[10:32:32] <xChrisS41x> saufia
+[10:32:32] <Wolfsrudel85> Killfia
+[10:32:32] <NiceSMG> Guten Morgen Sofia
+[10:32:34] <Ben S.> SAUFIA123
+[10:32:35] <Olliwood09> PS4 gute wahl ^^
+[10:32:35] <FlashGamer> sexysofiaxxx
+[10:32:35] <estebohn> kira sternenfeuer bohneneintopf? 😲
+[10:32:35] <Davascolo> saufia
+[10:32:36] <DMC05> ich kann ab heute wieder wochen lang cutten
+[10:32:37] <Lodrik Bardic> nicht gerecht und nicht los 😀
+[10:32:37] <irondrax> Ich wollte Saufia vorschlagen...
+[10:32:38] <Garet2k> Schade :<
+[10:32:38] <steyfication> Wasseramsel
+[10:32:39] <DMC05> sofia 💜
+[10:32:39] <ElectroVoIt> KROGI wir brauchen TRANCE 😠😠😠
+[10:32:39] <B42K1NG> Zoofia ?
+[10:32:39] <John Lander> Saufia
+[10:32:39] <Garet2k> Saufia
+[10:32:39] <P. V.> lol vk sie und komm zu pcmr
+[10:32:40] <NightfallXXX> Schlonki01
+[10:32:40] <Wiseheit> Gamertag Klara Sieger!!!
+[10:32:41] <RudolphRandolphRübenrunkler> Skillfia
+[10:32:43] <MirkoPhon> Saufia!!!
+[10:32:44] <Execuse> Xx69Destroyer69xX
+[10:32:44] <MinaLeFay> Wir erwarten jeden Tag 3 Promille!!
+[10:32:44] <Internet Dude> S0FIay
+[10:32:45] <Philipp Dorn> Suffia
+[10:32:46] <MrJohn> einmalig 🌝
+[10:32:46] <inge braun> sie sieht schon ein bissle aus wie die schwester von sarkeesian
+[10:32:46] <Eppmaster> Bumsfia 🌝
+[10:32:49] <irondrax> Blaufia?
+[10:32:50] <r Oy> 😀
+[10:32:50] <Raytheon T-1> zoofeli
+[10:32:51] <Ceziᴴᴰ> soso_muss_aufs_kloklo
+[10:32:51] <Brainex> aber strapse an xD
+[10:32:51] <LexLandau> ohje ... da schalte ich ab. Schade.
+[10:32:51] <MrVance210> oke, dann eben suffia 🌝
+[10:32:53] <Christian Rose> DAS TIERCHEN
+[10:32:54] <SebHighDef> xXProSaufing1337Xx
+[10:32:54] <DMC05> DASTierchen
+[10:32:55] <xChrisS41x> NotSaufia
+[10:32:55] <xXBoardoXx> aifos _69
+[10:32:55] <steyfication> Wasseramsel
+[10:32:56] <SquidwardTesticle> einmalig 😏
+[10:32:56] <ManganGER> xXSaufiaXx 😀
+[10:32:58] <diphenylarsinchlorid> BRATFISCHMANN!
+[10:32:58] <Chris Pütz> Schokomonster
+[10:32:59] <Monser198> Pidgeon likker?
+[10:32:59] <KO.s Oo> ich habe 0 erwartung
+[10:32:59] <Zaldarion> hohe erwartungen?? 👿
+[10:32:59] <gundi91> Cd4saufia
+[10:33:00] <Jeantastic> selber trottel
+[10:33:00] <SLyR1x> Saufia wär gut 🌝
+[10:33:00] <124horst> Chadfia
+[10:33:00] <tazzz001> DaADHSGirldelux1
+[10:33:01] <crying_devil> Ok... Kein Saufia mehr, Suffia Keepo
+[10:33:03] <pilipu> RubbelDieKats
+[10:33:05] <Christian Weiß> Jochen
+[10:33:05] <insaneFilm> Weiso PS4? Sie sagte Playsattion ... nicht welche Generation.
+[10:33:05] <xzarrus> Wie wär's mit Sowfia ? 🌝
+[10:33:05] <Garet2k> DieVogelFrau
+[10:33:05] <Til Maan> assifa
+[10:33:06] <MrJohn> Bübchen der zerstörer
+[10:33:07] <DocHillpower> BeanBird
+[10:33:07] <Ichigoni 1> Sau_fia
+[10:33:08] <GreyPilgrim> Sofisant
+[10:33:08] <Viper3062> ChaD ist kluk
+[10:33:08] <SuperStirling> Blaumeise 🌝
+[10:33:09] <ninthprime> BratwurstImperium3000
+[10:33:09] <Lodrik Bardic> Lame
+[10:33:10] <Phi So> FürDieKatz
+[10:33:10] <NightfallXXX> Bronti
+[10:33:10] <DrumsMetallica> Suff Fia :>
+[10:33:10] <steyfication> Wasseramsel
+[10:33:10] <KO MA> 555-Nase
+[10:33:11] <Flo K3tchum> Blaufia
+[10:33:12] <diphenylarsinchlorid> Bratfischmann! Beste!
+[10:33:12] <washiXD> V0dkaK!ll3r1337
+[10:33:12] <Katapultoffel> lame?
+[10:33:13] <Davascolo> lame
+[10:33:14] <MirkoPhon> saufia kotz hahaha
+[10:33:14] <MasterRaik> lul
+[10:33:15] <Martin Berwald> Wo geht drum?
+[10:33:16] <Cutthroat02> vogelfrau
+[10:33:16] <Philipp Dorn> Lamfia
+[10:33:16] <Der Dengel> Bohnita
+[10:33:17] <Johannes Hofer> last of us
+[10:33:17] <Florian Hülse> Bumsebiene
+[10:33:18] <cubic mind> Worum gehts?
+[10:33:18] <F1Heide> Paladirne
+[10:33:18] <Flo K3tchum> Blaufia
+[10:33:18] <Nihilumbra> Nihilumbra
+[10:33:19] <Moneypenny78> Fubafia
+[10:33:20] <Darkzero> lol
+[10:33:20] <Dondon Don> lamia
+[10:33:20] <Til Maan> bower sofi
+[10:33:20] <LightShadow> Schnittluder
+[10:33:21] <Der Corona> hahaha
+[10:33:22] <Flo K3tchum> Suffi
+[10:33:23] <Mund freude> 😀
+[10:33:26] <nofuckinghero2> 😂
+[10:33:27] <Angelo Overmeier> Milchschnitte
+[10:33:27] <Flo K3tchum> Saufia Kotz
+[10:33:27] <Sebastian Rampe> skorpion weibchen 600
+[10:33:27] <gromsbard> Tolle Frisur
+[10:33:28] <Deschain92> Zoofia
+[10:33:28] <Gamemonster82> Regie 😀
+[10:33:28] <OVERLOAD949494> @DMC05 Wie bekomme ich die raketenbohne hvor meinen namen?
+[10:33:28] <dabeiabzwei> Links neben Sofia steht doch ein Buttplug oder??
+[10:33:29] <Michael Piskernik> xXcd_SofiaXx
+[10:33:29] <Suppenkasper 79> Nasenbärchen!
+[10:33:29] <Marius Meyer> Masteroffootball 🌝
+[10:33:30] <Olliwood09> die lache 😀
+[10:33:31] <Marie P.> BlitzGirl
+[10:33:32] <SuperStirling> Blaumeise 👍
+[10:33:33] <Til Maan> russkasofi
+[10:33:33] <Flo K3tchum> Kotzia Sauf
+[10:33:33] <St Hardy> Heute wieder Kater?
+[10:33:35] <Sascha Kullmann> Herrlich ihre Lache
+[10:33:36] <Flash3141> boar gemeine Bauchbinde 😀
+[10:33:37] <xTripto> Katscene
+[10:33:37] <Terrance Skill> Ökozibbe
+[10:33:38] <Ed Zimmerman> schnittluder? lol
+[10:33:38] <Flo K3tchum> !cd larissa
+[10:33:39] <Zaldarion> lol @ regie
+[10:33:43] <Fennek Fox> WutFace
+[10:33:44] <Bob Kelso> penis
+[10:33:45] <Zach Anamor> Lamefia
+[10:33:45] <Dreck Fresse> #nichts
+[10:33:46] <Monty> PrincessSophia
+[10:33:48] <124horst> Bohnenschnitte
+[10:33:49] <Martin Berwald> Schöne Frisur, Sofia
+[10:33:50] <Michael Piskernik> Schnittmaster9000
+[10:33:51] <Narakhin> @Der Dengel I salute you, Sir. 🙋
+[10:33:52] <xChrisS41x> lamé
+[10:33:53] <Alexander Bork> Moin Chat laggt
+[10:33:54] <Flo K3tchum> !cd penisschaft
+[10:33:56] <Ska Mensch> sofCHULLIO
+[10:33:57] <irondrax> Sofia the Ripper
+[10:34:00] <Doktor Banane> moinsen!
+[10:34:00] <Narakhin> @Zaldarion 😯 / 💜 💠
+[10:34:00] <xzarrus> Wat? xD
+[10:34:00] <Olliwood09> lol
+[10:34:01] <Hans Hansen> aifuas :D
+[10:34:02] <Flo K3tchum> !cd rankenhieb
+[10:34:02] <Wolfsrudel85> 😸
+[10:34:02] <Gamemonster82> 😸
+[10:34:03] <Sascha Robel> find ich gut
+[10:34:03] <Au wolf> großartig
+[10:34:03] <Katapultoffel> SO4A
+[10:34:04] <DMC05> @OVERLOAD949494 ehmm VOP = zahlen = frag mal @pandablack
+[10:34:06] <Katapultoffel> SO4A
+[10:34:06] <Inko Gnito> Noobinobnob
+[10:34:06] <Rohti> 😀
+[10:34:08] <MrJohn> 😸😸😸
+[10:34:09] <JuletzMusic> Krogi <3
+[10:34:09] <Katapultoffel> SO4A
+[10:34:10] <diphenylarsinchlorid> Bratfischmann!
+[10:34:10] <Brainex> lool
+[10:34:10] <Ceziᴴᴰ> popososo 🌝 Kreativität to the max
+[10:34:11] <SebHighDef> gleich sind die namen weg
+[10:34:11] <Drudron> hören sie 😀
+[10:34:16] <dabeiabzwei> Buttplug Sofia
+[10:34:17] <Der Dengel> @Narakhin ein 💜 liches Hallo zurück!
+[10:34:17] <Wolfsrudel85> Hacktaube? Mett?
+[10:34:19] <NiceSMG> classy neuer tab erster vorschlag das wort führer^^
+[10:34:19] <Davascolo> und das weckt keine falschen Erwartungen? 😀
+[10:34:19] <Suppenkasper 79> Katsenjammer
+[10:34:30] <Don Sparklez> Biolotwist
+[10:34:30] <Rollyman90> inner world 💜
+[10:34:31] <ElectroVoIt> 😸😸😸 Nicenstein
+[10:34:31] <Zaldarion> @Narakhin 😯 \ 😚 / 💜
+[10:34:33] <DMC05> okey sofia 😉
+[10:34:36] <Flo K3tchum> Die Frau die Andre Schürrle leugnete
+[10:34:37] <Rollyman90> Moin Chat
+[10:34:37] <xzarrus> Whaleraper? 🐯
+[10:34:39] <Trallex> wo bin ich hier gelandet
+[10:34:39] <Dreck Fresse> da geht was 😉
+[10:34:40] <CommonYouTubeUser84> Warum steht da ein Buttplug?
+[10:34:40] <dabeiabzwei> Sieht keiner das Ding?:D
+[10:34:41] <PandaBlack> @OVERLOAD949494 Einfach auf gaming youtube com /rocketbeanstv gehen, dort kannst VIP werden
+[10:34:41] <124horst> hedgehogfrog
+[10:34:41] <Sascha Kullmann> Angelique Kerber unsere neue Tennis Nr. 1
+[10:34:42] <Der Name> alles wird aus Hack gemacht, auch Tauben
+[10:34:42] <MG Smooth> Buttplug 🌝
+[10:34:44] <crying_devil> rape Kreygasm
+[10:34:47] <SebHighDef> rape? banned
+[10:34:47] <MinaLeFay> Christian Harten?
+[10:34:47] <Steffen Arbeit> wtf
+[10:34:48] <Joschka Zimdars> WhaleVagina
+[10:34:50] <Raytheon T-1> was ist das für 1 Analplug
+[10:34:51] <Katapultoffel> SO4A
+[10:34:52] <Narakhin> Whaleraper... Hat was von Gruppensex bei Weightwatchers. 🌝
+[10:34:52] <Jeantastic> quiplash
+[10:34:54] <Drake4849> Quiplash
+[10:34:54] <Philipp Dorn> Whalelicker? 🌝
+[10:34:54] <erraktrops> Sofia_Cuts
+[10:34:56] <GreyPilgrim> You don't know jack?
+[10:34:57] <124horst> chat duell
+[10:34:57] <Der Dengel> "schule"
+[10:34:57] <Lemur Schachtelrad> Der Buttplug ist Moinis Pickelhaube 😀
+[10:34:59] <SquidwardTesticle> quiplash
+[10:35:02] <Mindori Veigar> quiplash
+[10:35:03] <MrJohn> mensch ärgere dich nicht
+[10:35:03] <MasterRaik> chatduell?
+[10:35:05] <Marcus Lanvers> schule
+[10:35:05] <Flo K3tchum> Hat eine blinde Taube 2 Behinderungen?
+[10:35:06] <KO.s Oo> bin ich jetzt im fernsehn
+[10:35:06] <OVERLOAD949494> OK THX
+[10:35:09] <Rollyman90> Die Legion
+[10:35:09] <DocHillpower> BeanBird
+[10:35:10] <irondrax> Beanfia
+[10:35:11] <Mangamaniac71> Stehpaddlerin
+[10:35:14] <dabeiabzwei> Nein das ist ein Buttplug😂😂
+[10:35:15] <Cutthroat02> lool
+[10:35:18] <Katapultoffel> SO4A
+[10:35:22] <SuperStirling> Sailor Sofia 🌝
+[10:35:23] <Martin Berwald> Walentsafter
+[10:35:23] <Wolfsrudel85> Warum hat Sofia den Chad nicht auf? 🙈
+[10:35:29] <Viper3062> LasstMIchDurchIchBinArzt
+[10:35:29] <Flo K3tchum> Quiz
+[10:35:30] <NICK> Das Almost Daily 254 von gestern war ja mal ENDE!!!
+[10:35:33] <irondrax> Das heißt Sky
+[10:35:35] <Flo K3tchum> quiplash
+[10:35:36] <gromsbard> WaleRaper?
+[10:35:36] <Lemur Schachtelrad> Katse
+[10:35:37] <SquidwardTesticle> premiere?
+[10:35:39] <SquidwardTesticle> sky
+[10:35:40] <Davascolo> das heisst jetzt sky 🌝
+[10:35:40] <Philipp Dorn> PigeonRaper?
+[10:35:40] <Sascha Kullmann> Ne die heissen jetzt Sky
+[10:35:42] <DMC05> hahaha warum updatet ihr auch ^^
+[10:35:43] <PandaBlack> @Wolfsrudel85 war doch offen?
+[10:35:43] <Viper3062> Lasst mich Arzt ich bin durch
+[10:35:43] <124horst> warum so sarkastisch?
+[10:35:43] <Mund freude> heißt das nicht Sky? 🎅
+[10:35:48] <Zach Anamor> Soflcopter
+[10:35:48] <Wolfsrudel85> Premiere und Raider.
+[10:35:48] <MrVance210> o mann sofia, das heißt doch schon weig sky 🌝
+[10:35:50] <Dizzer Idoo> 💜
+[10:35:50] <Katapultoffel> SO4A
+[10:35:52] <DMC05> ich hab die alte version die läuft 😉 ^^
+[10:35:55] <Ceziᴴᴰ> psntag: drachenrapersosodiebestecutterinderwelt
+[10:35:55] <Wolfsrudel85> @PandaBlack 🌝
+[10:35:57] <estebohn> pandablack den echten chad 😉
+[10:35:57] <P. V.> pcmr
+[10:35:57] <tazzz001> ADHSGirldeluxe1
+[10:35:58] <Old Bandit> Altdamen Frisur saufia
+[10:36:00] <Raytheon T-1> Analplug
+[10:36:00] <Monser198> liquor likker
+[10:36:02] <124horst> kannst du Hotkeys empfehlen?
+[10:36:03] <Der Dengel> warum nicht avid?
+[10:36:03] <Ceziᴴᴰ> maskier mal was
+[10:36:03] <Rollyman90> BELL 😀
+[10:36:04] <DMC05> ich hab auto update aus gemacht 😉 ^^ 😀
+[10:36:04] <PandaBlack> @estebohn 😛
+[10:36:05] <xzarrus> Warum bist du nicht besoffen, Saufia ? 🌝
+[10:36:06] <ninthprime> Was ist ein Schnittprogramm?
+[10:36:07] <Darkmoon Blade> Sofia, kennst du VideoPAd und was hälst du davon?
+[10:36:08] <Kuni> Linear oder Bezier?
+[10:36:09] <McFranky> wie war dein einstieg eigentlich?
+[10:36:09] <MirkoPhon> wie viel promille haste grad intus :P
+[10:36:09] <MasterRaik> geh mal auf gaming.youtube
+[10:36:10] <Cutthroat02> nein kein schnitt -.-
+[10:36:10] <erraktrops> DAS HEIßT DOCH JETZT SKY! 😀
+[10:36:11] <insaneFilm> Wie stehst du zu AVID?
+[10:36:11] <Jeantastic> was kann eigentlich premiere?
+[10:36:12] <dabeiabzwei> Wie cuttet man ein Buttplug richtig?
+[10:36:12] <Metallerkopf> Hiiiiii
+[10:36:12] <Rollyman90> Was macht Bell da???
+[10:36:14] <Wolfsrudel85> @estebohn 👍
+[10:36:16] <NICK> Almost Daily 254 war krass
+[10:36:18] <Martin Berwald> Ich dachte Emos wären die besten Cutter *gähngag*
+[10:36:18] <SuperStirling> Nenn dich Sailor Sofia 🌝
+[10:36:19] <llLexxlll> wie funktioniert die 3d kamera
+[10:36:20] <DMC05> mukke hören das ist pflicht beim Cutten ^^
+[10:36:20] <ChronicE99> bei premiere regt mich der silverlight player auf
+[10:36:21] <Marcus Lanvers> wie regelt man den sound das alles auf einem level ist?
+[10:36:21] <Eppmaster> Muttertierchen
+[10:36:22] <Exzess_Eddy> SofiKat
+[10:36:23] <nofuckinghero2> Bell 💜
+[10:36:25] <WalkingBean> Ich schneide meine videos mit der schere
+[10:36:26] <Til Maan> blos nicht die haare cutten!!
+[10:36:30] <Mario Kröss> dein schnitt von den trailern bei kino+ am do war hammer gut
+[10:36:30] <Viper3062> SuperFrisur 💜
+[10:36:32] <kleine fussel> Die Haare sind voll schick!
+[10:36:33] <Katapultoffel> SO4A
+[10:36:33] <Butcher32> 😀
+[10:36:33] <SLyR1x> Hallo Sofia schneiden ist mir egal. Gruß🌝
+[10:36:34] <Olliwood09> @DMC05 sollte man wenn nicht ....... 🌝
+[10:36:34] <Flo K3tchum> tolles bild von bell im Hintergrund 😀
+[10:36:34] <SuperStirling> Die Frisur ist super 💜
+[10:36:35] <DrumsMetallica> Ist Premiere nicht längst pleite?? 😮
+[10:36:35] <Chris Wild> ich finde die Frisur toll
+[10:36:36] <Wolfsrudel85> Mütze druff, wenn Bad Hair Day
+[10:36:36] <MrJohn> 👵👵👵👵
+[10:36:36] <Fabian S.> Hallo Bell
+[10:36:38] <TheSapphireRed> Altdame 😀
+[10:36:38] <FlashGamer> wo ist der unterschied?
+[10:36:38] <Viper3062> KillerSchnitte
+[10:36:41] <124horst> #ignore
+[10:36:41] <Paul Krambeer> Wie wäre es mit Mr. Sister Fister
+[10:36:42] <SquidwardTesticle> altdamen? 😚
+[10:36:42] <John D. Ray> Sofia
+[10:36:43] <Narakhin> @PandaBlack Pandarino 😎 / 💜 @501.legion 🙋 Ahoi 💜
+[10:36:44] <Flo K3tchum> had bair day
+[10:36:46] <DMC05> krogi mukke an sonst kann man net cutten
+[10:36:51] <NEO MIMZY NEO MIMZY> SofKa
+[10:36:53] <PandaBlack> Ahoy @Narakhin
+[10:36:55] <Se7en> 😤
+[10:36:59] <KatarzynaLenkaSabria> das ist die bad-hair-frisur meiner mitbewohnerin, die jeder aber megahübsch findet
+[10:37:00] <1KillaChinchilla> wetterfee 💜
+[10:37:01] <erraktrops> Dann Passt doch Sofia_Cuts erst recht
+[10:37:04] <501.legion> @Narakhin ahoi :D
+[10:37:07] <Fabian S.> Unter 3000 viewer 😞
+[10:37:08] <SquidwardTesticle> stimmt
+[10:37:09] <DMC05> @Olliwood09 man muss wissen wie und never change a running system ^^
+[10:37:09] <Ceziᴴᴰ> warum nutzt ihr nicht Sony Vegas? 🌝🌝🌝
+[10:37:10] <Viper3062> Erst will sie Namen und dann ist es auch nicht recht FeelsBadMan 😞
+[10:37:10] <gordgang> telekollleg
+[10:37:11] <NiceSMG> arbeitet während der live show... beans hinter den kulissen
+[10:37:12] <SquidwardTesticle> Sofia_Cuts
+[10:37:12] <B42K1NG> du solltest während moinmoin mehr snappen 😏
+[10:37:12] <NEO MIMZY NEO MIMZY> AifosKa
+[10:37:12] <NerdsCook> Saufia. Beschte :-)
+[10:37:16] <FenderFlix> Muttertierchen finde ich gut 😃
+[10:37:17] <Cutthroat02> laaangweilig
+[10:37:18] <PandaBlack> @501.legion Ahoy hoy
+[10:37:23] <Travis G.> kannstt du mit windows movie maker eine folge gzsz schneiden?
+[10:37:24] <Wolfsrudel85> @501.legion 😯 /
+[10:37:26] <Monty> Priemiere hat Giga kaputt gemacht ....
+[10:37:27] <Olliwood09> @PandaBlack Moin
+[10:37:29] <xzarrus> Sofia_Schneidet
+[10:37:33] <Ceziᴴᴰ> warum nutzt ihr nicht Avid 🌝🌝🌝
+[10:37:33] <cytral 91> hi chad
+[10:37:34] <Paul Krambeer> Mr
+[10:37:35] <501.legion> @PandaBlack #MoinMoin
+[10:37:35] <irondrax> Neues Format: Racketen Wetter
+[10:37:37] <Flo K3tchum> hinterm rücken versteckt sie alkohol
+[10:37:38] <inge braun> was eine technik ...its magic
+[10:37:39] <Lemur Schachtelrad> Sofia Cuts
+[10:37:41] <Christian Rose> ist das programm teuer?
+[10:37:43] <Charles Bronson> ganz egrlich, es gibt doch 1 tausend tutorials....
+[10:37:45] <MasterRaik> Monatszusammenschnitt?
+[10:37:47] <501.legion> FrauTutorial
+[10:37:48] <Raytheon T-1> schnipst es sich unten rein
+[10:37:48] <Bob Kelso> moinmoinception
+[10:37:48] <SuperStirling> Sofia Cuts ist auch gut 😀
+[10:37:49] <PandaBlack> Moin @Olliwood09
+[10:37:49] <Ceto Monasteria> ah,sofia tv wieder
+[10:37:51] <Ceziᴴᴰ> solche dumme Fragen 😅
+[10:37:52] <MrVance210> läuft da auch fußball? 🌝
+[10:37:52] <Paul Krambeer> Mr. Sister Fister ist ein heiler Gamertag XD
+[10:37:54] <Sascha Kullmann> Lassen wir die Wurst einfach mal auf dem Boden fallen
+[10:37:55] <St Hardy> Sofia die Wetterfee
+[10:37:57] <Flo K3tchum> TutoriALK
+[10:38:00] <DMC05> der alte chad ;(
+[10:38:02] <llLexxlll> na toll im westen ist es morgen sonnig
+[10:38:09] <Gamemonster82> Ich bin geil 😬
+[10:38:09] <DMC05> rechts @PandaBlack represent
+[10:38:09] <Flo K3tchum> Suffis Beauty Palace
+[10:38:11] <supermodulaire> Bell 💙
+[10:38:19] <Viper3062> Cutfia
+[10:38:20] <Spun Montana> Sofia hübsch 😮
+[10:38:21] <BurgermanUlf> #Busen
+[10:38:21] <PandaBlack> @DMC05 ich sehs grade 😀
+[10:38:30] <DMC05> @PandaBlack 😀
+[10:38:31] <Daniel W> Schminkvideo mit Sophia 😦
+[10:38:31] <Der Dengel> @Monty Das ist richtig. Bitte Wolfram Winter online beleidigen, der ist verantwortlich gewesen, der Sack.
+[10:38:33] <Daniel W> 😀
+[10:38:38] <SLyR1x> vor 12 jahren war ich der pro mit windows movie maker
+[10:38:38] <insaneFilm> Du kannst dein Layout auch einfach speichern. dann musst du dich niocht aufregen
+[10:38:40] <Bahamuth FF> wie lange dauert so ein best of projekt?
+[10:38:41] <Flo K3tchum> Sofia Cuts
+[10:38:42] <Ceziᴴᴰ> krass regie zoomt
+[10:38:42] <Michael Krogmann> lol
+[10:38:43] <chusak> nices tshirt
+[10:38:43] <NEO MIMZY NEO MIMZY> Ratschmesser 💜
+[10:38:44] <PandaBlack> Was hab ich da geschrieben? 😀
+[10:38:44] <Ska Mensch> besser als jede stuardess
+[10:38:44] <KO.s Oo> die arbeitet bei der arbeit schweinerei
+[10:38:45] <Olliwood09> altes Studio 😞
+[10:38:45] <Dizzer Idoo> soooo lahm 😞
+[10:38:48] <Katapultoffel> SO4A_Cutter
+[10:38:50] <Wolfsrudel85> Leakfia, do it!
+[10:38:54] <Marie P.> Ach das ist ein Buttplug. Ich dachte eine Eiswaffel
+[10:38:59] <DMC05> jajaja sofia 😉
+[10:39:02] <Narakhin> bellgoeswild.mp4 ? 🌝
+[10:39:06] <Flo K3tchum> +
+[10:39:11] <Flo K3tchum> passiert nix
+[10:39:11] <Flo K3tchum> 😀
+[10:39:12] <DMC05> hutnahe
+[10:39:13] <ForTN0X> Sofia bist du 29?
+[10:39:14] <nofuckinghero2> Weinsemmel 💜
+[10:39:15] <Cutthroat02> da freut man sich auf moin moin :-) und dann das
+[10:39:17] <Viper3062> saufiaeskaliert
+[10:39:18] <JotunnLoki> Rage_Roughfia 💜
+[10:39:22] <Wolfsrudel85> Kein Schwein versteht Snapschat 😑
+[10:39:26] <B42K1NG> emos...
+[10:39:27] <FlashGamer> weinemmel als gamertag
+[10:39:29] <Gamemonster82> FapChad 😶
+[10:39:29] <Flo K3tchum> Sofia ist 17 Jahr und hat blondes Haar
+[10:39:29] <Ceziᴴᴰ> wooow regie skills ❤️
+[10:39:30] <GreyPilgrim> TIm & Sofia 💜
+[10:39:31] <Viper3062> Zoomception
+[10:39:32] <kleine fussel> Regie 💜
+[10:39:36] <DMC05> miesen schweine
+[10:39:38] <Jeantastic> ich hab gehört du magst gerne sachen von gunnar aus new york schneiden
+[10:39:40] <MinaLeFay> Emo-Praktikum: Wir haben sehr viel geschnitten..
+[10:39:44] <llLexxlll> zusammen geschnitten...hmmmm... so nennt man das heute
+[10:39:45] <CommonYouTubeUser84> Nettes Buttplug
+[10:39:48] <irondrax> Das war bestimmt Simon
+[10:39:49] <KO.s Oo> die luft ist raus
+[10:39:50] <DMC05> Flo harten wars
+[10:39:52] <Olliwood09> 😫
+[10:39:59] <Vincent Vegaaa> rip pups sounds
+[10:40:00] <DMC05> oder gunnar
+[10:40:02] <Mauli Coding> was ist das für 1 Buttplug 👿
+[10:40:06] <Flo K3tchum> ich check snapshat nicht. hatte mir das runtergeladen aber verstehe nicht wie ich Inhalte von leuten sehen kann
+[10:40:09] <DMC05> porn ^^
+[10:40:11] <Ceziᴴᴰ> kann die regie  sofia auch auf den kopf drehen oder vertikal spiegeln?
+[10:40:17] <ninthprime> Perfekter PS4 Name! Furz17 !!!!
+[10:40:17] <Narakhin> Furz 12 ist mein Favorit. 😏
+[10:40:24] <B42K1NG> korrigiere: sofia war besochen und dachte sie "räumt mal ein bisschen auf"
+[10:40:31] <gromsbard> FartZia
+[10:40:33] <Lemur Schachtelrad> Sofia Cuts 💜
+[10:40:39] <Gamemonster82> 1 nicer Buttplug 😯
+[10:40:39] <Martin Berwald> FartZilla
+[10:40:39] <Dreck Fresse> also furzsound mach ich selfmade, kein ding.
+[10:40:40] <John D. Ray> Ich galube das ist das erste Moin Moin von Sofia was mich interessiert
+[10:40:44] <DMC05> nur vids ^^ xD
+[10:40:44] <Narakhin> Sofartia
+[10:40:45] <irondrax> Sofia furzt
+[10:40:45] <Viper3062> SofiCuts
+[10:40:45] <GalvaBart> können wir abstimmen? 😀
+[10:40:46] <MinaLeFay> Artsy Fartsy
+[10:40:46] <Wolfsrudel85> 4! 😯
+[10:40:49] <Flo K3tchum> Sofia Cuts
+[10:40:52] <ManganGER> jeder furzt mal schnell in sein mic und schickt es an rbtv
+[10:40:53] <KatarzynaLenkaSabria> haha 😀
+[10:40:53] <Katapultoffel> SO4A_Cuts
+[10:40:54] <KO MA> Alles ist ein Dildo
+[10:40:56] <GernhardtReinlunzen> da kam aber land mit
+[10:40:57] <Se7en> 😅
+[10:40:58] <Esusa> lol
+[10:41:01] <GreyPilgrim> der kam mit Land 🌝
+[10:41:03] <ManganGER> Da kommt was mit
+[10:41:03] <Sascha Robel> #pupsesindlustig ...
+[10:41:04] <Martin Berwald> Hi, Ich bin 36 und liebe Furzsounds
+[10:41:06] <YinYang> wow soviel arbeitslose sozialschmarotzer hier
+[10:41:07] <Johannes Hofer> Fartia
+[10:41:07] <Der Corona> Die Buxe ist voll
+[10:41:08] <Gamemonster82> 😁
+[10:41:08] <GalvaBart> omg, das war ein feuchter furz
+[10:41:09] <carlhauser> der braune ton
+[10:41:09] <DMC05> aresheFarty als agmertag ^^
+[10:41:10] <Jeantastic> da kam was mit
+[10:41:10] <501.legion> nun
+[10:41:10] <Tim Schenker> erinnert mich an crash bandicoot
+[10:41:10] <JuletzMusic> :D
+[10:41:12] <Wolfsrudel85> Altersgrenze 29, verstehe 🌝
+[10:41:12] <KoRn1988> pofia supst
+[10:41:12] <Novak> DIE LEGION
+[10:41:13] <MG Smooth> der sound in ark is auch zimelich gut^^
+[10:41:13] <Olliwood09> 😂
+[10:41:14] <Flo K3tchum> Sofia Farts
+[10:41:15] <WalkingBean> rtl niveau !!!11elf
+[10:41:15] <crying_devil> omg, jetzt lacht sie wieder WutFace
+[10:41:16] <Dreck Fresse> das warn noch keine 17 😉
+[10:41:18] <Krawalte> 💜
+[10:41:18] <Der Dengel> Ah, Simon ist aufgestanden.
+[10:41:19] <John D. Ray> Ich finde interessant wie man ein Video Schneidet
+[10:41:20] <Brainex> is das widerlich hier xD
+[10:41:20] <Zumina> ich geh mal ein paar Sounds aufnehmen Kappa
+[10:41:21] <KamikazeJoe> Eine Frau die über Fürze lachen kann *-*
+[10:41:22] <Florian Hülse> SCHURZ
+[10:41:22] <501.legion> @YinYang na na
+[10:41:24] <Katapultoffel> Pofia
+[10:41:25] <Flo K3tchum> Kommt direkt aus ihr, geschickt vertuscht
+[10:41:26] <Artur Frost> lachgas 😀
+[10:41:26] <SLyR1x> das war ja ein feuchter flattermann😁😁😁
+[10:41:28] <NEO MIMZY NEO MIMZY> Pupsluftinhaler
+[10:41:29] <ninthprime> Wie sagte der große Louis CK "man muss nicht intelligent sein, um über einen Furz zu lachen. Aber man muss dumm sein, um es nicht zu tun"
+[10:41:29] <FlashGamer> @KO MA Sinn?
+[10:41:30] <Jeantastic> fartsykatsy
+[10:41:32] <Adianime Ecchi> Pupsfia 💜
+[10:41:33] <Zaldarion> mit material 😯
+[10:41:33] <NerdsCook> Wer löscht denn solch einen Ordner? RIOT
+[10:41:35] <nofuckinghero2> Cyanide and Happiness 👍
+[10:41:36] <Sascha Kullmann> Ich krieg mich auch net mer ein 😀
+[10:41:49] <GrAmEr Freak> Moin moin
+[10:41:49] <MirkoPhon> #WirWollenFurzSounds!
+[10:41:58] <Ceziᴴᴰ> hexerei 😱
+[10:41:59] <DaBlackMac> mehr furzen!
+[10:41:59] <GrAmEr Freak> Ihr sucht  Sound
+[10:42:02] <DMC05> lernt man sowas heute nicht in der schule ? ^^ xD
+[10:42:04] <Katapultoffel> moin
+[10:42:07] <Flo K3tchum> laut Bohnenwiki hat Sofia für Red Bull gearbeitet, dass ist echt interessant
+[10:42:07] <Ceziᴴᴰ> hau ihn um sofia hau ihn um
+[10:42:15] <GrAmEr Freak> Furzen the best
+[10:42:16] <Dunkle_Prophezeiung> Der letzte war aber ein ziemlich feuchter. Mal schauen ob die hose noch sauber ist.
+[10:42:16] <shadoom> BELL 💜
+[10:42:26] <Flo K3tchum> von RB zu RBTV
+[10:42:26] <Ed Zimmerman> 😁
+[10:42:29] <erraktrops> @yen
+[10:42:29] <Olliwood09> altes MoinMoin 😞
+[10:42:46] <Flo K3tchum> @Olliwood09 heja bvb
+[10:42:46] <crying_devil> so ein quatsch
+[10:42:47] <GreyPilgrim> 😏
+[10:42:48] <koopolis> Marlboro ‘M’ Brand Marijuana Cigarettes Now For Sale In Four U.S. States
+[10:42:49] <Jeantastic> feuchtpapier > klopapier
+[10:42:51] <xChrisS41x> xD
+[10:42:57] <Paul Krambeer> WTF?!?
+[10:42:58] <MrVance210> ok ede, kann ich morgen kommen? 🌝
+[10:42:59] <Gamemonster82> OK Eddy 👍
+[10:43:05] <YinYang> @501.legion naja ist doch so, um die zeit
+[10:43:06] <Olliwood09> @Flo K3tchum 💜
+[10:43:07] <DMC05> sofia du wilst nicht wissen was ede für ein stuss redet ^^ 😉
+[10:43:08] <cytral 91> ICH MÜSSTE JETZT
+[10:43:11] <Paul Krambeer> Bin erstes mal dabei und gleich sowas ;)
+[10:43:15] <ՏΛИ ՏΞБΛՏϮأΛИ> das beste kommt noch ^^
+[10:43:19] <DMC05> der sagt auch trackballs sind unwichtig !
+[10:43:20] <Narakhin> Nächste Woche Gruppen-Darm-Entleerung bei Ede confirmed.
+[10:43:23] <ManganGER> so teures klopapier hat aufjedenfall so eine art feuchte
+[10:43:26] <Olliwood09> haha so gut damals
+[10:43:29] <1Garak> Bin dabei
+[10:43:29] <GalvaBart> einladung angenommen 😀
+[10:43:32] <501.legion> @YinYang sind ja immerhin noch Ferien 😀
+[10:43:33] <Flo K3tchum> @Olliwood09 💜 was haben unsere Jungs da Samstag veranstaltet? 😞
+[10:43:34] <DaWn Teemexcalibur> GEIL BIN DABEI
+[10:43:40] <JotunnLoki> Social-shitting
+[10:43:41] <DaBlackMac> das klingt nach nem Guten Anfang
+[10:43:41] <Ceziᴴᴰ> ersetz das kacken mut cutten klingt phonetisch fast gleich :D
+[10:43:43] <Marie P.> In meinem Badezimmer darf kein fremder groß
+[10:43:43] <Ranessin Strabo> Feuchtpapier -> verstopfte Abwasserleitungen -> überlaufende Toilette
+[10:43:45] <Katapultoffel> SO4A_Cuts oder POfia
+[10:43:46] <Olliwood09> @Flo K3tchum Blamiert
+[10:43:48] <KO.s Oo> ich klaue immer sans papir auf arbeit ist billiger
+[10:43:51] <dabeiabzwei> Mit Buttplug ist schlecht kacken😁😆
+[10:43:51] <Christian Schmetz> hi
+[10:43:53] <DMC05> klopapier was aus trocknet
+[10:43:57] <DaWn Teemexcalibur> YOUTUBE DEUTSCHLAND IM VERFALL XD
+[10:43:58] <John D. Ray> Sofia ich habe Michel Reinkes Gothic 2 Spitznamen One-Hit-Micha erfunden
+[10:44:07] <Harry_Bo> moinis pickelhaube nun
+[10:44:09] <MinaLeFay> In and Out kappa 😀
+[10:44:11] <Flo K3tchum> @Olliwood09 Leipzig war leider wirklich gut 😞 aber 0 Schüsse aufs Tor?
+[10:44:11] <cytral 91> @Ranessin Strabo Es gibt Feuchtes Toilettenpapier, davon verstopft gar nichts 😛
+[10:44:11] <1Garak> aldi Klopapier ist das beste
+[10:44:12] <DMC05> btw sofia morgens schneiden ist nicht gut der ganze cut wird eh überarbeitet^^xD
+[10:44:17] <Jeagall> achsoo ist das , danke Oo
+[10:44:17] <ninthprime> @dabeiabzwei dafür gibt es extra hohle mit Verschluss, die kann man durch tragen 😃
+[10:44:18] <MG Smooth> ich bin ma raus...hier is zu viel los jetzt...peace out an die nachtschwärmer
+[10:44:20] <Theorak> das gude in-out-spiel
+[10:44:22] <KO.s Oo> spart bei klopapir das ergebnis ligt auf der hand
+[10:44:24] <NerdsCook> #ordentlichkacken
+[10:44:24] <nofuckinghero2> 😯
+[10:44:33] <Flo K3tchum> @1Garak Aldi Klopapier beste
+[10:44:33] <Herr K.> das alte rein raus Spiel
+[10:44:35] <NiceSMG> nach benutzung wechselt der buttplug zu schockolade
+[10:44:37] <koopolis> The Adventures of Indiana Jones: Animierter Indy-Film erscheint am 29. September
+[10:44:44] <erraktrops> komma her
+[10:44:44] <dabeiabzwei> Baaaaaaah
+[10:44:47] <DMC05> aber noch besser als jedes inet tut ^^
+[10:44:48] <501.legion> nun
+[10:44:50] <JotunnLoki> 💜
+[10:44:53] <NiceSMG> was ist das für 1 schockoeis
+[10:44:55] <Flo K3tchum> !cd larissa
+[10:44:59] <Der Dengel> und was passiert, wenn man 2x punkt, 1x komma und einen strich setzt?
+[10:45:02] <DMC05> Regie kann das nicht ^^ xD
+[10:45:05] <cytral 91> !cd larissa
+[10:45:05] <FenderFlix> .
+[10:45:11] <NerdsCook> 2girls1ede
+[10:45:16] <DMC05> sofa dat augen xD
+[10:45:21] <DMC05> +i
+[10:45:34] <inge braun> Der Indy ist schon süsser Hund
+[10:45:34] <derChrisi> Denn kacken kacken ist ihm wichtig
+[10:45:39] <Flo K3tchum> poops
+[10:45:41] <Flo K3tchum> poopz
+[10:45:43] <Gamemonster82> nackt auf einem 🐑 💜
+[10:45:43] <DMC05> das wars
+[10:45:52] <MrJohn> sofia findet arno langweilig 🌝
+[10:45:55] <Ceziᴴᴰ> 😅❤️
+[10:45:58] <Flipp 5> Nein.
+[10:45:58] <Octobre1986> nö
+[10:45:59] <Mund freude> haha 😀
+[10:45:59] <DaWn Teemexcalibur> WASSSS
+[10:46:01] <NiceSMG> gregott 💜
+[10:46:03] <MeowMiaou> nein
+[10:46:05] <Jeagall> nicht lustig.
+[10:46:05] <Jeantastic> die geräusche von eddy müssen rein
+[10:46:06] <Til Maan> wunderschöne augen
+[10:46:06] <W0ARPoppY> nein, aber geschmunzelt.
+[10:46:06] <blorbitalframe> alwin 💜
+[10:46:07] <MinaLeFay> Wo ist die Sonnenbrille eigentlich?
+[10:46:07] <R. K.> Ich lachte
+[10:46:07] <Dondon Don> bischen🌝
+[10:46:11] <Butcher32> Gregott 💜
+[10:46:14] <thestr4ng3r> Jamas
+[10:46:16] <Kira Sternenfeuer> derChrisi und Klopapier ^^
+[10:46:17] <NEO MIMZY NEO MIMZY> ede ist immer lachhaft 😉
+[10:46:21] <Olliwood09> nach Beans on ice ^^
+[10:46:25] <501.legion> nom nom
+[10:46:28] <Gamemonster82> 😂
+[10:46:28] <Theorak> beans on Ice Winner
+[10:46:29] <OVERLOAD949494> NEW SPONSOR! Welcome OVERLOAD949494!
+[10:46:30] <KatarzynaLenkaSabria> ich freu mich schon auf das best of
+[10:46:30] <W0ARPoppY> ich bin farbenblind... ist das nicht alwin?
+[10:46:31] <Hari Seldon> Hammertime!
+[10:46:34] <Ceziᴴᴰ> ich bin momentan am überlegen ob ich ein supercut von dem letzten almost plaily mache 😅
+[10:46:35] <JanIngwer> gregor so peinlich
+[10:46:35] <Narakhin> Gregor Moin Moins ... 😴
+[10:46:36] <Valkyrie0025> alles toll sofia...versuche den kaffee zu trinken ohne klothemen im kopf zu haben ^^
+[10:46:37] <DaWn Teemexcalibur> ach du heilige st. shit
+[10:46:39] <PandaBlack> @OVERLOAD949494 😀
+[10:46:43] <derChrisi> Yamas
+[10:46:45] <ElectroVoIt> this clip was sponsored by nicenstein 😸
+[10:46:47] <Braccalone> 🐥🐥
+[10:46:47] <501.legion> JAMAS
+[10:46:48] <DMC05> was ?!
+[10:46:50] <DMC05> xDDDD
+[10:46:50] <Wolfsrudel85> Anspruchsvolle Arbeit 😼
+[10:46:58] <DMC05> jaaa jaa das sagte ich auch schon mal ^^
+[10:47:01] <Die Schwarze Bohne> Wie kann man Videos rückwärts abspulen?
+[10:47:01] <NEO MIMZY NEO MIMZY> Sailermoon 💜
+[10:47:01] <Jeremy Behne> YAMAS
+[10:47:03] <Tomatopotatouu> :D
+[10:47:04] <B42K1NG> was is denn mit Alwin los O_o
+[10:47:06] <cytral 91> Gregott
+[10:47:08] <DaWn Teemexcalibur> GEIL
+[10:47:12] <AcamBash> Gregott
+[10:47:12] <OVERLOAD949494> @PandaBlack so bin jez VIP^^
+[10:47:13] <DMC05> doch ^^
+[10:47:14] <DaWn Teemexcalibur> DOCH
+[10:47:14] <Laberdude deluxe> yamas
+[10:47:16] <Dunkle_Prophezeiung> Sofia zieht uns aus mit Ihren Blicken.
+[10:47:16] <Wojcech Berbatov> sofia😍
+[10:47:21] <Beezy 23> 😂 gregor
+[10:47:22] <NiceSMG> Gregor = Niveucontent
+[10:47:23] <Jeagall> ne, sind after effects
+[10:47:23] <DaWn Teemexcalibur> na und
+[10:47:24] <W0ARPoppY> wurde ja renoviert
+[10:47:27] <501.legion> @OVERLOAD949494 👍
+[10:47:28] <Peter Silie> Hauptgrund für die REnovierung
+[10:47:29] <Philipp Dorn> Und Chili liegt auch noch irgendwo
+[10:47:30] <Vencarii> da liegt schließlich schon Chili aufm Boden! 😛
+[10:47:30] <Kleine Frida> Sofias Arbeit ist ja richtig... effizient. 😀
+[10:47:32] <NEO MIMZY NEO MIMZY> ich mein hier liegt Chili Con Carne
+[10:47:36] <DMC05> colin "kackt" ne wurst ins studio ^^ xD
+[10:47:37] <1Garak> 👾☻👍
+[10:47:40] <Olliwood09> haha
+[10:47:42] <Drudron> nice 😀
+[10:47:42] <NiceSMG> ^^
+[10:47:42] <Butcher32> 😀
+[10:47:42] <DMC05> oh nein ^^
+[10:47:45] <Monty> Genau, Gregor hebt das Nideau der anderen
+[10:47:46] <Narakhin> Oh Gott, nicht Marco und Ben!!!
+[10:47:46] <MrJohn> 👬
+[10:47:48] <xChrisS41x> hahaha
+[10:47:49] <DMC05> bitte nicht
+[10:47:51] <Gamemonster82> 😿
+[10:47:52] <Wolfsrudel85> Sofia ist vorbereitet 😯
+[10:47:53] <Olliwood09> 😧
+[10:47:54] <Lubitzkie> :D
+[10:47:54] <Marie P.> Sofia Braun 😮
+[10:47:59] <GreyPilgrim> 👬
+[10:48:00] <NiceSMG> classy
+[10:48:00] <Braccalone> 😪😪😪😪😪
+[10:48:01] <DMC05> ich hab das verdrängt
+[10:48:02] <501.legion> oh Gott xD
+[10:48:03] <EpsiFG> :DD
+[10:48:05] <Boerdii 188> hahahahaha
+[10:48:06] <Dunkle_Prophezeiung> xD
+[10:48:06] <Olliwood09> 👬
+[10:48:06] <Jeremy Behne> 👬
+[10:48:06] <Konou91> xD
+[10:48:07] <WalkingBean> wtf
+[10:48:07] <Mund freude> 😀
+[10:48:08] <XenoN> haha
+[10:48:08] <Narakhin> 👿 *Puke*
+[10:48:10] <GalvaBart> 👬
+[10:48:10] <Boerdii 188> moin 😀
+[10:48:10] <NEO MIMZY NEO MIMZY> omg
+[10:48:10] <MrVance210> Kreygasm
+[10:48:11] <MinaLeFay> Um Gottes Willen xDDD
+[10:48:12] <Beezy 23> nun 🌝
+[10:48:12] <DMC05> ich will nicht hin schauen
+[10:48:12] <Butcher32> xD
+[10:48:14] <GreyPilgrim> so wrong
+[10:48:14] <Wojcech Berbatov> sofia city
+[10:48:16] <FenderFlix> sofia is not amused
+[10:48:16] <DaWn Teemexcalibur> ok -.-
+[10:48:17] <Lubitzkie> 😀
+[10:48:18] <JotunnLoki> 😸
+[10:48:19] <Der Corona> Waaas? Marco und Ben im #moinmoin
+[10:48:19] <washiXD> PedoBen 😀
+[10:48:19] <NEO MIMZY NEO MIMZY> meh
+[10:48:20] <Dave> #studentenhabennichtszutun
+[10:48:22] <Ceziᴴᴰ> hhaha warum kenn ich das nicht
+[10:48:24] <Vlad Teppich> Bwahahahaha
+[10:48:26] <Martin Berwald> alter wie äh... geil...
+[10:48:30] <Kleine Frida> ohgott ist das cringy
+[10:48:33] <Wolfsrudel85> Da gab es 15 Uhr Sachen live PogChamp
+[10:48:33] <any beny> 😀
+[10:48:35] <Marie P.> lol
+[10:48:35] <Konou91> 🐻
+[10:48:37] <blorbitalframe> beerfia?
+[10:48:38] <Florian Hülse> ich brech weg
+[10:48:38] <MinaLeFay> Bierfia
+[10:48:39] <MrJohn> safia 🌝
+[10:48:39] <Jeagall> KappaPride ==> KappaPedo
+[10:48:41] <Dunkle_Prophezeiung> Saufia
+[10:48:41] <Olliwood09> so gay 😀
+[10:48:43] <Lubitzkie> Saufia
+[10:48:44] <ElectroVoIt> saufia confirmed
+[10:48:44] <DMC05> sofias blick = jeden respekt verloren ^^
+[10:48:47] <cytral 91> haha classic Saufia 😂
+[10:48:48] <KatarzynaLenkaSabria> haha 😀 sehr lustig. ich lache sehr viel 😃
+[10:48:50] <Lemur Schachtelrad> Nein, Sofia Cuts 😲
+[10:48:54] <Freelancer221> Das sieht nicht nur aus wie ein schwuler Softporne, nein, es klingt auch so
+[10:48:55] <Herr K.> Bierunterricht?
+[10:48:55] <MrVance210> nachmittags live content, never forget
+[10:48:57] <XenoN> der blick ist gold 😀
+[10:48:57] <W0ARPoppY> alter wtf
+[10:48:58] <Wojcech Berbatov> #zweizehengebroch #arbeitsunfall #frei
+[10:49:03] <Jeantastic> hat marco ne lederhose an?
+[10:49:05] <DMC05> was ? ???
+[10:49:07] <Dreck Fresse> o.O
+[10:49:07] <derChrisi> Sofia tötet Kaninchen 😂
+[10:49:08] <DMC05> xDD
+[10:49:09] <Ceziᴴᴰ> 🐇💨👍🏼
+[10:49:10] <GalvaBart> neeeeeiiin, das arme Kaninchen 😭
+[10:49:13] <KamikazeJoe> nope
+[10:49:14] <Kira Sternenfeuer> was hat se mit dem Kaninchen angestellt XD
+[10:49:18] <Gamemonster82> 😧
+[10:49:18] <Astora> Was geht hier ab?
+[10:49:18] <EpsiFG> xD
+[10:49:19] <JtMpS> 😲
+[10:49:19] <DMC05> alter ^^ xD
+[10:49:21] <ThatOneEwokThatDied> wtf
+[10:49:22] <Pissbacke> Wtf
+[10:49:22] <David> Oh MAn Sofia macht das MoinMoin.. so n scheiss. bin wieder weg,tschau
+[10:49:23] <Dondon Don> 😭
+[10:49:24] <xChrisS41x> wtf
+[10:49:27] <Ed Zimmerman> Marco ist ne Schwuppe. Ich wusste es schon immer.
+[10:49:27] <llLexxlll> bitte wat?
+[10:49:29] <Kanzler985> PETA
+[10:49:29] <Lubitzkie> PETA
+[10:49:30] <Zeddy Man> sofia nhat ein lebendiges kaninchen gekocht????
+[10:49:32] <Killstriker> 😭
+[10:49:33] <KamikazeJoe> iss ne jeans, die glanzeffekt drin hat
+[10:49:34] <Fan - Tom> we te ef
+[10:49:35] <FlashGamer> PETA
+[10:49:38] <Marie P.> PETA
+[10:49:38] <NerdsCook> pedobär, ähh ben
+[10:49:41] <DMC05> sie will marco töten xD ^^
+[10:49:41] <Kira Sternenfeuer> Ihr neuer Ingamename lautet Kanickelkiller
+[10:49:41] <JtMpS> Alle guten Geschichten haben Vaseline und ein Kannichen dabei...
+[10:49:44] <Kleine Frida> yay. tierversuche.
+[10:49:48] <Astora> schneidet sie oda einfach nur random Videos angucken? :D
+[10:49:48] <Christian Rose> waaaaaass???
+[10:49:52] <Aya Kocher> wir wolen premiere tutorials liebe sofia 😀
+[10:49:54] <DMC05> alter sofia xD
+[10:49:56] <Amidala191> waaas? 😞
+[10:49:56] <DMC05> ;D
+[10:49:59] <Dondon Don> 🍖
+[10:50:01] <DMC05> digger alter ;D
+[10:50:01] <nofuckinghero2> Ton async 🙈
+[10:50:04] <Steffen Arbeit> boah, wie gemein
+[10:50:06] <Olliwood09> schläfer Sofia ^^
+[10:50:06] <thestr4ng3r> fucked
+[10:50:07] <Ceziᴴᴰ> das standbild haha
+[10:50:12] <Peter Muffin> bio 😴
+[10:50:17] <DMC05> hahahaha xD
+[10:50:19] <Gamemonster82> 🐇💨 😮
+[10:50:21] <Marie P.> Karotten raus für Kaninchen
+[10:50:26] <DMC05> regie sagte sag mäuuusseee ^^
+[10:50:27] <FlashGamer> mäuse 😭
+[10:50:31] <DMC05> jaa ajaaaa jaaaa jaaa xD
+[10:50:31] <Christian Rose> ist es gut das die flüssigkeit ab geht?!
+[10:50:32] <501.legion> @nofuckinghero2 eigentlich ist der Stream sync, lad das Fenster vielleicht mal neu
+[10:50:33] <Pissbacke> 😅
+[10:50:35] <seanchane> Ähm...
+[10:50:35] <JtMpS> Aus dem Hasen wurde eine blaue Maus?
+[10:50:41] <DMC05> ich glaub nix mehr nach dem die regie gesaved hatte xD
+[10:50:43] <Trailerschau | aka. TheGreeter> ich dachte, die hätten die mäuse besoffen gemacht :d weil sei sagte, dass die blau waren :DD
+[10:50:44] <124horst> achso blauuuuuuu 😀 ich dachte besoffen
+[10:50:48] <Lemur Schachtelrad> Sofia war doch selbst ne blaue Maus
+[10:50:49] <GalvaBart> 🐰🐇
+[10:50:55] <cytral 91> @Marie P. Wenn du das sagst 🌝
+[10:50:55] <PandaBlack> @501.legion ne, ist minimal async 😕
+[10:50:55] <Lubitzkie> Die Tiere wollen gekocht werden Kappa
+[10:50:56] <Martin Berwald> Blaufia?
+[10:51:00] <Relnos> TCA
+[10:51:10] <501.legion> @PandaBlack hm, bei mir nicht 😀
+[10:51:20] <Saubstauger> so geht wiessenschaft! möglichst die besten werte haben.
+[10:51:22] <CdreiPoh> is schon dezent async
+[10:51:25] <Olliwood09> wtf ? PETA
+[10:51:26] <MasterRaik> oO
+[10:51:30] <Valkyrie0025> bei mir auch ..minimal
+[10:51:30] <GreyPilgrim> Peta 😠
+[10:51:32] <cytral 91> Bei mir ists 100% sync
+[10:51:34] <MasterRaik> da freut sich jemand
+[10:51:34] <JtMpS> Tierquälerei?
+[10:51:35] <Dizzer Idoo> hmmm....
+[10:51:35] <DMC05> noch mal quääälen xD
+[10:51:41] <Lemur Schachtelrad> Einfach den Tab neuladen
+[10:51:41] <DMC05> xDDDDD
+[10:51:45] <Der Dengel> "muss man dabei gewesen sein"
+[10:51:50] <jannikkinaj> ui der war feucht
+[10:51:51] <Gamemonster82> sein Knie 🌝
+[10:51:51] <DMC05> oh nein mach das weg
+[10:52:00] <DMC05> maach das bitte weg
+[10:52:05] <GreyPilgrim> ne ist mir nicht aufgefallen 🌝
+[10:52:06] <DMC05> nein
+[10:52:06] <501.legion> nochmal!
+[10:52:08] <Aux> bisschen verstörend
+[10:52:08] <Fritz Kalus> muss ja au ma sein
+[10:52:11] <ThatOneEwokThatDied> nein merkt man gar nicht 🌝
+[10:52:14] <SirJethro> "Knie"
+[10:52:15] <cytral 91> Ne is mir gar nicht aufgefallen... 🌝
+[10:52:16] <MrJohn> nein nicht gemerkt 🌝
+[10:52:17] <Olliwood09> 😂 Gay
+[10:52:18] <kleine fussel> maches bitte weg
+[10:52:20] <Narakhin> Es wäre nur halb so eklig, wenn Marco es nicht so genießen würde.
+[10:52:20] <NEO MIMZY NEO MIMZY> wie Ben sich langsam zum Schwanz vortastet 😉
+[10:52:21] <Pissbacke> Hahaha
+[10:52:22] <DMC05> xDDD
+[10:52:25] <Jeagall> KappaPedo
+[10:52:25] <PandaBlack> RIP Bens Bein 😖
+[10:52:28] <MasterRaik> KappaGay
+[10:52:31] <Martin Berwald> Die Stimmen von Marco und Ben sind großartig
+[10:52:32] <Theorak> I've seen shit
+[10:52:33] <Gamemonster82> 😂
+[10:52:33] <DMC05> wo schaust du hin sofia XD
+[10:52:34] <Der Chad> 😺
+[10:52:34] <Jeremy Behne> 👬
+[10:52:37] <Buden AareSeelAnd> ogword
+[10:52:40] <derChrisi> 😂
+[10:52:44] <124horst> KappaPride
+[10:52:44] <JotunnLoki> 😏
+[10:52:44] <DMC05> teebagging ^^
+[10:52:45] <dabeiabzwei> Marco reitet wohl auf dem Buttplug😂
+[10:52:47] <Lubitzkie> Nasti ist eifersüchtig Kappa
+[10:52:48] <Wojcech Berbatov> etwas akward
+[10:52:49] <DMC05> on the knee
+[10:52:50] <501.legion> nun
+[10:52:51] <Mauli Coding> möchte auch auf Bens bein sitzen 😖
+[10:52:51] <Esusa> omg
+[10:52:53] <Olliwood09> 😑
+[10:52:55] <Marie P.> orkwort
+[10:52:57] <B42K1NG> pretty hawkward 🐤
+[10:52:59] <kleine fussel> "langsam" ... ja, ganz langsam
+[10:53:00] <Jeantastic> LUL
+[10:53:01] <Bahamuth FF> verbrennt das
+[10:53:02] <DMC05> nee bitte weg ^^ 😉
+[10:53:02] <KO.s Oo> das hilt mir wirklich sehr ich komm mir schon vor wie ein echter cuter
+[10:53:05] <GoldGamer> Von wann ist das MoinMoin gewesen?
+[10:53:10] <124horst> krogaaaazer
+[10:53:13] <FenderFlix> uiuiui
+[10:53:15] <501.legion> #SexyFlo
+[10:53:15] <nofuckinghero2> KROGAZOR
+[10:53:19] <DMC05> doch das ist die oma ^^
+[10:53:19] <Fritz Kalus> flozen
+[10:53:21] <Bahamuth FF> krogazer
+[10:53:22] <Ceziᴴᴰ> krogazor <3
+[10:53:26] <Angelo Overmeier> xD
+[10:53:27] <Boerdii 188> flo 💜
+[10:53:31] <Saubstauger> wer ist flo?
+[10:53:33] <Boerdii 188> JA
+[10:53:33] <Wolfsrudel85> Flo 👿
+[10:53:35] <DMC05> nein !
+[10:53:37] <Gamemonster82> Jaaaaaa
+[10:53:37] <Dizzer Idoo> Anja 💜
+[10:53:38] <blorbitalframe> ookay...
+[10:53:39] <Battgamer> jaa!
+[10:53:39] <Crazy Zwayze> JA
+[10:53:39] <DMC05> nein !!!!!!
+[10:53:40] <RockBee89> 😀
+[10:53:40] <khayjeet> El Sexisto 🐸
+[10:53:41] <Wojcech Berbatov> krogazinovic
+[10:53:42] <cytral 91> haha 😀
+[10:53:44] <Firebreath> yeah
+[10:53:45] <Angelo Overmeier> intim im stream xD 😀
+[10:53:47] <ChronicE99> naja, keiner sieht flos linke hand
+[10:53:49] <Heinrich Heinrichson> Anja 😚😚😚😚
+[10:53:50] <derChrisi> Flo hat einen harten?
+[10:53:50] <GalvaBart> krogazer
+[10:53:50] <Valkyrie0025> lol
+[10:53:50] <cytral 91> Ist Anja ganz links? 🌝
+[10:53:52] <Kira Sternenfeuer> Flo hat Harten?
+[10:53:53] <Kleine Frida> #intimimstream 💜
+[10:53:54] <124horst> Krogi is love
+[10:53:57] <ElectroVoIt> 😸
+[10:53:58] <Realjimknopf44> Guter Show Name also steht die Sendung zu 90%
+[10:54:07] <chusak> hahahaha
+[10:54:08] <Kira Sternenfeuer> derChrisi war schneller ^^
+[10:54:09] <XenoN> hahah
+[10:54:09] <Wolfsrudel85> Der kann gerne 'n eigenen Channel haben, nur nicht meh rhier
+[10:54:10] <Crazy Zwayze> xD
+[10:54:11] <Gamemonster82> 😀
+[10:54:11] <shadoom> :OOO
+[10:54:12] <Firebreath> alter xD
+[10:54:13] <Pissbacke> Haahha
+[10:54:13] <GreyPilgrim> 👍
+[10:54:14] <blorbitalframe> hmmm....
+[10:54:15] <chusak> sein humor ist einfach der beste 😀
+[10:54:15] <Olliwood09> da machten sie Wassereis ^^
+[10:54:16] <Dondon Don> 😁
+[10:54:17] <Felix M> ist das peinlich. geil.
+[10:54:18] <DMC05> deswegen darf er nicht vor die cam !
+[10:54:19] <JuletzMusic> Flo <3
+[10:54:24] <Bahamuth FF> krogazer
+[10:54:25] <Lemur Schachtelrad> Ahahaha 😀 Flo
+[10:54:26] <kleine fussel> 5 leute 😀
+[10:54:35] <Dizzer Idoo> 3000 💜
+[10:54:36] <124horst> Bitte Nastys Freez-Face aus der Folge zeigen!
+[10:54:42] <Ceziᴴᴰ> redet gerade der Vergangenheits Krogi mit soso oder der  gegenwarts krogi aber ist der gegenwartskrogi nicht wegen delay der Vergangenheitskrogi?
+[10:54:44] <Wolfsrudel85> Was für 1 Idiot
+[10:54:45] <DMC05> schon fast 500
+[10:54:45] <MrJohn> 🌝
+[10:54:47] <NerdsCook> Fluenza 3000. Krogazer Folge O.o
+[10:54:50] <CdreiPoh> geilstenstein
+[10:54:51] <Bahamuth FF> saufia
+[10:54:55] <DMC05> sofa das wird so nix
+[10:54:59] <DMC05> sofia*
+[10:55:06] <Crazy Zwayze> Krogmann is Love
+[10:55:07] <Jeantastic> von dem moinmoin braucht es einen supercut, da gibt es nicht nur eine stelle
+[10:55:09] <NerdsCook> Da mach ich mir keinen Harten.
+[10:55:18] <Wojcech Berbatov> der alte kroganer der
+[10:55:19] <Ceziᴴᴰ> ich bin verwirrt
+[10:55:20] <DMC05> jaa bitte feuern !
+[10:55:28] <Gamemonster82> Anja hat recht
+[10:55:30] <Deuto> Moin Sofia 😃
+[10:55:31] <Joschka Zimdars> sofa auch ein guter name
+[10:55:38] <Olliwood09> 4 jahre 😀
+[10:55:39] <Cascarielle Droggelbecher> loooooooooooooool
+[10:55:47] <Aya Kocher> das erinnert mich an OKB. Beeeelaaau
+[10:55:50] <Bambus Ratte> Geht mal alle schlafen Kappa
+[10:55:54] <124horst> Das hast du von mir krogi
+[10:55:54] <MinaLeFay> Könnte bitte jeder #intimimstream zum trenden bringen? xD
+[10:55:58] <DMC05> okey sofia ^^ xD
+[10:55:59] <nofuckinghero2> Krogi 💜
+[10:56:01] <Heinrich Heinrichson> NAsti 😚😚😚😚😚
+[10:56:03] <Gamemonster82> 😧
+[10:56:03] <Wojcech Berbatov> sofia die alte balkan hauptstadt
+[10:56:06] <DMC05> wo drinne fragen wir nicht ^^
+[10:56:06] <cytral 91> Krogi is te best
+[10:56:09] <Olliwood09> haha
+[10:56:10] <Narakhin> "Da war jeder mal drin..." 😏
+[10:56:14] <DMC05> ja war jeder drinne xD
+[10:56:15] <GreyPilgrim> 🌝
+[10:56:16] <Viper3062> Wie Anja Blödsinn gelaber hat in dem Moin Moin
+[10:56:17] <Flipp 5> that's what he said
+[10:56:19] <erraktrops> da war jeder mal drin 😀
+[10:56:19] <Jeantastic> thats what she said
+[10:56:25] <Miss E> Was is denn hier los? Moinmoinception? xD
+[10:56:27] <washiXD> Könnte mal einer bitte Werbung ausm Chad kicken? 🌝
+[10:56:33] <Ceziᴴᴰ> can you dig it <3
+[10:56:39] <ElectroVoIt> can you dig it😸
+[10:56:46] <Wolfsrudel85> Frühe rwar man auch mal zeitig in der Firma confirmed
+[10:56:46] <DMC05> übersprungen
+[10:56:47] <501.legion> @washiXD Werbung? 😀
+[10:56:49] <MrJohn> is doch kein problem 😸😸
+[10:56:51] <Bambus Ratte> Moin Moin Analyse 2016
+[10:56:51] <Wojcech Berbatov> #moincipationn
+[10:56:54] <DMC05> da hat lars bei dir gewohnt
+[10:56:55] <Olliwood09> Nasti bekam damals der Cocktail nicht so gut 😀
+[10:56:56] <Gamemonster82> Jeder war mal bei ihr hinten drin... TAXI 😁
+[10:56:58] <WalkingBean> Gunnar weiß nicht mehr wo er ist
+[10:56:59] <Bahamuth FF> kein alkohol
+[10:57:01] <Viper3062> Zeit in der Firma LUL
+[10:57:05] <Viper3062> Zeitig*
+[10:57:07] <gromsbard> SCHLUCK du luder
+[10:57:32] <Wojcech Berbatov> :D
+[10:57:42] <ThatOneEwokThatDied> das war bestimmt noch früher
+[10:57:43] <Cascarielle Droggelbecher> stückchen drin? bah... *lol*
+[10:57:44] <Olliwood09> lol lag wohl am Alk 😉
+[10:57:53] <DMC05> so cuttet man nicht sofia:O ^^ xD
+[10:57:54] <Narakhin> Anja sieht so happy aus. 😀
+[10:57:58] <Vincent Vegaaa> das letzte abendmahl
+[10:58:07] <Ceziᴴᴰ> Glückseligkeit ❤️
+[10:58:08] <DMC05> warum sagst du sowas sofia xD ^^
+[10:58:11] <Aya Kocher> Sofia deine Hose ist kaputt
+[10:58:15] <cytral 91> Black GloryHole 🌝
+[10:58:16] <Bahamuth FF> krogi
+[10:58:17] <Der Corona> Die rechte seite von dem Bild sieht glücklich aus
+[10:58:19] <Jeagall> I bah
+[10:58:23] <Viper3062> Sofia kann sich keine Hose leisten 😞
+[10:58:25] <Esusa> Krogi<3 mach es
+[10:58:27] <Viper3062> Spendet!
+[10:58:29] <Viper3062> sofort!
+[10:58:30] <DannyTheKidd> knie😚
+[10:58:32] <MrJohn> 🌝 /
+[10:58:34] <MinaLeFay> Ja, weil Sofia ja nicht die beste Cutterin bei rbtv ist, abgesehen von Gregor ....
+[10:58:34] <erraktrops> mit currant
+[10:58:35] <wurstbert> alright
+[10:58:38] <Esusa> Krogi 💜 Krogi 💜
+[10:58:38] <ElectroVoIt> Krogi könnte ein ganzes Moin Moin nur mit seinen Catchphrases füllen ohne sich auch nur ein einziges mal zu wiederholen 😸😁
+[10:58:39] <KO.s Oo> sofia sollte dise folge moin moin als erektion video noch mal machen und dann noch mal und dann noch ma
+[10:58:39] <Alex Alex> ho
+[10:58:42] <cytral 91> Knie macht mich horny 🌝
+[10:58:42] <inrespekkt> let's did it 🐸
+[10:58:44] <Hari Seldon> 😸 // 😮
+[10:58:44] <Ed Zimmerman> Sie teilt sich die Hose mit Dennis R.
+[10:58:45] <Wojcech Berbatov> genau zieh die hose aus
+[10:58:48] <Marie P.> was gloryhole? .o
+[10:58:48] <Ceziᴴᴰ> krogmann ist einfach der beste stimmungsmacher der welt 💙
+[10:58:50] <Bambus Ratte> Kauft dir mal ne Hose 😆
+[10:58:55] <Narakhin> Alright! 😸😸😸
+[10:58:57] <NerdsCook> Wir sollten einen Leetchi- Pool für Sofias Hosen bilden und Geld sammeln!
+[10:59:01] <JtMpS> "Die alten `Moin Moin`waren viel besser. Was sollen wir tun?" - "Wir lassen eine Bühne einen Cut von den alten Folgen LIVE erstellen."... ok
+[10:59:02] <Jeantastic> früher hat man sich neue hose gekauft, wenn sie ein loch hatten, heute kauft man sich hosen mit löchern
+[10:59:03] <Bambus Ratte> Kauft dir mal ne Hose 😡
+[10:59:05] <Alex Alex> hi
+[10:59:08] <MasterRaik> für was den zusammenschnitt?
+[10:59:08] <Tomatopotatouu> krogi <3
+[10:59:10] <chusak> HULK HULK HULK
+[10:59:15] <Ed Zimmerman> Richtarski braucht auch neue Beinkleider
+[10:59:19] <DMC05> nein
+[10:59:30] <Ranessin Strabo> Völlig richtig!
+[10:59:34] <Mauli Coding> das was Sofia sagt
+[10:59:36] <DMC05> 😉 ^^
+[10:59:37] <thestr4ng3r> Nein
+[10:59:38] <koopolis> korrekt!
+[10:59:38] <PandaBlack> HULK HULK HULK 👮
+[10:59:40] <Cascarielle Droggelbecher> nein! 😀
+[10:59:41] <Kira Sternenfeuer> nein
+[10:59:42] <MasterRaik> nein
+[10:59:43] <Jeantastic> nein
+[10:59:43] <Dondon Don> nein
