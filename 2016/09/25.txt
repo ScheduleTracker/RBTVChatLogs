@@ -8201,3 +8201,848 @@
 [19:00:34] <Mike Äfer> Einen alten Laptop kann ich aber nicht in das Gehäuse eines GameBoys einbauen...
 [19:00:35] <+XAxeX> daniel rütgers es waren schon so 2,5k 😉 die angezeigt wurden + massig auf dem periscope stream 😀
 [19:00:35] <+DMC05> ich hab YT analystic in meinen einstellungen geblockt könnte auch ein grund sein
+[19:00:52] <deface> RiP
+[19:00:55] <PLATTENWALD CGN> Gregott ist so schlau 😃
+[19:01:05] <+XAxeX> dmc05 jop das kommt auch dazu das diese nicht angezeigt werden 😕
+[19:01:23] <+DMC05> @XAxeX ich denke das ist auch eher der Grund als das die leute nicht live schauen ^^
+[19:01:33] <Colonel_HoganV2> das ist so süß, als ob irgendwer von uns das SO machen würde 😀
+[19:01:36] <+DMC05> ob wohl ich auch verleutet bin nicht mehr live zuschauen dank YT
+[19:01:42] <Ziegod> nik013 bis 3 uhr
+[19:01:46] <+DMC05> verleitet* ^^
+[19:01:48] <BleiFry> ich mach das gerade so
+[19:02:10] <xzarrus> @Ziegod Und wie ist es?
+[19:02:10] <Chris Lippert> Echt super. Wusste nicht das es sowas gibt :)
+[19:02:16] <+XAxeX> dmc05 denke YT/google zeigt da eben auch nur soviele an wie sie per werbung erreichen können die ganzen kodi & livestreamer nutzer werden angeblich auch nicht reingezählt 😕
+[19:02:19] <+DMC05> also asynchron schauen seh ich eher als nachteil
+[19:02:27] <Mike Äfer> Adapter 😚 Ich liebe Adapter und unterstütze die Adapterindustrie sehr gerne. Deshalb kaufe ich auch immer Apple, die Könige der proprietären Anschlüsse. 😏
+[19:02:50] <nik013> @Ziegod sinds nicht mehr saufen gegangen?
+[19:02:53] <+DMC05> @XAxeX eben ... ist alles noch bissel zusehr baustelle ... aber YT halt ... RBTV hat mehr verdient
+[19:02:56] <Colonel_HoganV2> ganz ehrlich, jeder normale mensch zieht sich in 5 minuten die ganze nes bibliothek
+[19:03:05] <+XAxeX> dmc05 wobei das asychrone sehen sollte in der internen statistik angezeigt werden nur eben nicht in der "live zuschauer"
+[19:03:07] <Colonel_HoganV2> nicht schön, aber ehrlich
+[19:03:39] <Ziegod> xzarrus War ganz gut. Geht aber glaub nur bis ca 3\4 der ersten staffel. hab danach aus zeit gründen aufgehört weiter zu lesen
+[19:03:44] <+The Real Xorax> das wird er auch so machen aber er muss es so erklären xD
+[19:03:48] <+DMC05> @XAxeX nur wenn du den stream dann auch als VOD zeigst sonst sind die verloren
+[19:04:14] <Colonel_HoganV2> @The Real Xorax ganz ehrlich? gregor machts sicher so, das trau ich ihm zu
+[19:04:17] <xzarrus> @Ziegod Ahh okay. Merci 😃 habs nämlich hier liegen und werds demnächst mal anfangen zu lesen 😀
+[19:04:39] <Colonel_HoganV2> gregor ist kein mensch, er ist ein gott
+[19:04:46] <+The Real Xorax> kann sein ka viele games würden aber schon aufgrund des alters zu freeware werden
+[19:04:47] <Fox Eye> Was spricht Gregor da, ich verstehe nix 😲
+[19:04:54] <Ziegod> nik013 hatten sie eigentlich vor. Waren am ende aber wohl doch ziemlich geschafft. und 19h live stream reichen ja auch xD
+[19:04:54] <deutscher hanfverband> echt nais die retro box
+[19:04:59] <danktriefer424> er ist ein gregott
+[19:05:12] <+preysa> 10MB rip
+[19:05:16] <BleiFry> Ohne ihn wären wir nichts.
+[19:05:21] <+DMC05> wenn greg ein Richtiges netzteil hätte würde der RP3 nicht die MHZ auf 400 mhz runter regeln so könnte er auch ohne Probleme PSp games zocken xD
+[19:05:27] <PLATTENWALD CGN> Er ist so schlau. Wahnsinn! Wie machte er ds nur.
+[19:06:01] <deutscher hanfverband> ein 💜 für Retro Klub
+[19:06:05] <Lucy Karrer> wie lang streamen die?
+[19:06:07] <+DMC05> 💜
+[19:06:17] <PLATTENWALD CGN> 💜
+[19:06:27] <+DMC05> @Lucy Karrer für immer 😉 ^^ //heute um 20:15 ist wieder live 😉
+[19:06:31] <GedichtGold> 💜
+[19:06:32] <Sebb> @Lucy Karrer 24/7
+[19:06:34] <Mauricio C.> 24/7
+[19:06:39] <Cespi> tja wenn mircrosoft mal gleich ext4 treiber mitliefern würde...
+[19:06:41] <gabriel super games> kkkkkkkki
+[19:06:52] <Bardaouil> 720p ist die hälfte von 1080p
+[19:07:10] <+DMC05> was haltet ihr eig vom Play ANywhere ding von win10 und Xbox ?
+[19:07:11] <BleiFry> ok
+[19:07:27] <deutscher hanfverband> bei den ressourcenlastigeren emu´s könnte ja das banana-pie herhalten...
+[19:07:31] <Derpy Hooves> ja klar, 2x720=1080 weiss doch jeden 😂
+[19:07:53] <Bardaouil> @Derpy Hooves du bist ein genie. wie machst du das
+[19:07:58] <Christian Dreher> xD
+[19:08:00] <I Am Eduard> Kappa?
+[19:08:15] <deutscher hanfverband> geil , das menü flasht mich
+[19:08:26] <BleiFry> 💜 BobRoss
+[19:08:33] <SugarDaddy> warum nicht einfach emulator? 😀
+[19:08:41] <+JensFlares> RIP RBTV
+[19:08:44] <+DMC05> ich mag den RP3 alleine wegen Wlan ^^
+[19:08:58] <+DMC05> aber nur für ALte games dafür hab ich mein tablet
+[19:09:09] <+DMC05> jaa das macht der Pad auch beim Tablet ^^ xD
+[19:09:12] <deutscher hanfverband> @SugarDaddy weil das ding einige emus beinhaltet und simpler zu handhaben ist
+[19:09:12] <+DMC05> das *
+[19:09:13] <CavangoVulgora> 🐕💨
+[19:09:36] <CavangoVulgora> oh yeah axelay
+[19:09:38] <shadoom> das blinken kkann man inner setting fixen
+[19:09:43] <+DMC05> auf tablet kann man auch chillg PSP games zocken ^^
+[19:09:44] <DreckigerKleinerGollum> Gregor spielt plaback .. der Controller ist gar nicht connected
+[19:10:07] <BleiFry> Nein, er steuert mit seiner Gedankenkraft
+[19:10:13] <Bardaouil> Axeley 💜
+[19:10:17] <deutscher hanfverband> lol
+[19:10:33] <Christian Hubrich> wie heißt der emulator?
+[19:10:39] <Fox Eye> Hm, ich glaube Axelay hatte ich auf dem SNES mal durchgedaddelt
+[19:10:39] <SugarDaddy> @deutscher hanfverband das mag sein aber bei der schlechten performance macht es doch kein spaß?
+[19:10:43] <+DMC05> @DreckigerKleinerGollum nope 😉 das ding hab ich auch auf Tablet das das pad blinkt 😉 ^^ auch mit Joy2key ^^
+[19:10:44] <XxHordakxX> Kumpel von mir baut sich Arcade Automat so wie die früher waren. Weiss nicht ob ers mit dem Rasperry macht, wird ja nicht das Einzige sein was gibt
+[19:10:50] <Bardaouil> Rasberry Pie 3
+[19:11:14] <+Drachenherz> boar ich brauch ne pause von gregors stimme :X
+[19:11:20] <deutscher hanfverband> @SugarDaddy weis nich genau was du mit performance meinst.. layout des programms oder grafisch?
+[19:11:29] <XxHordakxX> für was sind die eigentlich primär gedacht ?
+[19:11:41] <+DMC05> @XAxeX ich weiss es nicht aber ich denke es sollte nur die frage ist wer hat darauf zugriff nur YT oder auch die admins xD ^^
+[19:11:43] <SugarDaddy> @deutscher hanfverband die spiele ruckeln teilweise
+[19:11:53] <XxHordakxX> das glaub ich gern
+[19:11:58] <+DMC05> Greg hat halt das falsche netz teil
+[19:12:08] <+DMC05> auf dem RP3 kannste alles zocken xD ^^
+[19:12:24] <GreatJaro> mit wem ist denn das heutige ad?
+[19:12:27] <Mindflayer86> Gregor braucht einen der für Ihn die Spiele spielt während er erzählt. Einen Katarina 😀
+[19:12:29] <XxHordakxX> 4x 1,3 Ghz glau bich
+[19:12:51] <deutscher hanfverband> @SugarDaddy achso, keine ahnung woran das liegt. aber wenn ich mir das zulegen wollte , würd ich wohl zu nem banana-pie tendieren ,die sind wesentlich stärker von der leistung her
+[19:13:14] <+DMC05> man kann auch opendolphin auf RP3 zocken 😉 ^^
+[19:13:19] <Bardaouil> Zeitreise jetzt möglich - mit dem Raspberry Pi 3
+[19:13:23] <XxHordakxX> haben die garkeinen SATA anschluss ?
+[19:13:32] <Tripple-A _96> oder einfach normale emus benutzen...
+[19:13:35] <+DMC05> also gamecube games bei Wii games eher nicht ^^
+[19:14:03] <Bardaouil> WinKawaks > random emulator
+[19:14:23] <+DMC05> @Tripple-A _96 wenn man kein custemmod macht mit eigenem LCD kann man mit dem RP3 viel bessere sachen anstellen xD ^^
+[19:14:39] <+preysa> warum sind Mäuse immer so scheiße verarbeitet?
+[19:14:48] <+DMC05> ich würde mir aus dem RP3 eher ein Handheld machen
+[19:15:07] <+DMC05> soo ein 7 zoll oder 5 zoll LCD bekommste billig ^^
+[19:15:07] <deutscher hanfverband> betterrbtv (browser plugin) is mal sehr nais 😃
+[19:15:08] <XxHordakxX> sind sie nicht, Maus wird halt extrem strapaziert
+[19:15:18] <+DMC05> @preysa kauf Logitech ^xD
+[19:15:34] <+DMC05> meien fällt jeden tag 3 mal runter die taste geht noch xD ^^ so halb ^^ xD
+[19:15:40] <XxHordakxX> oder Razer die halten viel aus, logitech eher nicht so, aber noch immer besser als billige
+[19:15:57] <+DMC05> @XxHordakxX jap man muss bei Logi glück haben xD
+[19:16:03] <CavangoVulgora> final fantasy 7
+[19:16:05] <PlayGroundBerlin> steelseries hab ich hier. ist auch super
+[19:16:06] <+preysa> ich mein ich habe mir zuletzt ne roccat gekauft weil teurer evtl hochwertiger. heute fällt mir mal kurz vom tisch und schon geht die rechte maustasten nicht mehr
+[19:17:17] <PlayGroundBerlin> welchen mini pc hat gregor dort?
+[19:17:17] <BleiFry> RiP
+[19:17:23] <PlayGroundBerlin> und welche distro?
+[19:17:29] <+DMC05> meien Logi M705 fällt jeden tag 3 mal von der couch .... noch läuft se
+[19:17:30] <Blodyck> hab gerade gesehen, dass schalke 2 spiele hintereinander 1 tor geschossen hat. es geht aufwärts 🌝
+[19:17:34] <Jannik John> Wann geht Almost Daily los ihr geilen Schnecken 🐌
+[19:17:37] <PlayGroundBerlin> hab retropie auf meine rbp3
+[19:17:58] <+DMC05> und die fällt zu 90% immer auf die linke maus taste ... die hat aber richtige switches heisst man muss nur bissel gewalt anwenen und schon kann man wieder klicken ^^
+[19:18:05] <+The Real Xorax> hat das gleiche glaub ich
+[19:18:17] <PlayGroundBerlin> ok thx
+[19:18:22] <deutscher hanfverband> @PlayGroundBerlin geht das programm auch auf banana-pie?
+[19:18:22] <+DMC05> und das maus rad lebt noch was mich wundert aka der maus rad klick 😉 ^^
+[19:18:24] <Blodyck> @Jannik John 20.5
+[19:18:30] <Blodyck> @Jannik John 20.15
+[19:18:35] <PlayGroundBerlin> ne glaub net
+[19:18:45] <Jannik John> Dange bei dir
+[19:18:57] <deutscher hanfverband> ok 😚
+[19:19:04] <PlayGroundBerlin> wobei banana pie ja leistungsfähiger ist. dort sollten ps1 spiele dann noch besser laufen
+[19:19:20] <Blodyck> @Jannik John Danger bei mir?
+[19:19:23] <deutscher hanfverband> ☝
+[19:19:24] <+DMC05> @PlayGroundBerlin kommtimmer auf den emulator an
+[19:19:51] <Jannik John> So sieht's aus
+[19:19:56] <+DMC05> aber jaa das Betiebsystem ist auch wichtig zur not macht man Open Android drauf und hat alles xD ^^
+[19:19:58] <PlayGroundBerlin> kennt jemand nen guten emulator für ps1 fürn rbp 3?
+[19:20:02] <Monty> gregors pinker fleck ist vom käse essen?
+[19:20:19] <SugarDaddy> PSXE
+[19:20:31] <PlayGroundBerlin> ok thx
+[19:20:33] <SugarDaddy> epsxe
+[19:21:10] <+DMC05> naja es gibt kein offizielles ANdroid 😉 deswegen imeer vorsicht ist aber mit workarouds lauf bar ^^
+[19:22:24] <deutscher hanfverband> @PlayGroundBerlin hast du Alien3 für snes auf deim Pie?
+[19:22:37] <+DMC05> sogar android 6.0 ist schon möglich 😉 ^^ also der RP3+ ist schon ein schönes gerät ^^
+[19:23:01] <+The Real Xorax> schöne Sache das ganze leider nix für mich bin leider kaum noch am zocken.. und wenn ich mal zocke das gibs auch genug aktuelle Sachen die ick nachhohlen will 😃
+[19:23:11] <+The Real Xorax> *dann
+[19:23:15] <BleiFry> Minecraft
+[19:23:16] <James Dill> langweilig
+[19:23:23] <PlayGroundBerlin> ne hab was anderes für snes
+[19:23:25] <+DMC05> @The Real Xorax kenn ich nur zu gut xD ^^
+[19:23:29] <PlayGroundBerlin> snesx oder so
+[19:23:34] <PlayGroundBerlin> glaub ich
+[19:23:36] <eyyojung> winds of thunder 👌
+[19:24:03] <+DMC05> nee nee zsnes geht nicht auf ARM ^^
+[19:24:11] <+DMC05> leider
+[19:24:22] <I Am Eduard> ZSNES 💜
+[19:24:30] <+The Real Xorax> gehen da auch C64 games ?
+[19:24:35] <+DMC05> aber der dolphin ich glaub der kann auch mttlerweile Snes games zocken ^^
+[19:24:39] <PLATTENWALD CGN> Jo.
+[19:25:16] <BleiFry> Russle Crow zieht durch die Bronx..
+[19:25:16] <+XAxeX> HAHA 😀 geil 😀 gleich kommt ja gadget inspectors und Vodafone hat das gerade auch als twitter video rausgehauen 💜 💜 😀 *darf mich nicht spoilern lassen*
+[19:25:21] <+The Real Xorax> xD
+[19:25:30] <eyyojung> Dolphi kann vorallem Triforce emulieren
+[19:25:47] <Alexander aus der Wiesche> gb packers führen 💜
+[19:26:03] <+DMC05> aber jaa was greg sagt man merkts es bei Teranigma ^^ da zockt er auf der RP3
+[19:26:17] <+DMC05> ist besser ls die emulatoren auflösug ^^
+[19:26:28] <+DMC05> nur mach die scanlienes aus greg ^^ xD
+[19:26:42] <eyyojung> wieso aus?
+[19:26:54] <Senderon . .> ACHTUNG der "HYPETRAIN" kommt almost daily LIVE 😃
+[19:27:01] <+DMC05> @eyyojung bei games wie terranigma stört es ^^
+[19:27:06] <deutscher hanfverband> @PlayGroundBerlin ich meinte net emu sondern das spiel
+[19:27:10] <BleiFry> Sonic... das waren noch Zeiten 💜
+[19:27:12] <eyyojung> warum das?
+[19:27:13] <niunOne> mädels und jungs
+[19:27:14] <leee eeey> Senderon . . JEZT?
+[19:27:25] <deutscher hanfverband> ☝
+[19:27:27] <niunOne> wo findet man die bewerbungsvideos der bohnen fürs sommerfest?
+[19:27:29] <+DMC05> @eyyojung wärste mal live beim LP da gewesen ^^
+[19:27:29] <deutscher hanfverband> 💜
+[19:27:29] <Senderon . .> 20:15
+[19:27:32] <+DMC05> Greg 💜
+[19:27:38] <unstoppable> 👍
+[19:27:50] <Horus7> Nice, jetzt braucht mein Nettwerkspeicher ne Erweiterung 😄
+[19:27:52] <+DMC05> Lügen Gunnar 😑
+[19:27:52] <eyyojung> weil das progamm probleme macht oder was?
+[19:27:57] <SugarDaddy> hahahaha
+[19:27:58] <eyyojung> an der optik kann es ja wohl nicht liegen
+[19:27:58] <GernhardtReinlunzen> gunni 😅😅
+[19:28:00] <+Natsu Dragneel> blöder Gunnar 👿
+[19:28:02] <Chris Chros> lul vertrauen
+[19:28:03] <+The Real Xorax> haha
+[19:28:03] <FourTwenty> 😀
+[19:28:04] <TheKashlok> <<3
+[19:28:06] <Tirlio> gunnerhaft
+[19:28:07] <+Ballerbecks> 😏
+[19:28:08] <+DMC05> #teamYamas !
+[19:28:09] <Raspk> LACIST! 😠
+[19:28:17] <CavangoVulgora> loooool
+[19:28:21] <Tirlio> DAS RICIST
+[19:28:30] <Chris Chros> YAMAS
+[19:28:32] <Marcel Lillig> der hund gleich
+[19:28:35] <Gebrüder Games> shit einfach und easy
+[19:28:43] <KazumaGER> 😂
+[19:28:49] <FourTwenty> 😀
+[19:28:54] <BleiFry> 😀
+[19:28:55] <elProstituierto> 😚
+[19:28:59] <I Am Eduard> 😂
+[19:29:00] <SugarDaddy> verstehe 🌝
+[19:29:01] <Lurgi> 😛 dean
+[19:29:01] <+DMC05> 420 ^^
+[19:29:02] <+The Real Xorax> Gino wäre cheaten der ist zu sportlich
+[19:29:03] <Modosco> Gregor ist wieder im Rückstand ;(
+[19:29:05] <Marcel Lillig> der hund ist der beste
+[19:29:09] <Lurgi> dean findet ihn auch nice
+[19:29:10] <+preysa> Pimmel
+[19:29:10] <Raspk> 😯
+[19:29:11] <+chusak> 😂
+[19:29:13] <deutscher hanfverband> 😸
+[19:29:15] <KazumaGER> ROTE RAKETE!
+[19:29:16] <Blodyck> 😂
+[19:29:17] <+chusak> LÖRRES 😯
+[19:29:18] <Quantum> tombi 😲
+[19:29:18] <elProstituierto> Red Rocket!!
+[19:29:19] <Raspk> 😂
+[19:29:21] <CavangoVulgora> omfg
+[19:29:23] <shadoom> °_°
+[19:29:23] <+DMC05> rote rakete ^^
+[19:29:24] <Quantum> das hat ich auch
+[19:29:31] <Grand3000> der rooode
+[19:29:33] <+b34v13s> war der Hund leicht erregt?
+[19:29:33] <PlayGroundBerlin> nasti ist so ne mainstream-trend-bitch
+[19:29:34] <niunOne> leute 😞 wo findet man denn die bewerbungsvideos?
+[19:29:38] <niunOne> yt spuckt nichts aus
+[19:29:41] <+Jenny1005> #teamderandere,dernichtGinoist
+[19:29:41] <deutscher hanfverband> @DMC05 420
+[19:29:41] <Raspk> Florentin 😯
+[19:29:44] <Marcel Lillig> aus den news nice
+[19:29:48] <Gebrüder Games> Retro Club Gregor ist der BESTE LOIDE
+[19:29:54] <Trafalgar D. Law> dean macht es richtig würde auch Ne Latte bei gino bekommen
+[19:30:00] <+chusak> 😭😭😭😭
+[19:30:03] <Chris Chros> gregor und bell 💜 💜 💜
+[19:30:06] <Senderon . .> 💜 auREDE
+[19:30:07] <Jay19Jay93> ausrEDE
+[19:30:09] <+Ballerbecks> 😖
+[19:30:11] <Marcel Lillig> diese melodie arghhhh
+[19:30:11] <+chusak> 😭
+[19:30:12] <DasKame> Ausr-eddy
+[19:30:14] <+DMC05> @niunOne muss man im forum suchen ^^ woe kann nur lars in den lezten 10 min erklären von Moin Moin vom donnerstag ^^
+[19:30:16] <KazumaGER> 😠 mausrEDE
+[19:30:17] <Philippe Hahn> Bewerbungen beim moinmoin mit lars
+[19:30:18] <GernhardtReinlunzen> 😱😖😨
+[19:30:19] <+DMC05> @deutscher hanfverband xD
+[19:30:25] <+chusak> fast so schlecht wie Schalke 😯
+[19:30:30] <Luggsen S> uh lala, spiele mit schmerz. gabs ja lang nicht mehr
+[19:30:33] <BleiFry> Die Maus Klennt? Wusste gar nicht das noch wer Mäuse mit Ball verwendet 😦
+[19:30:35] <+preysa> Edes Maus klemmt und Flos Tastatur klemmt. Das ist doch Sabotage
+[19:30:36] <niunOne> @DMC05 wie hohl, anstatt die auf die page zu packen 😑
+[19:30:39] <BleiFry> klemmt* 😕
+[19:30:42] <+XAxeX> geil 😀
+[19:30:44] <+111gump> unten links is aber auch geil
+[19:30:46] <HipHopGuru> wer is dieser sexy asiate?
+[19:30:50] <+DMC05> @niunOne hab ich schon 10 mal gesagt ^^
+[19:30:52] <deutscher hanfverband> 😽
+[19:30:58] <DasKame> @HipHopGuru Nils 🌝
+[19:31:02] <+chusak> Beat 💜
+[19:31:12] <deutscher hanfverband> 😱
+[19:31:15] <corkErist> Beans on rice?
+[19:31:21] <+Ballerbecks> beans on rice jetzt an vodafone verkauft ?
+[19:31:24] <HipHopGuru> @DasKame: War auch meine Vermutung. Dachte mir schon das er 16:9 Augen hat
+[19:31:28] <Blodyck> cock Pot? 😧
+[19:31:29] <niunOne> vodafone ist scheiße. die lügen seit bald einem jahr ihre kundschaft voll, es gäbe "signalstärungnen"
+[19:31:30] <+XAxeX> mit Strom 😀
+[19:31:30] <MC Hodenflash> CockPott
+[19:31:31] <+DMC05> ton ist bissel leise 😲 ^^ sofia wie hast du geschnitten ^^ xD ( keine sorge ich eversteh das das mic kacke war ^^ )
+[19:31:34] <+XAxeX> Cock Pot 😀
+[19:31:36] <DasKame> Deutscher Strom !
+[19:31:38] <+Jenny1005> ich finde Budis Moderationsstil wirklich sehr speziell
+[19:31:38] <Saftschnecke> na toll und ich hab mich schon auf ein Beans on Rice comeback gefreut 😖
+[19:31:43] <Jay19Jay93> Ich hab keinen deutschen Strom in AT 😞
+[19:31:45] <+preysa> Alter voll die Bonzenküche
+[19:31:46] <dead_ohio_sky> crack pot 👍
+[19:31:46] <+DMC05> Sofia hat den ton schon hoch gereglt wie sau ^^ xD
+[19:31:50] <+chusak> alles klar
+[19:31:52] <Quantum> wann kommt gadget inspectors?
+[19:31:59] <DasKame> ALMOST DAILY THEMA HEUTE?????
+[19:31:59] <MC Hodenflash> Budi ist stoned
+[19:32:01] <deutscher hanfverband> crack pot ¯\_(ツ)_/¯
+[19:32:06] <+chusak> 🍆🍆🍆🍆
+[19:32:08] <TheRealLargoLaGrande> das ist doch der Dicke und der Asiate von GameOne ... und Nils
+[19:32:11] <+Ceziᴴᴰ> 🍆👌🏼💦
+[19:32:15] <+XAxeX> quantum läuft doch gerade ^^
+[19:32:21] <Chris Chros> lol
+[19:32:24] <+Natsu Dragneel> das is ne ganz normale Küche 😀
+[19:32:29] <+DMC05> worum gehts ?
+[19:32:30] <+DMC05> ^^
+[19:32:37] <Quantum> oh xD
+[19:32:38] <deutscher hanfverband> 😼
+[19:32:38] <dead_ohio_sky> Hach, warum ist eigentlich so gut wie immer die Hintergrundmucke zu laut 🙈
+[19:32:42] <HipHopGuru> nobobdy knows
+[19:32:46] <DasKame> IF YOU SMELL what the BOMHOFF IS COOKING?! 😎
+[19:32:46] <GernhardtReinlunzen> gemüse kannse weglassen
+[19:32:51] <+DMC05> mal sehn ob ich das brauch ^^ xD
+[19:32:55] <I Am Eduard> Nils bei RBTV? Muss wohl vor seiner Kündigung gewesen sein 🌝
+[19:32:58] <+DMC05> Crack Pot ^^
+[19:33:03] <Claymore Gaming> is doch nicht life oder ?
+[19:33:04] <Senderon . .> Grünzeug
+[19:33:06] <deutscher hanfverband> 😃
+[19:33:10] <Claymore Gaming> live *
+[19:33:12] <+DMC05> 45
+[19:33:12] <dead_ohio_sky> piep 🐯
+[19:33:16] <+Jenny1005> 125
+[19:33:20] <+XAxeX> claymore gaming darum steht da auch NEU unterm logo 😉
+[19:33:21] <+DMC05> 4,5
+[19:33:22] <Tirlio> @Claymore Gaming nein aber love
+[19:33:23] <deutscher hanfverband> live
+[19:33:25] <KazumaGER> 😂
+[19:33:26] <Jay19Jay93> 😂hübsches grünzeug
+[19:33:30] <+Paul Googol> Nils jongliert mit einm Apfel lol wp
+[19:33:30] <HipHopGuru> 4 Gramm reichen schon für nen Abend ^^
+[19:33:36] <+XAxeX> der Sender ist 24/7 online
+[19:33:37] <Quantum> 200gramm bestimmt
+[19:33:40] <+DMC05> @HipHopGuru für ne woche ^^
+[19:33:49] <Bardaouil> hat jemand ne filmempfehlung? hab bock auf action/krimi gedöns oder komödien ohne fäkalhumor
+[19:33:58] <HipHopGuru> @DMC05: Naja.....
+[19:33:58] <niunOne> fett ist wichtig für den kreislauf
+[19:33:59] <Chris Chros> lol
+[19:33:59] <+preysa> Gemüse macht FETT
+[19:34:00] <Cerby> soviel fett ;(
+[19:34:02] <+Ceziᴴᴰ> nils und die gemüsepfanne ausn ofen
+[19:34:04] <+DMC05> wie soll da fett drinn sein ? ^^ xD
+[19:34:05] <+chusak> WUT
+[19:34:08] <Tirlio> lol der asiate da hat doch keine ahnung der soll reis esse
+[19:34:09] <+XAxeX> xD
+[19:34:13] <TheKashlok> 😀
+[19:34:18] <Ksadus> kohlenhydrate macht fett
+[19:34:20] <BleiFry> lol
+[19:34:22] <Tirlio> so vong rassesmus her
+[19:34:24] <Blodyck> 😂
+[19:34:24] <Jay19Jay93> xD
+[19:34:27] <deutscher hanfverband> Leis
+[19:34:31] <+DMC05> @HipHopGuru ich hab ein gute grund stoned niveau ^^ xD
+[19:34:33] <Don Mixote> 🙋 Leute
+[19:34:38] <+XAxeX> Budis blick 😀
+[19:34:38] <+FlashGamer> sitzt eigentlich jemand in der Regie am Sonntag? Und wenn ja F an die armen Schweine
+[19:34:38] <+DMC05> das verbraucht sich nicht so schnell^^xD
+[19:34:39] <BleiFry> Geblaten Leis?
+[19:34:42] <Quantum> 😭
+[19:34:42] <+MrWerder> 😀
+[19:34:45] <+chusak> hahahhaa
+[19:34:47] <HipHopGuru> @DMC05: Haha, das wirds sein ^^
+[19:34:47] <Schelnov> zutscheini
+[19:34:47] <+ibert> 😂
+[19:34:48] <+chusak> se chiny
+[19:34:50] <niunOne> budi der trottel 😑 hängt seine birne über das schneidebrett
+[19:34:51] <KazumaGER> Dieser VIET immer 😂
+[19:34:53] <elProstituierto> Tsechini?
+[19:34:54] <+DMC05> chshiniy
+[19:34:54] <+preysa> 181g Fett
+[19:34:57] <+XAxeX> Flashgamer ne heute wenn die gleich LIVE gehen sitzt keiner in der regie 😛
+[19:34:57] <Gyros XXL> ich kauf mir jetzt von spendengeldern ne neue Küche 🌝
+[19:34:57] <deutscher hanfverband> er schneidet zwiebeln! -rassist!
+[19:34:59] <shadoom> zutscheine probleimi
+[19:35:01] <dead_ohio_sky> Tseshiny 🌝
+[19:35:04] <MC Hodenflash> 😭 Zwiebeln
+[19:35:06] <Quantum> 😭
+[19:35:07] <Sursurk> cooking bad
+[19:35:10] <+DMC05> ALles so viel fett gemüse hat fett xD ^^ xD
+[19:35:11] <HipHopGuru> Nice, Tschicken
+[19:35:13] <Jay19Jay93> Tschicken?
+[19:35:15] <+Ceziᴴᴰ> kochen für reiche leute
+[19:35:16] <Tirlio> zutschinis!
+[19:35:17] <TheUnknownSmash> wird hier fett mit wasser verwechselt oder wat?^^
+[19:35:22] <Blodyck> immer diese ninjas die zwiebeln schneiden 👿
+[19:35:22] <+DMC05> weniger fett als bei der Paprika xD hahaha failx D
+[19:35:26] <+DMC05> @HipHopGuru xD
+[19:35:27] <+chusak> 👍
+[19:35:31] <+MrWerder> 😀
+[19:35:32] <Tirlio> und kortofferlns
+[19:35:33] <Faloters Hammer> backing bad?
+[19:35:45] <+DMC05> asia skill ^^^xD
+[19:35:46] <minime> 70% und 0% Wasser mit sicherheit
+[19:35:48] <N0xyD> oberschiene????
+[19:35:49] <Chris Chros> reinlunsen
+[19:35:50] <KazumaGER> BUDI 👍
+[19:35:53] <GreatJaro> 300k lul
+[19:35:54] <+DMC05> Crack Pot
+[19:35:55] <+FlashGamer> @XaxeX danke für die nicht Sarkastische Antwort auf meine Sarkastische Frage
+[19:35:56] <Sursurk> android??
+[19:35:57] <Gyros XXL> lol nur iOS
+[19:35:58] <deutscher hanfverband> es ist Gemüse im Haus!!
+[19:36:10] <FreeDoom z> high LUL
+[19:36:11] <shadoom> was für die görls
+[19:36:11] <+DMC05> high 420 ^^ xD
+[19:36:13] <MC Hodenflash> Budi hat 2 Augen
+[19:36:21] <iLikeSkillz> hey
+[19:36:22] <Jay19Jay93> ist das n iPot?
+[19:36:22] <Tirlio> @Sursurk no humans
+[19:36:24] <Touch of Hell> alternativ i phone also nur iOS -.-
+[19:36:26] <+XAxeX> FlashGamer 🌝
+[19:36:27] <niunOne> HODENLASH *chrapitch*
+[19:36:30] <deutscher hanfverband> 💜 420
+[19:36:31] <+DMC05> aber schon ne geile idee ^^ xD
+[19:36:43] <iLikeSkillz> hiii
+[19:36:45] <+DMC05> wenn der topf das selber macht und es klappt xD ^^
+[19:36:46] <Nadine M.> wessen küche ist das
+[19:36:54] <+DMC05> dann pin ich pro app ^^ xD
+[19:37:01] <+chusak> xD
+[19:37:03] <Tirlio> ins gericht....
+[19:37:07] <+DMC05> budis sieht besser aus xD ^^
+[19:37:10] <MC Hodenflash> Ich möchte gerne nur Runde 3! 😃
+[19:37:13] <Complexe 85> Wie sinnlos
+[19:37:14] <Hyphistos> lol wozu...
+[19:37:15] <Don Mixote> Wer braucht sowas?
+[19:37:15] <+preysa> alter was für ein scheiß es gibt xD
+[19:37:15] <Sursurk> wer braucht so'n scheiß 😂
+[19:37:15] <chumbalum> wtf
+[19:37:19] <Ignoranzz> lol???
+[19:37:20] <Quantum> ogott
+[19:37:20] <+DMC05> der topf muss smart werden und serber umrühren
+[19:37:21] <killy22> selten so nen stuss gehört
+[19:37:22] <+Ceziᴴᴰ> android manufacturers zahlen doch im gegensatz zu apple was wieso wird dann trotzdem immer so sehr apple beworben? obwohl die nichtmal was zahlen für marketing
+[19:37:22] <Faloters Hammer> lol? warum?
+[19:37:23] <HipHopGuru> was ein shit
+[19:37:23] <+XAxeX> lol die gabel xDD
+[19:37:24] <+MrWerder> Alter 😀
+[19:37:26] <+DMC05> selber*
+[19:37:27] <Lord Kratzebart> sowas dummes 😑
+[19:37:30] <dead_ohio_sky> Alter 🙈
+[19:37:31] <P tar> direkt stromschlag
+[19:37:33] <Don Mixote> Kostet bestimmt nen Hunderter
+[19:37:34] <minime> die Smart Gabel, das braucht die Welt.
+[19:37:35] <+DMC05> was ein scheiss xD
+[19:37:36] <MC Hodenflash> iGabel
+[19:37:36] <GernhardtReinlunzen> unnötiger schmarrn den keiner braucht also 😂
+[19:37:37] <+DMC05> xDDD
+[19:37:40] <l3riani1> Super....und für die Gabel bezahlt man dann...wieviel? 120€
+[19:37:42] <HipHopGuru> Da blitzt einen die Essenspolizei
+[19:37:42] <erbinzky> ui ui ui. wasn nutzloser krempel^^
+[19:37:44] <+preysa> thats what she said
+[19:37:47] <deutscher hanfverband> @preysa das ist wie mit der zahnbürste mit app
+[19:37:48] <niunOne> schnell essen ist wirklich ungesund, für trottel keine schlechte erfindung
+[19:37:49] <KazumaGER> lol wat?!
+[19:37:50] <GernhardtReinlunzen> iGabel
+[19:37:51] <Saftschnecke> ich benutz keine gabel ich schaufel mir mein essen direkt mit den händen in mein Maul 🌝
+[19:37:52] <+Ceziᴴᴰ> was ein müll :D
+[19:37:53] <MC Hodenflash> Great timing 😂
+[19:37:54] <Faloters Hammer> da fuk?
+[19:37:55] <+DMC05> hahaha budi 💜 ^^
+[19:37:57] <Chris Chros> wtf
+[19:37:59] <BleiFry> Great timing! please more of that!
+[19:38:00] <Touch of Hell> hahaha
+[19:38:02] <deutscher hanfverband> great timing ! LOOOL
+[19:38:02] <CavangoVulgora> too fast waaaaaaaaaaaay toooo faaaaaaast
+[19:38:03] <Don Mixote> Da gibts bestimmt noch eine Bestenliste die man mit seinen Freunden teilen kann
+[19:38:10] <Purple Ace> bald gibts ne app zum kinder erziehen 😞
+[19:38:11] <Monty> die gabel ist lächerlich .... wer sowas kauft
+[19:38:16] <+Ceziᴴᴰ> naja wenns leuten hilft abzunehmen
+[19:38:19] <Touch of Hell> fehlen nur die japano gameshow spielsounds
+[19:38:20] <mee myself> Nils nutzt nur die Fremden Kappis, keine von RBTV... mieser typ 😠
+[19:38:28] <Blodyck> @Purple Ace manche hätten sowas bitter nötig
+[19:38:28] <CavangoVulgora> die Gabel ist fortschrittlich
+[19:38:31] <Touch of Hell> GREAT. TOLL Gegessen!
+[19:38:32] <Moritz Frisch> irr ich mich oder haben die beans viel weniger zuschauer seit umstellung auf youtube?
+[19:38:33] <+DMC05> ich brauch ein smart Topf xD
+[19:38:38] <GernhardtReinlunzen> 130 euronen, schnapper 😧
+[19:38:40] <CavangoVulgora> die Gabel ist inovativ
+[19:38:40] <+DMC05> der selber rühert ^^
+[19:38:44] <BleiFry> Als ob man durch langsames Essen abnimmt oder durch Sprachteln gleich Fett wird.. Schwachfug
+[19:38:49] <Blodyck> nur 100 tacken 😯
+[19:38:53] <KazumaGER> da hat er recht
+[19:38:54] <Chris Chros> shut up and take my money
+[19:38:56] <+preysa> Budi sagst
+[19:38:58] <dead_ohio_sky> 3 3 3 3 3 3
+[19:39:00] <+DMC05> die gabel und das pad waren ne 5
+[19:39:01] <YinYang> schwachfug
+[19:39:03] <Sursurk> das ist reine abzocke, für leute die sich einfach jeden schrott kaufen
+[19:39:03] <+FlashGamer> die zukunft wird teuer 🌝
+[19:39:03] <elProstituierto> 99$ 😂
+[19:39:04] <KazumaGER> LOOOL 99€ 😀
+[19:39:04] <Don Mixote> 99€ 👿
+[19:39:05] <Hyphistos> gar nicht, das pad kann schon sinn machen, die fork jedoch...
+[19:39:06] <shadoom> ne gabel 100€:D:D:D:D
+[19:39:08] <Saftschnecke> 100€? 😂
+[19:39:08] <Bardaouil> Der Topf ist geil aber der rest voll der dreck sorry
+[19:39:08] <Chris Chros> 99
+[19:39:08] <+Ballerbecks> 99 taken für ne gabel
+[19:39:08] <+chusak> 99 $ fürn gag
+[19:39:08] <Lord Kratzebart> und nein es kommt übrigens auf die gesamtmenge an, nicht die geschwindigkeit. 😁 und ausserdem, wenn man will bekommt man das auch ohne app hin. alles muss heute mit app verbunden werden 🌝
+[19:39:09] <+XAxeX> schlingen 💜 💜
+[19:39:12] <GernhardtReinlunzen> 😫😫😫
+[19:39:16] <Blodyck> @BleiFry leider nein, leute die schneller essen, werden in der regel fetter
+[19:39:17] <Chris Chros> olololololol 99
+[19:39:17] <Mike Äfer> Kauft euch mal einen Pizzaofen mit ~400°C. DAS ist geil. 😚
+[19:39:17] <niunOne> @BleiFry das sättigungsgefühl tritt langsam ein, wer schnell isst, isst mehr wie nötig. fakt
+[19:39:19] <dead_ohio_sky> Ich gebe eine... 3 🌝
+[19:39:19] <+DMC05> das was budi sagt ^^xD
+[19:39:21] <Faloters Hammer> einfach ne gute erzihung und bast
+[19:39:22] <Tirlio> hey ich hab 100 euro rumliegen, ich kauf mir 1 LÖFFEL
+[19:39:23] <minime> Budi hats gerafft
+[19:39:27] <+The Real Xorax> scheiss egal ob langsam oder schnell
+[19:39:27] <Touch of Hell> jau
+[19:39:31] <Monty> 99€, vielleicht wäscht die sich ja selber ab
+[19:39:38] <deutscher hanfverband> 99000 token ?
+[19:39:39] <+XAxeX> 😀
+[19:39:41] <+DMC05> der topfrührt selbst ? ^^
+[19:39:43] <HipHopGuru> 99€ Gags sind die besten ^^
+[19:39:44] <MC Hodenflash> 😠 Meine Mascarpone!
+[19:39:46] <BleiFry> Herrje
+[19:39:54] <+XAxeX> ABXO
+[19:39:56] <Jay19Jay93> ABXO 💜
+[19:39:58] <KazumaGER> @Monty nicht abwaschbar weil elektronisch 😀 😁
+[19:39:59] <+Ballerbecks> ABXO 💜
+[19:40:00] <Sursurk> 😯
+[19:40:01] <TheKashlok> 💜
+[19:40:01] <+DMC05> wenn jaa wo kann ich den kaufen xD ^^
+[19:40:02] <+McFranky> gut...eigentlich folge 4 ne
+[19:40:04] <Gindalif> japano shit
+[19:40:13] <Balmung> wie heißt die MUSIIIK
+[19:40:13] <niunOne> @DMC05 der topf macht alles außer schneiden^^
+[19:40:13] <minime> Nachste Woche dann: Smart Klobürste.
+[19:40:14] <Purple Ace> irgendwo müssen die leute mit viel zu viel kohle ja hin mit selbiger
+[19:40:25] <+DMC05> @niunOne ist gekauft xD ^^
+[19:40:25] <+Ceziᴴᴰ> luve live almostdaily ❤️ am freakin sonntag bitches
+[19:40:30] <HipHopGuru> Paul 💜
+[19:40:32] <Tirlio> AAYYYAAYYAA
+[19:40:33] <+DMC05> ich hab noch ein nicer dicer im haus xD ^^
+[19:40:34] <+suuN> hai 💜
+[19:40:34] <+XAxeX> mcfranky die haben halt nur den teaser gemacht 😀 aber is schon nice
+[19:40:35] <HipHopGuru> incoming
+[19:40:37] <Tirlio> seppO!
+[19:40:37] <GreatJaro> 💜
+[19:40:39] <Chris Chros> lol
+[19:40:41] <Monty> bei berührung mit dem wasser: bitte waschen sie langsamer ab
+[19:40:41] <Jay19Jay93> Supanova 😯
+[19:40:42] <+XAxeX> 💜 urknall weltall und das leben 💜
+[19:40:44] <Benjamin Mößlang> 💜
+[19:40:46] <HipHopGuru> Der Dude 💜
+[19:40:53] <niunOne> @DMC05 wenn du ein monat auf dope verzichten kannst^^
+[19:40:58] <Saftschnecke> 🔺🔺🔺
+[19:41:02] <CavangoVulgora> oh ja die könnt mal so explodiere, die supanova
+[19:41:04] <+DMC05> @niunOne muss ich nicht xD ^^
+[19:41:05] <MC Hodenflash> 😶
+[19:41:05] <Chris Chros> inb4 super nova
+[19:41:05] <+preysa> schon wieder
+[19:41:07] <CavangoVulgora> 😀
+[19:41:07] <Karies _> schon wieder ?
+[19:41:09] <+The Real Xorax> ABXo ist schon nice im grunde gibs jetzt wieder GameOne nur net so oft
+[19:41:10] <GernhardtReinlunzen> wut
+[19:41:13] <Saftschnecke> ERNSTHAFT, DER SCHEISS SCHON WIEDER?
+[19:41:16] <+DinoStalker pc> Och neeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+[19:41:16] <Blodyck> schon wieder 👿
+[19:41:21] <deutscher hanfverband> @niunOne der topf kocht von slebst, der topf reinigt sich von selbst und der topf ist vor die chef indie geschäft
+[19:41:23] <+FlashGamer> Ich kenn dich 🌝
+[19:41:23] <k4loenneli> oh gott...
+[19:41:23] <+DMC05> Podcast ^^ xD
+[19:41:23] <Jay19Jay93> Wiederholung 😴
+[19:41:25] <Gindalif> nerdy timber?
+[19:41:25] <Don Mixote> Holz 😯
+[19:41:25] <Gyros XXL> Ich und mein Holz
+[19:41:26] <killy22> 😑
+[19:41:28] <+Ballerbecks> reiner ?
+[19:41:28] <Hans Wurst> NAAAAAAAIN
+[19:41:33] <Tirlio> ich bin noch nie mit HOLZ in berührung gekommen
+[19:41:35] <+DinoStalker pc> 😑😑😠😠😴😴
+[19:41:36] <Gyros XXL> Holzi Holzi Holz
+[19:41:38] <Sursurk> Turdy Nimber 🌝
+[19:41:42] <Daniel Schmidt> ja holz für den holzkopf
+[19:41:42] <N0xyD> @xavex 42 !
+[19:41:44] <+Ceziᴴᴰ> test
+[19:41:46] <Complexe 85> Schon wieder?
+[19:41:47] <+Kingdomo> hartz 4
+[19:41:54] <GernhardtReinlunzen> isch werd youtube 😁
+[19:41:54] <Tirlio> holz 4
+[19:41:56] <Claymore Gaming> die gabel die wir grade gesehen haben kostet 100 us dollar wtf
+[19:42:00] <niunOne> @deutscher hanfverband 👧
+[19:42:01] <WmdD> und ciao
+[19:42:01] <FreeDoom z> 20 MIN
+[19:42:02] <Daniel Schmidt> als ob es noch nicht genug YT s gibt
+[19:42:04] <+FlashGamer> Ich und mein Holz
+[19:42:04] <Monty> oh bild .... und er erkärt ein berufsbild
+[19:42:06] <MC Hodenflash> Hansel Timber
+[19:42:08] <+DMC05> @Complexe 85 alohaa und bei RBTV passiert sowas öffter xD
+[19:42:16] <Gindalif> klingt bisschen wie die 1000000€ in 5min pop up werbungen
+[19:42:22] <PaterLenzn> Bin letztes WE mit Holz in Berührung gekommen - machte Aua auf der Stirn 😕
+[19:42:23] <KazumaGER> @Claymore Gaming du hängst n paar minuten hinterher ^^
+[19:42:25] <Gyros XXL> idiot
+[19:42:34] <CavangoVulgora> uh ein gymnasiumsabbrecher
+[19:42:35] <Patrison fickdichgooglemitdeinemnachnamen> abgebrochen, pah!
+[19:42:35] <Joseph Harpy> >gymnasium abgebrochen... smh
+[19:42:37] <Gara Dos> Heute ad live?!😱😍
+[19:42:38] <Chris Chros> ich bin weg
+[19:42:42] <Gutfried Von Guttenberg> ...nächste generatiopn wird nur aus idioten bestehn die youtube machen wolllen und das internet wird mit noch mehr idioten voll sein...
+[19:42:45] <Karies _> powerpoint-folter.... aaahhhh
+[19:42:50] <Joseph Harpy> Eichelhaus 🌝
+[19:42:54] <Colonel_HoganV2> er war der beste Kreygasm
+[19:42:54] <+PaddyD> bei solchen Videos frage ich mich, ob sich die Rocket Beans die Videos von Fremdcontent überhaupt angucken?! 😑
+[19:42:58] <Headdy312> nice story bro 😴
+[19:42:58] <J. B. aus W.> guter junge, wir brauchen weniger abiturienten und mehr vernünftige handwerker!
+[19:43:01] <+The Real Xorax> Viele wissen was sie werden wollen am ende landen die luschen dann doch alle bei uns aufm Bau und sind zu blöde nen Loch in die Wand zu Bohren
+[19:43:03] <Tirlio> allein gewohnt KAPPA
+[19:43:03] <KazumaGER> Für Holzarbeiten braucht man auch kein ABITUR! 😠
+[19:43:12] <Manuel> ResidentSleeper
+[19:43:19] <BleiFry> Wie alle immer mit Zelda anfangen 😕
+[19:43:21] <Dave Jacob> wer will das wissen!!?????
+[19:43:24] <Colonel_HoganV2> abitur is stark überbewertet
+[19:43:25] <Patrison fickdichgooglemitdeinemnachnamen> TloZ 💜
+[19:43:32] <Tobi Galuschka> wen juckt das 😀
+[19:43:33] <CavangoVulgora> biste nix, haste nix, biste nix, haste nix
+[19:43:34] <niunOne> interessiert doch keinen schwanz
+[19:43:35] <Hyphistos> wieso sendet man sowas?
+[19:43:36] <eyyojung> Puh, ....muss das jetzt sein?
+[19:43:36] <Tirlio> @Dave Jacob zulünftige Youtuber
+[19:43:42] <Daniel Schmidt> oh je, uns gehts allen zu gut, das wir für den sh*t geld haben
+[19:43:47] <Tirlio> youtuber: studiengang 2022
+[19:43:50] <Purple Ace> zzzZZZzzz
+[19:44:02] <eyyojung> wieso wiederholt man das?
+[19:44:07] <+The Real Xorax> jop hätte auch gern weniger Geld 😞
+[19:44:12] <BleiFry> Propaganda um mehr Jutub Pupser zu generieren.
+[19:44:13] <Joseph Harpy> """gaming"""
+[19:44:13] <Don Mixote> Welchen Abschluss kriegt man in dem Studiengang? Bachelor of Nonsense?
+[19:44:14] <Dave Jacob> @Tirlio es interessiert sich aber keiner für seine lebensgeschichte
+[19:44:26] <BleiFry> als ob es nicht schon genug Schminktussis und Puderqwasten gibt
+[19:44:36] <Patrison fickdichgooglemitdeinemnachnamen> @Dave doch
+[19:44:38] <RedSheep89 _____> lame...
+[19:44:41] <Ed Applederry> PowerPoint@rocketbeans.tv
+[19:44:42] <BratheringXXL> Ich habs noch nicht gesehen und finde es interessant
+[19:44:43] <Daniel Schmidt> lol und dafür kann der leben mit dem crap
+[19:44:47] <Zanriko93> Werbung?
+[19:45:16] <Gyros XXL> blah
+[19:45:32] <Daniel Schmidt> auf lasst uns alle das gleiche machen und den aus dem markt drücken 😛
+[19:45:34] <KazumaGER> @Daniel Schmidt nein kann er nicht - er arbeitet
+[19:45:35] <+Kingdomo> PowerPoint Livestream 😀
+[19:45:50] <Troulla> ich finde das interesannter als die videos in denen er sachen baut. aber das ist pers. preferenz
+[19:45:57] <Gyros XXL> @daniel schmidt sicher bei den Eltern im Keller
+[19:46:03] <figo210496> 😄
+[19:46:03] <Karies _> ich merke gerade wieder wie krass mein adhs doch ist
+[19:46:30] <BleiFry> Ist ja fast so schlimm wie Herr Tutorial.. fuuuuuuuuu
+[19:46:34] <Rebel_Degga> 🌝
+[19:46:49] <Patrison fickdichgooglemitdeinemnachnamen> Dner sucks
+[19:46:56] <Loughing Man> schaut euch mal die ben hack show auf yt an der moddet konsolen ect sehr nice
+[19:47:05] <+Helmut Hummer> 🌝
+[19:47:15] <+FlashGamer> HoB aufwendig? haha
+[19:47:15] <deutscher hanfverband> 🙈
+[19:47:20] <+Natsu Dragneel> wo sind die Pornos?
+[19:47:20] <Gyros XXL> alles top content 🌝
+[19:47:21] <BleiFry> Sry ich schaue mir gerade nebenbei noch eine Doku über wachsendes Gras an
+[19:47:34] <Wojtek Mencler> wie ich youtube hasse, RBTV ist das einzige was ich schaue. sonst überall nur clickbait...🙈
+[19:47:39] <deutscher hanfverband> 420 🍆
+[19:47:49] <BleiFry> BobRoss is eh topkult
+[19:48:01] <nomxxx87> Fynn Kliemann 💜
+[19:48:03] <Don Mixote> Fynn 💜
+[19:48:04] <+Helmut Hummer> comedy in yt deutschland 🌝
+[19:48:05] <niunOne> bob ross > internet
+[19:48:10] <+Bunghole4> wann gehts denn weiter mit gimlis axt? 😞
+[19:48:11] <Daniel Schmidt> bob ross 💜
+[19:48:12] <BleiFry> lets paint a happy little cloud 💜
+[19:48:14] <+ShinsokuGaming> kliemannsland mit hauke
+[19:48:14] <Pablo Corleone> fynn💜
+[19:48:29] <Troulla> fynn ist hart selbstmordgefährdet
+[19:48:35] <Wojtek Mencler> 😴
+[19:48:40] <mee myself> die selbe nochmal?
+[19:48:40] <SugarDaddy> ihr seid ja drauf 😀
+[19:48:43] <SugarDaddy> voll die hater!
+[19:48:46] <mee myself> wer plant sowas?!
+[19:48:49] <Cu Nox> fynn, bester man xD
+[19:48:51] <marcey747> Ich glaube Fynn hat kein Skript 😀
+[19:49:00] <snowWhiteWeed1> weckt mich bitte um 20.15 uhr
+[19:49:03] <Don Mixote> Fynn skriptet spontan
+[19:49:14] <Joseph Harpy> >stativ
+[19:49:16] <CavangoVulgora> ach schkripts werden überbewertet
+[19:49:16] <Wojtek Mencler> @sno
+[19:49:19] <Joseph Harpy> da lacht der fynn
+[19:49:27] <Wojtek Mencler> @sno
+[19:49:33] <Gutfried Von Guttenberg> goProooo
+[19:49:46] <Wojtek Mencler> 😴
+[19:49:54] <SugarDaddy> sony vegas hat er sicher gekauft? 😀
+[19:49:54] <deutscher hanfverband> 20.15 almost daily LIVE? 😯😧😏☝
+[19:49:58] <+vukxx> ich meine klar, mit youtube kann man gut geld machen aber...nerdytimber ist ja jetzt nicht der größte youtuber? ich habe keine ahnung wie die sich über wasser halten. oder verkauft er die sachen?
+[19:49:59] <Monty> mit paint 😉
+[19:50:04] <CavangoVulgora> windows movie maker ftw
+[19:50:10] <+Hari Mullato> sony vewgas beste weil Toni Vegas
+[19:50:17] <Karies _> bewegte bilder.. daaanke
+[19:50:19] <Wojtek Mencler> das werden die l#ngsten 25min meines lebens bis almost daily läuft
+[19:50:27] <KazumaGER> @vukxx er macht das in seiner Freizeit...
+[19:50:28] <Wojtek Mencler> ä
+[19:50:39] <Marcell D'Avis ist überall!> Magix Vegas Pro
+[19:50:42] <Blodyck> @vukxx er arbeitet nebenher, das ist sein hoppy
+[19:50:45] <Blodyck> @vukxx hobby
+[19:51:10] <AgaliAMC> @vukxx Paul lebt nicht davon, er finanziert die Projekte durch spenden Geld verdienen tut er als Zimmermann
+[19:51:11] <Wojtek Mencler> er dreht wie er dreht 🌝
+[19:51:12] <Don Mixote> Soll er Lars als Kameramann engagieren
+[19:51:20] <Andreas G> xD
+[19:51:21] <Andreas G> xDD
+[19:51:23] <+vukxx> ooooh okay, dann habe ich mich am anfang des videos verhört ^^ danke
+[19:51:29] <BleiFry> alter...
+[19:51:31] <CavangoVulgora> er wollte die fliege töten
+[19:51:35] <Gutfried Von Guttenberg> wooooooooow ein stern! aus 2 ganzen teilen!
+[19:51:35] <niunOne> schnittbaumkern
+[19:51:39] <+Ballerbecks> my stomach is growling
+[19:51:41] <BleiFry> einen Christbaumstern... EPIC
+[19:51:47] <deutscher hanfverband> im gegensatz zu allen anderen youtubern die ich kenne hat der timber sich seinen erfolg aber verdient
+[19:52:07] <+ShinsokuGaming> jump cuts, sags doch einfach 🌝
+[19:52:11] <AgaliAMC> da hast du recht
+[19:52:13] <Wojtek Mencler> 0215 youtube trick viele verschiedene perspektiven hinternander
+[19:52:15] <+Ni-san> *ZIRP*
+[19:52:16] <Don Mixote> Er verdient auf jeden Fall mehr Aufmerksamkeit
+[19:52:17] <Wojtek Mencler> 0815
+[19:52:18] <Blodyck> @deutscher hanfverband ich finde es bedenklich dass du soviele andere youtube kennst 😧
+[19:52:19] <KazumaGER> 😠 SPRUNGSCHNITT!
+[19:52:20] <Pablo Corleone> zzzzzz
+[19:52:22] <Bosten George> Hard cuts wir brauchen Hard cuts
+[19:52:32] <Karies _> nerdy macht tolle arbeit und videos.. aber der clip hier ist wie valium für mich.
+[19:52:35] <Karies _> sorry
+[19:52:46] <Don Mixote> Taskleiste oben? 👿
+[19:52:54] <Faygris> Ach dafür macht man das mit der Klappe? xD Geil, ich bin so lange durchs Leben gegangen ohne das zu kapieren 😀
+[19:52:55] <KazumaGER> @Karies _ ja besonders wenns man das schon 2 mal gesehen hat ^^
+[19:53:04] <+FlashGamer> auch so klicker, sofia würde ihn hassen 🌝
+[19:53:04] <deutscher hanfverband> @Blodyck tu ich ja garnich... ich schau nur rbtv , ich kenne andere nur vom hören sagen von nem arbeitskollen
+[19:53:08] <Daniel Schmidt> ja ja, bestimmt ganz net, aber mir egal /off
+[19:53:13] <CavangoVulgora> alle guten dinge sind 3
+[19:53:14] <Bardaouil> Ohmann noch so lange bis AD?
+[19:53:18] <CavangoVulgora> also gucken
+[19:53:21] <CavangoVulgora> 😀
+[19:53:21] <Nordsoldat ı> was das für eine band?
+[19:53:31] <BleiFry> Jetzt weiß ich wie sich die Menschen in Guantanamo gefühlt haben müssen.. 😞
+[19:53:36] <Gutfried Von Guttenberg> is der nicht auch noch total schief? der stern?
+[19:53:41] <Nikita Schaffner> grey frues
+[19:53:43] <Nikita Schaffner> fries
+[19:53:50] <Wojtek Mencler> €
+[19:53:54] <deutscher hanfverband> almost daily haip ! 💜 ☝
+[19:53:59] <Wojtek Mencler> 😯
+[19:54:08] <Blodyck> Almost Viet Hype 😯
+[19:54:14] <Bosten George> Jetzt wird es interessant...
+[19:54:17] <Nordsoldat ı> dankeschön
+[19:54:41] <CavangoVulgora> bester party 😀
+[19:54:44] <CavangoVulgora> part
+[19:54:49] <KazumaGER> Fünftel scheibt man GROSS!
+[19:54:53] <Pablo Corleone> schnarch
+[19:54:53] <deutscher hanfverband> gleich mal die monetarisierung aktivieren 😀
+[19:54:55] <Joseph Harpy> sellout
+[19:54:57] <blackshiva> WIR
+[19:54:58] <blackshiva> WOLLEN
+[19:54:59] <blackshiva> DIE
+[19:55:03] <KazumaGER> -
+[19:55:07] <CavangoVulgora> money money money
+[19:55:13] <Wojtek Mencler> Youtube hat werbung?
+[19:55:24] <Don Mixote> Kuchen ist gut
+[19:55:29] <FreeDoom z> kuchen is gut
+[19:55:30] <+FlashGamer> die überspringbaren würde ich extra aushacken
+[19:55:38] <BleiFry> Joa, ich hätt auch gern Kuchen, scheiß aufs Geld
+[19:55:46] <projection2> youtube moneeea 😀
+[19:55:50] <blackshiva> BOOOHNEN SEHEN, wir wollen die bohnen,WOLLEN DIE BOHNEN SEHN!
+[19:55:57] <Marcell D'Avis ist überall!> und vom inhalt...
+[19:56:20] <AgaliAMC> @blackshiva dann schau VOD
+[19:56:28] <Gutfried Von Guttenberg> 45%...
+[19:56:33] <+Jenny1005> darf er das?
+[19:56:34] <Blodyck> also ist 1€ pro 1000 klicks, doch nicht so verkehrt ^^
+[19:56:35] <deutscher hanfverband> kuchen ist gut !
+[19:56:38] <Wojtek Mencler> 👿
+[19:56:47] <GernhardtReinlunzen> mathe 😞
+[19:56:49] <Pablo Corleone> langweilig
+[19:56:49] <Bosten George> Hmm dann bekommen die beans ja weniger Geld weil ich nicht mein richtiges alter angegeben habe
+[19:57:24] <KazumaGER> Jutebeutel 😁
+[19:57:25] <Modosco> @Jenny1005 soweit ich weiss nicht
+[19:57:27] <Joseph Harpy> Judenbeutel?
+[19:57:33] <BleiFry> Ich will nen Bohnen Seesack
+[19:57:46] <HipHopGuru> I smell bacon
+[19:58:05] <deutscher hanfverband> @Joseph Harpy JA. made in dachau
+[19:58:09] <Blodyck> muhsik
+[19:58:09] <+Hillbilly TheKid> Kevin Bacon?
+[19:58:15] <Balmung> Hat er aber gut gemacht, der Paul
+[19:58:17] <+Bohnen Matze> 👍
+[19:58:18] <Wojtek Mencler> 👼
+[19:58:19] <Nashkill> f
+[19:58:19] <Hans Wurst> endlich
+[19:58:20] <+Bohnen Matze> 🌝 //
+[19:58:20] <Don Mixote> 💜
+[19:58:23] <Karies _> johnny
+[19:58:24] <AgaliAMC> 💜
+[19:58:25] <Kinjah1> 💜
+[19:58:26] <Franz von Moor> F
+[19:58:26] <GernhardtReinlunzen> fands gut
+[19:58:27] <Raspk> 😠
+[19:58:30] <+Ballerbecks> 💜
+[19:58:30] <KazumaGER> 😠 NICHT COOL GENUG!
+[19:58:31] <niunOne> 💜
+[19:58:33] <Blodyck> schneller DansGame
+[19:58:34] <Gutfried Von Guttenberg> wie man ein erfolgreicher youtuber wird: werde ein erfolgreicher filmstar
+[19:58:35] <PaterLenzn> 💜
+[19:58:36] <Oliver Kühn> !cd hebel
+[19:58:37] <Blodyck> 😠
+[19:58:37] <Derpy Hooves> ich hab ne frage! wie wird man polizei?
+[19:58:41] <Headdy312> Nicht cool genug 😠
+[19:58:45] <Crank795> schöner Vortrag
+[19:58:48] <HipHopGuru> 💜 Johnny 💜
+[19:58:49] <+Bohnango> 😁💜
+[19:58:50] <Luggsen S> beste Werbung
+[19:58:50] <Bardaouil> wie scheiße da colin aussieht
+[19:58:52] <niunOne> NEEEEEIN
+[19:58:54] <Jay19Jay93> Hauke, Fynn & Franzi beim Chat Duell HYPE 💜
+[19:58:56] <Oliver Kühn> "Du kleine Made!"
+[19:58:57] <Andreas Deiring> xD
+[19:58:58] <Marcell D'Avis ist überall!> 💜
+[19:58:58] <HipHopGuru> haha
+[19:58:59] <Marcell D'Avis ist überall!> uke
+[19:59:02] <deutscher hanfverband> @Derpy Hooves dazu musst du zunächst polizeilich bekannt werden.
+[19:59:03] <HipHopGuru> Ok, Uke is auch ok
+[19:59:03] <+McFranky> dis my jam
+[19:59:04] <CavangoVulgora> 🐸🐸🐸
+[19:59:04] <AgaliAMC> xD
+[19:59:06] <counlex> bestes lied
+[19:59:07] <+Hillbilly TheKid> 💜
+[19:59:07] <+Bohnango> Uke 💜
+[19:59:08] <+Ballerbecks> uke
+[19:59:09] <Headdy312> Bosse 😯
+[19:59:09] <+XAxeX> ohhh jaaaa 💜 😀
+[19:59:11] <eliasmaycry> oh nein
+[19:59:12] <Troulla> uuuuke
+[19:59:16] <KazumaGER> 🐯 Wir haben Spass dabei - arbeitslos 1, 2 ,3" 💜
+[19:59:17] <+XAxeX> 💜 soo geil 😀 💜
+[19:59:17] <Marcell D'Avis ist überall!> LOOTEN UND LEVLEN!
+[19:59:17] <DannyTheKidd> boah ich feier das lied so 💜 😃
+[19:59:17] <+Bohnen Matze> 😖
+[19:59:20] <charlychaplin78> dieses scheiss Geschrei 😞
+[19:59:26] <Letsplay Crizz> yeah!
+[19:59:31] <Lemur Schachtelrad> Das macht Sofia nur noch attraktiver
+[19:59:32] <Bob Kelso> !buzzer
+[19:59:33] <projection2> mute
+[19:59:35] <+MrWerder> 💜
+[19:59:37] <Blodyck> Bosse 😯
+[19:59:39] <KazumaGER> hahaha UKE 😀
+[19:59:40] <Kronbär> Sofia, so süß.
+[19:59:41] <Don Mixote> 😺
+[19:59:45] <Joseph Harpy> \o\ /o/ \o\ /o/
+[19:59:48] <Miss E> und meine tränen war'n normal 😀
+[19:59:55] <+Jenny1005> habt ihr alle auf yt das Vid gesehen, wo Schlimmste Zeit und Schönste Zeit nebenher ablaufen. Da hat man gleich nochmal mehr Respekt 💜
+[20:00:10] <+Bohnen Matze> Die schlimmste Zeit 😖
+[20:00:13] <Niko. asteri> wtf😂
+[20:00:18] <CavangoVulgora> astra 💜
+[20:00:21] <GesichtsKuchen> XD
+[20:00:22] <+Jenny1005> meine Tränen war'n real
+[20:00:24] <Zo nk> Year dosenstechen
+[20:00:27] <+Ceziᴴᴰ> ich hab deswegen nein scheiß ohrwurm seit tagen
+[20:00:34] <HipHopGuru> haha
+[20:00:34] <+Blackilli> 😭
+[20:00:35] <Marcell D'Avis ist überall!> feuchter schmu
+[20:00:38] <Bonsha Bon> 😚😚
+[20:00:40] <Roebyte> Andi Möller Rip 😞
+[20:00:41] <Pablo Corleone> trant
+[20:00:42] <+Hasenpriester> Is das Berlin beim Alex um de Ecke wo er da sitzt?
+[20:00:45] <DannyTheKidd> jaja hihi xD
+[20:00:48] <+b34v13s> Aber Andy Möller ist doch gar nicht tot....
