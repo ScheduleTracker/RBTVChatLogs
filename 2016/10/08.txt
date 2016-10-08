@@ -6837,3 +6837,357 @@
 [07:04:13] <Herr Boedefeld> Wobei in der Schule macht man keine Mengenlehre mehr, zumindest nicht so richtig
 [07:04:40] <Julez 554> @shogg Wo hast du das erfasst?
 [07:04:48] <Herr Boedefeld> Den Satz der Impliziten Funktionen konnte ich mir aber nie merken. Mit all seinen vorraussetzungen 😀 Wenn ich den brauche schlag ich den nach
+[07:05:08] <Alicia 2003> Julex  554 da gebe ich dir vollkommen recht
+[07:06:26] <Julez 554> Naja es ist halt so... die Lehrer erklären meistens nur Rechenwege verschiedener Themen das ist alles
+[07:06:28] <Herr Boedefeld> Wie kam es hier eigentlich zu Mathe. Lasst uns lieber über Pinguine reden
+[07:06:56] <shogg> ich mag Linux
+[07:07:07] <shogg> aber keine Verallgemeinerungen
+[07:07:10] <Julez 554> @Alicia 2003 Ich denke du hast dich mehr damit befasst
+[07:07:27] <Herr Boedefeld> @Julez 554 Ist für viele auch vollkommen ausreichend. Es mag viele hier schockieren, aber auch Maschinenbauingenieure greifen nur auf Formelsammlung und PC Programme zurück
+[07:07:36] <Alicia 2003> Ich weiß nicht sehr viel über Pinguine die schule habe ich schon lange fertig also
+[07:07:37] <shogg> über den Kamm scheren, so wie es Julez tut
+[07:07:47] <Julez 554> natürlich bevorzugt man Linux in bestimmten Themenbereichen
+[07:07:47] <Herr Boedefeld> @shogg haha 😀
+[07:08:12] <shogg> Alicia?
+[07:08:19] <shogg> was war das?
+[07:08:29] <Alicia 2003> Wie alt seid ihr Leute ganz erlich
+[07:08:54] <Herr Boedefeld> Ich Find Linux nicht schlecht, aber es gibt so viele Behauptungen die einfach nicht stimmen. Ubuntu lief auf meinem Netbook perfekt, auf meinem PC ist es immer abgestürzt
+[07:08:57] <Julez 554> @shogg Wenn man halt das Lehrsystem Deutschlands mal angeschaut hat ist "über den Kamm scheren " kein weiterer Begriff mehr
+[07:09:30] <Julez 554> Aber das lass ich dir mal als Aufgabe dahingestellt
+[07:09:47] <Julez 554> naja wie auch immer
+[07:09:53] <shogg> Julez, deine Aufgabe ist Project Euler
+[07:09:54] <Herr Boedefeld> Mh ich würde mir nie einen Zopf machen
+[07:10:11] <shogg> J ist zu viel des Guten
+[07:11:20] <Julez 554> @shogg ich bin nicht sicher in wie weit das Konzept meine Themembereiche überdeckt ist aber jetzt auch nicht relevant
+[07:11:42] <Julez 554> wie auch immer
+[07:11:45] <shogg> J ist funktional
+[07:11:54] <shogg> und vector-basiert
+[07:12:05] <Julez 554> Ich denke doch ...
+[07:12:06] <shogg> es gibt keine Schleifen
+[07:12:07] <Alicia 2003> worum redet ihr jetzt genau
+[07:12:38] <shogg> über Quatsch Alicia
+[07:12:42] <Herr Boedefeld> Jetzt bin ich auch raus
+[07:12:54] <Julez 554> Alicia das interessiert keinen ...
+[07:12:56] <Herr Boedefeld> ich hau mich hin 🙋
+[07:12:59] <Jacke wie Hose> moin :)
+[07:13:13] <Julez 554> Außer Thema mathe ist bei dir Vorreiter
+[07:13:28] <shogg> gute nacht Hr. von Boedefeld
+[07:13:33] <Jacke wie Hose> ei cute
+[07:13:36] <Alicia 2003> ok bin ich mit 26 Jahren zu alt
+[07:13:49] <Julez 554> Boedefeld hau dich hin Gn8
+[07:14:00] <Jacke wie Hose> hmm zu alt gibt es nicht!
+[07:14:19] <shogg> Alicia was machst du da immer?
+[07:14:20] <Julez 554> Naja ich bin läppische 21 von daher Alter zählt nicht
+[07:14:29] <Alicia 2003> Danke @Jacke wie Hose
+[07:14:32] <Kreis> guten morgen vietnam!
+[07:14:34] <Lasub> Morgen
+[07:15:00] <Alicia 2003> Julez 544 was meinst du
+[07:15:06] <DracoCast> Morgen Leute, wann kommt heute die Wiederhokung?
+[07:15:11] <Kreis> jemand beards gestern angeschaut?? wie wars?
+[07:15:25] <shogg> Alicia wie geht das? Wie löschst du deine Meldungen?
+[07:15:28] <Jacke wie Hose> kein Thema ich bin 31 und fühle mich irgendwie das ich bei 12 jahren hängen geblieben bin xD
+[07:15:32] <Julez 554> Alicia na, dass man nie Alt genug ist wenn man sich für Themen interessiert
+[07:15:33] <+Mixxel7> Eddi sieht aus als ob er n riesen Brain hätt 😂
+[07:16:00] <Jacke wie Hose> @julez da hast du recht!
+[07:16:03] <Alicia 2003> Das ist auch gut
+[07:16:28] <Julez 554> Naja sollte man sich halt nicht einreden, falls es dazu kommt
+[07:16:30] <shogg> das bleibt auch immer so
+[07:16:54] <shogg> nur irgendwann muss man Verantwortung übernehmen
+[07:17:07] <Alicia 2003> shoog du musst auf dein Profilbild drauf klicken dann kommt entfernen
+[07:17:23] <Kreis> DracoCast Sonntag ca 15Uhr wird es wiederholt 😃
+[07:17:58] <Julez 554> Allgemein die Behauptung, "dass man irgendwann für dinge Mental das sei betont, zu alt wird is halt kompletter Schwachsinn.
+[07:17:58] <shogg> bei mir nicht. ich bin hier auf gaming.youtube.com ... da scheint das nicht zu gehen
+[07:18:09] <Alicia 2003> endlich mal wieder ein freies Wochenende
+[07:18:30] <Julez 554> habsin der Familie erfahren usw. Bin zwar erst 21 da hat man leicht reden trotzdem
+[07:19:07] <Alicia 2003> aber leider muss ich am Montag wieder um 3.00 Uhr zur Schicht
+[07:19:16] <Kreis> Julez 554wenn ich mich mal einmischen darf, man wird sehr wohl irgendwann zu alt für bestimmte dinge, spätestens im hohen alter dann
+[07:19:17] <Jacke wie Hose> das stimmt, es kommt halt darauf an wie man sich gibt bzw. das system es schafft einen zurecht zu biegen
+[07:19:27] <shogg> in die Backstube? Alicia?
+[07:19:46] <Alicia 2003> ne bin Polizistin
+[07:19:57] <Kreis> 420
+[07:20:00] <shogg> ihr arbeitet in Schichten
+[07:20:00] <Julez 554> Hab in der in der Grundschule mich mit linearen Funktionen beschäftigt in der 5.ten und bis zum 21.ten alles vergeudet
+[07:20:09] <shogg> wir sagen ja zu MDMA
+[07:20:10] <Alicia 2003> Ja genau
+[07:20:20] <Jacke wie Hose> oh ich rauche dann noch mal einen ;) frau Kommissarin :P
+[07:20:38] <Alicia 2003> Ich habe davon noch nichts gehört
+[07:20:41] <Kreis> hey alicia, warum ist cannabis illegal??
+[07:20:43] <Stoneski> hahaha 😀
+[07:21:02] <Stoneski> da sprechen die stoner 😀
+[07:21:11] <Kreis> 😀
+[07:21:11] <Alicia 2003> Das kannst du dir selber denke @Kreis
+[07:21:29] <Kreis> Alicia ja aber kannst du das auch? 😉
+[07:21:42] <Kreis> Alicia warum ist cannabis illegal und alkohol nicht??
+[07:21:59] <Julez 554> War in der weiterführenden als scheiß dämlicher Musterschüler bekannt und fang mit 21 mein Studium an also mach euch keinen Kopf
+[07:22:05] <Stoneski> denn bei alkohol sterben jedes jahr viele menschen !
+[07:22:06] <sjck> alicia is die situation mit überstunden bei dir auch so, dass du hunderte angehäuft hast? :<
+[07:22:11] <Blodyck> sie ist polizistin, sie ist nicht für die gesetze verantwortlich @kre
+[07:22:13] <Alicia 2003> Ja natürlich es ist ein Betäubungsmittel
+[07:22:19] <+Mixxel7> Weil jemand der keine ahnung hat gesetze macht..
+[07:22:26] <lordferengi> @ Kreis weil baum in abhängigkeit von apfel...
+[07:22:30] <Kreis> Blodyck aber sie setzt sie immerhin durch
+[07:22:34] <Stoneski> 😀
+[07:22:42] <shogg> "wir sagen ja zu MDMA" ist aus einem Song. Das ist Extacy .. dieses Zurückziehen solltest du mal sein lassen
+[07:22:51] <Julez 554> Alicia was tust du? ^^
+[07:22:52] <Alicia 2003> jo so gehört sich das
+[07:22:55] <Stoneski> wahrscheinlich ist sie nicht mal n bulle 😀 haha
+[07:23:11] <Julez 554> Wenn ich ehrlich bin, ich bin an Kokain interessiert
+[07:23:15] <Stoneski> und schmiert uns alle an und lacht leise 😀
+[07:23:29] <shogg> TMI Julez
+[07:23:34] <Jacke wie Hose> ach lass dich nicht Ärgern.... :)
+[07:24:06] <Alicia 2003> Ja so alles mögliche einbrechen auflösen/verhindern  Ruhestörung aufklären...
+[07:24:08] <Julez 554> shogg Traumatic.... what?
+[07:24:18] <Kreis> Julez lieber finger weg davon, es gibt viel ungefährlichere und bessere alternativen, auserdem ist es fast unmöglich ungestrecktes zu bekommen.
+[07:24:32] <Blodyck> münchen hat nen warmen platz für jeden ... außer du flüchtest vor hunger und krieg 🌝
+[07:24:36] <schattenaxt> waaaas simon war in minga? 😞
+[07:24:37] <shogg> z.B. MDMA
+[07:24:38] <kauder welsch> ich glaub nich das es in bayern besser ist für penner
+[07:25:00] <Alicia 2003> aus welchem Bundesland kommt ihr
+[07:25:06] <Kreis> shogg jo
+[07:25:09] <schattenaxt> bayern 😃
+[07:25:10] <Jacke wie Hose> wer will schon nach München? :P
+[07:25:11] <kauder welsch> thüringen
+[07:25:13] <shogg> du zuerst Alicia
+[07:25:17] <+Mixxel7> ist in bayern ein angesehener jop
+[07:25:18] <Alicia 2003> Hamburg
+[07:25:18] <Julez 554> Habe selten negative Gedanken die beeinflussend sind deswegen
+[07:25:27] <shogg> Mecklenburg
+[07:25:33] <sjck> alicia keine antwort?
+[07:25:51] <+Mixxel7> bestes bundesland bayern 😄
+[07:26:00] <Julez 554> Ich komm aus hessen
+[07:26:03] <Kreis> Julez trotzdem ist Koka einfach sau gefährlich, auch mehr körperlich als psychich
+[07:26:19] <Alicia 2003> @sjck was meinst du
+[07:26:22] <+Mixxel7> Nase ?
+[07:26:25] <Kreis> Julez its a hell of a drug
+[07:26:35] <Julez 554> Kreis es soll ja langzeit technisch gefährlich sein
+[07:26:46] <Stoneski> hey leute raucht doch ab und zu n joint und chillt euer leben 😀 !!! hört mit dem weißen dreck auf ! 😀
+[07:26:59] <schattenaxt> nö vertga des zeug nicht
+[07:27:06] <sjck> hab gefragt, ob du auch so sau viele überstunden angesammelt hast ohne chance sie abzubummeln
+[07:27:07] <+Mixxel7> Erzähl das meinem schwanz
+[07:27:07] <schattenaxt> vertrag*
+[07:27:14] <Kreis> Julez das natürlich sowieso
+[07:27:20] <shogg> ich war jahrelang Technogänger, aber habe nie Ecstasy/MDMA genommen
+[07:27:22] <kauder welsch> kokain is nicht gefährlich
+[07:27:32] <Julez 554> Naja vor dem Ableben hab ich sowieso schon ne helige Party geplant lol
+[07:27:36] <kauder welsch> selbst freud empfahl es seinen freunden und bekannten
+[07:27:41] <Alicia 2003> Wie kommt ihr immer mit dem Wort polizei in Verbindung mit Drogen
+[07:27:43] <Jacke wie Hose> @stoneski \o/
+[07:27:47] <Kreis> Julez wie die kollegen gesagt haben, lieber auf reines MDMA zurückgreifen, find ich persönlich eh viiiiieeeeeeeel besser
+[07:28:13] <Kreis> und am besten dann ein kaugummi dabei haben^^
+[07:28:17] <shogg> Alicia 2003 was machst du genau?
+[07:28:19] <Julez 554> Sigmund Freud hat es bis zu seinem Ableben befürwortet right? Wahnsinn...
+[07:28:21] <Stoneski> danke @jacke wie Hose
+[07:28:24] <shogg> genauer
+[07:28:37] <+Mixxel7> Polizei-Drogen Teufelskreis
+[07:28:57] <Jacke wie Hose> @stoneski kein Thema ;)
+[07:29:08] <Alicia 2003> @sjck sorry jo es geht letzte Woche War sehr viel los da hatte ich 2.30 Std Überstunden gemacht
+[07:29:18] <shogg> die Freundin meines Bekannten ist auch bei der Polizei .. sie macht was in Sachen Cyber-Sicherheit
+[07:29:35] <shogg> seit ein paar Wochen ist sie da
+[07:29:38] <Captain lol> ich glaube sie reden über Drogen weil sie denken sie sind dann coole Bad Boys 😎
+[07:29:40] <Kreis> Julez das mag sein, nur wie gesagt reines sauberes kokain wie es Freud wahrscheinlich benutzt hat, bekommst du heutzutage vorallem in deutschland kaum
+[07:29:55] <shogg> im Moment kann man ganz fix bei der Polizei eingestellt werden
+[07:29:55] <Alicia 2003> Ich bin Streifenpolizistin
+[07:30:12] <Julez 554> Die Sache ist einfach nur die, ob man psychisch einen stabilen Zustand vorweisen kann um jeglichen Verlangen zu widerstehen bspw.
+[07:30:14] <+Mixxel7> Wie ein zebra ?
+[07:30:22] <sjck> alicia eine freundin von mir is in der hundertschaft, die hat knapp tausend überstunden und macht jede woche 6tage, teilweise 3wochen kein frei
+[07:30:34] <Alicia 2003> seit meinen 20 Lebensjahr
+[07:30:39] <shogg> oh je sjck
+[07:30:46] <Shiro> Wann fangen sie eigentlich an fallout zu spielen
+[07:30:49] <Kreis> Julez darf ich fragen mit was für Substanzen du schon erfahrungen gemacht hast?
+[07:30:51] <Jacke wie Hose> ein job der leider gemacht werden muss :(
+[07:31:08] <Alicia 2003> @sjck oha
+[07:31:19] <kauder welsch> ich mag die polizei nicht
+[07:31:22] <shogg> sjck das hatte ich doch gerade heute gelesen .. um welche Branche ging es da noch
+[07:31:34] <shogg> 80h Überstunden pro Woche
+[07:31:44] <kauder welsch> was ich von denen schon genötigt wurde
+[07:31:47] <kauder welsch> schlimm
+[07:31:48] <Julez 554> Würder auch Koka mir sonst eine positive Erfahrung bescheren, wär ich anschließend in der Lage die Angelegenheit logisch zu bewerten... Emotionen haben keinen Wert
+[07:31:59] <Jacke wie Hose> ich bisher zu 90% nur gute Erfahrung mit der polizei
+[07:32:11] <Blodyck> markus heitz kommt zum buchklub, geil
+[07:32:23] <Alicia 2003> was War den passiert @kauder welch
+[07:32:30] <Kreis> Julez 554 bitte Frage beantworten^^
+[07:32:37] <shogg> .. ich suche mal wegen der Überstunden
+[07:33:05] <Julez 554> Emotionen hin oder her haben keine Entscheidungsgewalt
+[07:33:12] <+Bugfix 85> ich suche mal die Kaffeemaschine
+[07:33:15] <sjck> sowieso unsinnig. auch wenn sie sicherlich trainiert in selbstverteidigung is gibts genug holzköpfe, die sich freuen auf weibliche polizisten einzuschlagen. egal obs fussbalfans oderbei demos, razzien
+[07:33:28] <Julez 554> @Kreis Alkohol und Thc
+[07:33:44] <shogg> spon - wirtschaft/unternehmen/japan-viele-japaner-kommen-auf-80-ueberstunden-pro-monat-a-1115585.html
+[07:33:46] <shogg> puh
+[07:33:49] <shogg> hat geklappt
+[07:33:54] <sjck> versucht seit jahren in kripo zu wechseln und es wird immer wieder verschoben
+[07:33:58] <Tripple-A _96> weiß eigentlich wer wann das RBTV on tour FFXV kommt? oder kam das schon?
+[07:34:04] <Jacke wie Hose> @julez umd da ist leider das Problem deswegen könnte ich den job nicht....
+[07:34:07] <Alicia 2003> naja überschätze die weiblichen Polizisten nicht
+[07:34:28] <Luke Nukem> Julez554.. Hey.. ich bin überhaupt kein Feind von chemischen Drogen, aber es geht bei solchen Substanzen auch nicht nur um vermeidungen von Suchtschleifen oder Psychosen ..
+[07:34:35] <Blodyck> @shogg in sachen arbeit sind die japaner total krass drauf, die sehen ihre familie einfach nicht
+[07:35:02] <Luke Nukem> Je nach Substanz die du dir einwirfst wird deine Gehirnchemie für dein Leben geändert... das kann sehr schleichend und unauffällig sein ..
+[07:35:14] <Jacke wie Hose> misst jetzt spoiler ich mich....habe das DLC noch nicht gezockt
+[07:35:22] <Kreis> Julez dannschlag ich vor lieber mal gutes MDMA zu probieren, (Kristalle, keine Pillen!) und dann mal zu entscheiden ob du dann wirklich in der Lage bist die lage objektiv und emotionsfrei
+[07:35:25] <Kreis> zu beurteilen
+[07:35:46] <Alicia 2003> Wann ist es endlich 10.00 Uhr dann kommt mein verlobter von der Arbeit nachhause er ist rettungssanitäter
+[07:35:47] <Julez 554> Es ist ja rein logisch, dass man Substanzen keinen Wert schenkt, wenn sie nach der Zeit einen Enfluss haben
+[07:36:08] <Kreis> Alicia du labberst du noch nur schmu
+[07:36:09] <Jacke wie Hose> nils labert auch immer total das fantastische zeug xD
+[07:36:10] <Julez 554> @Luke Nukem welchen Einfluss haben sie ausßerdem
+[07:36:29] <shogg> Blodyck ich weiss. Was meinst du, verschafft das den Japanern einen Vorteil? Früher vielleicht ja, aber im Moment hilft ihnen selbst das nicht mehr
+[07:36:32] <sjck> warum ziehst du deine nachrichten immer zurück?
+[07:36:55] <Alicia 2003> Ich bin mit ihn seit 2003 zusammen also warum sollte ich lügen
+[07:37:13] <shogg> weil sie es kann (ich weiss noch immer nicht wie das geht)
+[07:37:24] <shogg> auf gaming.youtube.com geht das nicht
+[07:37:36] <Julez 554> Ich hab für mich ein System entwickelt, welches mich unweigerlich auf die logische Schiene runterholt Ich weiß´nicht wie es bei LSD oder Pilzen aussieht
+[07:37:43] <Kreis> Julez 554 du setzt aber eine extreme selbstkontrolle vorraus wenn du so denkst, bei allem respekt denke ich dass du das zeug sehr unterschätzt
+[07:37:44] <Luke Nukem> Das deine Serotonin-andockstation (Ich nenns jetzt mal so weil ich kein arzt bin) z.b. so zu sagen ausgeleiert und überbeansprucht wird..
+[07:37:47] <Robin Franke> ach man da schläft man bei BEARDS ein und der Stress läuft immer noch xD
+[07:37:58] <Robin Franke> *Stream
+[07:38:13] <+Bugfix 85> @Robin Franke 👍
+[07:38:19] <shogg> ich möchte das gar nicht lesen, was da eben gepostet wurde
+[07:38:21] <Luke Nukem> bei mdma z.b. ..
+[07:38:31] <yannic06> Gibts n grund warum er nicht einen schuss ohne vats setzt ??
+[07:38:33] <Kreis> Julez 554 Psychoaktive substanzen wie LSD oder pilze sind nochmal ein komplett anderes Thema, bei sowas muss dir klar sein dass du definitiv NICHT herr deiner lage sein wirst^^
+[07:38:48] <+Bugfix 85> @Julez 554 bist du auf sowas angewiesen?
+[07:38:58] <shogg> ach es geht ums spiel Yannic06 😛
+[07:39:05] <Blodyck> @shogg Früher vielleicht, aber so was hält nicht lange an. Der Mensch braucht Abwechslung und Ruhe. Wirtschaftlich und Gesellschaftlich steuert Japan in den Abgrund.
+[07:39:05] <Luke Nukem> Dachte dem Julez geht es darum dass er herr seiner Sucht ist... nicht seines rausches
+[07:39:25] <Kreis> shogg Wortwitz Skill +1
+[07:39:39] <Julez 554> Ok sehr viele Kommentare zum Thema, Es geht ausschließlich um Informationsvermittlung.
+[07:39:40] <yannic06> jaa aber als spieler der vielleicht 1 mal vats in 3 runs benutzt hat ist das leicht komisch shogg
+[07:40:03] <Kreis> Luke Nukem der Herr sammelt nur informationen, glaube nicht dass er von irgendwas süchtig ist^^
+[07:40:18] <Julez 554> @Bugfix 85 absolut nicht
+[07:40:32] <+Bugfix 85> gut!
+[07:40:58] <shogg> Blodyck ja, denke ich auch. Darum werden die skandinavischen Staaten (inkl. Dänemark) im Moment am glücklichsten empfunden. Da gibt es nicht diesen Druck, sondern Unterstützung
+[07:41:02] <Julez 554> Neugier is strong
+[07:41:15] <Luke Nukem> Ja dann ... Paar Kristalle.. wohl dosiert... viel Wasser... und ne gute Playlist 😀
+[07:41:20] <Julez 554> Deswegen frag ich mich manchmal
+[07:41:37] <Julez 554> inwiefern Kokain stärker wie LSD dargestellt werden
+[07:41:40] <+Bugfix 85> uuuh in Skandinavien war ich oft unterwegs
+[07:41:54] <+Bugfix 85> ...jedenfalls im EuroTruckSim!
+[07:42:00] <Alicia 2003> Ich bin dann mal weg oder habt ihr noch Fragen
+[07:42:12] <Kreis> Julez Koka und LSD sind soweit weg von einander wie Erde und Saturn, lässt sich absolut nicht miteinander vergleichen
+[07:42:20] <Jacke wie Hose> cya alica
+[07:42:27] <Julez 554> obwohl es komplett unterschiedliche Dinge sind
+[07:42:29] <shogg> Norwegen möchte einen 40km Tunnel von Schweden nach Deutschland bauen. für 30Mrd? auf eigene Kosten
+[07:42:30] <Jacke wie Hose> +i
+[07:42:31] <Kreis> Alicia hau ab labbersack
+[07:42:34] <Julez 554> Kreis deswegen
+[07:42:43] <shogg> 40km reicht nicht. ... waren 100km oder so
+[07:43:06] <deface> 🌝
+[07:43:18] <Kreis> Julez aber nicht wegen einer unterschiedlichen intensität in der wirkung, sondern wiel die "wirkung" als solche eine komplett andere ist
+[07:43:20] <Julez 554> @Kreis Deswegen bin ich mir nahezu zu 100 prozent sicher dass ich darauf mehr klar kommen würde
+[07:43:27] <Blodyck> @shogg wenn du mal nach japan reisen willst, ist jetzt der beste zeitpunkt der yen ist sehr schwach. Na klar lebt es sich besser wenn du weißt dass der Staat dich arbeitstechnisch schützt
+[07:43:46] <Jacke wie Hose> rech hat der kreis
+[07:44:02] <Kreis> Julez jo, auf Koka ist es definitiv einfacher zurechtzukommen als auf einer ordentlichen dosis LSD zb. aber dafür ist halt das Sucht Risiko ungemein größer
+[07:44:18] <Kreis> ich meine wirklich VIEEEL größer
+[07:44:32] <Kreis> fast vergleichbar mit heroin
+[07:44:42] <Tripple-A _96> Nils spielt auch immer so schlecht 😕 einfach die starken wegcriten und mit den schwachen crit wieder auffüllen, ist doch eiegntlich immer das gleiche
+[07:45:24] <shogg> Blodyck ich kann sogar ein bisschen japanisch, habe 4 Semester Japanisch gelernt mit zwei Japanerinnen als Lehrer und auch danach noch weiter gelernt.
+[07:45:26] <shogg> Aber ich glaube, dass das in keinster Weise ausreichen könnte.
+[07:45:31] <shogg> glaube nicht
+[07:45:33] <Julez 554> @Kreis und das ist der Punkt worum es geht. Egal wie stark dieses positive Erlebnis ist. Es geht allein um die Erfahrung. " Ach komm ein 2tes mal ist auch ok " GIBTS nicht
+[07:45:35] <Jacke wie Hose> das Fallout 3 spezial war super :)
+[07:45:43] <JanglesThe MoonMonkey> Naja das suchtpotential hängt in erster linie vom konsumenten ab
+[07:45:57] <+Bugfix 85> hahahahahahha
+[07:46:00] <Kreis> Julez, leichter gesagt als getan mein Freund,
+[07:46:05] <Julez 554> Jangles ich bin mir sicher da sagst du was
+[07:46:14] <JanglesThe MoonMonkey> Und von der häufigkeit des konsums
+[07:46:21] <Tripple-A _96> @shogg jemand der japanisch kann 😯
+[07:46:27] <Blodyck> @shogg ist es wirklich so schwer japanisch zu lernen (als europäer)? oder ist nur der anfang hart und danach geht es?
+[07:46:28] <Julez 554> @Kreis hast du die erfahrung schon gemacht?
+[07:46:44] <Marco Koehn> Moin Bohnen
+[07:47:05] <Kreis> natürlich hängt es AUCH vom konsumenten ab, aber bei dieser art von substanzen entsteht neben einer PSychichen abhängigkeit auch eine kröperliche, und die ist nunmal nicht ohne
+[07:47:11] <Jacke wie Hose> wenn du einmal ein guten trip auf LSD hattest, willst du das irgendwann wieder konsumieren
+[07:47:14] <Tripple-A _96> nur die schrift ist schwer, dei sprache ist eiegntlich easy
+[07:47:22] <deface> moin
+[07:47:32] <Kreis> Julez 554 yes sir, leider kaum eine erfahrung in dem bereich die ich noch nciht gemacht habe^^
+[07:47:34] <Jacke wie Hose> moin
+[07:47:53] <Kreis> defacemoin
+[07:47:53] <Julez 554> LSD und Plze interessieren mich überhaupt nicht.. nur Pusher
+[07:48:24] <Jacke wie Hose> deswegen auch das profilbild bei Kreis ;)
+[07:48:24] <Kreis> Julez 554 Schade, sollte genau anders herum sein idealerweise
+[07:48:32] <Luke Nukem> Kaffee Junge !
+[07:48:38] <Kreis> Hunter S. Thompson rest in peace
+[07:48:50] <shogg> Blodyck die Grammatik ist ultra einfach und systematisch. wort o ist das Objekt, wort ha ist das Subjekt usw. Es gibt nur Vergangenheit und Gegenwart
+[07:48:59] <Luke Nukem> Wieso schade? Das ist ja wohl totale Typsache ^^
+[07:49:09] <JanglesThe MoonMonkey> Kreis, ja stimmt schon, wobei in unseren breitengraden sowohl koka als auch heroin dermaßen verschnitten wird das man es einfach nicht nehmen sollte. Punkt 😉
+[07:49:20] <Luke Nukem> Immer diese Hippies 😛
+[07:49:32] <Jacke wie Hose> jeder wo drauf er bock hat :)
+[07:49:33] <Julez 554> @Kreis Ich glaube ich bin keine Person die "intensives Emotionsleben" hat deswegen interessieren mich Pusher eher
+[07:49:36] <deface> Lieber croc🌝
+[07:49:38] <Kreis> JanglesThe MoonMonkey hast absolut recht
+[07:50:12] <+Bugfix 85> Croc o´deal
+[07:50:13] <Kreis> Julez 554 mein Freund, was du brauchst ist ein gut vorbereiteter Trip, und nicht Koka
+[07:50:14] <shogg> Blodyck die Aussprache der Buchstaben ist ähnlich dem deutschen, aber die feinen Unterschiede ....
+[07:50:32] <HBC44> Don't drink and drive. Smoke and fly...
+[07:50:59] <shogg> Blodyck und dann geht es natürlich los min Kanji .. die chinesischen Schriftzeichen,
+[07:51:02] <Kreis> Julez 554 die erfahrung die man durch einen gut vorbereiteten Trip haben kann, prägt einen für das gesamte leben auf eine positive art
+[07:51:13] <JanglesThe MoonMonkey> @Julez, mdma wär auch ein tipp aber vorher am besten checken lassen
+[07:51:24] <Julez 554> @Kreis Ich denke du hast mehr Erfahrung mit Pushern daher bin ich mehr interessiert
+[07:51:25] <HBC44> Hippie gerede
+[07:52:12] <shogg> Blodyck ohne Chinesische Schriftzeichen gibt es zirk 42? Silbenschriftzeichen Hiragana und Katakana
+[07:52:12] <JanglesThe MoonMonkey> Und lass dir kein xtc andrehen, da kriegst du alles nur kein mdma
+[07:52:22] <Kreis> HBC44 hau ab wer hat dich nach deiner meinung gefragt
+[07:52:26] <Luke Nukem> Was muss man denn da testen lassen bezüglicxh mdma ?
+[07:52:35] <Luke Nukem> Was kann da passieren?
+[07:52:36] <Kreis> reinheit natürlich
+[07:52:56] <JanglesThe MoonMonkey> Obs eins ist
+[07:53:02] <Kreis> gibt vollidioten die einfach bei mdma kristallen zb glas reinmischen
+[07:53:24] <JanglesThe MoonMonkey> Oder anderen bullshit
+[07:53:48] <knewanick> lasst den scheiss einfach weg
+[07:54:04] <Blodyck> @shogg aber was genau haben die chinesischen schriftzeichen mit dem japanischen zu tun?
+[07:54:08] <JanglesThe MoonMonkey> Naja willst du gern geriebenes glas in nase oder magen haben?
+[07:54:21] <deface> Koks + glas = flex
+[07:54:27] <Luke Nukem> mdma durch die Nase? Ihr seid ja widerlich 😀
+[07:54:30] <Jacke wie Hose> der soll mal ne quantum trinken
+[07:54:39] <Kreis> lieber Julez 554, ich habe erfahrungen in beiden "welten" gemacht, positive wie negative und rückblickend kann ich sagen dass Pilze / LSD mir mehr "gegeben" haben als alles andere zusammen
+[07:54:39] <Julez 554> Ich bin für BrainChips like Ghost in the Shell
+[07:55:05] <+Bugfix 85> Ghost in the Shell, sehr geil!
+[07:55:11] <Kreis> 💜
+[07:55:16] <Luke Nukem> also bei dem salz dass man sich da über die schleimhäute zieht kann das glas besitmmt nicht mehr so viel ausmachen 😀
+[07:55:25] <shogg> Blodyck die Japaner haben sie übernommen. Darum gibt es für die gleichen Schriftzeichen immer zwei Aussprachen (was es nochmal schwieriger macht). 4=shi, 4=yon
+[07:55:45] <Julez 554> Ich würd ohne Frage mir einen Chip geben
+[07:55:46] <JanglesThe MoonMonkey> Ja pilze und acid kann ich auch empfehlen, aber alles im maßen und mit vorbereitung
+[07:56:05] <shogg> Blodyck die beste Seite zum Suche ist jisho.org
+[07:56:08] <Kreis> JanglesThe MoonMonkey du gefällst mir, Bom Shanka
+[07:56:11] <shogg> zum Suchen
+[07:56:16] <Jacke wie Hose> setting ist das wichtigste!
+[07:56:24] <Kreis> set + setting
+[07:56:31] <Julez 554> Einen Chip der die Neuronen effizienter verarbeitet... sofort
+[07:56:38] <niunOne> huhu
+[07:56:46] <JanglesThe MoonMonkey> @Kreis Bom wthat?! xD
+[07:56:47] <niunOne> weiß jemand, ob die letzte beards folge schon online ist?
+[07:57:01] <deface> Um 11uht
+[07:57:02] <Kreis> JanglesThe MoonMonkey never mind xD
+[07:57:24] <deface> Uhr* ist sie online...
+[07:57:28] <Kreis> ich geh schlafen
+[07:57:42] <Kreis> nicht vergessen: dont drink and drive! take LSD and teleport
+[07:58:28] <Tripple-A _96> おやすみなさい 😉
+[07:58:34] <shogg> Blodyck ist aber im englischen genauso gross=large=französisch, gross=big=nordisch
+[07:58:59] <shogg> oyasuminasui
+[07:59:06] <shogg> gute nacht?
+[07:59:24] <Tripple-A _96> ich dachte du kannst japanisch? 😀
+[07:59:27] <Tripple-A _96> ja
+[08:00:08] <+Bugfix 85> Warum nehmen nur so viele Drogen, ist die Welt so krank? 😱
+[08:00:14] <shogg> oyasuminakii .. ki mit su verwechselt
+[08:00:26] <+Bugfix 85> im Chat sind es bestimmt manchmal 90%
+[08:00:43] <shogg> antwortest du dir selbst Bugfix?
+[08:01:03] <Tripple-A _96> jo chad is kaputt 😞
+[08:01:04] <+Bugfix 85> als würde es darauf eine Antwort geben!
+[08:01:08] <JanglesThe MoonMonkey> .._ ich bin kein japaner doch spreche karate du siehst meine kleidung ich spreche versace
+[08:01:11] <Julez 554> Würdet ihr asyliminieren?
+[08:01:12] <shogg> zum belegen deiner 90% Statistik?
+[08:01:37] <+Bugfix 85> können ja mal nenn Vote machen 🌝
+[08:01:52] <shogg> ok
+[08:02:15] <JanglesThe MoonMonkey> Ich feh mal rainbow sixn ^ ^ cya
+[08:02:18] <shogg> mach ne tabelle zum Ankreuzen Bugfix
+[08:02:37] <Alicia 2003> bin wieder da
+[08:02:44] <shogg> oder mit ner Zahl von 0 bis 9
+[08:03:14] <shogg> das interessiert sicherlich auch Alicia, unsere Streifenpolizistin 😉
+[08:03:21] <+Bugfix 85> 📝
+[08:03:35] <Alicia 2003> 😊
+[08:03:38] <deface> 🌝
+[08:03:41] <+Bugfix 85> Streifenhörnchen vielleicht
+[08:03:59] <shogg> oder Streifenhörnchen, von mir aus
+[08:04:11] <Alicia 2003> worum geht es shoog
+[08:04:20] <+Zo nk> moinsen
+[08:04:25] <shogg> warten wir ab
+[08:04:29] <+Bugfix 85> um Hörnchen mit Nutella
+[08:04:39] <shogg> ob es ne Abstimmung geben wird oder nicht
