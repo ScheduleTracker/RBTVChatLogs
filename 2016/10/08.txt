@@ -7358,3 +7358,231 @@
 [09:03:45] <shogg> keine Änderung
 [09:04:15] <shogg> Tooltip zeigt keine Tastenkombination
 [09:04:25] <+Bugfix 85> musst dir nich die EmotePacks runterladen
+[09:04:55] <+Bugfix 85> und in der erweiterung hochladen
+[09:05:31] <sebsn> moin
+[09:05:45] <Beastic> Fällt es Konsolenspielern eigentlich auf dass sie sterben _weil_ man mit Gamepad gegen schnelle Viecher nix reißt
+[09:05:55] <+Bugfix 85> moinmoin sebsn
+[09:06:22] <Beastic> Wenn 50% der Schüsse in den Boden gehen regt man sich doch net über schnelle Viecher auf
+[09:06:39] <sebsn> so schrecklich istn controller nicht.. weiß nich was immer alle habn
+[09:06:56] <+Bugfix 85> hab keine Kosole, keinen schimmer
+[09:07:04] <sebsn> man lernt damit umzugehen
+[09:07:23] <Beastic> Hast doch bei Nils grad gesehen dass er nix trifft ohne das slowmotion gedöns
+[09:07:45] <shogg> Bugfix 85 ich hab mir nur Download: Chrome und Vivaldi installiert. Keine Emote-Packs
+[09:07:50] <Beastic> und sich dann über die Viecher aufregt ^^
+[09:07:54] <sebsn> du willst nils als ultimativen vergleich hernehmen? :D
+[09:07:54] <shogg> aber stimmt
+[09:08:03] <shogg> es funktioniert jetzt mit @
+[09:08:13] <Beastic> nein, aber ich seh das hier so oft
+[09:08:13] <+Bugfix 85> dann siehst du den 🌝 auch nicht richtig
+[09:08:48] <shogg> @bug
+[09:08:51] <Darth Bobo> moin
+[09:09:06] <shogg> @Bugfix 85 wahrscheinlich, das ist ein unscheinbares Mondgesicht
+[09:09:25] <Zirkumflex> Weiß jemand wann P&P als Vod erscheint?
+[09:09:37] <+Bugfix 85> @shogg jop, mit Emotepack ist es der selbe wie bei Twitch
+[09:09:48] <+Bugfix 85> 11uhr nachher @Zirkumflex
+[09:09:57] <Zirkumflex> Thx
+[09:09:58] <shogg> @Bugfix 85 na dann bin ich mal gespannt
+[09:11:34] <+Progaz> ach hier der Asiate von Game One 🐯
+[09:11:55] <+Bugfix 85> find es nur seltsam das man Emotepack 1 + 2 nicht zusammen nutzen kann 😞
+[09:12:32] <+Progaz> naja so ein paar emotes fehlen mir noch ^^
+[09:12:50] <+Progaz> tb cmonBruh TriHard CiGrip VapeNation 😀
+[09:12:51] <Godot> Wurde nicht gerade AD geteasert?
+[09:13:04] <shogg> @Bug
+[09:13:46] <shogg> @Bugfix 85 FUNgineer und OMGscoots fehlen. Ohne die sind die Packs nicht zu gebrauchen.
+[09:13:47] <I Am Eduard> DuckerZ fehlt mir 😖
+[09:14:03] <I Am Eduard> @shogg 📙 ist dabei
+[09:14:04] <shogg> Außerdem verstehe ich nicht wie man die innstalliert
+[09:14:28] <I Am Eduard> Also OMG Scoots ist im Pack enthalten
+[09:14:32] <shogg> ich sehe da eine Milchschnitte @I
+[09:14:42] <+Progaz> einfach einfügen ^^
+[09:14:47] <+Progaz> in einbstellungen
+[09:14:53] <+Progaz> eigl simpel
+[09:15:26] <shogg> wieder 30sek Timeout .. ok, ich versuche es nochmal
+[09:15:36] <+Bugfix 85> Datei Auswählen bei Emotes unter Optionen von BetterRBTV
+[09:16:11] <+Bugfix 85> davor natürlich das Emotepack downloaden
+[09:16:38] <plateau> bohnjour meine Freunde :3
+[09:16:42] <shogg> oder habe ich es schon? 👿
+[09:16:44] <shogg> nee
+[09:16:58] <+Bugfix 85> doch geht shogg
+[09:16:59] <shogg> es ist ein Teufel
+[09:17:05] <+Bugfix 85> 🌝 guck
+[09:17:35] <+KaioSchwonz> der nils
+[09:17:37] <+Bugfix 85> 😁😯😑😴😨🐯🐶
+[09:17:58] <shogg> geht noch nicht, Teufel und Sonne
+[09:18:30] <+Bugfix 85> dein "👿 " seh ich doch
+[09:18:59] <+Bugfix 85> aso ja klar seh ich das xD
+[09:19:06] <I Am Eduard> 😂
+[09:20:33] <+Progaz> 😑
+[09:20:45] <Der_RX> 😣
+[09:21:04] <Der_RX> ☺
+[09:24:44] <shogg> ist es das? Ohne 🌝 - ohne mich: Mit Emote-Packs bestimmen, wie Emotes dargestellt werden sollen. Zur Installation in die Optionen der Erweiterung gehen und die gepackte Zip-Datei auswählen.
+[09:25:10] <shogg> extremst schwer zu finden, wie man die installiert
+[09:26:57] <+Bugfix 85> im rbtv Forum gibts beide Packs
+[09:29:56] <MiraakHD™> Guten Morgen
+[09:30:12] <shogg> forum rocketbeans tv t betterrbtv-fuer-youtube-live-inoffizielle-browser-erweiterung/9466
+[09:30:54] <I Am Eduard> Das erste Drachenblut 😯
+[09:31:01] <gala tisch> nope hans
+[09:31:25] <_LaZer_Beam _> Frage, wieviel der 3,99€ kommen bei den Bohnen an ?
+[09:31:51] <shogg> von da versuche ich es zu installieren. habe die zip heruntergeladen. und versuche sie nun über weitere Tools/Erweiterungen/entpackte erweiterungen zu laden
+[09:32:47] <+Bugfix 85> @_LaZer_Beam _ glaub nur 5% gehen an YT
+[09:33:12] <+Bugfix 85> shogg du musst in die Optionen von Betterrbtv
+[09:33:27] <_LaZer_Beam _> @Bugfix 85 das ist ok 😃
+[09:33:48] <shogg> ok
+[09:34:38] <I Am Eduard> Nils 🙈
+[09:34:48] <Fry R. Funden> kein vr mit simon?
+[09:34:49] <+_LaZer_Beam _> NEW SPONSOR! Welcome _LaZer_Beam _!
+[09:35:18] <Ronitschka> halo
+[09:35:32] <I Am Eduard> Nein das ist Fallout 🌝
+[09:36:45] <Fry R. Funden> auch gut
+[09:36:57] <I Am Eduard> VIP in 2016 😂
+[09:36:58] <+Dryhoof> Warum rennt Nils auch immer ohne powerarmor rum^^
+[09:37:12] <Max Mucharski> Wann kommt die Wiederholung von Pen and paper leute?
+[09:37:16] <shogg> 😭
+[09:37:27] <+Bugfix 85> 💕@_LaZer_Beam _ 👍
+[09:37:31] <Ganz Klein> 11.00
+[09:37:35] <I Am Eduard> weil Fallout 4 so leicht ist, dass es mit Power Armor lame ist ^^
+[09:37:45] <+Bugfix 85> @Max Mucharski 11uhr nachher
+[09:37:46] <shogg> das reicht mir schon einmal. Die Community Emotes habe ich nicht hinbekommen.
+[09:37:48] <Max Mucharski> Danke :)
+[09:38:30] <shogg> danke für den Tipp mit den BetterRBTV Optionen @Bug
+[09:38:39] <shogg> @Bugfix 85
+[09:38:44] <+Bugfix 85> shogg oben im Browser haste doch das Betterrbtv Logo?!
+[09:38:47] <+_LaZer_Beam _> B.E.A.R.D.S war klasse gestern, vorllame als früherer DSA 😀
+[09:39:39] <+Bugfix 85> DSA?
+[09:39:50] <+_LaZer_Beam _> Das schwarze Auge
+[09:40:20] <shogg> eben habe ich es noch gesehen @Bugfix 85 es war grau und unscheinbar. Als ich draufgeklickt hatte war es weg
+[09:40:24] <John Wayn> ist survival die härteste schwierigkeit in fallout?
+[09:40:35] <shogg> hab nur noch das bttv logo
+[09:40:48] <Rudi Otto> Hallo
+[09:41:00] <+Bugfix 85> das ist seltsam shogg
+[09:41:18] <+Bugfix 85> mach da ma linksklick rein & Optionen
+[09:41:47] <Michael P.> wird Pocket Beans noch supported?
+[09:41:51] <shogg> @Bugfix 85 ansonsten habe ich noch "mute tabs shortcut", stylish, und ublock origin ..und wie gesagt bttv
+[09:42:24] <Michael P.> Es gibt kaum noch updates
+[09:42:49] <+_LaZer_Beam _> neuer Underworld Teil Cool ich steh auf die schauspielerin 😀
+[09:44:01] <+_LaZer_Beam _> kann B.E.A.R.D.S am 25.11. nciht schauen 😞
+[09:44:57] <+_LaZer_Beam _> muss mal fragen ob ich frei bekomme, der zeigt mir wohl den Voogel aber egal fragen kostet nichts
+[09:44:58] <akte23> nun
+[09:45:10] <I Am Eduard> Das nächste Beards kommt am 25.11? 😯
+[09:45:19] <+_LaZer_Beam _> @I Am Eduard ja
+[09:45:22] <+Bugfix 85> jop
+[09:45:52] <I Am Eduard> 😯
+[09:46:22] <+_LaZer_Beam _> Eddy war gestern eine schauspielerische Glanzleistung 😀
+[09:47:00] <Guido Lust> kann man beards schon iwo gucken?
+[09:47:20] <I Am Eduard> Naja dann verabschiede ich mich auch mal von euch. Bis später 😕 /
+[09:47:46] <+_LaZer_Beam _> @I Am Eduard bis später
+[09:47:59] <+_LaZer_Beam _> @Guido Lust wenn dann auf YT
+[09:48:09] <Guido Lust> kk
+[09:48:14] <+Bugfix 85> 11uhr
+[09:48:36] <titan 6060> lol arbe😊
+[09:48:46] <shogg> ciao IA Eduard
+[09:49:01] <shogg> ich bin auch raus
+[09:49:07] <dustin lersch> weiß jemand ob ich beards von gestern irgendwo schon sehen kann ?
+[09:49:23] <shogg> OMGscoots
+[09:49:28] <+_LaZer_Beam _> Werd mir kein VR holen, ich warte erstmal ab, wollte normal für PS4 kaufen aber nach Flops wie Kinect...
+[09:49:57] <Waupel McGragger> is auch crap das du bei der teuren oculus Lichteinwurf hast und bei der Samsung gear vr alles dicht ist...
+[09:50:29] <+_LaZer_Beam _> PSVR ist nach ersten Test auch noch ausbaufähig
+[09:50:53] <shogg> 👹👹👹
+[09:50:54] <P.A. I.N.> dustin lersch um elf uhr soll das hochgeladen sein
+[09:51:07] <dustin lersch> okay dankeschön 😃
+[09:51:26] <P.A. I.N.> kein ding ;)
+[09:51:34] <+Progaz> 😧
+[09:51:36] <Niko Filehr> das macht schon beim zuschauen angst
+[09:51:36] <Sam Nagel> Hey
+[09:51:48] <+Baum Inventions> wie egal mir spinnen einfach sind 😀
+[09:52:07] <shogg> besonders solche
+[09:52:12] <Niko Filehr> die haben 4 mal so viele beine wie menschen das ist voll gruselig
+[09:52:12] <Hi Was Geht> digger
+[09:52:17] <+Baum Inventions> exact
+[09:52:17] <Edeltraud Wotzlaf> dennis hätte ihn verarschen müssen und simon so leicht über die hand streicheln sollen xD
+[09:52:37] <+Progaz> Spoders t_😧
+[09:52:53] <Yuuseki> Passend zum Thema: imgur.com/gallery/BUdYB
+[09:52:53] <shogg> spodermon pls
+[09:53:04] <zeddythehead> ich mag keine spinnen 😞
+[09:53:10] <King of sacit Birel> Grüße mich
+[09:53:28] <+Baum Inventions> warum?
+[09:53:41] <shogg> gestern gesehen Yusseki
+[09:53:42] <King of sacit Birel> Darum
+[09:53:48] <+Baum Inventions> nö
+[09:53:50] <+_LaZer_Beam _> Spinnen sind doch schöne Tiere und wichtige !!!
+[09:53:56] <+_LaZer_Beam _> Insekten sorry
+[09:54:00] <shogg> allerdings andere, doch ähnliche
+[09:54:02] <King of sacit Birel> Grüß mich
+[09:54:08] <zeddythehead> @ Yuuseki süß die kleinen 😃
+[09:54:09] <+Baum Inventions> Haiii
+[09:54:24] <Yuuseki> und so hübsch 😸
+[09:54:32] <King of sacit Birel> Grüß mich
+[09:54:32] <Narakhin> @_LaZer_Beam _ Arachniden
+[09:54:33] <Hi Was Geht> 8
+[09:54:48] <+Bugfix 85> "Grüß mich" schreiste das auch mitten in der Stadt rum?
+[09:55:00] <Narakhin> @Bugfix 85 😃 / Ahoi 💜
+[09:55:08] <King of sacit Birel> Opfer
+[09:55:19] <+Bugfix 85> Lösch dich!
+[09:55:29] <Narakhin> @King of sacit Birel Was bist du denn für 'ne Wurst?
+[09:55:36] <+Bugfix 85> @Narakhin 💜 MoinMoin 😃 alles gut?
+[09:55:51] <Quantum> katzen 😀
+[09:55:51] <shogg> 😀 .. ich sehe gerade .. das war wohl eines der wichtigeren Emotes
+[09:55:53] <King of sacit Birel> Spaß
+[09:55:54] <shogg> mist
+[09:56:01] <Quantum> 😭
+[09:56:01] <shogg> 😄
+[09:56:21] <+Progaz> 😂
+[09:56:27] <Narakhin> @Bugfix 85 Alles gut, ja. Muss nur langsam das Futter jagen gehen. 🌝 Und bei dir? ... FUCK THE TIMEOUT ... 😑
+[09:56:32] <Quantum> xD
+[09:56:37] <+Bugfix 85> aaaaawwwww wie putzig
+[09:56:46] <shogg> hatte auch wieder ein Timeout
+[09:57:14] <King of sacit Birel> Hi
+[09:57:51] <+Bugfix 85> 😴 muss auch noch Rentner schubbsen im S-markt ... aber erst Später, nachher kauf ich mir Endless Legend, sollte nur erst mal bissel schlafen 🐯 @Narakhin
+[09:58:02] <King of sacit Birel> Abonniert mein Kanal King of sacit
+[09:58:08] <+Baum Inventions> tower defense
+[09:58:16] <+Bugfix 85> @Narakhin hol dir doch ma VIP 🐶
+[09:58:20] <King of sacit Birel> Bitte
+[09:58:21] <shogg> Akkusativ, meinen
+[09:58:22] <+Baum Inventions> werbung für sich selber machen stinkt 💜
+[09:58:25] <Narakhin> @Bugfix 85 Guter Mann. EL ist so geil. 😚
+[09:58:27] <+Progaz> 1000 Geld 😯
+[09:58:32] <DreckigerKleinerGollum> 1000 geld PogChamp
+[09:58:47] <+Progaz> ich hab nicht mal 100 Geld 😖 🔫
+[09:58:54] <DreckigerKleinerGollum> das sind ja 2000 mark
+[09:58:54] <Narakhin> @Bugfix 85 Für VIP bin ich dann doch zu selten im Chat, dass es sich lohnen würde. Da überweise ich lieber direkt.
+[09:59:02] <+Baum Inventions> geld ist überbewertet
+[09:59:19] <Wilma Reinlunzen> 4000 Mark Ost!
+[09:59:20] <shogg> jetzt muss ich rausfinden wie der Revolver geht
+[09:59:23] <shogg> 🔫
+[09:59:33] <+Baum Inventions> 💞
+[09:59:41] <shogg> 😄 💊
+[09:59:55] <Hardi Ready> 👉👌
+[10:00:00] <Clear Nexus> jetzt hab ich bock auf baw. toll 😀
+[10:00:09] <+Baum Inventions> 👉👌👈 twice the fun
+[10:00:11] <Riroratu Turarori> ich will dlrh 😞
+[10:00:13] <shogg> ✂ :ambu
+[10:00:22] <Yuuseki> @Baum Inventions ins selbe Loch?
+[10:00:26] <+Bugfix 85> @Narakhin auch ne variante 💜 den 30sek. timeout haste dennoch
+[10:00:35] <+Baum Inventions> @Yuuseki bei bedarf...
+[10:00:39] <shogg> ✂ 🚑
+[10:00:39] <Till Beschorner> so wer ist schon wieder wach von Beards
+[10:00:44] <+Bugfix 85> aber das mit dem Chat versteh ich, hab den die Woche über auch eher aus
+[10:00:46] <Narakhin> @Bugfix 85 Yo, ist richtig. Muss ich mit leben. 😖
+[10:00:53] <DreckigerKleinerGollum> Baum Inventions xD
+[10:01:07] <ghulfuerst> @till HIER! 😀
+[10:01:12] <Quantum> xD
+[10:01:26] <Melleee> von wann is das bitte? 😀
+[10:01:27] <Narakhin> @Bugfix 85 Ich schaue hier nur sporadisch mal rein. Wenn ich zufällig den Chat offen habe und jemand ist da, den ich kenne, dann log ich mich schonmal ein. Sonst eher Schweigen im Walde.
+[10:01:41] <DreckigerKleinerGollum> das ist von 86
+[10:01:42] <+Baum Inventions> ok
+[10:01:50] <zeddythehead> Pussies😹
+[10:01:51] <King of sacit Birel> Baum inventions hab dich abonniert
+[10:01:58] <shogg> 👻 📥 🐚
+[10:02:31] <+Progaz> @King of sacit Birel 😹
+[10:02:51] <+Baum Inventions> @King of sacit Birel nicht nötig 😉 nur wenige menschen mögen meinen content... es ist schon sehr speziell und für viele ehr langweilig. 😉
+[10:03:10] <King of sacit Birel> Ich bin 10 Jahre alt
+[10:03:24] <+Baum Inventions> na dann
+[10:03:42] <+Progaz> ist rbtv nicht ab 18? 😂
+[10:03:52] <+Bugfix 85> @Narakhin "Schweigen im Walde" seit YT ? Auf Twitch warste öffter zu sehen o. hat das getäuscht?
+[10:03:53] <+_LaZer_Beam _> i Robot ?
+[10:04:26] <slyzz12> wann kommt beards online als vod?
+[10:04:35] <+Bugfix 85> gleich 11uhr
+[10:04:44] <slyzz12> top danke 😃
+[10:04:51] <King of sacit Birel> Ich kenne diesen Kanal nicht mal ich bin hier einfach nu
+[10:04:52] <+Baum Inventions> B👧E👨A👩N👴S👵
+[10:04:53] <Narakhin> @Bugfix 85 Ne, da war ich öfter. Allerdings spinnen sich da irgendwie manche Leute was zusammen. Sind nicht mehr viele mit denen man problemlos reden kann. Traurigerweise.
