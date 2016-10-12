@@ -917,3 +917,169 @@
 [02:03:41] <neu> steuerung+f
 [02:04:18] <Matti W> man kann doch auch noch Reiter hinzufügen, nach denen man dann sortieren kann. ist da nix dabei was hilft?
 [02:04:25] <YourComputerBlog> Genau, dass mache ich. Dann suche ich (E) und er zeigt mir aber auch andere Datein an, die ein E beinahlten
+[02:04:52] <Matti W> probiere mal *(E)
+[02:05:14] <YourComputerBlog> Nope
+[02:05:19] <neu> jo musst bei der bezeichnung 100&präzise sein
+[02:05:46] <neu> makier doch alle daten mit (E) und häng noch was ran
+[02:06:03] <YourComputerBlog> Das sind 1000 Dateien
+[02:06:08] <neu> kein plan ich hab schon lang nich mehr gepennt
+[02:06:25] <Matti W> das will er ja gerad vermeiden :D
+[02:07:34] <HAHA Reingelegt> sklaverei hype
+[02:07:37] <Matti W> nenn mal ne Dateibezeichnung als Bsp
+[02:07:38] <HAHA Reingelegt> pogchamp
+[02:08:22] <Matti W> kannst dir auch was ausdenken, nur damit die Struktur mal klar ist ;)
+[02:09:06] <YourComputerBlog> ActRaiser (E), ActRaiser (F), ActRaiser (G), ActRaiser (G) [b1
+[02:09:56] <+Chemile0n> @YourComputerBlog: " " werden benutzt, um einen exakten Ausdruck zu finden, Klammern ermöglichen die Suche nach Begriffen in beliebiger Reihenfolge
+[02:10:04] <neu> strg+f (E) fertsch??!
+[02:10:08] <niunOne> du kannst auch eingeben sternchen *(E)*, oder wars mit anführungszeichen? musst ma probieren
+[02:10:30] <+Chemile0n> sternchen sind autovervollständigung
+[02:10:32] <Matti W> oder *leerzeichen(E)
+[02:10:35] <neu> bzwdateiformat+(e)
+[02:10:41] <+Chemile0n> also wildcards
+[02:10:56] <YourComputerBlog> @Chemile0n Seine Lösung wirkt
+[02:10:58] <neu> .dat(e)
+[02:11:03] <niunOne> @Chemile0n stimmt
+[02:11:12] <YourComputerBlog> Danke Leute, dass ihr euch Zeit genommen habt
+[02:11:13] <YourComputerBlog> !
+[02:11:16] <niunOne> ich denke, in dem fall geht beides
+[02:11:20] <Matti W> welche?
+[02:11:23] <Karies _> ich mochte star fox nie.. fands auch grauenhaft spielbar.
+[02:11:25] <Matti W> :D
+[02:11:34] <neu> SO R u READY?!?
+[02:11:53] <neu> DO A BARREL ROLLL
+[02:11:57] <Matti W> was genau hat jetzt geklappt? ^^
+[02:12:08] <+Chemile0n> ich glaube mit ! kann man auch ausschließen bei der windows suche.. aber da bin ich mir nicht sicher
+[02:12:12] <neu> was das für ein geiler shizzle
+[02:12:15] <YourComputerBlog> Suchbegriff mit " " Exklusiv machen. Dämlicher Spam Schutz konnte nichts schreiben
+[02:12:20] <+Chemile0n> ich glaube " " hat geklappt 😉
+[02:12:24] <Matti W> ahh
+[02:12:28] <Matti W> cool!
+[02:12:43] <paddy9609> eindeutig ist der 5. der beste!
+[02:12:44] <neu> " * bzw ; sollte auch gehn
+[02:13:00] <Matti W> gut Nacht!
+[02:13:08] <+Bohnen Matze> Hey Gregor, erzähl uns doch nochmal die Slippy Toad Schirmmützengagstory 😴
+[02:13:11] <Streh Low> Ansonsten geht auch wenn du in dem Ordner cmd öffnest (Shift + Rechtsklick) und dort dann einfach eingeben: xcopy *(E)* "gewünschter Dateipfad"
+[02:13:14] <+Chemile0n> wie gesagt " ist exclusiv * ist ein wildcard und ersetzt einzelne zeichen oder zeichenfolgen
+[02:13:28] <Karies _> die mütze nützt ihm gar nichts.. hihihi
+[02:13:40] <Streh Low> gewünschter Dateipfad = Zielpfad wo du's hinhaben willst
+[02:14:03] <neu> was für 1 mütze
+[02:14:09] <niunOne> jetzt kommen die Pros 😯
+[02:14:24] <neu> thai fighter^^
+[02:14:46] <+Chemile0n> so leutz.. ich geh pennen 🙋
+[02:14:48] <Streh Low> 😀 extra gerade was rumprobiert weils mich dann selbst interessiert hat😅
+[02:14:52] <YourComputerBlog> @Streh Low auch ein guter Hinweis 😀
+[02:15:52] <YourComputerBlog> Nur mal als Hinweis, für den SNES in Europa sind ca. 1200 (+/-)Spiele erschienen.
+[02:16:00] <YourComputerBlog> Sehe ich jetzt gerade mal so lol
+[02:16:13] <Karies _> das nes 😛
+[02:16:16] <Karies _> snes
+[02:16:27] <Karies _> der famicom 🌝
+[02:17:48] <Karies _> ich hätte gern einen super famicom.. ist hübscher als das snes
+[02:18:11] <neu> vergiss nich die ganzten special edits.....gab ja mal snes kassetten die es ausschließllich für time trial challenges....waren cartridges mit 3games wo meißt nur die ersten lvl+timer drauf waren
+[02:19:19] <neu> snes war schon was geiles
+[02:19:22] <YourComputerBlog> Ja, dass habe ich im Hinterkopf. Das ganze wird auf meinen Raspberry Pi geworfen und ausprobiert. (Danke an Gregor und RetroClub)
+[02:19:44] <YourComputerBlog> Sollte ich dann beim zocken der Versionen feststellen das was fehlt wird nachgelegt
+[02:20:02] <neu> was haben die denn genommen
+[02:20:29] <moenchone> nicht die schon wieder. die wollen auf das grab meines opas pissen 😞
+[02:21:10] <+Bohnen Matze> Jede Band die bei Audiolith unter Vertrag steht ist eine gute Band!
+[02:21:30] <+ManganGER> Mein Opa ist in einem KZ gestorben. Ist vom Wachturm gefallen 🌝
+[02:21:32] <Homoe Rekt Us> IQ direkt -9000
+[02:21:47] <moenchone> @Bohnen Matze es gibt offensichtlich ausnahmen^^
+[02:21:49] <Homoe Rekt Us> Macht bitte das es aufhört 😞
+[02:22:05] <Hillbilly TheKid> die sind voll auf Ananas glaub ich
+[02:22:15] <+Bohnen Matze> Klar, chat steht ja eh nur auf Rock/heavy metal und animes.
+[02:22:34] <paddy9609> ich finds geil
+[02:22:43] <Homoe Rekt Us> Heißt es nicht "Dies und Das"? Dies, Das ist so eher Hauptschule mit migrations Hintergrund ^^
+[02:22:51] <moenchone> alles für alle 😀 wie naiv kann man sein?
+[02:22:57] <Karies _> ich finds halt nur etwas pseudo-politisch
+[02:23:04] <neu> sjaödjöaskjdlk
+[02:23:05] <Karies _> die band an sich
+[02:23:46] <Karies _> lifestyle-linke
+[02:23:59] <neu> okay hab die heilung
+[02:24:02] <neu> watch?v=9GMjH1nR0ds
+[02:24:36] <YourComputerBlog> @neu Sexy Beat
+[02:24:44] <moenchone> watch?v=VoVkxfnNPbY niemals knie und den hut zeigen!
+[02:24:58] <tellfulGAMES> hi
+[02:25:08] <Karies _> moin
+[02:25:19] <neu> dieses vid is soo fckn nice
+[02:26:23] <neu> komm auf deine gitarrHero mukke nich kla.....leider kein motörhead
+[02:26:28] <kreXiTs> wie nix live?
+[02:26:36] <kreXiTs> was soll das
+[02:26:44] <paddy9609> LSD
+[02:27:47] <moenchone> @neu du magst motörhead? das freut mich 😃 die gehörten zu den ganz großen
+[02:28:32] <kreXiTs> und ihr Name? für recherche-zwecke natürlich
+[02:29:20] <Karies _> neuer patch für nms ? .. wurde auch zeit.
+[02:31:12] <+Crulex 94> Leute ich kann nicht pennen, muss morgen um 7 Aufstehen, kann mich einer eben K.O schlagen ?
+[02:31:27] <niunOne> zoolock hats halt immer noch drauf
+[02:31:51] <Damien Staffetius> Wo wohnst du
+[02:32:00] <neu> motörhead is Ultimativ....Lemmy is jetzt wirklich zum got geworden.....
+[02:32:29] <+Bohnen Matze> Zum Game of Thrones?
+[02:33:11] <+Bohnen Matze> Übrigens ist es lächgerlich irgendwelche Rockgrößen zu vergöttern oder was auch immer. Haben auch alle nur Gekackt und gepisst und gesoffen und gefickt,
+[02:33:23] <neu> Ich durfte Es erleben das letzte konzert in berlin am 11.12.15
+[02:34:10] <neu> zu krass...aber ich wusste das es das letzte konzert würd....
+[02:35:13] <neu> wird weird wtf
+[02:36:50] <neu> lemmy is ne ikone....hab es leider auch erst viel zuspät gerafft
+[02:38:27] <PL stuff and nonsense> fs2 hat auch geile mods, kann man heute sogar noch zocken
+[02:41:09] <+ManganGER> sieht echt nicht schlecht aus. Dafür, dass das schon so alt ist.
+[02:41:30] <+ManganGER> Es heißt warten auf Star Citizen
+[02:41:50] <PL stuff and nonsense> glaub die zocken schon die gemoddete version, der micha meinte grad irgend sowas. hab nicht genau hingehört.
+[02:43:38] <MC Hodenflash> An Boot 👍
+[02:44:21] <markus batke> kennt einer noch Whale’s Voyage ??
+[02:45:02] <Stuart Pot> Ist das Live?
+[02:45:12] <NoR Cleaner> nö
+[02:45:18] <Stuart Pot> mach nur spass
+[02:45:25] <Stuart Pot> wollte nen alten witz ausgaben
+[02:45:30] <NoR Cleaner> :)
+[02:46:23] <Homaz> 😃
+[02:47:43] <Homaz> Eure absolute Lieblingsserie of all time?
+[02:48:00] <+Bohnen Matze> Alle
+[02:48:03] <+Bohnen Matze> Die es gibt
+[02:48:05] <Homaz> ALLE!
+[02:48:11] <Homaz> Die mit der Mühle!
+[02:48:26] <Stuart Pot> Ich liebe Scrubs.
+[02:48:52] <Homaz> Sopranos?
+[02:48:53] <Stuart Pot> meine abolsute lieblingsserie 😀
+[02:49:01] <Julez 554> DIe Dinos
+[02:49:19] <Stuart Pot> Die Dinos waren auch super!
+[02:49:28] <Homaz> BIN DAA!!! Wer noooch?
+[02:49:33] <Julez 554> xD 👍
+[02:49:45] <HipHopGuru> nice
+[02:50:35] <+ManganGER> Der Freelancer MP war genial
+[02:51:57] <Julez 554> Team Limited sollte 2x die Woche kommen
+[02:51:59] <Homaz> 😍
+[02:52:04] <Homaz> 😵😵😵
+[02:52:34] <+ManganGER> uhh Heute abend auch wieder Gothic mit micha und micha
+[02:52:51] <PL stuff and nonsense> hat krogmann da drüber gequatscht oder war das so ein random star trek clip von YT?^^
+[02:53:00] <+Bohnen Matze> Also 2x die Woche einen Olli und Rene anschauen wie sie offensichtlich keinen bock haben csgo zu spielen, kann ich mir nicht antun
+[02:53:02] <Homaz> Random
+[02:53:22] <Homaz> Nice, wie Gothic mehr gehyped wird als Bonjour 😄
+[02:53:37] <Homaz> *Boringjour 😄
+[02:53:42] <+ManganGER> Der cLIP ist schon ziemlich alt
+[02:54:07] <PL stuff and nonsense> ich werd ziemlich traurig sein wenn gothic vorbei ist, mittwoch abend ohne micha und micha stelle ich mir wunderlich vor
+[02:54:08] <+ManganGER> einfach mal bei Youtube "schwarzer Kaffe Junge!" suchen
+[02:54:49] <+ManganGER> naja die Hauptstory habe sie ja noch vor sich.
+[02:56:04] <+ManganGER> bin auch echt auf Elex gespannt. Da wollen die beiden ja auch LP von machen.
+[02:56:31] <Fünf Drei> Jens :'(
+[02:57:24] <Homaz> Was ist ELEX eig? Gothic im Scifi Gewand oder wat
+[02:57:47] <+Bohnen Matze> Jens wurde schon nicht zu Unrecht gegangen
+[02:57:57] <Homaz> Wie meinen?
+[02:58:02] <PL stuff and nonsense> hm der junge hat echt gut zeit in digitalen welten verbracht... wow minimum seit lich king und dann noch eve. beides mega zeitfresser.
+[02:58:22] <Fünf Drei> Homaz ich glaube so ziemlich
+[02:58:36] <Fünf Drei> Bohnen Matze ja warum denn eigtl?
+[02:58:41] <Homaz> k, PC only? Oder auch Konsole
+[02:58:45] <PL stuff and nonsense> jens is nicht mehr bei den rocketbeans?
+[02:59:16] <P. B.> wem hat der jens denn in den kaffe gepinkelt?
+[02:59:38] <Homaz> Jens ist und war nen Lappen, hat net zu den Bohnen gepasst
+[03:02:00] <+ManganGER> Genau das ist Elex
+[03:02:05] <Fünf Drei> ich fand ihn eigtl immer sympathisch. manche tun so als wär da sonst was vorgefallen, aber nie sagt einer was genaues... <.<
+[03:02:35] <Homaz> Selber Käse wie bei Wolf damals. Durch Schweigen die Gerüchteküche anheizeb
+[03:02:36] <MC Hodenflash> Was ist das für ein Judas neben Simon? 👿
+[03:02:36] <Homaz> n
+[03:03:11] <+ManganGER> ok, leute haben einen Groll gegen Jens
+[03:03:11] <Captain lol> Jens istn guta Boi ✌
+[03:03:43] <MC Hodenflash> Naja
+[03:04:04] <MC Hodenflash> Ich hatte mir mehr erwartet! 👿
+[03:04:06] <Fünf Drei> ja der tinfoil ist immer strong in dieser community, grade wenn jemand geht... 😒
+[03:04:11] <neu> guten morgen ...so jetzt brauch ich auch nich mehr raus gehn....das wars dann wohl mit der nacht na toll....und jetzt,wie bringe ich jetzt das ganze wieder inOrdnung.....
+[03:04:12] <Homaz> Jens hatte nix besonderes. Ist einfach in der Mengen der kamerageilen Bohnen untergegangen
+[03:04:26] <neu> blabla
+[03:04:39] <niunOne> trink nen kräuter mit mir
