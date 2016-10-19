@@ -4310,3 +4310,251 @@
 [13:04:15] <Diplomat999> @ThuglifeWTF mir gefällt deine einstellung
 [13:04:46] <mortifiedpinguin> mimimi ich bin Youtuber.... mimimi keiner kennt mir
 [13:04:47] <sebalein> @Zeddy ja das stimmt 😃 wenn man seine prinzipien/werte im auge behält, ist man aufrichtig (zu sich selbst & das is erstmal das wichtigste)
+[13:04:55] <aaron harris> ich hab 7 follower selbst ich wprde euch ansprechen "und anbeten" 😅
+[13:04:57] <Rahjhh5> wtf
+[13:04:58] <KayKayownz> wer war denn das liebe regie? ^^
+[13:05:01] <Zeddy> @sebalein ganz genau 😃
+[13:05:22] <Rahjhh5> das war ja gar nicht creepy
+[13:05:26] <+renegademe Heyder> Melina Sophie heißt die glaube ich
+[13:05:34] <Diplomat999> ich hab 1000 follower
+[13:05:50] <KayKayownz> kennt man die werte Dame? o.O
+[13:06:01] <sebalein> @Zeddy denn wenn man sich selbst belügt, wird automatisch auch jeder andere "verarscht"
+[13:06:03] <+renegademe Heyder> Ja und ich muss sagen, ja leider
+[13:06:10] <Dark Flare Gaming> ich hab kaum follower ich würde euch ansprechen ☺
+[13:06:41] <ninthprime> ich hab keinen follower und wäre zu schüchtern irgend jemanden in real anzusprechen 😀
+[13:06:45] <+renegademe Heyder> Is jetzt für mich persönlich nicht so der tolle Content auf ihrem Channel um das freundlich auszudrücken
+[13:07:10] <KayKayownz> ok. kam an ;D
+[13:07:12] <Diplomat999> ich esse jetzt
+[13:07:17] <Dark Flare Gaming> bisschen schüchtern wäre ich ja auch aber es ist zu geil wenn man sie treffen würde
+[13:07:19] <Zeddy> @sebalein ja aber es gibt auch lügen zu sich selbst wo man andere eben nicht verarscht, also nur sich selber
+[13:07:22] <+renegademe Heyder> 😛
+[13:07:22] <sebalein> was macht die denn? beauty & lifestyle a la dagi & der anderen?
+[13:07:41] <sebalein> @Zeddy die kenn ich nur zu gut....
+[13:07:57] <Zeddy> @sebalein ich auch 😉
+[13:08:34] <KayKayownz> kein wikipedia-eintrag -> nicht wichtig 😜
+[13:08:57] <sebalein> ^^
+[13:09:04] <Zeddy> @KayKayownz doch sicher, wenn es den eintrag nicht gibt, musst du ihn selber schreiben 😉
+[13:09:17] <sebalein> so rl ruft, bis gleich ^^
+[13:09:17] <KayKayownz> ich kenne sie ja nicht einmal xD
+[13:09:26] <Zeddy> @sebalein cya
+[13:09:47] <Zeddy> @KayKayownz na dann fang mal an zu recherschieren 😉
+[13:10:37] <KayKayownz> Als Thema einer Bachelorarbeit garantiert super zu empfehlen. Also falls hier jemand noch unschlüssig ist.. 😜
+[13:11:05] <Zeddy> @KayKayownz zur zeit grade nich, aber danke 😀
+[13:11:14] <Hans Hansen> I'm Donald Trump and i proof this message 👍
+[13:11:30] <+SZ> Näää, meine Bachelorarbeit war spannender 😛
+[13:12:08] <The May> @Hans Hansen approve/
+[13:12:17] <KayKayownz> Was kann denn bitte spannender sein als Melanie Werauchimmer? Ich bin enttäuscht von dir 😉
+[13:12:46] <+SZ> Na die Dokumentationsbasierte Strukturierung von CRAN-Paketen natürlich!
+[13:13:13] <ninthprime> @sz du codest in R?
+[13:13:18] <+SZ> ja
+[13:13:24] <KayKayownz> Das hat viel zu viel Anspruch. Wie soll denn sowas in einer Bild abgedruckt werden? 😜
+[13:13:34] <ninthprime> @SZ welches Fach studierst du?
+[13:13:54] <+SZ> Promotionsstudium Statistik
+[13:13:55] <Ferhat Turan> sasasa
+[13:14:16] <Hans Hansen> gesundheit
+[13:14:18] <ninthprime> @SZ awesome
+[13:14:58] <ninthprime> @SZ auch wenn ich vermutlich eh nix verstehe - worüber promovierst du? 😃
+[13:15:15] <+SZ> Prognoseintervalle für Ermüdungsexperimente 😃
+[13:15:31] <ninthprime> @SZ okay, cool, darunter kann ich mir sogar was vorstellen 😃
+[13:15:40] <+SZ> Ja, das ist tatsächlich relativ anwendungsbezogen 😃
+[13:16:24] <ninthprime> @SZ geht vermutlich in Richtung MTBF, etc...?
+[13:17:10] <partikelsmusic> sieht geil aus
+[13:17:23] <+SZ> Eher Richtung stochastische Prozesse. Mein Prozess ist durch die Drahtbrüche in einem Spannbetonträger definiert, die nacheinander brechen, wenn sie zyklisch belastet werden
+[13:18:46] <ninthprime> cool... ich schätze, da ist es nicht mit nem Poisson Prozess getan 😀
+[13:19:11] <redPB1> Süddeutsche Zeitung hier am Start
+[13:19:21] <Gpurezza> s-senpai
+[13:20:05] <ninthprime> @redPB1 wenn eine Zeitung so viel Ahnung von Statistik hätte, wie SZ, ginge es wohl viel gelassener in den Medien zu :)
+[13:20:07] <+SZ> Wir haben einen zustandsabhängigen Punktprozess, aber tatsächlich ist ein Poissonprozess nicht sooo weit davon entfernt
+[13:20:56] <+SZ> Meine Artikel lesen nur weniger als die SZ 😀
+[13:21:08] <Raspberry Cheesecake> Hallo
+[13:21:14] <+SZ> Moin
+[13:21:37] <GesichtsKuchen> 🍪
+[13:21:37] <ninthprime> @SZ bei mir hörte es leider bei Warteschlangennetzen und paar stochastischen Analysen von Signalen schon auf... aber ich bin halt nur Ingenieur 😃
+[13:21:42] <Tracey Bergin> c
+[13:21:45] <Saubstauger> pizza 💜
+[13:21:53] <ninthprime> @SZ ich verstehe gerade genug um schlau zu nicken und zu staunen 😀
+[13:22:12] <Tracey Bergin> Ich um
+[13:22:14] <+SZ> @ninthprime ist doch super. Ich arbeite ja mit Ingenieuren zusammen und ich raff da fast gar nix
+[13:22:32] <Tracey Bergin> lol
+[13:22:43] <ninthprime> @SZ dafür staunen die vermutlich, wenn du deine Ergebnisse präsentierst 😃
+[13:23:28] <+SZ> @ninthprime ja, das ist tatsächlich schon vorgekommen. Aber man muss halt auch immer die Ergebnisse angemessen präsentieren, damit man jeden Zuhörer abholt. Das ist manchmal echt schwierig
+[13:23:29] <GesichtsKuchen> es gibt gleich essen!
+[13:24:17] <TheSapphireRed> Jaja, der Ingeneur will gern was nicht allzu Abstraktes...
+[13:24:28] <ninthprime> @SZ und das ist ja schon im eigenen Fach schwer genug...
+[13:24:51] <+SZ> So siehts aus, aber das find ich eigentlich immer spannend. Deshalb geh ich nächstes Jahr auch erstmal ne Weile in eine Beratung 😀
+[13:25:05] <ninthprime> @TheSapphireRed ja, am besten aber genau den Mittelweg... zu konkret darf es auch nicht sein 😀
+[13:26:36] <ninthprime> @SZ ich hätte eigentlich voll Bock auf Lehre... hat mir immer Spaß gemacht, mir die verständlichsten Erklärungen zu suchen und zu präsentieren
+[13:26:45] <TheSapphireRed> Bin angehender Maschinenbauer und kann das nur bestätigen 😀
+[13:26:48] <Adrian ogur> fick mich
+[13:27:02] <Thomas Müller> kressebetreuung
+[13:27:11] <+SZ> @ninthprime Lehre ist ziemlich anstrengend. Ich musste in meiner Zeit Gott sei Dank nicht viele Veranstaltungen betreuen...
+[13:27:11] <ninthprime> @TheSapphireRed ah, ich bin fertiger Technischer Informatiker
+[13:27:37] <ninthprime> @SZ ich hab mich im Studium immer freiwillig dafür gemeldet, Übungen zu leiten. auch um das zu lernen.
+[13:27:45] <Adrian ogur> Hallo Herr Prof
+[13:28:01] <TheSapphireRed> ok, da ist natürlich schon etwas Diskrepanz 😀
+[13:28:17] <Adrian ogur> Luchen
+[13:28:39] <+SZ> Man lernt auf jeden Fall selbst am meisten 😀 ich musste als Student nur "Programmieren mit R" betreuen. Das war okay
+[13:28:49] <ninthprime> @TheSapphireRed ach was, so groß ist die Diskrepanz nicht...
+[13:29:16] <ninthprime> @SZ mein erster Gehversuch in der Lehre war, als ich meinem Informatikkurs in der Oberstufe Assembler beibringen musste... das scheiterte Kolossal 😀
+[13:29:49] <+SZ> lol, warum denn ausgerechent Assembler? 😀
+[13:30:04] <ninthprime> @SZ in der Uni hab ich dann viel mit Sprachcodierung gemacht und Übungen dazu geleitet
+[13:30:23] <Brian McDonald> Als Programmierer? Qualen ... Scheiße ... keine Bezahlung Q_Q
+[13:30:26] <ninthprime> @SZ weil ich das konnte und mein Lehrer nicht... er kam in der Pause auf mich zu "Stephan, du kannst doch Assembler" - und dann hatte ich den Job 😀
+[13:30:35] <+SZ> haha
+[13:31:00] <+SZ> Wir hatten in der Schule nur Java in Informatik. Das war aber lustig. Mein Lehrer hatte das Buch von dem Prof. bei dem ich dann später im 3. Semester ne Vorlesung hören sollt
+[13:31:03] <Michael Maier> Jemand da der Pro Club auf PC zocken möchte?
+[13:31:39] <ninthprime> @SZ ah, wir haben Delphi gemacht... wahrscheinlich weil vorher Turbo Pascal an der Schule Tradition war
+[13:31:49] <billibibill> ach man
+[13:32:04] <billibibill> ich finde das format mit dem gassner so toll!
+[13:32:11] <+SZ> Die Lehrer machen halt das, was sie können 😃 im Endeffekt ja auch egal, was man macht. Die Grundprinzipien sind ja doch alle ähnlich
+[13:33:36] <ninthprime> @SZ stimmt... vielleicht noch ein bisschen die Frage, wie hardwarenah man werden will... Pointerverbiegen ist ja in Java weniger angesagt... aber wenn es mehr um Algorithmen geht, ist es gleich
+[13:33:53] <+SZ> Das stimmt. Ich bin mehr so der Algorithmustyp ^^
+[13:36:40] <ninthprime> @SZ bei mir ist es die Mischung... Ich stehe sehr auf C, Assembler oder auch VHDL, aber auf der anderen Seite fahre ich auch auf Haskell ab.
+[13:37:12] <+SZ> Musste mal ein bisschen bestehenden C-Code abwandeln, sonst habe ich aber mit keiner Sprache was gemacht bisher.
+[13:37:19] <Hans Hansen> Warum kommt jetzt eigentlich immer die alte Raketenbrause-Werbung? Müssen die Bestände weg oder ist es Gag zu verstehen?
+[13:38:19] <Colonel_HoganV2> raketenbrause is hammer Kreygasm
+[13:38:38] <Brian McDonald> Jemand muss Sofia sagen das Battlefield 1 den 1. Weltkrieg 1 zu 1 wahrheitsgetreu simuliert!😛
+[13:38:42] <+Zaldarion> @Colonel_HoganV2 😯 du bis ja auch da
+[13:38:50] <+Zaldarion> \ 😚 /
+[13:38:51] <Colonel_HoganV2> ich bin IMMER da!
+[13:38:54] <Colonel_HoganV2> ausser wenn ichs nicht buin
+[13:39:05] <G4me-Force> Das ist auf jeden Fall etwas davon, was der Civ Trailer verspricht xD
+[13:39:07] <+Zaldarion> 👿 dann sagst nie was
+[13:39:13] <Colonel_HoganV2> das stimmt
+[13:39:37] <+Zaldarion> und bei jan kann er die finger nich stzill halten 🐯
+[13:39:46] <Colonel_HoganV2> das is ja auch jan
+[13:39:47] <Colonel_HoganV2> 💜
+[13:39:52] <+Zaldarion> .. ok das klingt iwie falsch 👿
+[13:40:03] <+SZ> Ich hab mir letztens zum ersten Mal diese Raketenbrause bestellt. Bin mal gespannt wie die schmeckt.
+[13:40:07] <Colonel_HoganV2> es kann nicht richtiger klingen! 🌝
+[13:40:16] <+Zaldarion> 😧
+[13:40:38] <Brian McDonald> Im 1. Weltkrieg war die Artillerie das Wichtigste Tötungswerkzeug!
+[13:40:38] <ninthprime> @SZ das frage ich mich auch... bin gespannt auf dein Urteil. ich meine, wahrscheinlich is das ja irgendein normaler Energydrink nur mit deren Name drauf.
+[13:41:13] <GesichtsKuchen> @ninthprime naja, das is bei fast 90% der sachen so ^^
+[13:41:14] <+SZ> @ninthprime die Frage ist nur welcher das Original ist. Da gibts ja schon deutliche Geschmacksunterschiede.
+[13:41:55] <Antonio Kruse> @SZ hab grade gelesen, dass du dich gut mit programiersprachen auskennst? ich will/muss nämlich auch anfangen eine zu lernen und schwanke zwischen c++ und c# , kannst du da zufällig irgendwas empfehle
+[13:42:01] <Colonel_HoganV2> ich vermisse das richtige kappa....
+[13:42:02] <Antonio Kruse> n?
+[13:42:19] <+SZ> @Antonio Kruse ai, ne. Da bin ich nicht der richtige Ansprechpartner, sorry. Ich bin bloß ein Statistiker, der ein kleines bisschen programmieren kann
+[13:42:25] <Roweidekhalicon> @Colonel_HoganV2 dann hol dir BetterRBTV
+[13:42:26] <+Zaldarion> ? ich hab das richtige 🌝
+[13:42:38] <+khayjeet> @Colonel_HoganV2 noch jemand ohne betterrbtv 😖
+[13:42:38] <+Zaldarion> eben ^^
+[13:42:43] <Colonel_HoganV2> betterRBTV hatte ich scho, funktioniert nicht
+[13:42:44] <Antonio Kruse> @SZ okay 😃
+[13:42:48] <Roweidekhalicon> @Zaldarion das haben alle coolen Leute 🌝
+[13:43:06] <+khayjeet> @Colonel_HoganV2 hast du das emote pack im addon installiert?
+[13:43:15] <Colonel_HoganV2> ich hab keine ahnung 😀
+[13:43:16] <Turkish Boy> hi
+[13:43:19] <Cryshoot> hab trotz brbtv nur die yt smileys 😖
+[13:43:26] <+Zaldarion> ohne emote pack gehts nich
+[13:43:31] <+SZ> @Antonio Kruse ich als Statistiker würde aber C++ wählen, weil ich das in R nutzen kann 😀
+[13:43:33] <Cryshoot> wo gibts das?
+[13:43:39] <Hans Hansen> Was nutz @Colonel_HoganV2 denn für ein Browser?
+[13:43:50] <Turkish Boy> Bf 1 ?
+[13:43:54] <Colonel_HoganV2> ich kann auch mit youtube emotes leben. passt schon
+[13:43:57] <Brian McDonald> LOS FRITZ ... MACH IH FERTIG!
+[13:44:01] <HipHopGuru> Ja, BF1
+[13:44:03] <+Zaldarion> beim addon in der beschreibung gibs dl verweise auf das emote pack
+[13:44:09] <+khayjeet> @Colonel_HoganV2 das emote pack gibts im forum, runterladen, ist ne .rar datei, denn die optionen von betterrbtv öffnen und emote pack laden auswählen und die datei auswählen, sind nur n paar klicks^^
+[13:44:10] <Hans Hansen> orum.rocketbeans.tv/t/betterrbtv-fuer-youtube-live-inoffizielle-browser-erweiterung/9466
+[13:44:17] <Hans Hansen> forum.rocketbeans.tv/t/betterrbtv-fuer-youtube-live-inoffizielle-browser-erweiterung/9466
+[13:44:21] <Turkish Boy> hiphop danke :)
+[13:44:27] <Cryshoot> dankeschön 💜
+[13:44:30] <HipHopGuru> bitte
+[13:44:52] <+Zaldarion> ma schaun obs nen neues emote pack gibt ^^
+[13:44:53] <F. Schulz> Bis jetzt ist BF1 genau so schlecht wie ich es erwartet hatte
+[13:45:03] <+khayjeet> @Colonel_HoganV2 hier gibts das emote pack forum.rocketbeans.tv/t/betterrbtv-fuer-youtube-live-inoffizielle-browser-erweiterung/9466/256
+[13:45:13] <ninthprime> @Antonio Kruse wichtig ist die Frage, was du hinterher programmieren willst...
+[13:45:24] <Turkish Boy> BF 1 ist net schlecht
+[13:45:37] <HipHopGuru> @F. Schulz Kannst dir ja heute Abend mal den Multiplayer anschauen. Ich finds bis jetzt eigentlich überraschend gut
+[13:45:44] <EpicStuffForYou> ja ne
+[13:45:50] <+SZ> So, ich muss mich mal ein wenig nützlich machen. Ich muss euch mal minimieren, bis später
+[13:45:54] <EpicStuffForYou> ja ne
+[13:46:02] <ninthprime> @Antonio Kruse (fast) jede Programmiersprache hat ihre Darseinsberechtigung 😃
+[13:46:08] <ninthprime> viel Spaß SZ
+[13:46:14] <HipHopGuru> Abgesehen vom WW1 Szenario find ichs eigentlich richtig nice
+[13:46:18] <Brian McDonald> BF1 ist super ... Kinder spielen das und lernen ... Krieg is voll geil ... und wenn sie in 5 Jahren an die Front gerufen werden kriegen sie nen Boner ...
+[13:46:46] <Karma_Banana> lol
+[13:46:55] <HipHopGuru> Bin aber einfach kein Fan von Shootern die im ersten oder zweiten Weltkrieg spielen
+[13:47:31] <GesichtsKuchen> @Brian McDonald wenn man das aus bf1 rauslesen kann is die person eh direkt im dreck
+[13:48:17] <+renegademe Heyder> Morgen auch Bohn Jour? 😯
+[13:48:18] <Cryshoot> 🌝
+[13:48:33] <ninthprime> @Antonio Kruse was ist denn der Grund, warum du Programmieren lernen willst? was willst du machen?
+[13:48:41] <Cryshoot> fühlt sich gleich viel besser an 😀
+[13:48:44] <Hans Hansen> Sieht aus als wäre Raketenbrause von dem hier: makeyourdrink.de/energy-drink
+[13:48:56] <KingSebi327> Sofia is nervig
+[13:49:04] <GesichtsKuchen> nö
+[13:49:11] <MadHatt0r> die Jungs vom YT kanal "TheSimpleChemics" könnte man mal zu Bohnjour einladen :I bin sicher nicht der einzige hier, dem dadurch beim lernen geholfen wurd
+[13:49:49] <MirkoPhon> Saufia is supi
+[13:50:16] <dudidudoh> Sofia ist sehr sympathisch finde ich.
+[13:50:25] <mom3NT> mir hat mal ne oma geholfen, die sollte unbedingt eingeladen werden^^
+[13:50:28] <3l Dud3r1nh0> ist doch klar, sie ist Russin
+[13:50:45] <ninthprime> @mom3NT 😀
+[13:51:49] <Antonio Kruse> @ninthprime naja, ich mache grade meinen master in physik und würde gerne in die physikalische modellierung gehen weil ich das in meiner bachelorarbeit schon gemacht habe
+[13:52:06] <Antonio Kruse> da habe ich aber auch nur einen vorgeschriebenen code in c++ verwendet
+[13:52:41] <Brian McDonald> Antonio Kruse vorgeschrieben? ... na das reicht bis zum Minister in der BRD 😀
+[13:52:51] <ninthprime> @Antonio Kruse klingt jetzt fast so, als kämest du da mit matlab am weitesten?
+[13:52:58] <Antonio Kruse> und da c# an sich neuer ist als c++, aber doch irgendwie andere möglichkeiten bietet, überlege ich mit welcher sprache von beiden ich anfange
+[13:53:41] <3l Dud3r1nh0> u...g....h....genau
+[13:53:48] <ninthprime> @Antonio Kruse okay, aber ich kann dir sagen, c# hat Vorteile hauptsächlich in der Anwendungsentwicklung für Windows
+[13:53:51] <Antonio Kruse> @Brian McDonald naja ich hab ihn schon ein wenig verändert. in meiner arbeit ging es auch eher um die interpretation und visualisierung der daten die aus dem code entspringen 😃
+[13:53:59] <Dennis Flock> fang mit c an
+[13:54:00] <ninthprime> @Antonio Kruse C++ ist universeller und sicher auch besser für naturwissenschaftliche Berechnungen.
+[13:54:09] <Dennis Flock> der rest kommt von alleine...
+[13:54:31] <Nick lol 88> kannst du mich pushen ich muss kacken
+[13:54:35] <Antonio Kruse> @ninthprime matlab kann ich schon ein wenig. aber das ist ja auch keine richtige progarmiersprache
+[13:54:41] <ninthprime> @Dennis Flock da würde ich als C Fan dir recht geben, aber ich glaube, das wäre zu viel für das Ziel 😃
+[13:55:34] <ninthprime> @Antonio Kruse naja, doch, schon, Matlab ist ne vollwertige Programmiersprache... aber wie gesagt, wenn C++ oder C# wäre bei deinem Vorhaben, denke ich, C++ besser geeignet
+[13:55:35] <Antonio Kruse> @ninthprime okay, dann wird es wohl c++ werden. 😃
+[13:55:41] <Xite> Ja, klar... aber es ist halt die Grundlage und es ist recht schnell gelernt 😃
+[13:56:10] <3l Dud3r1nh0> willst Physik machen oder lieber Progammieren?
+[13:56:20] <ninthprime> @Antonio Kruse lass dich am besten erstmal nicht von c++11 und c++14 verwirren, die sind super, aber irritieren beim lernen 😃
+[13:56:29] <+Zaldarion> ich mag c# dank der frameworks machts das ziemlich einfach ^^
+[13:56:29] <Zeddy> @3l Dud3r1nh0 manchmal muss man eben beides
+[13:56:34] <3l Dud3r1nh0> haha
+[13:56:46] <3l Dud3r1nh0> vor allem scheisse labern
+[13:57:03] <ninthprime> @3l Dud3r1nh0 @Zeddy Programmieren braucht man in vielen Bereichen und man kann in vielen Bereichen guter Programmierer werden.
+[13:57:13] <Antonio Kruse> physik machen und programmieren schließt sich doch nicht aus ^^
+[13:57:21] <Zeddy> @ninthprime ich weiss
+[13:57:28] <Shanks> Hi, ich mag fischstäbchen in den mund zu nehmen 😉
+[13:57:28] <3l Dud3r1nh0> der Tag hat 24 Stunden
+[13:57:41] <ninthprime> ich kenne einen Mediziner, der erstklassiger C-Programmierer ist 😀 weird story, but true.
+[13:57:47] <Antonio Kruse> @ninthprime okay, ich danke dir schonmal 😃
+[13:57:52] <Zeddy> @3l Dud3r1nh0 so wie es leute gibt, die scheisse labern, nich wahr?
+[13:57:55] <3l Dud3r1nh0> kurios
+[13:57:57] <ninthprime> @Antonio Kruse gerne 😃 viel Spaß und Erfolg
+[13:58:18] <Tirlio> bishop ist codename für jesus in videospielen
+[13:58:27] <Brian McDonald> Ist das der Angriff auf die Türkei?
+[13:58:29] <Tirlio> ne halt das war sheparf
+[13:58:57] <Zeddy> @Tracey Bergin also is shepard in mass effect eigentlich en priester?
+[13:59:12] <MC Hodenflash> Da sterben Leute? 😭
+[13:59:16] <3l Dud3r1nh0> nein Prophet
+[13:59:22] <MC Hodenflash> Aber die respawnen doch!
+[13:59:28] <ninthprime> @Zeddy Shepard stirbt in Mass Effect und kommt zurück 😱
+[13:59:56] <Zeddy> @ninthprime aber er wird (noch) nicht angebetet 😉
+[14:00:14] <ninthprime> @Zeddy aber nur weil alle so blind sind 😀
+[14:00:21] <MC Hodenflash> Spoiler? 😖
+[14:00:22] <+Yo ka> "Krieg never changes" Johann Wolfgang v. Goethe
+[14:00:29] <Zeddy> @ninthprime 😀
+[14:00:39] <Tirlio> @Yo ka 😀
+[14:01:01] <MC Hodenflash> War... War bleibt immer gleich 🌝
+[14:01:18] <Ben W.> man stirbt auch ab und zu mal auf normal? 😀
+[14:01:20] <ninthprime> Krieg... War... Is mir immer gleich...
+[14:01:36] <ninthprime> Waaaaar.... What is it good for... Absolutely bleibt immer gleich...
+[14:01:38] <Cryshoot> "Edel sei der Human, Hilfreich und gut" Ulysses Grant
+[14:01:40] <Ben W.> ein Glück, dass es nur ein Spiel ist...
+[14:02:32] <Alexander Walter> Welches game ist das
+[14:02:43] <ninthprime> Sokoban
+[14:02:49] <Tirlio> ded
+[14:03:07] <b1ggi1> Schach II
+[14:03:24] <EpicStuffForYou> Sim City
+[14:03:24] <Tirlio> @Alexander Walter fielbe
+[14:03:25] <ninthprime> ne, sorry, das war Mahjongg
+[14:03:30] <Brian McDonald> 1 Weltkrieg - Gallipoli Doku über den 1. Weltkrieg ... bei Youtube suchen ... aber nicht die Doku von Phoenix gucken ... die is Müll
+[14:03:47] <MC Hodenflash> Mit dem Granatenwerfer geht Dennis ja ab 🌝
+[14:04:02] <GrumbernBier> wenn man battlefield so spielt, versteh ich es total wenn man sagt "der singleplaer is wichtig" xD
+[14:04:23] <ninthprime> @GrumbernBier 😀
+[14:04:24] <MC Hodenflash> @GrumbernBier 😂
+[14:04:48] <Die LPs> Werbung
+[14:04:50] <3l Dud3r1nh0> Battlecheat 1
