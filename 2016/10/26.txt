@@ -1541,3 +1541,232 @@
 [02:04:20] <Herr Boedefeld> @Dachboden ich glaub ich hatte den Atholon XP 2400+ (wenn es den gab) und ne GT6600 😀
 [02:04:31] <Dachboden> Kollege hatzte damals die voodoo banshee, das war de Knaller damals mit KingPin und Quake 2 😉
 [02:04:34] <charlychaplin78> mit damaliger soundblaster soundkarte
+[02:05:02] <Dachboden> Ja damals haben SOundkarten auch echt noch Sinn gemacht mit dem AC97 onboard Mist.
+[02:05:10] <KazumaGER> die BANSHEE war doch die erste Kombikarte die auch 2D konnte oder? war die nich schlechter als die Voodoo2 ?
+[02:05:19] <Dachboden> danach nurnoch sinnvoll für EAX oder DTS-Live encoder. und heute brauchste nurnoch in Sinderfällen eine
+[02:05:28] <michaelsto> es gab zeiten da gabs noch keine onboard soundkarte, nur so ein piepsen 😀
+[02:05:29] <Dachboden> Richting @Kazuma
+[02:05:34] <Herr Boedefeld> @Dachboden ja heute braucht man meistens keine mehr, es sei denn man möchte wirklich was sehr aufwendiges machen
+[02:05:40] <Alex Hübi> kennt eigentlich jemand von euch die Spiele Silver. Deathtrap Dungeon &betrayal in Antara?
+[02:06:00] <Dachboden> Ich bin ja Entwickler. habe schon recht viele Soundkarten durchgemessen. das zeug heute ist einwandfrei.
+[02:06:00] <KazumaGER> EEeehhh 👿 ich hab immer noch meine SoundBlaster X-Fi Titanium drin 😭
+[02:06:15] <Herr Boedefeld> @Dachboden wobei ich finde die Soundaustattung von Asus board ist echt immer sehr spatanisch (von den teureren boards abgesehen)
+[02:06:33] <Dachboden> ach das ist alles der gleiche RTL Kram.... alles andere is werbung oder zeugs was keiner braucht
+[02:06:45] <michaelsto> mittlerweile verwend ich auch schon onboard.. mein letzter pc von 2011 hatte aber noch eine creativ xfi fatality.. 😃
+[02:06:49] <Dachboden> große Zahlen... sind nur für nix gut 😉
+[02:07:12] <Dachboden> business und weiterverarbeitung mal ausgenommen
+[02:07:23] <Mr. Bigcock> eindeutig selbstmorf
+[02:08:07] <Karies _> der mörder war ein wal
+[02:08:09] <KazumaGER> Eindeutig bei der Masturbation verstorben... Kann nur n Unfall gewesen sein 😭
+[02:08:12] <Karies _> rache
+[02:08:13] <Dachboden> hab noch haufenweise creative soundkarten hier.... verstauben alle 😀
+[02:08:32] <Captain lol> Unfall beim Zähneputzen Case closed! 😎
+[02:08:55] <Herr Boedefeld> @Dachboden ich hab noch eine Soundkarte die ich mal geschenkt bekommen hab. Ansonsten immer onboard genutzt. Hab auch eh nur ein 2.1 Soundsystem (auch geschenkt bekommen von nem kumpel).
+[02:08:57] <charlychaplin78> Dachboden ich nehme eine 🌝
+[02:09:13] <michaelsto> creative hat für mich einfach immer dazugehört
+[02:09:25] <deface> terratec!
+[02:09:37] <Herr Boedefeld> Das geilste ist wenn man freunde hat, die ständig neu aufrüsten. Man hat aktuelle Hardware völlig umsonst 😀 Denn das neuste braucht niemand zum zocken
+[02:09:37] <Dachboden> ich nutz nur soundkarten für meine Arbeit, da wo's Sinn macht. Mein liebling ist die Audiophile 192 von M-Audio
+[02:10:05] <Herr Boedefeld> @Dachboden Was arbeitest du denn?
+[02:10:11] <Dachboden> Lautsprecher-Entwickler
+[02:10:34] <KazumaGER> ich hab die Creative Karte eigentlich nur noch drin wegen der Software ö.ö
+[02:10:47] <Herr Boedefeld> Was kann die software denn?
+[02:10:48] <KazumaGER> ich mag die extras ^^
+[02:10:53] <Captain lol> ich hab Kumpels, die kaufen mega teure Grakas und machen dann tagelang Benchmarks damit und nichts anderes 😁
+[02:11:15] <Joke007> lol 🌝
+[02:11:17] <michaelsto> stimmverzerrer zum beispiel 😉
+[02:11:18] <Dachboden> ich kann die software net leiden, dann gehen diverse fuinhktionen netmehr (wie Loopback, etc). hab dann irgendwann nurnoch die treiber drauf gemacht mit creative 😀
+[02:11:19] <Herr Boedefeld> @Captain lol naja ist halt ein hobbie 😀 Dann overclocken die aber sicher auch oder nicht?
+[02:11:33] <KazumaGER> XFi Chrystalizer und CMSS-3D 😃
+[02:12:00] <Dachboden> wie bei Logitech Mäusen. Windoof treiber und fertig..... alles andere macht nur stress. gerade bei älteren spielen ;)
+[02:12:06] <KazumaGER> ausserdem die automatische stummschaltung der Lautsprecher wenn ich kopfhörer anschliesse 😀
+[02:12:19] <Herr Boedefeld> Ich muss mir bald mal neue Lautsprecher holen. Meine gehen kaputt. Denke ein 2.0 system sollte reichen. Höre zwar musik wenn am PC aber da das meist eh mp3 sind 😀
+[02:12:22] <Dachboden> das könne auch onboard derzeit 😉
+[02:12:36] <Hellsingexe> Der Crystalizer von Creativ ist tatsächlich ne feine Sache. Verwende eine X-Fi MB5
+[02:12:36] <KazumaGER> @Dachboden meine sicher nicht 😛
+[02:12:40] <Captain lol> doch, overclocken ohne Ende. Weil ne Graka, die mehr Leistung hat als jedes Spiel braucht, unbedingt overclicked werden muss 😬
+[02:12:56] <Dachboden> Kazuma ist softwareabhängig. ich kanns bei meinen RTL Treibern einstellen
+[02:13:34] <Herr Boedefeld> @Captain lol ja das hab ich noch nie verstanden. Garantie (heute oft nicht mehr aber trdm) weg; Lebenszeit der hardware evtl verkürzt aber overclocken obwohls reicht 😀
+[02:13:35] <KazumaGER> @Dachboden um ehrlich zu sein ich weiss es garnicht 😀 hatte immer die Creative Karte drin und die Onboard lösung deaktiviert ^^
+[02:13:46] <Dachboden> was ich recht geil finde: Die software von VB. zB der Mixer (VB Voice Meeter)
+[02:13:55] <Hans Hansen> Habt ihr eine Rückmeldung/einen Hinweis bekommen, wenn ihr die Umfrage abgeschickt habt?
+[02:14:06] <Herr Boedefeld> @Captain lol Wobei bei einigen CPU´s macht das sinn. Da spart man wertvolles geld, wobei man das dann zwangsläufig in einen besseren kühler investieren muss (evtl.)
+[02:14:17] <Rissdridin> passiert ja nix....
+[02:14:25] <Herr Boedefeld> @Hans Hansen Was für eine Umfrage?
+[02:14:28] <Rissdridin> Hallo?
+[02:14:43] <Herr Boedefeld> Hallo 🙋
+[02:14:45] <Rissdridin> Umfrage läuft
+[02:15:04] <KazumaGER> hö? wieso konnt ich die komplett posten?
+[02:15:07] <Dachboden> also was mich derzeit tierisch nervt ist, dass viele spiele keinen framlimiter haben (zwecks freesync/Gsync)
+[02:15:41] <Herr Boedefeld> @Dachboden die meisten Spiele sind doch limitiert in der Framerate
+[02:15:50] <KazumaGER> @Dachboden hat man doch über Nvidia inspector 👿
+[02:16:14] <scheinerchen> oder über afterburner + riva tuner
+[02:16:19] <KazumaGER> kann man Global oder Spielspezifisch einstellen ^^
+[02:16:20] <Dachboden> bei AMD auch im treiber. geht aber net bei allen API's. zB nicht bei Vulkan oder einigen DX12 titeln. Oder es funkt net sauber
+[02:16:23] <Heinrich Heinrichson> Danke für deine Teilnahme! Diese Umfrage hilft uns ungemein bei einer umfassenden Bewertung von RBTV und unterstützt uns bei der Planung zukünftiger Inhalte.
+[02:16:30] <Dachboden> Afterburner funkt 1A. den nehme ich auch 😉
+[02:16:53] <+Adorondir> Micha 😖
+[02:17:01] <KazumaGER> Afterburner nutze ich auch immer... aber nur zur überwachung und Overclocking
+[02:17:11] <scheinerchen> die leiche atmet noch, kann da nomma jemand draufhauen^^
+[02:17:32] <Dachboden> es zuckt 😀
+[02:17:34] <KazumaGER> erstmal Rektaluntersuchung
+[02:17:35] <+Adorondir> Afterburner is super, selbst wenn man nur die Temperatur im Auge behalten will...
+[02:17:55] <Dachboden> temps check ich mit speedfan derzeit. AB nur zum Framlocken
+[02:17:55] <KazumaGER> @Adorondir das ist Eduard ^^ nicht Micha ^^
+[02:18:06] <KazumaGER> oder? 👿
+[02:18:15] <Fabi Ferber> hi
+[02:19:00] <KazumaGER> achja Lüftersteuerung mach ich auch per Afterburner
+[02:19:22] <KazumaGER> mag nich wenn ich das alles auf 12 programme verteilen muss ^^
+[02:19:24] <Dachboden> da gibts so viel. ich wechsel da auch immer mal die software 😀 am haupt-rechner mach ichs über due aquasuite
+[02:20:33] <Dachboden> irgendwie hab ich lust aufn neuen rechner.... aber die verflixten ZEN sind noch net da 😉
+[02:20:49] <+Adorondir> Grad gesehen, dass Nvidia schonwieder nen neuen Treiber rausgehauen hat. Haben die irgendwas verkackt? ^^
+[02:21:22] <Dachboden> vielleicht für die sich überhitzenden EVGA 1070/1080? 😀 😀
+[02:21:51] <Safak kanat> wtf ist das hier
+[02:21:56] <scheinerchen> der 375.57 hat wohl auf win 10 für probleme gesorgt, deswegen ham sie gleich n neuen treiber nachgeschoben
+[02:22:07] <HAHA Reingelegt> xd
+[02:22:21] <Dachboden> boa lecker. Club Mate
+[02:22:21] <+Adorondir> Win 10...
+[02:22:40] <Julez 554> Über Mobilfunk funktioniert steam.. nicht über WLAN
+[02:23:11] <Dachboden> Wlan is für Anfänger. echte Männer haben W-Strom 😀
+[02:23:30] <Julez 554> und LAN natürlich ^^
+[02:24:12] <projection2> w00t
+[02:24:18] <Dachboden> apropos W10: Soundkarten/Mikros über USB haben mega wenig pegel
+[02:24:40] <KazumaGER> Krogi 😀
+[02:24:41] <Captain lol> boah dieser Twist 😨
+[02:24:42] <Tripple-A _96> lord nicenstein ♥
+[02:24:54] <Shiek> Hollywood on rbtv 🌝
+[02:24:59] <HAHA Reingelegt> übler als das ende von saw
+[02:25:00] <+Adorondir> nich mit Krogmann!
+[02:25:03] <KazumaGER> Wieso spricht Simon den Namen immer KROCKMANN aus?! 👿
+[02:25:27] <Dachboden> So ich mach mich ab, bald is die Nacht rum. Haut rein zusammen
+[02:25:42] <HAHA Reingelegt> das war echt ganz gut xd
+[02:25:46] <KazumaGER> gn8 @Dachboden ^^
+[02:25:51] <scheinerchen> wenn man diese schauspielerische leistung sieht versteht man wieso der Game One Film bis heut net erschienen ist 😀
+[02:26:44] <Heinrich Heinrichson> 00 Bimon 😯😯
+[02:27:01] <KazumaGER> moment mal... !!! das war SIMON?! 😯
+[02:27:06] <ByJule> Simon ;D
+[02:28:06] <Tripple-A _96> so auch endlich die umfrage mal gemacht 😃
+[02:29:17] <flascheng3ist> ?
+[02:31:23] <GesichtsKuchen> hd sieht man eh nich wenn masturbiert!
+[02:31:47] <scheinerchen> Kuchi 💜
+[02:31:56] <+Adorondir> @GesichtsKuchen Endlich bringt es mal jemand auf den Punkt! 😂
+[02:31:57] <GesichtsKuchen> @scheinerchen 💜
+[02:32:50] <GesichtsKuchen> @Adorondir 💜
+[02:33:17] <+Adorondir> @GesichtsKuchen 💜 Kuchen is love
+[02:33:22] <GesichtsKuchen> gunnasensens hatt recht 60fps pron is der hammer!
+[02:34:08] <Bibo Ize> Hallo
+[02:34:14] <markus batke> .. mit Dolby
+[02:34:15] <ByJule> haha.. das erste mal hd porn.. never forget
+[02:34:19] <+Adorondir> moin
+[02:34:33] <Bibo Ize> Katharina bist du hier ?
+[02:35:08] <+Adorondir> @ByJule 😀
+[02:36:10] <Neef Klostein> jo
+[02:36:18] <Bibo Ize> ha hallo
+[02:36:37] <Neef Klostein> lol bin am handy on
+[02:37:31] <Bibo Ize> Wir versuchen dich schon ne halbe Stunde zu erreichen. Onkel Rüdiger hat sich in die Luft gesprengt
+[02:37:36] <Neef Klostein> schau die serie die ist echt gut
+[02:38:27] <GesichtsKuchen> guten abend!
+[02:38:34] <langweilerin meow> heii
+[02:38:37] <Neef Klostein> ohnein nicht onkel Rüdiger!!!
+[02:39:11] <Neef Klostein> also war sein brief doch wahr
+[02:39:17] <Mr. Bigcock> hat er auch schön allah ackbar gerufen
+[02:39:19] <Bibo Ize> Das letzte was er gesagt hat war "Diese Moslems werden mich nie lebendig bekommen"
+[02:39:20] <GesichtsKuchen> jetz is dieser verkackte farming simulator wirklich in den top verkäufen bei steam...
+[02:39:41] <Tripple-A _96> contradictions war nice damals
+[02:40:05] <Neef Klostein> achsooooo ich dachte sein illegales feuerwerk wäre nach hinten losgegangen
+[02:40:49] <Bibo Ize> Nein es war eine rein ideologische Entscheidung
+[02:41:11] <scheinerchen> Kuchi ich hab gestern bei twitch einen gesehn der hat schon 2 streams mit dem spiel hochgestellt. einer 12 stunden und der andere 17........😵
+[02:41:12] <Bibo Ize> Wir wüssten alle das er dumm ist ...aber so dumm.
+[02:41:20] <Neef Klostein> wow! mein vorbild
+[02:42:08] <Neef Klostein> jetzt steht mein entschluss fest! ich geh auf die dummi-uni
+[02:42:23] <GesichtsKuchen> @scheinerchen welches spiel ?
+[02:42:28] <Neef Klostein> guck die serie verdammt!!!
+[02:43:07] <Bibo Ize> Wenn er im zweiten Weltkrieg nicht 90% seines Gehirns verloren hätte, hätte er sich wahrscheinlich nie der PEGIDA angeschlossen und sich dann selbst in die Luft gesprengt
+[02:43:13] <scheinerchen> @GesichtsKuchen na dieser be......... Landwirtschaftssimulator.
+[02:43:54] <GesichtsKuchen> @scheinerchen achso... scheint wohl gut zu laufen, würde ich mir auch kaufen, wäre es keine geldverschwendung ^^
+[02:44:50] <Fran Drender> linke hartzer versuchen wieder zu triggern 😨
+[02:44:57] <Bibo Ize> Als er da lag in Teilen, bin ich zu der Stelle wo früher mal sein Gesicht war und habe gesagt "Du stirbst" und er antwortete "Lügenfresse lügenfresse"
+[02:45:21] <scheinerchen> @GesichtsKuchen ich sag ja immer jeden das seine, aber alter n 12 und n 17 stunden stream. Danach wär ich glaub ich hirntod, egal ob als streamer oder zuschauer 😀
+[02:45:27] <Bibo Ize> und dann ist er von uns gegangen
+[02:45:30] <Neef Klostein> Pimmel Eingeklemmte Genitalopfer Idioten Der Analvergewaltigung
+[02:46:05] <Neef Klostein> betrauerlich
+[02:46:23] <Bibo Ize> Eine Tramöblie
+[02:46:56] <HAHA Reingelegt> ich sag zu deiner mutter: deine mutter
+[02:47:02] <GesichtsKuchen> @scheinerchen naja...ich hab auch schon 17 stunden sstreams gemacht, interessiert zum glück niemanden wenn ich streame ^^
+[02:47:18] <Bibo Ize> Wenigstens ein Pegida spacken weniger. Hat auch was gutes. Party On
+[02:47:51] <Neef Klostein> 11.32.63 heisst die serie
+[02:48:01] <Neef Klostein> die wird dir gefallen
+[02:48:09] <Bibo Ize> Das ist schwer zu finden
+[02:48:28] <Bibo Ize> Zahlen sind immer schwer zu finden. Buchstaben sind leichter zu finden
+[02:48:30] <Neef Klostein> bs.to
+[02:48:41] <scheinerchen> @GesichtsKuchen hey wenn ich seh das du streamst schau ich immer mal rein und 17 stunden DS3 wär ja okay aber LWS, neee vorher geh ich in den freitod 😀
+[02:48:42] <Neef Klostein> da kannst du die sehen
+[02:48:44] <Bibo Ize> selber BS
+[02:48:54] <Neef Klostein> das ist ne seite
+[02:49:34] <Bibo Ize> ach so
+[02:49:34] <HAHA Reingelegt> nude mods sind immer gut
+[02:50:29] <KazumaGER> Schade.
+[02:50:33] <GesichtsKuchen> @scheinerchen es war metal gear 5 ^^
+[02:50:48] <Neef Klostein> der will die vrgangenheit ändern aber die zeit wehrt sich
+[02:51:04] <Bibo Ize> hört sich gut an
+[02:51:39] <HAHA Reingelegt> wieso werden computer nicht gleich in gefrierschränke eingebaut
+[02:51:47] <Bibo Ize> WIe heißt die serie ?
+[02:51:54] <Neef Klostein> will kenedy retten wenn er aus dem portal geht und wieder rein ist wieder alles auf 0 wenn er drin bleibt macht ihn die zeit.krank
+[02:52:06] <Neef Klostein> 11.22.63
+[02:52:25] <KazumaGER> weil n Gefrierschrank zu sperrig ist und weit mehr strom frisst als ne wakü 😛
+[02:52:25] <Bibo Ize> was ist das ?
+[02:52:44] <Neef Klostein> der name der serie kenedys todesdatum
+[02:52:53] <HAHA Reingelegt> simon wieder zu meta
+[02:53:24] <Bibo Ize> Mal abgesehen davon würde die Wärme der CPU und GPU den Kühlschrank zerstören weil er ständig versuchen würde Temperatur zu halten
+[02:53:24] <Herr Boedefeld> Gibt doch sogar schon 8k. Ich warte auf den tag wo das K nur noch ein Marketing gag ist. Da kommt dann jedes Jahr ein K mehr 😀
+[02:53:45] <KazumaGER> @Neef Klostein ich denke die Serie heisst 11.32.63?
+[02:53:49] <GesichtsKuchen> 2kkkkkkkkkkkkkkkkkkkkkkkkkk
+[02:53:50] <Neef Klostein> gibt bestimmt mega pc livehacker die son shit schonmal gemacht haben @haha
+[02:54:22] <Bibo Ize> Ja eben. Hab sie schon gemacht und jedes mal ist der Kühlschrank durch gebrannt
+[02:54:33] <KazumaGER> nee aber n PC in ein Aquarium voller ÖL gebaut wurde schon... Ölkühlung
+[02:54:36] <Neef Klostein> @kazumager nein gibt keinen 32. tag im monat
+[02:54:57] <KazumaGER> @Neef Klostein hab nur wiederholt was du vorhin geschrieben hast 😛
+[02:55:35] <Herr Boedefeld> VR in der Öffentlichkeit. Ein spaß für alle zuschauer :D
+[02:55:49] <scheinerchen> ja wir bauen uns 2 karten ein und freuen uns dann über die mikroruckler, pfft das amd knicken, da stopf ich lieber den grünen mein geld in den rachen 😀
+[02:56:10] <KazumaGER> @Herr Boedefeld kann dir ja in der VR egal sein ^^ siehste ja eh nich 😀
+[02:56:21] <Neef Klostein> @kazumaGer ah vertippt...handy is mord
+[02:56:43] <KazumaGER> Neef Klostein ja kenn ich ^^ geht mir mit Tablet auch so 😛
+[02:56:54] <Herr Boedefeld> @KazumaGER Aber später auf FB 😀
+[02:57:05] <Bibo Ize> Ihr seid echt Kinder eurer Generation
+[02:57:11] <KazumaGER> Ich nutze ja eh kein Facebook ^^
+[02:57:32] <GesichtsKuchen> facebook is super, so lange man es nicht benutzt
+[02:57:49] <Neef Klostein> und du bist der sohn deiner mutter
+[02:57:55] <KazumaGER> finde Twitter viel tollerer 😀
+[02:57:56] <Bibo Ize> was für in chat ?
+[02:58:10] <Bibo Ize> Du bist nackt auf die Welt gekommen
+[02:58:17] <Neef Klostein> das ist nicht live Bibo
+[02:58:33] <Neef Klostein> und du schleimig
+[02:58:36] <Bibo Ize> Wo ist dann der Sinn in nem Chat von na Aufzeichnung
+[02:59:02] <KazumaGER> damit die Leute sich unterhalten können untereinander? 👿
+[02:59:22] <Neef Klostein> das ist ne unterhaltung
+[02:59:27] <Neef Klostein> wat
+[02:59:29] <Bibo Ize> Dafür gibt es doch den Fernsprechapparat
+[02:59:32] <Neef Klostein> aufnahme
+[02:59:53] <KazumaGER> du meinst den Telegraphen? 😛
+[03:00:41] <Bibo Ize> Nein das ist für Hipstar
+[03:00:47] <prinzvaliumx> funkendoktortelefon
+[03:00:59] <Neef Klostein> ich geh hier wieder raus
+[03:01:16] <Bibo Ize> Wie herißt die serie nochmal
+[03:01:29] <KazumaGER> @Neef Klostein aber draussen ist kalt und dunkel 😭
+[03:01:30] <Neef Klostein> 11.22.63
+[03:01:44] <Bibo Ize> 11.22.63
+[03:01:45] <KazumaGER> 11.22.63 wie das Datum 😛 (US Format)
+[03:01:47] <Fran Drender> gsd
+[03:01:47] <Yannik Helm> 2 1070
+[03:02:12] <markus batke> 08/15
+[03:02:16] <GesichtsKuchen> 4 1080
+[03:02:33] <Neef Klostein> nur aus dem chat xD ich liege ausser ich werd ausem haus geschmissen sobald ich den chat verlass
+[03:02:37] <KazumaGER> 11880
+[03:02:47] <GesichtsKuchen> 01013
+[03:03:09] <Neef Klostein> 0180-Nasenporn
+[03:03:10] <KazumaGER> 0190666666 😏
+[03:03:35] <MandalorianBoutyHunt> 91448
+[03:03:49] <markus batke> 90210
+[03:04:04] <Neef Klostein> 9/11
+[03:04:20] <markus batke> über 9000
+[03:04:50] <Neef Klostein> auf deutsch markud srsly? auf deutsch?
