@@ -5035,3 +5035,430 @@
 [16:04:16] <AntiChristStollen> klappen nicht. kompatibel sind sie. hatte letzte woche mein mainboard und cpu eingeschickt, beides neu bekommen und trotzdem klappts noch nichts wie es soll. jetzt muss ich quasi den halben pc zurück
 [16:04:24] <AntiChristStollen> schicken, damit die testen können was defekt ist^^
 [16:04:32] <kaybeetee> yuhuuuuu, Simon!
+[16:05:00] <Flyinggoatz> meistens liegts am ram und mainboard settings das die timings oder taktung nicht richtig stellt
+[16:05:11] <Pablo Corleone> ok simon
+[16:05:18] <Tearfox> Simon ist einfach der beste 😃
+[16:05:26] <Max Schilling> Simon hat sehr viel drauf
+[16:05:31] <Christoph Schrooten> Layer 8 is das häufigste Problem
+[16:05:51] <Christoph Schrooten> Vergiss das nie!
+[16:05:58] <AntiChristStollen> @Flyinggoatz das meinten die auch. den ram soll ich mit zurück schicken. aber selbst wenn ich nur einen riegel rein packe klappts nicht. die können doch nicht beide kaputt sein
+[16:06:06] <Pablo Corleone> meddle loide
+[16:06:06] <+maduk_> @Christoph Schrooten 😂
+[16:06:06] <AntiChristStollen> layer 8?
+[16:06:07] <Flyinggoatz> ich hatte zb oft bluescreens und wusste ums verrecken nicht an was es liegt, es war eine falsche ram einstellung die das board von hause aus gestellt hat
+[16:06:14] <ruf sascha> terria is einach geil das piel lach
+[16:06:33] <Free HIGH LVL Accounts> adf(.)ly/1fhdGz
+[16:06:39] <Flyinggoatz> ob 1 oder 2 rams is egal es kommt auf die einstellung drauf an was das board mit den rams macht 😃
+[16:06:39] <Free HIGH LVL Accounts> adf(.)ly/1fhdGz
+[16:06:40] <Free HIGH LVL Accounts> adf(.)ly/1fhdGz
+[16:07:04] <Mike Burna> Papa will auch mal etwas sagen: Ich hatte immer bluescreen, als ich noch nicht wusste, dass ein RAM Riegel kaputt war. Danach nie wieder.
+[16:07:26] <Flyinggoatz> einfach im bios eine etage tiefer mit der ram taktung dann laufts
+[16:07:39] <AntiChristStollen> @Flyinggoatz ah okay. na hoffentlich kriegen die das bei mindfactory geregelt^^ hab vor 2 1/2 wochen den kram bestellt und dachte ich würde schon längst damit zocken können..:D
+[16:08:37] <Christoph Schrooten> @AntiCristStollen einfach mal googlen nach "Error in Layer 8"! Aber eilt nich 🌝
+[16:08:41] <AntiChristStollen> @Flyinggoatz das ist das problem! ich krieg kein signal an meinem bildschirm. egal ob mit dvi oder hdmi oder ob am alten oder neuen monitor, sogar am tv hab ichs versucht 😀
+[16:08:58] <Flyinggoatz> hast ne graka drin ?
+[16:09:08] <AntiChristStollen> habs mit und ohne versucht
+[16:09:15] <BlackSwarm 101> Wie fröhlich er das ansagt.
+[16:09:22] <Flyinggoatz> dann hat das meinboard nen schuss
+[16:09:27] <Flyinggoatz> mainboard
+[16:09:59] <AntiChristStollen> ok. dann muss ich den kram gleich doch nopchmal losschicken 😞 vielen dank auf jeden fall
+[16:10:03] <AntiChristStollen> euch anderen auch! 💜
+[16:10:45] <Flyinggoatz> was für cpu und mainboard und rams hastgeholt ?
+[16:10:59] <TheGlasbowl> Simons Technikglück
+[16:11:13] <Pablo Corleone> hier chad
+[16:11:45] <Neef Klostein> chaaaaad 💜
+[16:11:56] <PalmDesertRock> titanfall 2 donnerstag gekauft, samstag durchgespielt und seitdem den MP gezockt - so ein gutes spiel
+[16:12:03] <Christoph Schrooten> ich hätt manchmal gern n schwarzen bildschirm. er wird aber höchstens dunkelgrau 😞
+[16:12:05] <Flyinggoatz> hab letztens für jemand nen günstigen pc zusammen gebaut das mainboard war nen msi für 47 euro und i6 6500 für 180, das teil lauft wie butter mit kingston hyper x 2133 rams ddr4
+[16:12:15] <AntiChristStollen> ASRock Z170 Extreme, Intel Core i7 6700K 4x 4.00GHz, MSI GeForce GTX 1080 GAMING X 8G, 32GB G.Skill RipJaws V DDR4
+[16:12:43] <Flyinggoatz> ahja ok das sollte so laufen ohne was einstellen zu müssen
+[16:12:44] <Christoph Schrooten> läuft bei dir
+[16:12:55] <PalmDesertRock> bei der kampagne musste ich tatsächlich immer wieder an half life 2 denken
+[16:12:59] <AntiChristStollen> also eigentlich auch nichts billiges. deswegen wunderts mich, dass ich so probleme hab
+[16:13:02] <Flyinggoatz> gutes board und rams
+[16:13:38] <Das 0mega> haben wir in amberg schon . besser wie grau und regen
+[16:13:41] <BlackSwarm 101> xD haha
+[16:13:41] <Flyinggoatz> damit musst aber schon auf 4.8 ghz takten damit sich das board lohnt 😛
+[16:13:44] <MC Hodenflash> Twitcho
+[16:14:12] <+maduk_> @AntiChristStollen bekommste denn einen Ton beim Starten?
+[16:14:17] <Christoph Schrooten> bieten mindfactory nicht so einen zusammenbau-service für 50€ an? Wenn du schon so teure hardware anschaffst, würd ich das evtl. in anspruch nehmen. dann liegt´s an denen, wenn was nicht funzt 😃
+[16:14:22] <AntiChristStollen> haha, da hab ich mal garkeine ahnung von 😀 da zerschieß ich mir glaub ich schneller alles als ich gucken kann LUL
+[16:14:31] <xxfruitninjaxx> brenn ihn!
+[16:14:31] <+Only Me> 😀
+[16:14:40] <Das 0mega> grad fallsch geantwortet ^^ sry
+[16:14:49] <AntiChristStollen> @maduk_ auch nicht. du meinst dieses startpiepen, oder?
+[16:14:57] <Das 0mega> hab oben gelesen wegen temperatur
+[16:15:04] <Sebastian Siebrecht> luck abbezahlt??
+[16:15:07] <Flyinggoatz> wenn du nix taktest tuts ein 80 euro board auch
+[16:15:18] <Flyinggoatz> rausgeschmissenes geld sonst
+[16:15:38] <Flyinggoatz> turbo modus schafft sogar ein 45 euro msi board 😀
+[16:15:39] <+Sebastian Striggow> guten morgen chad
+[16:15:47] <+maduk_> @AntiChristStollen richtig. Mach mal nur ein RAM Riegel und CPU (inkl Kühler natürlich) aufs Board und schau obs geht.
+[16:15:51] <Sebastian Siebrecht> moin moin
+[16:16:06] <Das 0mega> als cod versehe ich das eh nicht, wo is da bitte team
+[16:16:17] <AntiChristStollen> naja ich sag niemals nie. wenn mein pc mal läuft find ich da vielleicht auch hilfe wie genau man das macht, hoffe ich 😀
+[16:16:19] <Fox Eye> Hallo Kinder 🐸
+[16:16:32] <BlackSwarm 101> haha
+[16:16:33] <Christoph Schrooten> Vielleicht kannste an der Mindfactory hotline sagen, du möchtest, dass die die teile nach dem check zusammenbauen und auch die kombi testen. dann sollen sie´s dir so schicken...
+[16:16:34] <EFG> der simon... 😀
+[16:16:39] <AntiChristStollen> @maduk_ ok, versuch ich mal
+[16:16:41] <Tobias Tebben> 😀 die donnerkuppel
+[16:16:41] <Christoph Schrooten> zur not überweist du halt noch n fuffi
+[16:16:46] <Tearfox> simon xD
+[16:16:58] <Herr Fürchtegott> Fox Eye 🙋
+[16:17:11] <EFG> alter wie es aus ihm rausgeblubbert kommt und er gleichzeitig zockt.. ich geh feste 😃
+[16:17:12] <Das 0mega> christoph, wo bist du den hallo
+[16:17:21] <Christoph Schrooten> Würzburg
+[16:17:40] <+maduk_> @AntiChristStollen du hast aber auch alle Stromkabel ans Mainboard gesteckt oder? Also den 20er und den 4/8er?
+[16:17:44] <BenTalking> Hallo Leute. Sorry für die Störung. Wer möchte kann mal vorbeischauen. Sorry nochmal. Icch brauche nur eine kleine Starthilfe. Danke
+[16:17:47] <Fox Eye> Für 50 Euro die Woche bin ich im RBTV-Chad ihr bester Freund 🌝
+[16:17:51] <Das 0mega> nette aw, han das ganz anders gemeint
+[16:18:10] <Christoph Schrooten> lol
+[16:18:18] <Sven L> gam+ daylie daily doch wiede?
+[16:18:33] <+maduk_> Nur noch diese Woche
+[16:18:37] <Die Freie Bohne> @BenTalking lol
+[16:18:41] <xzarrus> Hmh hier ist ja echt tote Hose 😝
+[16:18:46] <Das 0mega> dann bist du sehr reich oder nix zu tun
+[16:18:49] <Fox Eye> Der Feigbot 😖
+[16:19:13] <AntiChristStollen> @maduk_ ja, alle. hab hinterher auch zig mal ins handbuch geschaut und geguckt ob ich irgendwas übersehen hab.
+[16:19:19] <Das 0mega> !sendeplan
+[16:19:20] <%Sendeplan> @Das 0mega: Den aktuellen Sendeplan findest du hier: https://www.rocketbeans.tv/wochenplan/
+[16:19:22] <Pablo Corleone> lol
+[16:19:26] <Das 0mega> mist
+[16:19:30] <Die Freie Bohne> @BenTalking Wenn du eine Starthilfe brauchst, was machst du dann hier? 😀
+[16:19:30] <BenTalking> Also ich mache Geschichten und sowas.... 😉
+[16:19:51] <Daniel Hofer> 😊
+[16:19:52] <JackRwrw> ist das laif?
+[16:19:57] <BenTalking> Ich weiß nicht, vielleicht schaut sich wer ein Video an 😃
+[16:20:06] <Ben oeg123> ja
+[16:20:07] <Flyinggoatz> haben sich überhaupt irgendwelche lüfter gedreht ?
+[16:20:08] <777chriss0r> jau is leif
+[16:20:10] <+maduk_> @AntiChristStollen Netzteilschalter auf ON geschaltet? 😛
+[16:20:19] <athanasios koukourakis> hi
+[16:20:33] <Hansdampf> @xzarrus rip rbtv
+[16:20:35] <Herr Fürchtegott> HeyGuye
+[16:20:35] <Christoph Schrooten> hi
+[16:20:39] <Herr Fürchtegott> 🙋
+[16:20:57] <+Daily Hatred> Nicht mal 1.800 Zuschauer am Montag Nachmittag. Bissl sad 😞
+[16:21:00] <athanasios koukourakis> ich find dich geil
+[16:21:12] <athanasios koukourakis> ja schon
+[16:21:17] <Christoph Schrooten> heute früh bei moinmoni live warens 2,4k
+[16:21:29] <Intriganto> @maduk_ Nein, glaube schon ab dieser Woche gibt es G+D nur noch 2mal wöchentlich, dafür mit fester Crew
+[16:21:31] <Flyinggoatz> evtll war das netzteil ja von anfang an kaputt 😀
+[16:21:31] <athanasios koukourakis> dass ist gut
+[16:21:33] <Die Freie Bohne> @DailyHatred Es läuft gut. Keine Panik!
+[16:21:36] <Das 0mega> viele von arbeit, glaub mir ab 18 uhr wirds netter
+[16:21:46] <+maduk_> @Daily Hatred die Anzahl ist noch immer nicht richtig. Selbst hier im Chat gibts teilweise verschiedene Zahlen
+[16:21:50] <+Sebastian Striggow> simon will doch nur nicht beleidigt werden^^
+[16:21:53] <Das 0mega> und assiger leider
+[16:21:59] <+Natsu Dragneel> bei dem schönen Wetter sind halt alle draußen 🌝
+[16:22:08] <+maduk_> @Intriganto das schließt ja nicht aus das diese Woche noch GPD läuft 😀
+[16:22:18] <AntiChristStollen> @maduk_ haha 😀 ich hab bis jetzt jeden pc selbst zusammen gebaut und es hat fast immer reibungslos geklappt. die lüfter laufen ja auch alle, wasserkühlung auch, graka wohl auch.
+[16:22:36] <LordAgamon> beste stelle
+[16:22:38] <+Daily Hatred> @maduk_ Naja aber so falsch können sie ja auch nicht sein. Wenn 1.800 angezeigt werden, sind es bestimmt keine 3.000 😕
+[16:22:53] <athanasios koukourakis> ja ok
+[16:22:54] <Das 0mega> ++grafik go
+[16:23:03] <athanasios koukourakis> ups
+[16:23:08] <BlackSwarm 101> ahaha
+[16:23:14] <TheGlasbowl> abgelenktmon
+[16:23:22] <Die Freie Bohne> @DailyHatred Da sind doch noch zuschauer bei RTLyou und so
+[16:23:30] <+maduk_> @AntiChristStollen Ahso, das hörte sich gerade anders an :P. Die Lüfter laufend durchgehend?
+[16:23:34] <Das 0mega> -schade
+[16:23:53] <athanasios koukourakis> schade
+[16:24:08] <+Fabrice X.> bioshock in titanfall? Kreygasm
+[16:24:08] <athanasios koukourakis> gg
+[16:24:24] <Intriganto> @maduk_ deine Aussage: " Nur noch diese Woche", stimmt dann aber nicht, auch nächste woche wird es laufen 😁
+[16:24:31] <tino.im> RBTV läuft jetzt auch Nachmittags bei RTL2You? Gratulation zum Deal
+[16:24:41] <Das 0mega> fair. er war besser,^^
+[16:24:44] <athanasios koukourakis> jo
+[16:24:57] <+maduk_> @Intriganto ist ja auch nur noch diese Woche?!
+[16:25:03] <AntiChristStollen> @maduk_ wegen dem handbuch? weil ich nach zig versuchen keinen ausweg mehr wusste auch google konnte mir nicht wirklich helfen 😀 und ja, die lüfter laufen durchgehend und gleichmäßig
+[16:25:32] <Fox Eye> Hab gehärt RBTV läuft jetzt auch Vormittags auf QVC 🌝
+[16:26:05] <KazumaGER> @Fox Eye 😠 SELLOUT! 🌝
+[16:26:10] <Die Freie Bohne> Jeder stirbt alleine
+[16:27:04] <Zeddy> @maduk_ nein g+d wird weiter laufen, die haben nur das konzept und die tage der sendung geändert
+[16:27:10] <+soulstation3024> Alles klar, also Rocketbeans läuft laut euch auf RTL2 you, QVC und jetzt auch noch für Funk also zdf etc. Alles klar! 😁
+[16:27:27] <Intriganto> @maduk_ eigentlich soll ab dieser Woche nur noch 2mal kommen. entweder istt im Wochenplan ein Fehler oder sie habe die Ansage, dass es ab der 100.Folge, nur noch 2x kommt kurzfristig geändert.
+[16:27:31] <Zeddy> @maduk_ es wird ausserdem feste redakteure und feste moderatoren geben
+[16:27:32] <Das 0mega> @mods, jemand da, habn ne meldung bekommen, kein plan was
+[16:27:34] <Ignoranzz> 😄
+[16:27:50] <Das 0mega> @mods meldung : Nachricht nicht gesendet: Fehler. Versuche es erneut.
+[16:28:10] <+maduk_> @AntiChristStollen Ne eher wegen der Frage nach dem TOn :D. Wie gesagt, Probier es mal NUR mit Mainboard, CPU+Luftkühler und einen RAM Riegel. Alles andere vom Board runter.
+[16:28:42] <+Fabrice X.> ist das live? 🌝
+[16:28:44] <+Natsu Dragneel> @Das 0mega installiere dein Betreibssystem neu, dann läufts wieder
+[16:29:04] <Das 0mega> danke natsu
+[16:29:06] <+maduk_> @Intriganto @Zeddy Oh, hatte gedacht, dass Staffelende auch Pause bedeutet :D. Gibts da irgendwas im Forum zu?
+[16:29:15] <+Fabrice X.> Das 0mega das bekommst du wenn du dich ausloggst aus gmail aber noch angemeldet bist bei yt und hie rschreiben möchtest
+[16:29:21] <KazumaGER> @Das 0mega schon versucht nochmal abzuschicken? 😏
+[16:30:03] <+Fabrice X.> einfach page refreshen, neu amelden und gut ist
+[16:30:08] <Zeddy> @maduk_ gibt es, muss jetzt nur leider weg
+[16:30:28] <Das 0mega> @fabrice exact, danke, @KazumaGer korrekt
+[16:30:32] <+maduk_> @Zeddy alles klar, dann wühl ich mich mal dadurch 😃
+[16:30:33] <%PandaBlack> @Das 0mega ist nurn Bug, keine Sorge
+[16:30:46] <BlackSwarm 101> haha 😀
+[16:30:51] <Die Freie Bohne> dejavu
+[16:30:54] <Das 0mega> danke fuer nichtverstehen helfen euch 2 ein
+[16:31:19] <AntiChristStollen> @maduk_ hab ich gemacht. bekomme trotzdem kein signal. auch wenn ich den riegel wechsel
+[16:31:23] <Christoph Schrooten> ich bekomm den fehler immer nach den aufwecken des PCs aus dem Energiesparmodus, wenn ich dann was schreiben will. einmal F5 gedrückt, und gut is.
+[16:31:29] <%PandaBlack> @Das 0mega und jetzt bitte nochmal? 😀
+[16:31:30] <Die Freie Bohne> Nennt mir den lässigsten Job der Welt?
+[16:31:41] <+maduk_> @AntiChristStollen Signal woher?
+[16:31:49] <KazumaGER> 😠 Komm mimimimit 28 in die Pubertät!
+[16:32:06] <Ignoranzz> um diese uhrzeit schon so dicht 😉 wp
+[16:32:17] <Christoph Schrooten> PROST!
+[16:32:21] <Das 0mega> das danke klar, was ich schreiben wollte war sitiuation bedingt,
+[16:32:25] <DuTrinkstBier> Warum sind die nicht live zur Primetime?
+[16:32:40] <Christoph Schrooten> This is the End
+[16:32:47] <Die Freie Bohne> @DuTrinkstBier ab 18:00 Uhr glaube ich
+[16:32:48] <KazumaGER> Welche Primetime?! 👿
+[16:32:52] <+maduk_> @DuTrinkstBier 16:30 ist keine Primetime 😀
+[16:32:57] <Pablo Corleone> tante
+[16:32:59] <+Natsu Dragneel> 16:30 Primetime 🌝
+[16:33:04] <DuTrinkstBier> Für mich ist immer primetime
+[16:33:08] <Flyinggoatz> 19 uhr ist primetime
+[16:33:54] <Das 0mega> lol ich hab prim immer nicht arbeit oder hobby
+[16:34:11] <Das 0mega> chat ist a
+[16:34:18] <AntiChristStollen> @maduk_ kein startsignal am mainboard und auch 'kein signal' am bildschirm.
+[16:34:20] <Christoph Schrooten> "Wenn ein Pilot auf einem sitzt, kann man Elektrorauch aktivieren" ... wait, what?
+[16:34:27] <Die Freie Bohne> Das ist witzig. Das hat der Simon gut inszeniert.
+[16:34:51] <Christoph Schrooten> soll mich das geil machen?
+[16:34:53] <MrBusfreakinnsbruck> ist heute schon das neue game plus daily? 😀
+[16:35:06] <Fox Eye> ja
+[16:35:14] <Fox Eye> Ganz neu, und in bunt 🌝
+[16:35:19] <Das 0mega> mal nicht live in live chat kommen..meist daemliche uhrzeiten
+[16:35:32] <Pablo Corleone> hauptsache mit fabian
+[16:35:37] <Steven Seefeldt> Ist eig Donnie noch bei den Bohnen oder bereits geflüchtet?
+[16:35:42] <KazumaGER> Zielen könnte helfen... 😏
+[16:35:45] <Die Freie Bohne> lol
+[16:35:47] <+maduk_> @AntiChristStollen bei der Methode ging es erstmal nur darum ein Postsignal zu bekommen (Also einen Ton vom Mainboard). Lautsprecher ist am Mainboard angeschlossen oder ist einer direkt auf dem Board?
+[16:37:30] <BlackSwarm 101> Wenn ihr mal nicht rbtv gucken könnt für ein paar Wochen, vermisst ihr es dann?
+[16:37:58] <Die Freie Bohne> Ich vermisse den Chat 😀
+[16:38:20] <Steven Seefeldt> Mich interessieren leider nur wenige Formate
+[16:38:27] <Berserkbeast 666> blackswarm geeeht so. manche sachen ja^^
+[16:38:38] <Die Freie Bohne> Kino+ ist cool
+[16:38:41] <Moneypenny78> ich wuerde was vermissen, ka obs RBTV ansich ist oder die bekloppten im chat aber irgendwas wuerde ich sicher vermissen und wenns nur "deutsches" gelaber ist
+[16:38:49] <Steven Seefeldt> Kino+ würde ich 100% vermissen
+[16:38:51] <Fox Eye> @BlackSwarm 101 Ein paar Wochen, bist du des wahnsinns??????????????
+[16:38:52] <Toquo> Ich vermisse meine Unterhose
+[16:39:02] <+maduk_> Mich interessieren recht viele Formate, aber nicht so stark das ich sie unbeingt schauen muss. ^^
+[16:39:09] <Pr0molle> rip
+[16:39:14] <Das 0mega> @maduk_ falls ich helfen kan, kenn mich auch bissi mit ueberspriner mainboards aus, jumper. etc, falls du iwie hielfe brauchst. sag so. reset mit schalter min sehr alte. helfe
+[16:39:45] <Die Freie Bohne> Es läuft ja auch oft nebenher, also ich surfe manchmal und es läuft im Hintergrund.
+[16:40:01] <Die Freie Bohne> Gibt mir das Gefühl connected zu irgendetwas zu sein
+[16:40:11] <Steven Seefeldt> GamePlus Daily z.B. ist an sich echt nett, aber irgendwie kenne ich die meisten News sowieso bzw die Spiele interessieren mich nicht soo
+[16:40:23] <BlackSwarm 101> Fox Eye Ja, genau so gings mir als ich 3 Monate lang kein Internet hatte.
+[16:40:33] <+maduk_> @Das 0mega Danke, aber um mich gehts hier nicht ^^
+[16:40:40] <Fox Eye> Yeah, spiele Wasch-Dogs und bau dir deinen eigenen Hipster zusammen. Spüre den Groove 🐸
+[16:40:52] <Fox Eye> @BlackSwarm 101 Warst du im Knast? 😭
+[16:40:57] <Das 0mega> kk, war nett gemeint
+[16:41:01] <+maduk_> @Fox Eye das ist auch das erste was mir aufgefallen ist
+[16:41:12] <Steven Seefeldt> Aber Ranked heute Abend ist z.B. sehr sehr entspannend, dabei ne schöne Brause
+[16:41:12] <+maduk_> @Das 0mega ja ich weiß 😃
+[16:41:25] <BlackSwarm 101> Fox Eye Gefühlt ja. 😕
+[16:41:27] <Die Freie Bohne> Oh Gott
+[16:41:41] <Steven Seefeldt> oder bald Eddy mit Pokemon und Red D(ed)
+[16:41:45] <Die Freie Bohne> Wenn er wieder Pokemon spielt, ist die Kacke am dampfen 😀
+[16:42:09] <Asuka Langley> Ist das jetzt live oder eine aufzeichnung ß
+[16:42:12] <+maduk_> Dieser neue Trend die Protagonisten so Hip zu machen ist echt nicht so mein Ding
+[16:42:13] <Steven Seefeldt> und Formate wie Pen und Paper würde ich sowieso vermissen
+[16:42:26] <Steven Seefeldt> als auch Bonjour
+[16:42:47] <+maduk_> @Steven Seefeldt P&P läuft eh nur alle paar Wochen 😏
+[16:42:56] <BlackSwarm 101> TEARS ist das unterhaltsamste was ich jemals auf yt gesehen habe.
+[16:42:58] <Die Freie Bohne> Ich glaube die Leute mögen Ede + Pokemon, weil er es nicht mag. Das hat was sadistisches.
+[16:43:02] <Steven Seefeldt> @maduk_ lieber ein schönes altes Gothic wo man sich schön hocharbeitet 😃
+[16:43:06] <Intriganto> Ich würde es schon vermissen, wahrscheinlich auch weil ich neben RBTV wenig anderen Nerdkram schaue und sie dadurch einfach eine Sonderstellung bei mir haben. 😢
+[16:43:16] <Steven Seefeldt> deshalb ist P&P so heilig
+[16:43:35] <Das 0mega> team kommnt
+[16:44:09] <Christoph Schrooten> Team kommt = Bukake
+[16:44:09] <Das 0mega> nettes spiel^^
+[16:44:29] <+Sebastian Striggow> man entspannt euch doch alle mal. sie bauen immer weiter aus. so schlecht scheint es also nicht zu laufen.
+[16:44:37] <BlackSwarm 101> Intriganto Genau so ist es bei mir auch.
+[16:44:42] <Steven Seefeldt> Hab vorhin mal bei Twitch geguckt und zufällig den Commanderkrieger gesehen .. wusste gar nicht mehr dass es den noch gibt 😛
+[16:44:47] <randalliz0r> titanfall 2 macht echt laune
+[16:44:51] <randalliz0r> sogar der sp
+[16:44:56] <Das 0mega> warde doch
+[16:45:02] <Das 0mega> ah kk
+[16:45:13] <Der Diddler> ich würd es mir ja kaufen aber liege krank zuhause
+[16:45:29] <Steven Seefeldt> @Sebastian Striggow wir entspannen uns doch, aber wir dürfen doch auch Kritik und Wünsche äußern oder? Das ist genau das was man Meinungsfreiheit nennt
+[16:45:49] <Stony0606> kein bock auf origin 😕
+[16:45:52] <Steven Seefeldt> Und einem muss auch nicht alle Formate passen, für jeden ist was dabei
+[16:45:53] <+D. Flash Shumway> ich glaube man muss auf dieses future zeug stehen. ich finde es auch eher uninteressant.
+[16:45:58] <muttiheft> wenn man jetzt nicht auf future und übertriebene mechs steht, kann man dennoch gefallen an titanfall finden? ich dene kaum einer zockt es weil das setting sehr unclever zum zeitpunkt gewählt wurde
+[16:46:28] <Ma Rackmann> und wo genau ist jetzt der unterschied von titanfall 2 zu 1? sieht absolut wie das 1er aus..
+[16:46:45] <PalmDesertRock> die unterschiede sind subtil
+[16:46:54] <PalmDesertRock> im multiplayer, kampagne gabs ja in teil 1 gar nicht
+[16:46:57] <Ma Rackmann> 60€ sind hingegen ganz und garnicht subtil
+[16:46:59] <Christoph Schrooten> lol, spinne hat imon getötet... wenn budi das wüsste
+[16:47:00] <Ma Rackmann> drecks entwickler
+[16:47:03] <muttiheft> das komische: alle designer verstehen unter zukunft kälte und viel metalstreben und und und. als wären alle designer etwas... naja, nicht die hellste kerze auf der torte
+[16:47:09] <Greenmile 1983> Subtile Unterschiede ^^
+[16:47:21] <Steven Seefeldt> Titanfall 1 (-Storymodus), Titanfall 2 (+Storymodus)
+[16:47:27] <PalmDesertRock> jo, genau, andere triple A titel kosten weniger als 60€.. 55 oder so
+[16:47:45] <Pablo Corleone> skillmon
+[16:47:50] <Die Freie Bohne> Triple A, wenn ich das schon höre
+[16:47:51] <PalmDesertRock> drecksentwickler .. und dann noch nichtmal einen season pass anbieten sondern alle maps umsonst liefern, die penner
+[16:47:55] <Brolet Brokoli> Und aufm PC sowieso noch weniger
+[16:48:10] <Das 0mega> cod spielerin^^ sry
+[16:48:20] <Steven Seefeldt> Bei Borderlands hat ja auch niemand geheult das es immer noch das gleiche System + Grafik ist
+[16:48:29] <BlackSwarm 101> Zockt jemand Overwatch?
+[16:48:30] <Steven Seefeldt> also ich nicht
+[16:48:36] <Christoph Schrooten> @Das Omega Du bist am Ende!
+[16:48:37] <snowhawk> auf dem pc kostet jeder triple a so 40€ und für die konsole 45€
+[16:48:41] <Steven Seefeldt> *wink*
+[16:48:47] <muttiheft> allein dass ein entwicklerteam 2016 immernoch auf die sourceengine setzt zeigt, dass man kein geld und aufwand aufbringen wollte.
+[16:48:49] <+Sebastian Striggow> @steven seefeldt, ja logisch. konstruktive kritik ist super. nur immer das gelabert mit "es steht schlecht um sie" "die userzahlen sind so niedrig" ist müßig.
+[16:48:50] <kaybeetee> Und dann macht er es doch
+[16:49:15] <blazecraft blazecraft> hi
+[16:49:16] <Steven Seefeldt> gut das kam nicht von mir, nochmal Glück gehabt
+[16:49:20] <Das 0mega> ka ber gut dabei
+[16:49:28] <PalmDesertRock> du hast es doch gar nicht gespielt .. zock mal die kampagne und stell fest dass das neben doom die beste shooterkampagne seit JAHREN ist und dann komm wieder und sag "die hatten keinen bock"
+[16:49:32] <DuTrinkstBier> Sieht leider schlecht aus
+[16:49:44] <Steven Seefeldt> Bei den Top-Formaten sind genug Zuschauer da
+[16:49:50] <Brolet Brokoli> Die Kampagne war mal über nice
+[16:50:04] <Brolet Brokoli> Hätte fast geweint
+[16:50:10] <snowhawk> spielt simon auf der ps4 oder der xbox one?
+[16:50:11] <Steven Seefeldt> Kann mir mal jemand seine Meinung über die BF1 Kampagne sagen ?
+[16:50:12] <Brolet Brokoli> Bei ner Shooter Kampagne
+[16:50:14] <PalmDesertRock> die kampagne hat mich immer wieder an half life 2 erinnert spielerisch weil die so gut war
+[16:50:26] <DuTrinkstBier> BF1 Kampagne ist Müll
+[16:50:33] <muttiheft> PalmDesertRock doom hat die beste shooterkampagne? nichts gegen oldschool aber von einem raum in den nächsten rennen und schlecht designte monster abknallen ist keine kampagne
+[16:51:02] <Steven Seefeldt> BFBC2 hat eine gute Kampange
+[16:51:05] <Jim Panse> bf1 Kampagne ist schrott
+[16:51:08] <Brolet Brokoli> BF1 hab ich leider nur die EA Access Version gespielt
+[16:51:11] <+D. Flash Shumway> @Steven Seefeldt Ich finde sie sehr atmosphärisch, aber leider nicht lange.
+[16:51:12] <PalmDesertRock> ja, dann zock halt dein CoD weiter und mit hitscan waffen und hoch in deiner deckung und baller auf die moorhühner
+[16:51:43] <Steven Seefeldt> Hab erst seit WE BF1, hatte bisher kaum Zeit gefunden und hab halt direkt mit MP angefangen
+[16:51:45] <muttiheft> PalmDesertRock meinst du mich? ich hab seit cod 2 kein cod mehr angerührt 😀
+[16:51:46] <Egon Baerbel Nieke> hi simon
+[16:51:51] <Das 0mega> chat streiten is unsinnig, gejt doch next ins spiel
+[16:51:59] <Steven Seefeldt> Arbeit nimmt halt ordentlich Zeit ^^
+[16:52:04] <Pablo Corleone> wann kommt eig unreal tournament 2016 raus?
+[16:52:04] <35reich> Ach mensch kiddys .. hört auf zu stenkern..
+[16:52:15] <snowhawk> habe vor kurzem uncharted 4 gespielt und verglichen damit ist jede shooter-kampagne einfach nur schrott
+[16:52:16] <Das 0mega> mich reizt es auch
+[16:52:19] <yannik jung> 🔨
+[16:52:20] <Bloko o> Chad is ja salzig heut....
+[16:52:21] <Pablo Corleone> babymon
+[16:52:32] <BlackSwarm 101> Pablo Corleone Hast du die Alpha runtergeladen?
+[16:52:33] <Peter Banane> wie heißt das spiel? Kill replay?
+[16:52:41] <Brolet Brokoli> kA ich fand jetzt die Story von Halo auch nie schlecht
+[16:52:44] <PalmDesertRock> doom hatte toll designte levels, viel vertikales movement, hohes tempo, interessante kämpfe weil man nie still stehen durfte
+[16:52:45] <Steven Seefeldt> Uncharted 4 ist doch kein reiner Shooter? dann wäre Tomb Raider ja auch ein Shooter
+[16:52:45] <Tolboz> simon.exe doesnt work
+[16:52:48] <Brolet Brokoli> Bis auf Halo 5 vielleicht
+[16:52:51] <+DEVRO2k> UT is schon sowas wie openbeta
+[16:52:51] <muttiheft> snowhawk habe letztens schach gespielt. im vergleich dazu ist skat absolut schrott. was bist du denn vür eine luftpumpe?
+[16:52:58] <Pablo Corleone> @ BlackSwarm 101 nope
+[16:53:12] <PalmDesertRock> wer da noch meckert ist wahrscheinlich um 1990 rum geboren und hat richtige shooter nie gezockt ..
+[16:53:14] <Steven Seefeldt> ist halt kein Darksouls
+[16:53:29] <+D. Flash Shumway> BF1 holt man sich aber auch nur, wenn man Bock auf geile Multiplayer-Schlachten hat. Finde das Spiel auf jeden Fall sehr gelungen. Ein paar mehr Fahrzeuge und Waffen könnte es geben
+[16:53:44] <Nukularo> wie er keine granate nutzt :o/
+[16:53:44] <Das 0mega> lech lags durch nen bloeden mmo download
+[16:53:46] <Brolet Brokoli> kA
+[16:53:54] <Brolet Brokoli> Hatte die Wahl zwischen Titanfall 2 und BF1
+[16:53:55] <PalmDesertRock> die kampagne in titanfall 2 hat in jedem einzelnen level eine neue idee, die ausgereizt wird und dann weggeschmissen, nächster level neuer einfall
+[16:53:56] <muttiheft> D. Flash Shumway stimme ich dir absolut zu. genialer mp-shooter aber etwas mehr waffen wären nicht verkehrt
+[16:54:00] <Brolet Brokoli> Und hab mir TF2 geholt
+[16:54:01] <BlackSwarm 101> Pablo Corleone Ich würde einfach die kostenlose Alpha runterladen. Wass es rauskommt, weiß vermutlich niemand.
+[16:54:06] <DuTrinkstBier> Das Fahrzeug System in BF1 ist leider totaler Schrott
+[16:54:13] <BlackSwarm 101> *Wann
+[16:54:22] <Das 0mega> next dabei Omega
+[16:54:52] <muttiheft> DuTrinkstBier allein dass du als pilot in ein fliegendes flugzeit gespwant wirst beweist dass du recht hast 😀
+[16:55:00] <muttiheft> *flugzeug
+[16:55:05] <Pablo Corleone> @BlackSwarm 101 ok danke mach ich und hoffentlich läuft es bei mir
+[16:55:07] <jackyhorror> Simon ♥️
+[16:55:08] <BlackSwarm 101> Steven Seefeldt Du hast Overwatch?
+[16:55:29] <Zo nk> @DuTrinkstBier wenn man keine ahnung hat einfach mal fresse halten
+[16:55:32] <+D. Flash Shumway> @muttiheft finde es halt bißchen nervig, dass es pro klasse nur 5 waffen oder so gibt und diese sich dann durch visiere oder reichweite etc unterscheiden.
+[16:55:34] <BlackSwarm 101> Pablo Corleone Bitte bitte.
+[16:55:51] <DuTrinkstBier> @Zo nk Dann halt die Fresse
+[16:56:00] <muttiheft> habe overwatch noch nie gezockt. was ist denn der punkt an overwatch? warum der hype? ich find es sieht sehr schlecht und langweilig aus. ich irre bestimmt
+[16:56:01] <Daniel Mueller> Warum nur noch 10 Minuten?
+[16:56:02] <Asuka Langley> Ey Bleib mal locker
+[16:56:08] <Berserkbeast 666> man merkt es is frühabend
+[16:56:12] <Asuka Langley> nicht beleidigen bitte
+[16:56:15] <muttiheft> D. Flash Shumway jap, geht mir genau so
+[16:56:15] <+Fabrice X.> kennt ihr jmd ne bekannte rockband die einen quadratischen schlüssel als logo hat ?
+[16:56:23] <Brolet Brokoli> Ich kann Overwatch auch nie länger spielen
+[16:56:27] <Berserkbeast 666> die lolkinder sind noch wach.
+[16:56:29] <Brolet Brokoli> Iwann langweilt es mich einfach hart
+[16:56:37] <Pablo Corleone> lol
+[16:56:49] <Das 0mega> +Asuka
+[16:56:51] <muttiheft> DuTrinkstBier bist du noch sehr jung und hast noch nicht viel im kopf oder schon sehr alt und alles weggesoffen?
+[16:56:51] <Thomas S.> Hau!
+[16:56:52] <Pablo Corleone> simon 💜
+[16:57:11] <BlackSwarm 101> muttiheft Der look finde ich auch nicht so gut, aber es macht Spaß zumindest am 3. Tag noch.
+[16:57:13] <Das 0mega> bbgw
+[16:57:18] <Die Freie Bohne> Da geht noch mehr depressives. 😀
+[16:57:28] <Das 0mega> keine namen
+[16:57:39] <muttiheft> BlackSwarm 101 das ist in der heutigen zeit schonmal viel wert 😀 viele spiele sind nur die ersten stunden spaßig...
+[16:57:41] <Die Freie Bohne> Was bedeutet bbgw?
+[16:57:52] <Asuka Langley> Titenfall sieht sehr gut aus
+[16:58:01] <DuTrinkstBier> @muttiheft Wieso machst du mich jetzt an?
+[16:58:03] <muttiheft> Asuka Langley im vergleich zu was?
+[16:58:10] <+D. Flash Shumway> habe ich das falsch in Erinnerung oder war BF1942 das beste battlefield? 😀
+[16:58:13] <Asuka Langley> Bf1
+[16:58:16] <Ragequit2016> ach der nobert
+[16:58:19] <Asuka Langley> cod
+[16:58:21] <Herr Fürchtegott> der Norbert 😂
+[16:58:26] <Das 0mega> wuerde gerne mitspielen, ohne geld ubnd liste
+[16:58:27] <Andreas San> der norbert 😀
+[16:58:33] <PalmDesertRock> @DuTrinkstBier er hatet alles und beschimpft dich .. nennt man troll 😉
+[16:58:36] <Pablo Corleone> true story
+[16:58:41] <Das 0mega> binn ne dumme xD
+[16:58:48] <Raptor> ist das pc?
+[16:58:49] <jackyhorror> Mmo > leben
+[16:58:53] <Mr.Ladebalken> Was ist mit Norbert passiert ?
+[16:59:01] <muttiheft> DuTrinkstBier weil du hier beleidigst als hättest du eine behinderung. ich denke aber mal du bist gesund, bist aber entweder sehr jung oder schon etws älter mit großem bierkonsum
+[16:59:03] <+Manuel Köhler> ja is pc
+[16:59:04] <Asuka Langley> Ist das jetzt live oder eine aufname ?
+[16:59:06] <Ragequit2016> es gibt echte menschen?
+[16:59:16] <S Hardt> هض و الله يا رب يا رب العالمين؟
+[16:59:20] <Das 0mega> chat aus
+[16:59:20] <Brolet Brokoli> Aufnahme
+[16:59:25] <muttiheft> Asuka Langley ist nicht live
+[16:59:28] <Sir Boron> könnt euch ja mal den Game One Bericht von Simon zu Tabula Rasa angucken. das ist so typisch MMORPG 😀
+[16:59:32] <Asuka Langley> :_:
+[16:59:33] <Raptor> da ist man arbeiten und dann spielt der titanmon mein spiel und keiner joint
+[16:59:42] <Ma Rackmann> warum ist toast viereckig und wurst rund, so ein scheiß
+[16:59:43] <Raptor> blöd das ich jetzt erstmal esse
+[17:00:00] <BlackSwarm 101> muttiheft Dann habe ich Glück, dass ich noch nie ein Spiel gekauft habe, dass mir nach ein paar Stunden schon gelangweilt hat. 😛
+[17:00:00] <Pablo Corleone> ich zock ersma ne runde C&C
+[17:00:01] <DuTrinkstBier> @muttiheft Ich habe jemanden gesagt er soll die Fresse halten, der mir gesagt hat ich soll die Fresse halten. Warum weinst du denn rum?
+[17:00:01] <muttiheft> Ma Rackmann umgedreht würden die leute freidrehen
+[17:00:03] <%PandaBlack> @S Hardt german and english only, thx
+[17:00:13] <+D. Flash Shumway> wäre es andersrum besser? toast rund - wurst eckig?
+[17:00:23] <Die Freie Bohne> Ist euch schon mal aufgefallen, dass immer so getan wird als ob die Menschen im Internet keine echten Menschen wären? Aber sie sind echte Menschen!
+[17:00:26] <Ma Rackmann> wie wärs mit beides round??
+[17:00:29] <Ma Rackmann> rund
+[17:00:36] <Ma Rackmann> diese abgefuckte wirtschaft
+[17:00:48] <Tearfox> wurst kann auch eckig sein aber psscchhtt
+[17:00:53] <+D. Flash Shumway> alles nur noch rund 😀
+[17:00:54] <muttiheft> DuTrinkstBier wo weine ich rum? ich bin einfach davon ausgegenagen, dass du enteder sehr jung oder alt und besoffen bist. wo heule ich denn rum? von dir geschriebenes sieht eher nach rumheulen aus
+[17:00:55] <Talkuros> kassiert
+[17:01:09] <Brolet Brokoli> Leberkäse!
+[17:01:13] <BlackSwarm 101> Pablo Corleone Was? C&C? Wo? Wie? Welches?
+[17:01:13] <Tolboz> "Simon der Kassierer"
+[17:01:27] <Zo nk> @DuTrinkstBier ich habe dich net beleidigt ich habe nur ne tatsache fest gestellt bei dir!
+[17:01:29] <Sir Boron> Simon und Technik 😀
+[17:01:29] <+D. Flash Shumway> autos, bildschirme, controller, schuhe
+[17:01:43] <Ma Rackmann> alles ist rund, vom atom bis zum universum, was rund ist, ist unendlich, warum nicht auch das toast? nicht ohne grund ist pi 3,14
+[17:01:48] <muttiheft> muttiheft verstehe mich nicht falsch. man ist für nichts zu alt. nur zu besoffen ;D
+[17:01:48] <Mero Spe> regenbogen glitzer einhorn
+[17:02:06] <muttiheft> BlackSwarm 101 muttiheft verstehe mich nicht falsch. man ist für nichts zu alt. nur zu besoffen ;D
+[17:02:08] <ZaDonKilluminati> wer das liest, ist doof
+[17:02:09] <Brolet Brokoli> Weil er gesagt hat das die Fahrzuege in BF1 schrott sind? LUL
+[17:02:16] <Brolet Brokoli> *,dass
+[17:02:39] <Pablo Corleone> @ BlackSwarm 101 den ersten teil kann man kostenlos spieln
+[17:02:43] <Tearfox> alles ist rund nur die Erde ist flach und eckig
+[17:02:47] <DuTrinkstBier> Ja EA hat anscheinend ordentlich Marketing Money in die Whiteknights hier gesteckt 😂
+[17:02:51] <+D. Flash Shumway> @Ma Rackmann pi, das toast für physiker. rund und fällt nie auf die marmeladenseite
+[17:03:09] <BlackSwarm 101> Pablo Corleone Wo? C&Cnet?
+[17:03:09] <Moneypenny78> zo nk eine "tatsache" die deiner meinung entsprungen ist demnach ist es keine tatsache
+[17:03:26] <Bloko o> einfach zu Posten"xx is scheisse"" is shitposten und nervt...
+[17:03:29] <BlackSwarm 101> Pablo Corleone Die Kampagne auch?
+[17:03:31] <Ma Rackmann> ieh marmelade, totes tier gehört aufs toast! elektroschockgetötete mastschweine!
+[17:03:36] <Ma Rackmann> rosa verwesender schinken!
+[17:03:59] <+D. Flash Shumway> hauptsache rund
+[17:04:32] <Pablo Corleone> @ BlackSwarm 101 freenet ja kampagne auch richtig nicenstein
+[17:04:40] <Tirlio> moin
