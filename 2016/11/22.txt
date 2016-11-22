@@ -2436,3 +2436,223 @@
 [05:02:36] <FourTwenty> see ya
 [05:02:45] <+Adorondir> hau rein
 [05:03:43] <Calli> gar nicht schlecht, absofort mein neuer intro song
+[05:04:53] <FourTwenty> hehe, wieso nicht. passt ja so gsehen vom Namen her ^^
+[05:06:41] <FourTwenty> omg ich werde echt alt und vergessliche.. wie hieß noch gleich der Monitorstecker vor DVI ?
+[05:07:09] <Angomerok> scat? ÖD
+[05:07:17] <Angomerok> 😀
+[05:07:36] <FourTwenty> ja fast, pc nicht TV 😜
+[05:08:02] <Angomerok> ahso oh das weiß ich auh nimmer. irgendwas mit A mein ich
+[05:08:38] <Angomerok> VGA?
+[05:08:42] <FourTwenty> cause die 1070 die ich heute hoffentlich bekomme hat nur mehr 1 Dvi slots.. jetzt brauch ich für den 2ten Monitor ne kupplung dvi-hdmi oder eben den alten stecker auf hdmi
+[05:09:00] <FourTwenty> VGA ! genau muchu gusto!! 😃
+[05:09:30] <Angomerok> kein problem. 😀 ich hab auch einen VGA Anschluss an meinem Zweitbildschirm.
+[05:09:39] <AntiChristStollen> das gleiche prob hab ich auch mit der 1080 😑 nur 1 dvi und am NEUEN monitor NUR vga
+[05:10:08] <FourTwenty> ja echt schon ne rarität sowas ^^ muss nur schauen das der Store meines Vertrauens so nen Stecker hat.. sonst muss ich mir so n ding bestellen
+[05:10:18] <+Adorondir> "neu" "vga" hä? xD
+[05:10:35] <FourTwenty> ja wusst ich auch nicht... erst wo ich mir heute noch mal die bilder der 1070 angesehen habe ^^
+[05:10:38] <AntiChristStollen> ja 😀
+[05:10:40] <Angomerok> ich glaube vga is noch so gut vertreten dat man den im store bekommen sollte.
+[05:10:43] <AntiChristStollen> so stand ich auch da xD
+[05:11:07] <Angomerok> ob das nen praktischen sinn hat nen neuen bildschirm mit vga zu machen?
+[05:11:11] <FourTwenty> welche 1080 hast dir denn geholt wenn man fragen darf ?
+[05:11:16] <Angomerok> oder is das vll nur nen adapter? 😀
+[05:11:34] <FourTwenty> ich glaub ich hol mir die 1070 AMP! Extreme.. die is nur Knapp hinter der 1080 und kostet 499
+[05:12:31] <FourTwenty> ka, hab mir schon lange keinen neuen pc monitor geholt.. denk aber schon das die meisten bereits auf dvi bzw hdmi getrimmt werden
+[05:13:08] <+Adorondir> Im Normalfall Displayport
+[05:13:44] <+Adorondir> Also wenn er neu neu und nich nur so halb neu is. ^^
+[05:14:03] <FourTwenty> hehe ok, displayport is schon wieder ganz highend ^^
+[05:14:25] <+Adorondir> Die karte auch...
+[05:14:29] <FourTwenty> ich sags ja.. ich werde alt ^^
+[05:14:54] <FourTwenty> öhm, hat die 1070 nen displayport ? nich oder ? mom mal nachschauen ^^
+[05:15:49] <+Adorondir> Ähm... ja... zwei, wenn ich das richtig im Kopf hab. ^^
+[05:15:49] <FourTwenty> ja ok hat sie ^^ 1 dvi 3hdmi 1displayport #slowmode um die Uhrzeit nervt 😛
+[05:16:27] <FourTwenty> stimmt sorry .. 😀 1dvi 1 hdmi und 3 display .. xD
+[05:17:28] <FourTwenty> ok ich brauch noch 2 weitere monitore.. nen dritten hätte ich noch zuhause insofern der noch funzn.. dann komm ich mir vor wie bei Password Swordfish 🌝
+[05:17:35] <Angomerok> wie teuer is diese graka gewesen?
+[05:17:39] <+Adorondir> 😀
+[05:17:52] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln/
+[05:17:53] <FourTwenty> die 1070 AMP! Extreme ? 499€
+[05:18:08] <Angomerok> na die du hast
+[05:18:14] <Einfach Ich> moin
+[05:18:15] <Angomerok> 499 also?
+[05:18:19] <FourTwenty> genau
+[05:18:23] <Angomerok> Moinsen @Einfach Ich
+[05:19:20] <Angomerok> Ich wollte nächstes jahr auch ausrüsten. denke ich brauche "Nur" ne gute Graka und einen RAM Riegel.
+[05:19:22] <FourTwenty> aktuell hab ich zwar noch die 780ti verbaut.. aber da die ne kalte lötstelle und alle nase lang abschmiert.. hol ich mir heute eben die 1070
+[05:19:42] <cheech> forza horizon auf 80% schwierigkeit kackt auf mich 😞
+[05:20:01] <%Sendeplan> RocketBeans TV wurde für die Goldene Kamera nominiert 🎥 Jetzt abstimmen: http://vote.goldenekamera.de/
+[05:20:36] <FourTwenty> ja ok, hab aber von nem Kollegen gehört das zur Weihnachtszeit oder bzw. Anfang nächsten Jahres eine neue Generation an CPU/GPUs kommen soll.. also vl mal abwarten wenn du aktuell noch zurechtkommst
+[05:21:05] <cheech> gpu's bezweifle ich
+[05:21:09] <cheech> die neuen sind doch grad raus
+[05:21:20] <Angomerok> ja momentan is noch alles cool. aber graka und ram werden wohl bald überholt sein.
+[05:21:27] <FourTwenty> wobei es wieder Fluch und Segen sein wird... weil halt alles wieder neu brauchst .. Motherboard,Ram etc.
+[05:21:42] <Angomerok> wenn das so ist FourTwenty dann wäre es natürlich super.
+[05:21:43] <FourTwenty> ka cheech, habs auch nur gehört 😉
+[05:21:48] <cheech> die 1070 wird überholt sein? lol
+[05:21:52] <cheech> wohl kaum
+[05:22:07] <FourTwenty> davon hat nie jemand gesprochen cheech
+[05:22:11] <Angomerok> ich hab keine 1070
+[05:22:31] <cheech> egal ich zock weiter
+[05:22:44] <FourTwenty> aber wir kennen nvidia, die bringen nun mal alle Jahre ihre neuen Generationen raus 😜
+[05:22:51] <Ruled TV> Es gibt jetzt Werbung auf dem Chromecast 😮
+[05:23:05] <Angomerok> ich denke bis dahin knn ich noch gut warten mit dem momentanen Setup
+[05:23:49] <Angomerok> hab halt leider nicht mal eben so das geld für ne neue graka. ^^ seit ich so ne crohnische krankheit hab is das mit dem geld nimmer so easy. 😕
+[05:24:01] <FourTwenty> ja dann passts ja 😃 Ram passen bei mir zum glück noch das anzeige was ich dann wirklich mal aufrüsten wollen würde wär mein CPU .. da hab ich noch nen i5 2500 oder so.. der könnt ruhig besser sein ^^
+[05:24:26] <FourTwenty> auweh.. ja das is dann natürlich nicht so tolle 😞
+[05:24:50] <Angomerok> ja aber gibt immer schlimeres. muss halt nur immer was länger sparen.
+[05:25:20] <Angomerok> ich glaub ich hab aufm pc nen i7 irgendwas. hatte damit glück beim kauf wurde wohl nur die graka billig reingemacht 😀
+[05:25:34] <FourTwenty> wo ein Wille ist gibs nen Weg! und wie man weiß führen viele Wege nach Rom! 😜
+[05:25:46] <Angomerok> genau 😀
+[05:26:41] <FourTwenty> ok i7 is schon nett ja . nja mal schauen, wenn wirklich ne neue Generation an CPUs kommt hol ich mir dann günstig nen guten i7 ^^ mit etwas glück muss ich dann nicht mal Motherboard tauschen
+[05:27:38] <Angomerok> ja drücke dir die daumen. bei graka und RAM is das ja noch nicht so schlimm aber beim prozessor muss man meist auch motherboard neu holen. aber glaube das is garnicht so teuer. nur halt umständlich
+[05:28:13] <schwanzus longus> uiuiui 500 zuschauer
+[05:28:24] <FourTwenty> so is es ^^ aber ich mein mal gehört zuhaben das i3 i5 i7 alle den gleichen sockel haben
+[05:28:44] <FourTwenty> die Elite @schwanzus longus 😜
+[05:28:45] <schwanzus longus> falsch gelesen
+[05:28:55] <schwanzus longus> bzw gehört
+[05:29:02] <Angomerok> kenne mich da leider absolut null aus aber google oder berater deines vertrauens hilft bestimmt
+[05:29:21] <FourTwenty> riiiichtisch 😀
+[05:29:27] <+Adorondir> Also wenn du das Motherboard und den Ram nicht tauschen willst, dann würd ich mir auch keine neue Graka holen... Oder so nen Fön von ATI... :D
+[05:29:29] <Angomerok> 😀
+[05:30:52] <FourTwenty> hey, mein Motherboard is zwar nicht das neueste aber nen ASUS P8P67 Rev 3.1 ! das hält locker noch n paar Jahre und reicht auch für meine neue Graka ^^
+[05:31:06] <schwanzus longus> dann weiß die elite bestimmt warum rbtv immernoch mit 20 jahrer alter technik streamt
+[05:31:14] <schwanzus longus> -r
+[05:31:35] <FourTwenty> weil du ihnen kein Geld gibst um neues zu kaufen ? 😜
+[05:31:55] <Angomerok> woher weißt du welches equip die haben? ^^
+[05:32:52] <777chriss0r> Hey Loide,
+[05:33:05] <FourTwenty> stimmt auch wieder, SPION! ^^ wobei RBTV auch keine Ahnung wie viele Aufnahmeorte hat.. da kann halt nicht überall das Highend Zeug stehen.. woher auch das Geld dafür nehmen ?
+[05:33:08] <Angomerok> hi
+[05:33:20] <FourTwenty> 🙋 777chriss0r
+[05:33:26] <777chriss0r> =}
+[05:33:48] <Angomerok> ich glaube nun gehen wir nochmal alle auf klo und reiten dann weiter.
+[05:33:56] <Einfach Ich> juhuuu
+[05:34:02] <777chriss0r> Also jetzt auch Sonic the Headshot als VR spielbar neisentein
+[05:34:02] <FourTwenty> schneeeller, schneeeeeller 😏
+[05:34:23] <Angomerok> lol ich find das sieht eher aus wie Babsi
+[05:35:12] <777chriss0r> Babsi ist die aus dem Looney Toon universum=?
+[05:35:16] <schwanzus longus> nun 50hz 25fps führt halt zu kopfschmerzen
+[05:35:38] <schwanzus longus> viewer problem solved.
+[05:36:29] <Angomerok> @777chriss0r Ne das war mal nen SPiel auf dem Sega Mega Drive bzw. ne Reihe an SPielen. Ich glaub nur dat es anders geschrieben wird.
+[05:36:54] <777chriss0r> ach soooooooooooooooooooooooooooooooooo
+[05:38:05] <Angomerok> war auch son eichhörnchen gewesen. ich such grad schon im netz danach aber finde nix. aber ich bin mir sicher das war irgendwas mit Babsi oder Babsy oder so
+[05:38:09] <schwanzus longus> oder warum sie den chat aufzeichnen lassen frage ich mich auch bzw ganze server gibt mit domains die nur für rbtv chat logs sind
+[05:39:04] <FourTwenty> kannst ja mal nen Thread im Forum eröffnen. Glaub da werden Sie eher geholfen als hier 😉
+[05:39:08] <Angomerok> ich hätte da noch nen Aluhut abzugeben.
+[05:39:19] <FourTwenty> 😀
+[05:39:33] <FourTwenty> her damit, ich brauch die für schlechte Zeiten! 🌝
+[05:40:20] <Angomerok> ich würde ihn dir sofort geben aber glaube longus braucht ihn dringender. wenn das ok für dich ist ^^
+[05:40:27] <Einfach Ich> @FourTwenty ich hätte auch noch einen
+[05:40:34] <Ruled TV> Der Chat wird nicht von RBTV persönlich aufgezeichhnet.
+[05:40:40] <Ruled TV> Das sind Community-Tools.
+[05:40:44] <Ruled TV> Wie bei Twitch auch.
+[05:40:50] <schwanzus longus> als ob ich mich länger als 5min mit sowas befassen würden wollen könnte
+[05:41:00] <schwanzus longus> dafür ist meine zeit zu schade
+[05:41:08] <DeformerNF> dat sind auch ALLES heuelsusen bei rbtv.. m,ehr als 4 std arbeiten und MIMIMIMI
+[05:41:13] <FourTwenty> ok kein Thema, ich rauch zeitweise eh so viel dass ich nach 30sec schon nicht mehr weiß was ich getan habe.. sollen die nur versuchen meine Gedanken zu lesen 😏
+[05:41:22] <dabbGAMEZ HD> are they Russian
+[05:41:32] <+Adorondir> Den Penis hab ich sowieso schon auf igno... 😂
+[05:41:32] <777chriss0r> jetzt erst mal n Milchreis und danach Kaffee
+[05:42:08] <+Adorondir> Manchmal is hier echt leer für mich... xD
+[05:42:08] <schwanzus longus> auf dauer fragt man sich halt einfach nur warum das 25fps sein müssen und 720p ingame capture footage
+[05:42:18] <FourTwenty> magst ein paar Kekse dazu @777chriss0r ? hätte noch 600g Spekulatius vor mir 😀
+[05:42:20] <schwanzus longus> und das sind die ersten die dann schweigend leaven
+[05:42:39] <777chriss0r> das mit den Keksen habe ich hier schon des öfteren gelesen
+[05:42:57] <+Adorondir> Kekse sind gut, genau wie Kuchen.
+[05:43:04] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln/
+[05:43:07] <FourTwenty> waaas, wenn hier einer Kekse verteilt dann bin ich das! 😲
+[05:43:22] <Einfach Ich> @FourTwenty halten die noch 😛
+[05:43:25] <+Adorondir> Das glaube ich nicht Tim. ^^
+[05:43:25] <schwanzus longus> auf der anderen seite holen sich dann twitch streamer für ihre ps4 pro ne 4k capture card für 1300 €
+[05:43:31] <schwanzus longus> obwohlsie nicht mal 150 viewer haben XD
+[05:44:16] <+Adorondir> Wenn hier einer Kekse verteilt, dann is das Der Kuchenkasper aka Gesichtskuchen. 😀
+[05:44:24] <777chriss0r> ohhh uhh uh uh uh das Spiel kenne ich black ops is das
+[05:44:30] <Angomerok> ja ich wollte auch grade aus machen weil die fps machen mich echt wuschig. bin aber trotzdem mal geblieben.
+[05:44:40] <FourTwenty> sry schwanzus longus ? ich glaub dein Sichtfeld auf die Welt scheint etwas eingeengt zu seien .... is doch wohl nen grober Unterschied ob ich mir das Ding von Mutti finanzieren lasse oder ob ..
+[05:44:56] <Einfach Ich> @Adorondir genau 😁
+[05:45:04] <FourTwenty> ein Unternehmen mit 80 Mitarbeiten dafür mehr oder weniger selbstaufkommen muss .. neben 1000 anderen Kosten ... 😉
+[05:45:35] <FourTwenty> manche Leuten glauben wohl auch das Geld wächst draußen im Garten 😏
+[05:45:36] <schwanzus longus> wie kommst du jetzt auf mutti?
+[05:45:44] <Angomerok> vorallem hat irgendwer bis nun gedacht, dass das bild zu schlecht is zum gucken? 😀
+[05:45:58] <schwanzus longus> ich rede hier von erwachsenen mitte 30 jährigen leuten die ihr hobby zum beruf gemacht haben
+[05:46:15] <schwanzus longus> n aja chat halt
+[05:46:31] <teven Caban> get it on
+[05:46:44] <FourTwenty> is doch egal ob mutti pappi oder ob ich mir die selbst hole und mir einmal was gönne .... RBTV is eine Firma und die müssen die Kosten tragen.. da greift keiner selbst in die Tasche um 1300€ herzugebe
+[05:46:50] <GamesPhilosoph> hobby zum beruf, yay
+[05:46:54] <Angomerok> WIllst du nun den Aluhut Schwanzi oder nicht?
+[05:47:01] <DeformerNF> gutes spiel..man siehst sich ne DOKU an
+[05:47:09] <schwanzus longus> tschüss
+[05:47:21] <FourTwenty> hau rein ^^
+[05:47:29] <Angomerok> oh also nicht?
+[05:47:34] <Angomerok> ciaoi
+[05:47:53] <FourTwenty> is kein Spiel @DeformerNF , nur ne Demo für die VR 😉
+[05:48:09] <schwanzus longus> erstmal 30 min best of hausband mit hannes fickifckischwanzloch reimen hören sonst krieg ich kopfschmerzen
+[05:48:19] <+Adorondir> Meistens bekommen die die Hardware geliehen und müssen sie nach ner Zeit zurück geben. Zumindest bei den Brillen.
+[05:48:33] <Angomerok> wolltest du nicht gehen Schwanzi?
+[05:48:38] <+Adorondir> Aber sie haben ja jetzt die VR Nerds mit im Boot. ^^
+[05:49:06] <FourTwenty> what the ... bist heute mit dem falschen Fuß aufgestanden oder bist du einfach einer der Menschen die nicht aufhören können sich über die zu beschweren ?
+[05:49:13] <Angomerok> VR hätte ich auch so derbe gern. Aber noch zu teuer und zu ungewiss. aber vll nächstes jahr 😃
+[05:49:22] <schwanzus longus> hier spongebob zitat einfügen
+[05:49:34] <Gianna Morreale> hey
+[05:49:38] <GamesPhilosoph> nie early adopter bei neuer technologie sein
+[05:49:45] <+Adorondir> Warte lieber... Die Displays könnten nen ganzen Tacken besser sein.
+[05:49:48] <Gianna Morreale> it is my first live stream
+[05:50:08] <FourTwenty> ich glaub ich muss einen auf Adorondir machen und anfangen die Leute zu ignorieren .. 😀
+[05:50:15] <Angomerok> ja ich warte definitiv noch. muss ja eh vorher PC aufrüsten um das überhaupt nutzen zu können.
+[05:50:28] <GamesPhilosoph> mega killer ap für vr gibt es ja immer noch nicht, selbst der porn soll noch nicht soooo megaberauschend sein
+[05:50:33] <+Adorondir> @FourTwenty Man regt sich deutlich weniger auf. 😂
+[05:50:47] <FourTwenty> genau um das geht es mir gerade Ado ^^
+[05:51:00] <GamesPhilosoph> @Adorondir @FourTwenty Aber holla!
+[05:51:09] <DeformerNF> die ammis waren eh nie auf dem mond
+[05:51:12] <FourTwenty> da sind mir meine nerven zu schade ^^
+[05:51:21] <FourTwenty> 🙋 GamesPhilosoph
+[05:51:36] <DeformerNF> alles FAKE... wer trump wählt hat bestimmt nicht das brain dazu zum mond zu fliegen
+[05:51:38] <Angomerok> ja hast recht games aber porno kann ich nix zu sagen. das gucke ich nicht. 😀 ne im ernst VR Porn hab ich noch nie gesehen aber vll wirds dank Porn mal besser.
+[05:51:59] <schwanzus longus> wenn donald trump
+[05:52:00] <+Adorondir> Bisher fand ich die PSVR von der Auflösung und dem Display ansich am besten, nur da muss man sehr drauf achten, dass die Brille zu 100% mittig sitzt. Das is bei der Vive einfacher.
+[05:52:12] <schwanzus longus> nächstes jahr offiziell seinen job als präsident beginnt
+[05:52:40] <FourTwenty> es gibt schon nen Porn ? ^^ ich kannte nur von damals noch diese Modells die von Angezogen bis Nackt rumstanden ^^
+[05:52:47] <+Adorondir> Allerdings sieht man bei der Vive schon ziemlich deutlich dieses "Fliegengitter" vom Display.
+[05:52:52] <Angomerok> naja ich muss mich zur Zeit noch mit meiner Handy VR Brille begnügen. ^^
+[05:52:55] <schwanzus longus> wird der exakt 70 jahre 7 monate und 7 tage alt sein
+[05:52:58] <schwanzus longus> illuminati confirmed
+[05:53:20] <schwanzus longus> ihr seid wahrscheinlich grad alle am smartphone oder?
+[05:53:29] <Angomerok> negativ
+[05:54:00] <+MechaNicK 4 instance> nope
+[05:54:03] <GamesPhilosoph> Klar gibt es Filmchen, aber die bringen noch nicht den Mega-Mehrwert. Porn war ja bei neuer Technologie immer mit ausschlaggebend für die Durchsetzungskraft.
+[05:54:10] <schwanzus longus> oder 130€ netbook irgendwas low budget mäßiges?
+[05:54:34] <+MechaNicK 4 instance> nope
+[05:54:48] <FourTwenty> nja Stimmt, wart noch ein paar Jahre. glaub die Asiatische-Gesellschaft wird was Sachen VR-Porn angeht stark den Markt übernehmen 😀
+[05:55:03] <Angomerok> bin definitiv gespannt was da noch so draus wird Games. Weil ich insgeheim echt Fanboy von VR bin. ^^
+[05:55:37] <Angomerok> 136€ im Angebot bei Aldi.
+[05:55:45] <+Adorondir> @FourTwenty vermutlich. 😂
+[05:55:54] <FourTwenty> habt ihr schon ne VR ? ich hab die nur mal bei nem Kollegen getestet.. find sowas schon geil.. aber da wart ich lieber noch n Jahr oder so bis die Technik wirklich ihren "Feinschliff" bekommt 😉
+[05:55:57] <%Sendeplan> RocketBeans TV wurde für die Goldene Kamera nominiert 🎥 Jetzt abstimmen: http://vote.goldenekamera.de/
+[05:56:28] <FourTwenty> mal ne andere Frage.. von euch Spielt keine zufällig Die Wischen ? ^^
+[05:56:49] <Angomerok> Nicht mehr ^^
+[05:56:56] <Chillinder Bibabutze> der steven ist ein cooler typ
+[05:57:03] <+Adorondir> Joar, wie gesagt. Ne Vive und ne PSVR. Hab dieses Jahr komplett aufgerüstet, was PC und VR angeht. ^^
+[05:57:16] <MrGermanfreak97> Nun
+[05:57:17] <+Adorondir> Ne @FourTwenty ^^
+[05:57:48] <FourTwenty> mh schade, hab gerade keine Ahnung welches Item ich ausrüsten soll bzg. dps/hp .. nja egal, learning by doing 😃
+[05:57:57] <schwanzus longus> Ruhe in Frieden Julian Assange
+[05:58:25] <schwanzus longus> er hat sich seit 5 wochen nicht mehr ins internet eingeloggt aus london aus
+[05:58:52] <Chillinder Bibabutze> omg er hat internet suizid begangen
+[05:58:55] <+Adorondir> Slamdunk in die Suppe. ^^
+[05:59:37] <schwanzus longus> deswegen wurde auch sein death trigger hash tweet ausgelöst
+[06:00:34] <Angomerok> gibt es diese App womit man ignorieren kann mittlerweile auch für firefox?
+[06:00:46] <schwanzus longus> der aber nicht komplett ist weil genau zu dem zeit punkt diese riesige ddos attacke von küchengeräten statt fand
+[06:00:52] <schwanzus longus> mit 2 terrabyte pro sekunde
+[06:01:03] <Angomerok> ich will es Adoro mal gleich tun. Der Typ is ja krank ^^
+[06:01:32] <Angomerok> Also der Schwanzi
+[06:01:39] <+Adorondir> Ado pls. ^^ Wieso nennen die leute mich immer Adoro... 😖 ^^
+[06:01:56] <Einfach Ich> @MechaNick4instance moin 😃
+[06:02:16] <+Adorondir> Glaub schon @Angomerok aber ich benutz Chrome...
+[06:02:32] <Angomerok> ok in zukunft merke ich mir das ADO 😉
+[06:02:52] <+Adorondir> Firefox wurde mir irgendwann zu verbugt. ^^
+[06:03:11] <+Adorondir> Sehr gut @Angomerok 😀
+[06:03:14] <schwanzus longus> Mir gehts gut danke der nachfrage
+[06:03:15] <Angomerok> ja nen bisken hast recht
+[06:04:01] <Angomerok> Stumm schalten von Schwanzus Longus. Geil das funktioniert 💜
+[06:04:02] <+MechaNicK 4 instance> Angomerok addons.mozilla.org/de/firefox/addon/betterrbtv/
+[06:04:15] <Angomerok> Danke MechaNick habs schon 😃
+[06:04:30] <+MechaNicK 4 instance> huhu Einfach Ich
