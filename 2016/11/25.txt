@@ -8765,3 +8765,1260 @@
 [15:04:22] <Jakob s> Ballern und Granaten
 [15:04:31] <Don Mixote> Die Map wurde von Game Two gebaut 🌝
 [15:04:39] <Fieser Fettsack> hab richtig bock! GO TEAM LIMITED
+[15:04:47] <Melleee> wie ist der befehl das alle die granaten flugbahnen sehen und nicht nur der host?
+[15:04:50] <Captn Maico> @xzarrus y selbst low elo?
+[15:04:55] <Dem Ede seine unverdaute Blutwurst> Wird sich Ben sicherlich alles schnell merken 😀
+[15:05:01] <Fieser Fettsack> google einfach mal
+[15:05:12] <Jakob s> wannn wurde die Map das letzte mal geupdated
+[15:05:16] <Jakob s> ?
+[15:05:17] <+DMC05> mein leiblings zimmer ^^
+[15:05:18] <Seppiro> @melleee sv_grenade_trajectory 1
+[15:05:27] <Fieser Fettsack> vor kurzem @Jakob s
+[15:05:30] <+DMC05> die haben da einfach das kind für immer eingespert
+[15:05:35] <+Zaldarion> @xzarrus echt? ich nciht, hab das nämlich noch nie gehört 😀
+[15:05:51] <+Andi Idna> Gibt's ein Match gegen die Leute von Bonjwa und falls ja, wann? 😀
+[15:05:57] <Darkeminence> Inferno ist schon etwas CT-lastig, oder?
+[15:06:04] <Melleee> @Seppiro hm okay, hatte vorhin nur für mich funktioniert aber naja danke 😃
+[15:06:06] <OMEKBEATS> ex_interp 1 ?
+[15:06:12] <+XAxeX> Andi Idna iwann wenn die mal zeit haben ^^
+[15:06:12] <Shikamarustyler> 2-3 monate her das update
+[15:06:18] <xzarrus> @Captn Maico Ich spiel kein CS:GO mehr (letzter Start war laut Steam am 8.1.2016). Rene sagt immer die Gegner wären low elo und seien so schlecht und er sei ja High Elo und kann sein Team trotzdem >
+[15:06:24] <PlsDontRage> Wie kann man mitspielen ?
+[15:06:32] <Seppiro> @Melleee aso hab nochmal gelesen was genau du meintest naja dann macht halt jeder den befehl 😛
+[15:06:38] <xzarrus> @Captn Maico nicht carrien oder bringt solche Aktionen wo er durch 'ne Smoke mit nem Knife rennt und dann gefragt wird.
+[15:06:43] <+JotunnLoki> das is heute nich live
+[15:06:49] <+Bierhumpen> 😯
+[15:06:50] <Dem Ede seine unverdaute Blutwurst> War eben Mollotoh?
+[15:06:55] <+XAxeX> Andi Idna im grunde hat das Rene geschickt eingefädelt 😀 er hat Honor und Mental immer geärgert bis die iwann meinten ja ok dann fangen wir mit CS auch an xD
+[15:06:57] <Thomas F.> 😂
+[15:07:22] <xzarrus> @Zaldarion Ja er sagt das öfter. Hat auch schon das Wort "Gehirntod" in den Mund genommen. Siehst ja was er macht.
+[15:07:29] <OMEKBEATS> !mvp olli
+[15:07:33] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[15:07:46] <Serus> wie hieß die trainingsmap vo n vorher nochmal?
+[15:07:55] <xzarrus> @Zaldarion bzw. was er eben nicht macht. Nämlich nichts.
+[15:07:58] <+Zaldarion> @xzarrus ne ^^ muss zugeben, ich schau das format nicht an 😀
+[15:08:10] <RololoTheOneAndOnly> warte... das ist doch nicht neu oder???
+[15:08:10] <+Ballerbecks> aim bots train
+[15:08:32] <Captn Maico> @xzarrus er redet halt parallel und die anderen haben die meisten folgen gemacht was sie wollen, er ist nicht der beste spiele aber schon deutlich besser als ben eddy, nils und max
+[15:08:34] <KazumaGER> @RololoTheOneAndOnly nee das ist CS:GO
+[15:08:37] <Dem Ede seine unverdaute Blutwurst> Neu, weil heute nicht Live
+[15:08:38] <Panzafat> 🎅🎅Beards🎅🎅
+[15:08:44] <+DMC05> inferno smoken ist eig voll EZ ^^
+[15:08:58] <xzarrus> @Zaldarion Nichts verpasst. Aber wenn Noobs sich als High Elo Spieler darstellen und nichts gebacken bekommen, werd ich getriggert. Und dafür muss ich CS:GO nichtmal spielen.
+[15:09:02] <RololoTheOneAndOnly> wollt schon sagen, erinner mich doch noch an die ganzen Bananen 🌝
+[15:09:02] <barthezz> los los
+[15:09:10] <Fieser Fettsack> inferno ist DIE smoke map! wer da die smokes drauf hat gewinnt!
+[15:09:14] <OMEKBEATS> Prediction: Sie gewinnen heut jedes Match, i said it first
+[15:09:31] <Panzafat> Membe die ganzen Bananen?
+[15:09:40] <Max Setting> Ballern? Ich baller gerne! 😠
+[15:09:40] <Melloborn> Habt ihr Ahnung?
+[15:09:47] <Dem Ede seine unverdaute Blutwurst> Banane #10
+[15:09:50] <+Zaldarion> @xzarrus mir sagt der begriff elo nich ma was ^^ vll bin ich schon zu alt oder zu unintressiert an competition games ^^
+[15:09:51] <Melloborn> Was mach ich gegen den ct boost über dir smoke?
+[15:09:55] <+Andi Idna> @XAxeX Ich fände ein Match mit Bonjwa&Co richtig spannend. Wäre das Match wirklich sooo unfair?
+[15:09:57] <Homeboy92x> me membe
+[15:09:58] <Melloborn> *die
+[15:10:09] <xzarrus> @Captn Maico Er spielt besser weil er auch Privat CS:GO zockt, Olen glaub ich auch. Die anderen haben höchstens früher zu 1.5/1.6 Zeiten gezockt oder wenn überhaupt mal was von CS gehört.
+[15:10:10] <Invyr> hey chad, ich hör immer mal wieder was von einem wow format. läuft das auf rbtv oder auf bonjwa oder wo?
+[15:10:12] <Gremlinmeister> Red Bull TV geht ab
+[15:10:14] <PlsDontRage> wie kann man mitmachen ?
+[15:10:16] <barthezz> er wollte ballern, hat er gekriegt
+[15:10:18] <+khayjeet> @kazumager heute Abend 5 Biers für Beards 5 <3
+[15:10:20] <Fieser Fettsack> @zaldarion elo ist sowas wie dein rang im vergleich zu anderen. hoher elo wert heist du bist gut
+[15:10:20] <DKFKoi> run and gun!
+[15:10:25] <Seppiro> @xzarrus Rene hat auch mal gemeint "du brauchst in der ersten Runde kein Kevlar zu kaufen in der Elo schießen sie dir halt immer in Kopf und dann ist das verschwendetes geld :D"
+[15:10:29] <SirTheSir> ben hat noch ingame mucke an...
+[15:10:41] <+XAxeX> HAHA 😀 Donnie inc
+[15:10:46] <+DMC05> anzeige ist raus rene xD
+[15:10:48] <du depp> Die sendung wird immer besser 👍
+[15:10:52] <Michael K> Um 16 uhr ist preshow oder?
+[15:10:58] <moepmoep12> hat rene etwa einen bann?
+[15:10:59] <+Zaldarion> @Fieser Fettsack achsooo OO eine rang tabelle als schwanzvergleich 😀 ich versteht 👍 .. danke 😃
+[15:11:03] <Panzafat> Senpai 4 Team Limited!
+[15:11:04] <+JotunnLoki> 16:30
+[15:11:04] <GarbanzoBean> @Michael K: 16:30
+[15:11:10] <Dem Ede seine unverdaute Blutwurst> ► (16😸0): Pen & Paper | B.E.A.R.D.S. PRE-SHOW (PREMIERE)
+[15:11:14] <Änni> 16:30
+[15:11:14] <Gumma Power> 2 mal gelb = rip !
+[15:11:14] <DestroyerTYP> 16:30 glaub ich @michael k
+[15:11:19] <+Helmut Hummer> 😂
+[15:11:23] <Queytia> @Invyr bei Bonjwa auf twitch läuft ein WOW Format, die haben auch einen Streamingplan
+[15:11:27] <Gumma Power> oh das orange 😀
+[15:11:27] <+JotunnLoki> gegen Bots 😀
+[15:11:29] <Melloborn> Also hat keiner Ahnung was man gegen den boost macht?
+[15:11:30] <JunjorLP> is die preshow das wo sie die bögen nochmal durch gehen ?
+[15:11:31] <+Zaldarion> @Invyr bei bonjwa gibs nen wow format mit niklas hauke und jens
+[15:11:33] <Ben W> geil ... um 10 schon cs zocken
+[15:11:33] <+chusak> um 10 nur harzer und russen 😀
+[15:11:35] <+Bierhumpen> Schulschwänzer
+[15:11:38] <+XAxeX> Michael K 16:30 jop ^^ danach direkt verflixxte klixx 😀 und dann 20:15 GameTwo 💜 und danach BEARDS heute MEGA-Premium-RBTV-Tag 😀
+[15:11:39] <xzarrus> @Zaldarion Elo = Rank. Du zockst nunmal sehr viele Co-Op Games. Da gibts sowas nicht 😀
+[15:11:53] <OMEKBEATS> Gewinnen sie das erste Match? !cs Ja oder !cs Nein
+[15:12:00] <Esteban Oohh> warum nicht mehr live?
+[15:12:02] <Fieser Fettsack> @zaldarion ne eher ein skill vergleich. wenn du auf nem hohen rang/elo bist oder spielst dann spielst du gegen leute die auch gut sind. so spielen profis gegen profis und anfänger gegen anfänger
+[15:12:06] <+Zaldarion> @xzarrus eben 🐯 und selbst da bin ich besser 😚 🐯
+[15:12:08] <Invyr> @Queytia @Zaldarion danke ihr beiden
+[15:12:14] <Max Setting> Wer heute kein RBTV guckt, hat die Kontrolle über sein leben verloren.
+[15:12:16] <+Alex> cz nice
+[15:12:17] <+khayjeet> Team Safe Call > Team Limited :p
+[15:12:20] <Rahjhh5> nur heute wegen beards
+[15:12:21] <Fieser Fettsack> Bei wie oft "Banane" sind wir?
+[15:12:24] <Änni> Esteban Oohh heute ausnahmsweise wegen pen & Paper
+[15:12:24] <Gumma Power> flo braucht keine 57 !
+[15:12:30] <Haabiii> @Esteban Oohh ging heute aufgrund von P&P nicht zur regulären Zeit
+[15:12:31] <Esteban Oohh> achso OK
+[15:12:31] <xzarrus> @Zaldarion Als wer ? 🌝
+[15:12:37] <+Zaldarion> @Fieser Fettsack sone art türsteher, find ich nich schlecht
+[15:12:41] <SirTheSir> flozen hat an
+[15:12:43] <SirTheSir> xD
+[15:12:45] <Avayo Music> nur 24 xD
+[15:12:46] <Dem Ede seine unverdaute Blutwurst> Flo verkauft sich
+[15:12:48] <Esteban Oohh> dann ist ja gut:)
+[15:12:51] <+Zaldarion> @xzarrus mein coop mitspieler 😀 kennsten ja schon 😀
+[15:12:57] <Thomas F.> Flozen wird heute drücken wie ein Gott
+[15:12:58] <+Zaldarion> @Invyr gern doch 😃
+[15:13:03] <Avayo Music> Deagle beste 💜
+[15:13:20] <+DMC05> EDE ^^
+[15:13:20] <HidekoYamamoto94> @Esteban Oohh weil Pen & Paper heute ansteht bei auch die Pre-Show voraufgezeichnet ausgestrahlt wird denke mal das wurde heute Mittag gemacht
+[15:13:32] <OMEKBEATS> ede im quakemodus
+[15:13:49] <Fieser Fettsack> wie häufig haben die schon banane gesagtr?
+[15:13:52] <wusch0r> ist eddys maus geschmiert worden?
+[15:13:53] <xzarrus> @Zaldarion Da hat dein Partner aber nochmal Glück gehabt 👬
+[15:13:59] <Ben W> ede mit quakemovement
+[15:14:01] <+Bierhumpen> ede 😀
+[15:14:03] <xzarrus> Ede = Kanonenfutter 🌝
+[15:14:05] <petrik coffy> Ich hätt gern Hauke heute abend wieder hacke
+[15:14:07] <LeonardoDaAngelo> rushians 🌝
+[15:14:13] <+Zaldarion> @xzarrus zurecht 😚
+[15:14:14] <Michael K> Kevlar first round so useless gute spieler aimen auf head und dippen mit usp-s oder p2000 ist easy genauso mit der glock ez spray auf head höhe
+[15:14:17] <Fieser Fettsack> Russian Bee
+[15:14:29] <Esteban Oohh> für p&p nehmen ich das gerne in Kauf ☺
+[15:14:36] <Fieser Fettsack> LOS GEHTS
+[15:14:40] <+RNE> mit 136 ping hab ich damals UT gespielt, war toll 😄
+[15:14:41] <m0rgulTube> pen&paper pre-show startet um 16: 30
+[15:14:43] <Thomas F.> Hype
+[15:14:54] <Seppiro> @Michael K dein ernst?
+[15:14:56] <+XAxeX> Esteban Oohh heute ist eh wiedermal ein Epischer-MEGA-Freitag 😀
+[15:15:05] <ch ris> ist rene der anführer oder was
+[15:15:07] <Max Setting> @RNE ISDN/Modem Zeit? 😀
+[15:15:16] <splex0007> so jetzt da die aufwärm runde vorbei ist Flo du kannst die ausrüstung in der aufwärm runde noch ändern ^^
+[15:15:17] <xzarrus> Diese "Etienne und Ben gehen vor" Tank Taktik ist auch so für'n Arsch.
+[15:15:17] <glueckskind> kontakt 🙈
+[15:15:17] <erbinzky> kantakt cyka blyat
+[15:15:18] <+RNE> jo, gute alte 56k modem 😀
+[15:15:20] <Esteban Oohh> ohja sehr geil😀
+[15:15:22] <petrik coffy> Der epischste Freitag in der Geschichte des Internetfernsehens
+[15:15:26] <+DMC05> ede
+[15:15:26] <shrpdrts> x)
+[15:15:27] <SirTheSir> donnie hat wärend der arbeit wohl bischen go gezockt auf rene´s rechner
+[15:15:28] <+DMC05> xDDD
+[15:15:29] <HidekoYamamoto94> aber ich freu mich auf einen laaaaaaaangen RBTV Abend mit P&P PreShow, Verflixxte Klixx, World of Wolfram, Inside PS, News, Headlinez, Game Two und P&P BEARDS 💜 💜 💜 💜
+[15:15:43] <Scrapy CSGO> flo wieder am drücken
+[15:15:45] <Dem Ede seine unverdaute Blutwurst> Banane #12
+[15:15:51] <%sLuG> Mahlzeit
+[15:15:51] <+XAxeX> nice
+[15:15:52] <+DMC05> EZ
+[15:15:52] <Fieser Fettsack> F
+[15:15:57] <Thomas F.> Ez Runde
+[15:15:57] <Max Setting> @RNE Die Einwahlgeräusche höre ich immer zum Einschlafen 🌝 💜
+[15:15:59] <xzarrus> Nun verlieren sie gegen ne Eco 🌝
+[15:16:00] <Änni> nice
+[15:16:02] <HidekoYamamoto94> Hi @sLuG
+[15:16:02] <+DMC05> ich sag ja inferno liegt den mehr ^^
+[15:16:03] <+Bohnen Freind> heute is rbtv orgasmus tag
+[15:16:04] <petrik coffy> Moin Moin sLug
+[15:16:14] <petrik coffy> G. muss alles seine richtigkeit haben.
+[15:16:25] <%sLuG> hey HidekoYamamoto94 und petrik coffy 😃
+[15:16:27] <Bausparbartels> kann es sein das es die mp5 nicht mehr gibt?
+[15:16:30] <OMEKBEATS> olli? warum heute lefthand?
+[15:16:34] <Allen> die smoke ist so dumm
+[15:16:38] <%sLuG> coorect. mp5 gibbet nimmer
+[15:16:40] <xzarrus> Warum smoked man da die Banane wenn der Gegner in ner Eco ist?
+[15:16:43] <Fieser Fettsack> zählt ollis smoke als "jemand versmoked sich" ?
+[15:16:47] <Michael K> @seppiro gute spieler aimen auf head und dort ist kevlar first round useless, spiele persönlich aber schon lange kein mm mehr wegen den cheatern, bin aber esea rws 16 rank s player und war global.
+[15:16:48] <wusch0r> lol
+[15:16:49] <%sLuG> heute gibts MP7 und MP9
+[15:16:49] <+Bierhumpen> 😀
+[15:16:50] <Avayo Music> lol
+[15:16:51] <+DMC05> rene ?
+[15:16:51] <+Zaldarion> @sLuG 😯 // 😶
+[15:16:52] <Fieser Fettsack> BINGO
+[15:16:53] <+DMC05> wtf ^^
+[15:16:56] <Ben W> bens fadenkreuz is aber auch kacke
+[15:16:59] <SacRedSurf> BOTs
+[15:16:59] <Änni> xD
+[15:17:00] <%sLuG> moin Zaldarion
+[15:17:12] <+Helmut Hummer> f
+[15:17:13] <Dem Ede seine unverdaute Blutwurst> Teamkill 😀
+[15:17:20] <SirTheSir> tk ftw
+[15:17:26] <Ben W> lol ede ... herrlich
+[15:17:35] <Seppiro> @Michael K naja dann haben die ganzen Pros wohl nich so viel Ahnung vom Spiel denn die kaufen trozdem überwiegend kevlar erste runde 😛
+[15:17:52] <KamikazeJoe> Alter. Der brauch ne Minute zum einkaufen -.-
+[15:17:57] <SirTheSir> ede wie immer speed buyer deluxe
+[15:18:01] <du depp> Ede braucht oft zu lang am anfang
+[15:18:13] <+bananeBANANE> Ede hat kein Prime 🌝
+[15:18:18] <Thomas F.> Immer schön auf den Boden zielen, Ede.
+[15:18:32] <xzarrus> Ben hat so 1 gutes Aiming.
+[15:18:35] <Dem Ede seine unverdaute Blutwurst> f
+[15:18:36] <Phos> spielt ede mit controller `?
+[15:18:36] <%sLuG> gg ben
+[15:18:37] <SacRedSurf> Ist das Silver?
+[15:18:39] <Surrender182> BEN OMG
+[15:18:39] <Frederick Schubert> f
+[15:18:41] <+Lightmare> f ben
+[15:18:42] <HunterMK22> warum beschwert ihr euch? Meine mutter braucht meist eine Stunde zum Einkaufen
+[15:18:42] <%sLuG> ja silver
+[15:18:43] <ruf sascha> hi
+[15:18:45] <SirTheSir> nee mit lenkrad
+[15:18:46] <Fieser Fettsack> F
+[15:18:46] <+Ballerbecks> f ben
+[15:18:47] <SuperStirling> Sind das Bots oder echte Gegner?
+[15:18:50] <+DMC05> und dabei sieht ben nix ^^
+[15:18:50] <El hackerman> was hat dieser ben für 1 aim
+[15:18:51] <ibert> 😀 😀
+[15:18:51] <Dem Ede seine unverdaute Blutwurst> Ben verlauft sich
+[15:18:56] <Maximilian Beseler> EDDYYYYYY, lol
+[15:18:58] <Christian H> ben ist der shit
+[15:19:00] <ruf sascha> das wird heute ein geiler tag beards uns game two
+[15:19:06] <MD aus HH> tut mir leid, ich blocke nie wieder!
+[15:19:15] <+JotunnLoki> irgendwelche russen oder kasachen @SuperStirling ^^
+[15:19:16] <KamikazeJoe> Prime iss total unnötig. Genauso mit Cheatern verseucht wie die normalen Matches.
+[15:19:17] <OMEKBEATS> @HunterMK22, was für waffen kauft deine mutter so?
+[15:19:22] <Surrender182> #TeamBen
+[15:19:23] <+Kovsk> Ben und Flo aim ist wirklich gut, wenn die 20-30 Stunden die Woche zocken würden könnte die in 3-4 Monaten auf GE kommen
+[15:19:33] <FourTwenty> bald gehts los! 💜
+[15:19:43] <SuperStirling> @JotunnLoki Unsere Jungs haben ja ein paar Probleme, aber die können das 0 ausnutzen^^
+[15:19:44] <SacRedSurf> Ist BEARDS heute kürzer?
+[15:19:51] <Dem Ede seine unverdaute Blutwurst> f
+[15:19:52] <KamikazeJoe> Flo macht alles alleine.
+[15:19:53] <petrik coffy> hauke sagte nein
+[15:19:53] <Ben W> ben: beim dings ist einer ...
+[15:19:59] <+JotunnLoki> jo läuft ^^
+[15:20:06] <SuperStirling> @SacRedSurf open end
+[15:20:08] <Thomas F.> F Lo lernt Cs echt schnell!
+[15:20:09] <HunterMK22> @OMEKBEATS: Bierflaschen, Baguettes und Kastenweißbrot. Manchmal auch Haxen MIT Knochen 😲
+[15:20:14] <Necrospower> Game two heute `?
+[15:20:23] <Änni> ja
+[15:20:24] <Dem Ede seine unverdaute Blutwurst> ja @n
+[15:20:25] <KamikazeJoe> Bombe on Spot und die kriechen noch durch die Häuser.
+[15:20:26] <SuperStirling> !sendeplan
+[15:20:27] <+JotunnLoki> ja 20:15
+[15:20:27] <%Sendeplan> @SuperStirling: Den aktuellen Sendeplan findest du hier: https://www.rocketbeans.tv/wochenplan/
+[15:20:30] <TemplateR> Flo spielt schon seit 1.6 CS 😉
+[15:20:31] <TekkerTrancer> jup
+[15:20:33] <OMEKBEATS> @HunterMK22, 💜
+[15:20:43] <SuperStirling> für euch 💠
+[15:20:43] <Roland Z> plötzlich ruhig 😛
+[15:20:45] <Le Revenant> Das Donnie Paradigma
+[15:20:48] <+Zardiack> BEARDS Startet nach Game Two
+[15:20:54] <Spektugalo> Ist das leichte Statikbrummen mein Heasdset oder ist das der Stream?
+[15:20:59] <Max Setting> Donnie is' ja irre
+[15:20:59] <Max Setting> *Ire
+[15:21:00] <moepmoep12> Global Elite sucht Mitspieler steam: dennis07931
+[15:21:00] <+Zardiack> 16:30 Pre-Show^^
+[15:21:03] <Ben W> was macht denn ede ...
+[15:21:07] <Bierschelle> Alter Ede...
+[15:21:08] <Fieser Fettsack> eddy macht quatsch
+[15:21:09] <UEBERSICHT> schlechtes Aiming etc. ist erwartbar, aber gott ist die kommunikation schlechte+
+[15:21:13] <HunterMK22> ich hab den ersten Teil Beards noch nichtmal gegeuckt xD
+[15:21:14] <KamikazeJoe> @TemplateR und genau das sieht man sofort im vergleich zu den anderen.
+[15:21:22] <Homeboy92x> Flo!
+[15:21:25] <Gnösel Mösel> Hauptsache Florin salam als Profilbild...
+[15:21:27] <SuperStirling> Ich liebe Ben 💜
+[15:21:29] <Marius N.> Flo holt wieder die wichtigen entries
+[15:21:35] <Ionatic> wieso war eddy allein unterwegs?
+[15:21:35] <Dem Ede seine unverdaute Blutwurst> Banane #13
+[15:21:36] <Ben W> ede hört einfach nicht auf das team...
+[15:21:37] <Nakrebo> hahah Ede
+[15:21:40] <forearth> Sind süße Bois zum chatten hier? 🙋
+[15:21:41] <KamikazeJoe> @HunterMK22 noch hast du zeit. 😉
+[15:21:41] <Thomas F.> Ben ist der geilste TL Spieler 😀
+[15:21:41] <+sturm111> 😀
+[15:21:43] <Ben W> vorallem mit bombe alleine
+[15:21:54] <J. Jay> Wann ist Pen & Paper heute abend?
+[15:21:55] <xzarrus> @forearth Na klar 🙋
+[15:21:58] <Phos> floben beste
+[15:21:59] <Bierschelle> forearth wtf xD
+[15:22:00] <OMEKBEATS> @forearth, ne
+[15:22:01] <%sLuG> forearth hier gibts NUR süße Boys 🌝
+[15:22:04] <TemplateR> @KamikazeJoe: Weiss aber nicht, ob er nur CS 1.6 oder auch die anderen CS-Teile mal gespielt hat
+[15:22:08] <HunterMK22> meinst das schaff ich bis 20:15Uhr?
+[15:22:12] <KamikazeJoe> hahahaha. flo geht einfach durch xD
+[15:22:13] <Änni> motolo 😀
+[15:22:16] <+JotunnLoki> schön mit Molli flashen
+[15:22:18] <Änni> *moloto
+[15:22:19] <ItsRawMelissa> pen and paper 21 uhr direkt nach game two
+[15:22:26] <Fieser Fettsack> Geiles match bisher!
+[15:22:28] <xzarrus> @forearth Der Kerl auf dem Avatar bin übrigens ich. Gefalle ich Dir ? 👬
+[15:22:29] <E.T.A.> komm schon ace
+[15:22:31] <Pommé Shakba> Ich bin Banana, immer wieder gut! 😀
+[15:22:34] <Fieser Fettsack> die spielen echt gut heute (gestern)
+[15:22:39] <Marius N.> gogo ace
+[15:22:39] <Thomas F.> 15/3 alter 😀
+[15:22:39] <SirTheSir> der gute alte moloto
+[15:22:41] <glueckskind> flo hat doch trainiert
+[15:22:47] <MG Smooth> flo geht gut ab
+[15:22:49] <Marius N.> Flo MVP
+[15:22:49] <+bananeBANANE> 🌝 //
+[15:22:49] <Ionatic> flo 15 kills ey
+[15:22:50] <Execuse> Flo geht ja ab 😀
+[15:22:53] <Seppiro> flo flo
+[15:22:54] <Joseph Stout> FLO ON FIRE
+[15:22:54] <lukimausii> die ranks xD
+[15:22:56] <+RNE> flo der russenschlächter 😀
+[15:22:58] <LordAgamon> heute ist schon richtig
+[15:22:58] <OMEKBEATS> !mvp flo
+[15:23:03] <ch ris> flo dreht durch
+[15:23:03] <ibert> flo is einfach zu gut für team limited 😯
+[15:23:03] <Necrospower> hahahha Ede
+[15:23:05] <KamikazeJoe> @TemplateR sicherlich auch . aber nicht so oft. aber die anderen im team spielen einfach dem rang entsprechend. -.-
+[15:23:07] <AgaliAMC> flo hat ordentlich triniert
+[15:23:09] <%sLuG> Die Boys MÜSSEN auch trainieren 😀 sonst gibts ne Klatsche von Bonjwa 😀
+[15:23:14] <Dem Ede seine unverdaute Blutwurst> Banane #14 + #15
+[15:23:17] <Michael K> @seppiro welcher pro in faceit oder esl/esea finals hat first round kevlar gekauft? Sehe dort meistens p250/glock nade buy auf t / bzw als ct nades oder 5.7 rush
+[15:23:27] <Colovian> Können die einfach Flo und olen klonen für beef gegen Bonjwa ?
+[15:23:37] <forearth> @xzarrus mom *sch gucke
+[15:23:42] <Ionatic> starker go mit den smokes
+[15:23:43] <wusch0r> die spielen doch ggn bots:D
+[15:23:44] <Thomas F.> Richtig geil wie das funzt solangsam Leute.
+[15:23:49] <Marius N.> wow, guter go
+[15:23:50] <Fieser Fettsack> haha von dem dummen russen xD
+[15:23:50] <SuperStirling> Eddy 😂
+[15:23:51] <MD aus HH> von dem dummen russen maxim da xD
+[15:23:51] <Frederick Schubert> nice runde
+[15:23:52] <glueckskind> Weil die Pros sowieso nur Headshots verteieln
+[15:23:53] <Epic Muffin> ich sehe ede is mal wieder in top form
+[15:23:53] <Bausparbartels> dieser dumme russe
+[15:23:54] <Dem Ede seine unverdaute Blutwurst> rekt Ede 😀
+[15:23:55] <SirTheSir> ede geht ab
+[15:23:58] <OMEKBEATS> RAGE EDDY
+[15:24:00] <glueckskind> *verteilen
+[15:24:00] <forearth> Ich suche nach Bois nicht nach dem Halbgott der Videospielgeschichte! duh.. @xzarrus
+[15:24:01] <+Bierhumpen> geil wie sich ede fürs team opfert
+[15:24:04] <Phos> ./votekick ede
+[15:24:06] <+Fabrice X.> morgens um 9 spielen auch nur 8 jährige die nicht in die schule müssen
+[15:24:08] <petrik coffy> Schön wie der Lappen im Molly schlabbert.
+[15:24:10] <+DMC05> oli hat die ruhe weg ^^ xD
+[15:24:12] <+bananeBANANE> f1
+[15:24:13] <TemplateR> @KamikazeJoe würde mich freuen, wenn der richtiger Donnie mal da mitmischt :)
+[15:24:15] <derbudz> Ich mach jetzt Bratkartoffeln. Hat jemand nen Tipp für die Stärke der Kartoffeln? 2mm, 3mm, 5mm, oder doch lieber 1mm?
+[15:24:18] <Deniz Gueltekin> ede rassist
+[15:24:24] <xzarrus> @forearth Aber wenn der Bart ab ist, seh ich doch aus wie 1 boi 😢
+[15:24:24] <KamikazeJoe> ./votekick Ede xD
+[15:24:25] <SirTheSir> ede ist einfach nen teamplayer
+[15:24:32] <Digga Alda> die bonjwajungs sind nicht besser, ganz im gegenteil 😀
+[15:24:42] <SuperStirling> Stimmt es, dass Renes Donnie acc ein smurf acc ist und sie deswegen gegen "schlechte" Gegner spielen?
+[15:24:42] <+JotunnLoki> gg 💜
+[15:24:43] <KamikazeJoe> @TemplateR ich glaube der würde die gegner tot sabbeln 😛
+[15:24:46] <Kirisute Gomen> !mvp Flo
+[15:24:49] <XenoN> haha
+[15:24:52] <Phos> n1 flo
+[15:24:52] <Änni> F lo
+[15:24:53] <+JotunnLoki> nice hack man xD
+[15:24:54] <Fieser Fettsack> los leute! 16 runden rush B
+[15:25:02] <OMEKBEATS> richtig nice, wie gut die harmonieren
+[15:25:05] <EonHSD> Flo beast mode
+[15:25:05] <Dem Ede seine unverdaute Blutwurst> Banane #16
+[15:25:06] <Same> Läuft heut
+[15:25:08] <glueckskind> Naja die Gegner gerade sind auch ziemlich schlecht. Aps einfach so an die Ts überlassen ist ungewöhnlich..
+[15:25:10] <wusch0r> ede hochkonzentriert
+[15:25:10] <lukimausii> donnie spielt seit 15 jahren cs, kla ist das ein smurf
+[15:25:11] <Thomas F.> Ja, sau geil wie das läuft!
+[15:25:21] <+Bierhumpen> 😀
+[15:25:21] <%sLuG> Nice Hack with Onions and pepper on bread 🌝
+[15:25:23] <derbudz> Würde mich nicht überraschen @SuperStirling
+[15:25:23] <figo210496> i´m a hackman bi baba badabo.... 🌝
+[15:25:25] <+Andro> 😀
+[15:25:25] <+RNE> ede ist pazifist
+[15:25:25] <Frederick Schubert> so macht das zugucken doch spaß 💜
+[15:25:26] <+minime> Bübchen 😞
+[15:25:31] <petrik coffy> Wo ist Andy strauss wenn man ihn braucht?
+[15:25:32] <xzarrus> @SuperStirling Es ist ein Smurf damit sie gegen schlechte Spieler spielen. Sein Main Account ist ja laut Rene "ein High Elo Account" 😂 (Irgendwas mit Doppel AK ist er da glaube ich) 😂
+[15:25:34] <+Helmut Hummer> alles wie immer Ede 🌝
+[15:25:35] <Seppiro> @Michael K such dir mal als bsp. das Spiel NiP vs. SK [Cbble] Map 3 von den Oaklands finals an da haben alle von beiden teams außer einer Kevlar gekauft erste runde
+[15:25:36] <+JotunnLoki> hhmmmm legga @slug^^
+[15:25:43] <Darkeminence> dafür hat ede aber überlebt 😀
+[15:25:45] <Änni> welch überraschung 🌝
+[15:25:46] <Dem Ede seine unverdaute Blutwurst> RIP in Frieden Ede 😞
+[15:25:48] <KamikazeJoe> @RNE gibt sogar eine errungenschaft dafür 😀
+[15:25:48] <El hackerman> hackerman hacks them back in time
+[15:25:50] <ibert> wieso wird donnie eigentlich nicht der coach? 😀
+[15:25:50] <Michael K> @glueckskind ich weiß nur meinte er pros spielen kevlar first round was nicht stimmt weil niemand auf bodyshots geht, bin selber s rank esea spieler und sehe dort nie kevlar
+[15:25:52] <SirTheSir> bübchen hat bisher nicht zuviel versprochen
+[15:25:52] <Bierschelle> Bübchen in Bestform!
+[15:25:53] <SuperStirling> @xzarrus Hmm okay^^
+[15:25:53] <du depp> Die map!!
+[15:25:54] <Eobs Fizzl> nils rumgeschreie fehlt mir
+[15:26:03] <+bananeBANANE> cu on lan
+[15:26:05] <%sLuG> echt? @Eobs Fizzl 😀
+[15:26:05] <ch ris> leider hat keiner ede als cheater bezeichnet^^
+[15:26:18] <derbudz> Doppel AK = High elo?
+[15:26:19] <bitmud> KONTAKT
+[15:26:19] <UEBERSICHT> normal kauft man meist kevlar in der pistol
+[15:26:19] <derbudz> wtf?
+[15:26:22] <Quantum> wurde grade eben auch als hacker bezeichnet
+[15:26:27] <+Karsten Knastfuß> Wer Team Limited als Cheater bezeichnet sollte das Spiel wechseln 😀
+[15:26:34] <SacRedSurf> Doppel AK = Low ELO
+[15:26:34] <+RNE> "Ede cheated! so schlecht wie der schießt muss das ein schlecht kalibrierter aimbot sein!"
+[15:26:38] <Änni> 😀
+[15:26:38] <bitmud> Lol
+[15:26:40] <SirTheSir> ben ist undercover
+[15:26:41] <Dem Ede seine unverdaute Blutwurst> Wer hat die Bombe Bingo
+[15:26:42] <forearth> wie ein vernarbter Meuchelboi, ja 😃 @xzarrus
+[15:26:43] <wusch0r> eddy first kill!
+[15:26:44] <%sLuG> @UEBERSICHT kevlar ohne Helm? 😀 is doch geldverschwendung
+[15:26:51] <Same> 7-1 Never forget
+[15:26:57] <xzarrus> Sie spielen halt gegen Russen. Die sind in jedem Spiel schlecht. Vodka, vodka !
+[15:26:58] <UEBERSICHT> nein
+[15:27:04] <Ben W> lol @ RNE
+[15:27:08] <Thomas F.> Ben: "ich geh hinten rum" 😀
+[15:27:09] <SacRedSurf> @sLuG kevlar ohne Helm macht man gegen AKs
+[15:27:09] <Dem Ede seine unverdaute Blutwurst> f flo
+[15:27:10] <SuperStirling> Eddy hast das Privileg, nie als Cheater bezeichnet zu werden 😀
+[15:27:12] <TemplateR> Donnie for TL xD
+[15:27:13] <Fieser Fettsack> Flo 19 frags xD
+[15:27:17] <Quantum> messern bringt mehr geld
+[15:27:18] <Änni> lol
+[15:27:25] <Fieser Fettsack> 19:3 flo xD
+[15:27:36] <+JotunnLoki> Serious Bübchen ftw
+[15:27:39] <Digga Alda> bei 16k ist das egal 😀
+[15:27:39] <SamThird> Flo ist aber hard greedy heute
+[15:27:44] <xzarrus> @forearth Nicht deine Kragenweite ? 👬
+[15:27:46] <MG Smooth> brauchen die zu dem zeitpunkt nicht @Quantum
+[15:27:57] <%sLuG> sacredsurf AKs = DoppelAKrang - oder meinste eine späte Eco gegen gegner die AKs kaufen können?
+[15:27:58] <+JotunnLoki> is schon einer raus ^^
+[15:27:59] <KamikazeJoe> wann wohl der nächste gegner das spiel verlässt
+[15:28:04] <forearth> Ne, der is ja männlicher als ich! @xz
+[15:28:05] <+chusak> alter ich bin blind und geflashed bin ich auch 🌝
+[15:28:05] <derbudz> Ich hab CS zum letzten mal zu 1.6 zeiten gespielt. Das sieht aus wie CoD für mich
+[15:28:07] <Homeboy92x> ede kriegt grad jede na´de ab^^
+[15:28:07] <XenoN> 😀
+[15:28:13] <Lord Bignick> und geflasht hast du dich auch Ede 😄
+[15:28:20] <Dem Ede seine unverdaute Blutwurst> Einer ist 88 😀
+[15:28:27] <Babun Utan> go man to win
+[15:28:30] <+RNE> flo und sein freekill 💜
+[15:28:36] <Pommé Shakba> 88? sofort killen!
+[15:28:36] <SacRedSurf> @sLuG ich meine wenn man als CT zB nur 1k ausgeben will, dann ist kevlar ohne helm und p250 perfekt, anstelle von eco halt
+[15:28:38] <TekkerTrancer> richtig pro-like heute :)
+[15:28:39] <Fieser Fettsack> lol wie flo ausrastet
+[15:28:41] <SuperStirling> Flo kennt keine Gnade^^
+[15:28:43] <Babun Utan> seek and shoot
+[15:28:48] <Perv Senpai> Flozen 💜
+[15:28:51] <+RNE> "die awp ist keine gefahr"
+[15:28:51] <SirTheSir> cs go adolf edition
+[15:28:53] <petrik coffy> also aus xzarrus und forearth wird heute keine große liebesgeschichte mehr 😖
+[15:28:53] <%sLuG> ahh kk 😃
+[15:28:56] <+JotunnLoki> 2 leaver
+[15:28:59] <Fieser Fettsack> die gegner spielen aber auch wie silver -2
+[15:29:06] <Sebastian Böck> wie viel hat edy? 0?
+[15:29:09] <Sebastian Böck> kills?
+[15:29:12] <KamikazeJoe> isso
+[15:29:12] <%sLuG> SirTheSir ?
+[15:29:12] <forearth> 👍 @petrik coffy
+[15:29:15] <xzarrus> @petrik coffy Wie wär's denn mit uns zwei Hübschen ? 👬
+[15:29:18] <wusch0r> 1 kill hat er
+[15:29:19] <Phos> ede 0-10
+[15:29:19] <SacRedSurf> @sLuG wenn du gegen AKs spielst bist du mit headshot eh tot, darum ist der Helm egal, aber als T gegen m4 ist es dumm
+[15:29:22] <SirTheSir> 88
+[15:29:23] <Sebastian Böck> DAnke
+[15:29:25] <Babun Utan> go die!!!!!!!!!!!!
+[15:29:26] <Dem Ede seine unverdaute Blutwurst> Banane #17
+[15:29:28] <sicsche> Respekt, hab jetzt länger kein Team Limited mehr gesehen. Das is doch Fake Footage und die tun nur so als wär das live oder?
+[15:29:28] <+nofuckinghero2> Team Limited spielt so auf Niveau von Mental vllt bisl besser die haben keine Chance gegen Team Bonjwa 😮
+[15:29:39] <El hackerman> sheesh
+[15:29:49] <JBpunkt> redet donnie auch mal?
+[15:29:57] <wusch0r> eddy dreht jetzt auf
+[15:29:58] <Nikogr2711> ist das mit delay?
+[15:30:00] <derbudz> warum aimt der mit der awe auf den boden zum bedricten?
+[15:30:00] <Thomas F.> Ich glaub das wird sau spannend, wenn Team Bonjwa gegen TL zockt!
+[15:30:05] <Marius N.> rene sollte vllt mal planten 😀
+[15:30:06] <Fieser Fettsack> haha direkt mit russen akzent ^^ garkein vorurteile 😄
+[15:30:07] <xzarrus> Donnie spielt nicht mit. Donnie = Rene
+[15:30:09] <Nakrebo> das cheaters war im Plural also wurde Ede auch als Cheater bezeichnet
+[15:30:11] <Colovian> eddys erster kill eben 😀
+[15:30:13] <Nakrebo> er hat es geschafft
+[15:30:18] <%sLuG> Thomas F. hoffen wirs 😀
+[15:30:25] <petrik coffy> @xzarrus danke später vielleicht 😀
+[15:30:28] <%sLuG> Bonjwa trainiert auf Mirage
+[15:30:31] <JBpunkt> achso danke
+[15:30:33] <SuperStirling> Eddy hat einen Kill 💜
+[15:30:43] <Max Setting> der Moment, wenn du vom Gegner als Cheater bezeichnet wirst 👼
+[15:30:45] <SuperStirling> Trainieren ist unsportlich 🌝
+[15:30:47] <SirTheSir> eddy logik
+[15:30:50] <Cart01> haha ede
+[15:30:53] <Ben W> LOL ede
+[15:30:53] <Phos> auto takker lowbob
+[15:30:54] <+DMC05> ede
+[15:30:55] <+RNE> oh man ede 😀
+[15:30:55] <+DMC05> xD
+[15:30:57] <Thomas F.> @sLuG hab die Tage auch Bonjwa geschaut, aber die sind noch weit unter dem Niveau von TL im Moment, aber die lernen auch sehr schnell, vorallem Mental.
+[15:30:57] <SirTheSir> eddy hats erfasst
+[15:30:57] <Spawn123 Sapphiron> scheiss auf Sportlichkeit, gewinnen
+[15:30:58] <AgaliAMC> alter ede
+[15:30:58] <Tammo フェリツクス ジヨナス> Ede
+[15:31:00] <Fieser Fettsack> in den rücken ballern xD
+[15:31:00] <Bierschelle> hhahahaaahaha
+[15:31:00] <Dem Ede seine unverdaute Blutwurst> Ede 😀
+[15:31:01] <Quantum> schön die mates abballern 😀
+[15:31:01] <+Fabrice X.> bestes ede aim 💜
+[15:31:04] <Spawn123 Sapphiron> zählt
+[15:31:04] <Ben W> so schlecht
+[15:31:05] <KamikazeJoe> und dan noch ta -.-
+[15:31:13] <P tar> is im spiel also erlaubt... weiß nich warum sich alle beschweren
+[15:31:15] <Sir DrinksALot> war mir eigentlich so klar das ede die auto geil findet *facepalm*
+[15:31:16] <Kirisute Gomen> wodran kann es liegen dass mein stream sich alle so ca 10 sekunden aufhängt ? inet ist stabil
+[15:31:17] <Dem Ede seine unverdaute Blutwurst> Hahaha Ede
+[15:31:17] <Surrender182> so dumm die autotacker als "nooby" zu bezeichnen und "unfair" -
+[15:31:18] <Ben W> oh man ey
+[15:31:19] <Sardinfangfischnetz !> hatte ede grad n killl ?
+[15:31:19] <P tar> muss man halt ausspielen
+[15:31:19] <CYKA NUGGETS> silver team limited
+[15:31:20] <+RNE> ede: friendly fire...isn't
+[15:31:21] <Derpy Hooves> echt mal, warum nimmt er auch ne waffe die im spiel mit drin ist. waqs soll das! 👿 😂
+[15:31:21] <SirTheSir> jetzt wissen wir es: ede will einfach nur nicht unsportlich sein"!"""
+[15:31:23] <derbudz> wow
+[15:31:23] <+Tyms> warum is ne waffe, dies im game gibt, unsportlich? ist doch unlogisch as fuck
+[15:31:26] <Ben W> ede disqualifiziert sich gerade derbe
+[15:31:26] <%sLuG> Thomas F. Ja die haben Mit Yoshi und Mental auch echt gute leute im tem 😀
+[15:31:27] <%sLuG> +a
+[15:31:30] <Fieser Fettsack> haben wir schon 20x banane?
+[15:31:31] <CYKA NUGGETS> ez silver rank
+[15:31:35] <UEBERSICHT> Ede bringt die Bombe zum Gegner und sagt nichtmal an.
+[15:31:38] <derbudz> takker die wand wo keiner hinter steht und man nicht bangen kann
+[15:31:40] <derbudz> boa
+[15:31:43] <+DMC05> ede nimm se ^^
+[15:31:46] <Thomas F.> @sLuG Ja, Yoshi erklärt das echt gut
+[15:31:47] <Sir DrinksALot> @P tar weil die nächste stufe nach der Auto-Sniper wäre, das die waffe auch noch selber zielt
+[15:31:53] <petrik coffy> classic bübchen
+[15:31:53] <Seppiro> @Michael K und hasts dir angeguckt? 😉
+[15:31:59] <KamikazeJoe> man redet auch nicht wenn nur noch einer lebt!!!!
+[15:31:59] <MG Smooth> ich bin bei eddy in dem punkt...absolut in ordnung die autotacker zu nutzen
+[15:31:59] <Quantum> kauf dir lieber p90 Ede 🌝
+[15:32:05] <endelol> Rene "das macht man nicht, das ist unsportlich"
+[15:32:06] <Homeboy92x> ich bin ganz bei ede
+[15:32:08] <Ionatic> man spielt die nicht, weil in der zeit wo du zielst und autosniperst, die awp dich 1hitted
+[15:32:09] <ZaDonKilluminati> Noob Waffe -> Dümmstes Argument ever
+[15:32:11] <doenerman05> Richtige Bübchen-Waffe
+[15:32:13] <endelol> 2 min später: "lasst alle ne para kaufen"
+[15:32:14] <Surrender182> "Noob-Waffe" - aus dem Mund eines Gold-Nova...
+[15:32:19] <SuperStirling> Die Bots im Team machen das Team besser 🌝
+[15:32:26] <+DMC05> OHh
+[15:32:28] <Darkeminence> autotacker nutzen ist halt beschissen für die kohlen 😀
+[15:32:30] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[15:32:33] <+Fabrice X.> schade olli
+[15:32:38] <bitmud> Auto is in den richtigen händen keine noob waffe.. die kann man auch gut countern
+[15:32:39] <Thomas F.> Wenn man die Auto-Tacker aufnimmt von den Gegnern ist es in Ordnung, aber selbst kaufen ist noobig 🌝
+[15:32:45] <P tar> @Sir DrinksALot gegen ne awp is die richtig scheiße, man kann die auch wegsmoken, alles kein problem
+[15:32:45] <El hackerman> die waffe ist teil des spiels. wer sich darüber aufregt soll das spiel nicht spielen.
+[15:32:52] <%sLuG> unterm strich kommts doch drauf an, das man mit der waffe effizient killt 😀
+[15:32:52] <+nofuckinghero2> @Thomas F. weit unter niveau von team limited? was hast du da gesehen? der einzige der von denen nix rafft ist mental, der rest ist individuell besser als jeder von tld 😮
+[15:32:52] <P tar> einfach negev nehmen, beschte
+[15:32:53] <derbudz> wir hamse früher aldi-sniper genannt
+[15:32:54] <TekkerTrancer> nice FLo!
+[15:32:54] <Le Revenant> F lo
+[15:32:56] <wusch0r> lol
+[15:32:56] <+Tyms> seh ich genauso
+[15:32:56] <+RNE> alter flo 😀
+[15:32:58] <derbudz> jetzt isses ne auto-tacker
+[15:32:59] <+JotunnLoki> lol
+[15:33:04] <SuperStirling> Flo^^
+[15:33:04] <+RNE> jesus 😀
+[15:33:08] <Execuse> Alter Flo
+[15:33:09] <Surrender182> AWP ist so eine NOOBWAFFE Kappoa - sie macht 1 shot auf body
+[15:33:09] <Le Revenant> F LO
+[15:33:09] <Frederick Schubert> F
+[15:33:09] <verteilerkasten85> flo rausvoten. 2 high for them.
+[15:33:12] <+Michelue> F
+[15:33:13] <Fearghas MacCaol> Flo 😮
+[15:33:14] <+Ballerbecks> ez flo
+[15:33:15] <Fieser Fettsack> flo rastet richtig aus
+[15:33:16] <Perv Senpai> GG Flo 😀
+[15:33:16] <KamikazeJoe> bis ben endlich rafft...
+[15:33:16] <MD aus HH> Clepto Flo
+[15:33:17] <+Fabrice X.> F lo
+[15:33:17] <Invyr> flo machts alleine^^
+[15:33:19] <Godchilla23> Pro Flo
+[15:33:20] <Tobias Elle> die Gegner auf Nova 1 sind ja witzig 😀
+[15:33:20] <moepmoep12> die gegner sind sehr sehr sclecht 😀
+[15:33:21] <ibert> alter was ist los mit ihm 😀 flo bester
+[15:33:22] <Max Setting> Flo regelt 😯
+[15:33:23] <JBpunkt> !MVP FLo
+[15:33:23] <Pa Wy> n1
+[15:33:24] <+Zardiack> F
+[15:33:27] <Gumma Power> hat flo geübt ? 😃
+[15:33:28] <+chusak> Flo einziger mit aim
+[15:33:30] <du depp> flo = badass
+[15:33:31] <Max Setting> F lo
+[15:33:33] <Darkeminence> @Surrender182 naja, man braucht schon skill
+[15:33:38] <Panda Beer> Flozen Master 😍 L33t
+[15:33:40] <UEBERSICHT> flo einziger mit brain
+[15:33:45] <Dem Ede seine unverdaute Blutwurst> 2 Bots jetzt oder?
+[15:33:45] <Jadestoff> der trägt halt das F schon im namen
+[15:33:46] <surferriness> nice rhymes nicer flo
+[15:33:58] <Thomas F.> @nofuckinghero2 Hab ziemlich viel von denen geschaut und Mental hat echt gut gelernt, der andere ( von dem ich den Namen grad nicht weiß) hat nicht so gut gelernt und war schwerfällig umzusetzen, was
+[15:33:58] <+JotunnLoki> Flo weiter im Rambomode
+[15:34:00] <Jakob s> floprofloproflopro
+[15:34:03] <SirTheSir> flo sagt nicht an
+[15:34:05] <Thomas F.> @nofuckinghero2 Yoshi sagt
+[15:34:07] <Jadestoff> haha nicer move
+[15:34:08] <SuperStirling> Here comes Maxim 😯
+[15:34:10] <Dem Ede seine unverdaute Blutwurst> Banane #18
+[15:34:15] <derbudz> keine knife-skins = alles noobs
+[15:34:21] <Hafer Brei> F Flo
+[15:34:30] <petrik coffy> funfact, flo besteht zu 80% aus aim
+[15:34:32] <+DMC05> @derbudz wollte ich auch schon schreiben xD
+[15:34:44] <Dem Ede seine unverdaute Blutwurst> f
+[15:34:45] <+DMC05> und BEn aus 90% ^^
+[15:34:46] <Bimuvize> joah
+[15:34:49] <Fieser Fettsack> Bens sens ist OVER 9000!!!
+[15:34:55] <%Sendeplan> RocketBeans TV wurde für die Goldene Kamera nominiert 🎥 Jetzt abstimmen: http://vote.goldenekamera.de/
+[15:35:05] <+DMC05> rene der Account dieb xD ^^
+[15:35:09] <SirTheSir> donnie will zocken
+[15:35:29] <Sierra Hotel> nicht live??
+[15:35:39] <SMSTRM> rip rambo 😖
+[15:35:41] <+Lightmare> 😀 der damage dealer
+[15:35:42] <SirTheSir> donnie weiss nicht was er sonst tun soll wärend der arbeit
+[15:35:42] <+XAxeX> Fieser Fettsack xDD
+[15:35:49] <Käse Aufschnitt> aufzeichnung aber erstausstrahlung
+[15:35:51] <Jakob s> donnie soll auch mal mitspielenn und seine 1.6 skills auspacken
+[15:35:57] <+JotunnLoki> 😀
+[15:35:58] <Dem Ede seine unverdaute Blutwurst> rekt
+[15:35:58] <Quantum> wow
+[15:36:00] <SuperStirling> 😑
+[15:36:01] <+DMC05> 😂
+[15:36:03] <+nofuckinghero2> @Thomas F. ich hab alles was cs angeht bisher bei bonjwa gesehen und wiegesagt bis auf mental sind alle individuell besser, niklas und chantal evtl nur ein wenig besser als oli und flo
+[15:36:03] <Sierra Hotel> ok, wieso nicht live?
+[15:36:03] <JBpunkt> lol
+[15:36:04] <KamikazeJoe> selbst das kriegt ede nicht hin -.-
+[15:36:04] <petrik coffy> @Sierra Hotel beisst sich von zeitplan her mit beards-kram deshalb heute morgen aufgenommen
+[15:36:09] <Darkeminence> immer dieses gelaber über no0b waffen...wenn überhaupt sind p90, autosniper etc. meistens vom $ per kill verhältnis schleht...aber sie nicht nutzen zu dürfen ist schon etwas weinerlich 😀 😀
+[15:36:09] <+DMC05> aber gg ^^
+[15:36:16] <Homeboy92x> 15:3
+[15:36:16] <Dem Ede seine unverdaute Blutwurst> @Sierra Hotel Wegen Beards
+[15:36:18] <Jakob s> wegen beards
+[15:36:19] <+XAxeX> Sierra Hotel weil heute noch massig live programm kommt ^^
+[15:36:20] <Sierra Hotel> k
+[15:36:23] <+nofuckinghero2> @Thomas F. und individueller skill ist halt extrem wichtig in cs
+[15:36:27] <Sierra Hotel> ok
+[15:36:36] <+XAxeX> sierra hotel sonst gibts probleme mit arbeitszeiten usw. ^^
+[15:36:40] <SirTheSir> eddy ist einfach lernwillig
+[15:36:43] <Nikogr2711> Wann spielen die gegeneinander?
+[15:36:50] <Dem Ede seine unverdaute Blutwurst> Banane #18
+[15:36:56] <+Fabrice X.> F RENE
+[15:36:56] <Don Mixote> Dieser Donnie ist echt gut 🌝
+[15:36:58] <Nikogr2711> steht schon ein termin?
+[15:36:59] <Fieser Fettsack> jooo instant HS
+[15:37:01] <Thomas F.> @nofuckinghero2 Okay, dann kannste das besser analysieren als ich, aber gefällt mir halt echt gut, wie schnell die TL Leute lernen, von den man das gar nicht so denkt. Wird spannend, da bin ich sicher
+[15:37:02] <%sLuG> gibt noch keinen termin
+[15:37:11] <Thomas F.> @nofuckinghero2 Das stimmt natürlich.
+[15:37:13] <Darkeminence> 🍚
+[15:37:14] <Simplex> Donnie bester Neuzugang!!
+[15:37:28] <IInteresting> TrkSalt
+[15:37:28] <XenoN> lol
+[15:37:30] <derbudz> Es gibt keine "noobwaffen"... Wenn du mit der P90 umgehen kannst und das Positioning drauf hast, kannste damit auf jeder Map rocken...
+[15:37:30] <Quantum> auf einmal alle tot xD
+[15:37:30] <+DMC05> ROfl
+[15:37:30] <Fieser Fettsack> haha bens high pitch "penner"
+[15:37:32] <Fieser Fettsack> xD
+[15:37:34] <Marius N.> ?????
+[15:37:38] <SirTheSir> in luft
+[15:37:40] <Homeboy92x> in der luft
+[15:37:42] <Herr Fürchtegott> 👿 almost hackerish
+[15:37:43] <Nikogr2711> danke @slug
+[15:37:43] <derbudz> Gleiches gilt für die Tacker und jedwede andere Waffe
+[15:37:45] <SirTheSir> quake aim flo
+[15:37:51] <+JotunnLoki> jetzt hamse Hacks angeschmissen die Russen ^^
+[15:38:09] <derbudz> m4 und ak sind halt allround gut. Darum werden sie nicht als solche "noobwaffen" deklariert
+[15:38:09] <%sLuG> gg
+[15:38:10] <Nikogr2711> gegen wen spielt team limited?
+[15:38:10] <Homeboy92x> FLO
+[15:38:11] <+DMC05> defuse ^^
+[15:38:12] <+JotunnLoki> 💜
+[15:38:13] <XenoN> hahahah
+[15:38:13] <+Fabrice X.> f LO
+[15:38:14] <El hackerman> OHHH
+[15:38:14] <SuperStirling> Flo 💜
+[15:38:15] <Don Mixote> F
+[15:38:17] <El hackerman> MLG!
+[15:38:18] <Gumma Power> Flo livetime MVP
+[15:38:18] <Thomas F.> Lol der F Lo 😀
+[15:38:19] <Dem Ede seine unverdaute Blutwurst> f
+[15:38:19] <Panda Beer> FLOOOO 😍
+[15:38:20] <du depp> omg
+[15:38:20] <SMSTRM> molescope
+[15:38:21] <Änni> 😀
+[15:38:21] <SirTheSir> russen kenner nur eine taktik: "
+[15:38:23] <Hafer Brei> gg 💜
+[15:38:23] <+Andro> mvp
+[15:38:25] <SirTheSir> RUSH B"
+[15:38:27] <MG Smooth> flo hat doch an xD
+[15:38:28] <Don Mixote> Flo dieser mieser Hacker 🌝
+[15:38:31] <Marius N.> hahaha flo ez 😯
+[15:38:33] <Panda Beer> du wegwämser
+[15:38:33] <Crank795> FLO MVP
+[15:38:35] <+XAxeX> Nikogr2711 matchmaking
+[15:38:35] <Homeboy92x> Ich will Flo heiraten 💜
+[15:38:38] <derbudz> ach der chat is langweilig wenner so voll is
+[15:38:43] <+DMC05> die runde wird schon mal nicht gezählt xD ^^
+[15:38:43] <Ilías GW2> 32 kills xD
+[15:38:48] <Tobias Elle> NOVA 1 Gegner kappa
+[15:38:50] <Darkeminence> @derbudz meine rede...wie gesagt..sind halt nur teuer und die lernkurve ist etwas "weird" aber damit wämste ordentlich rein 😀
+[15:38:56] <SMSTRM> ich bin nicht voll
+[15:39:00] <Don Mixote> Huhn 😭
+[15:39:02] <Dem Ede seine unverdaute Blutwurst> Banane #19
+[15:39:06] <xzarrus> "Russen kennen nur eine Taktik" - Rush B Cyka Blyat
+[15:39:10] <KamikazeJoe> ich auc nicht.
+[15:39:10] <%sLuG> ich mach heut abend den hauke 🌝
+[15:39:12] <+DMC05> jetzt haben die aber nen echten gegner ^^ ;D
+[15:39:16] <+DMC05> ein bot ^^
+[15:39:21] <+nofuckinghero2> @Thomas F. jo macht spaß beiden teams zuzugucken wie sich verbessern, kann man als noob was lernen^^ ich weiß nicht ob es spannend im sinne von knapp wird, weil mit 2 global elites im team ist bonjwa
+[15:39:27] <xzarrus> @sLuG Bitte on Stream 🌝
+[15:39:32] <+nofuckinghero2> @Thomas F. schon extrem bevorteilt
+[15:39:39] <Tammo フェリツクス ジヨナス> Luckshot 🌝
+[15:39:42] <3l Dud3r1nh0> wtf nicht live
+[15:39:44] <%sLuG> @xzarrus ne saufcam? 🌝
+[15:39:47] <Nikogr2711> gibt es Ränge in CS?
+[15:39:53] <Darkeminence> jap
+[15:39:55] <Dem Ede seine unverdaute Blutwurst> @3l Dud3r1nh0 Wegen Beards
+[15:39:56] <Kraff Nof> moin
+[15:39:57] <xzarrus> @sLuG Ich bitte drum. 🌝
+[15:39:59] <Nikogr2711> hab mit 1,6 aufgehört
+[15:40:03] <3l Dud3r1nh0> beards saugt
+[15:40:06] <Eggthér Limettenschniedel> @sLuG OKEy , mach das mal !
+[15:40:12] <Thomas F.> @nofuckinghero2 Hm ja, richtig. TL muss komplett eigensinnig lernen und haben da keinen Global hocken, der Ihnen die "pro-Tipps" gibt. Mal schauen!
+[15:40:17] <+khayjeet> @slug, bitte nicht rbtv verlassen ~~
+[15:40:20] <3l Dud3r1nh0> AusrEDE
+[15:40:20] <Fieser Fettsack> ey flo erste hälft direkt ne 30 bomb xD
+[15:40:22] <Gumma Power> feuerbombe !
+[15:40:22] <DKFKoi> Verhohnung oder auch Höhn!
+[15:40:24] <+RNE> mhh, flammbierte banane 💜
+[15:40:24] <+Timo B> mehr kills als alle anderen im team zusammen oder das gesamte gegnerteam
+[15:40:25] <Dem Ede seine unverdaute Blutwurst> Banane #20!!!! Bingo!
+[15:40:26] <+JotunnLoki> 23 mal Banane
+[15:40:28] <%sLuG> haha 😀 nee nee
+[15:40:32] <moepmoep12> team limited gegen bonjwa? wann?
+[15:40:34] <Hierarchy> Ede spielt immer noch genauso schlecht wie schon vor 1.6
+[15:40:36] <derbudz> In cs gibts ränge. generell bist du noob bis du den maximalen range erreicht hast. danach biste nen cheater
+[15:40:43] <%sLuG> gibt noch keinen termin Moepmoep12
+[15:40:45] <Thomas F.> @nofuckinghero2 Ich bin Legendary Eagle im Moment bei CS und find das echt gut, was TL da macht. Auch wenn sie mehr Aim üben sollten meiner Meinung nach!
+[15:41:02] <SuperStirling> Flo zerstört wieder das Team^^
+[15:41:03] <Nikogr2711> ok, und wie steigt man auf im Rang? Nach Kills und Death?
+[15:41:05] <Nafi von Fatz> hiho alle 🙋
+[15:41:07] <Darkeminence> @derbudz das sind die 2 ränge, jupp 😀 😀
+[15:41:12] <%sLuG> derbudz ich dachte das ist individuell... alle die schlechter sind als man selbst sind noobs... und alle die besser sind cheater
+[15:41:12] <SuperStirling> also das gegnerische
+[15:41:15] <derbudz> 😉
+[15:41:17] <Hierarchy> spielen die jetzt öfter csgo?
+[15:41:21] <Surrender182> Limited ggn Bonjwa wird es nicht geben, der Skill-UNterschied ist zu groß
+[15:41:27] <+JotunnLoki> lol
+[15:41:28] <Milchalarm> 😂
+[15:41:30] <Le Revenant> lol
+[15:41:31] <%sLuG> jede woche freitag CSgo
+[15:41:33] <Gorill4> ohh captain my captain
+[15:41:34] <SuperStirling> @Hierarchy jeden Freitag
+[15:41:38] <Jörg Dumps> 😂
+[15:41:39] <surferriness> ich als counter spezial navy seal kann das bestätigen
+[15:41:40] <Schranzsteiner> ist TL nicht normalerweise live?
+[15:41:42] <Tobias Elle> @Nikogr2711 nee nach wins und losses
+[15:41:42] <Epic Muffin> ey sry aber ede macht mich wütend
+[15:41:42] <Gumma Power> haha Ben ^^
+[15:41:43] <SMSTRM> rambo
+[15:41:44] <+Fabrice X.> und wer hat den höheren skill ? bonjwa oder limited ?
+[15:41:52] <3l Dud3r1nh0> wer ist besser? Bonjwa oder Limited?
+[15:41:56] <+nofuckinghero2> @Thomas F. jop das macht die sache von haus aus ziemlich unfair, rene macht das nicht schlecht ist aber kein vergleich zu yoshi
+[15:41:58] <AgaliAMC> ben ist nicht sehr gehörig
+[15:42:01] <Schranzsteiner> bonjwa
+[15:42:01] <Darkeminence> Bonjwa....
+[15:42:03] <SMSTRM> rip rambo 😖
+[15:42:05] <3l Dud3r1nh0> 😀
+[15:42:06] <Godchilla23> FriendlyFireBen
+[15:42:08] <Hierarchy> ich fühle mich gerade wie zu alten giga games / giga esports zeiten 💜 ein traum
+[15:42:09] <Don Mixote> Bonjwa hat einen Global Elite im Team
+[15:42:14] <%sLuG> ich würde sagen, das kann man erst beurteilen, wenn sie gegeneinander spielen
+[15:42:15] <3l Dud3r1nh0> war klar, sry dumme Frage 🌝
+[15:42:21] <+DMC05> ballKong ^^
+[15:42:23] <Schranzsteiner> wieso ist das heute nicht live? TL ist doch normalerseise live?
+[15:42:31] <Gumma Power> der flo brüller , richtig männlich erschrocken 😀
+[15:42:31] <Don Mixote> Aber dafür haben sie Mental 😂
+[15:42:35] <Surrender182> Bonjwa ist halt auch ein eSports-Unternehmen
+[15:42:36] <+Fabrice X.> weil beards ?
+[15:42:38] <Dem Ede seine unverdaute Blutwurst> f
+[15:42:39] <+Fabrice X.> weil game 2 ?
+[15:42:40] <Epic Muffin> @sch
+[15:42:40] <Thomas F.> @nofuckinghero2 Ja, genau. Aimtechnisch ist René leider auch nicht besser als der Rest vom TL Lineup, aber erklären tut er die Taktiken sehr gut.
+[15:42:41] <+XAxeX> F
+[15:42:43] <SuperStirling> Eddy Matchwinner 🌝
+[15:42:45] <FlyingSoHighnow> TL nicht live wege bears arbeiten
+[15:42:45] <jediratte> wegen BEARDS
+[15:42:47] <+Schmidde> sooo gut war bonjwa am mittwoch nun auch wieder nicht
+[15:42:54] <Schranzsteiner> ah danke
+[15:42:55] <Cookie TheCook> gg
+[15:42:56] <El hackerman> eddy gegen mental. das duell der giganten
+[15:42:56] <du depp> nice
+[15:42:57] <Schranzsteiner> macht sinn
+[15:43:06] <AgaliAMC> !mvp flo
+[15:43:08] <JBpunkt> immerhin 7/6 ede xD
+[15:43:10] <Le Revenant> oh kleines bübchen
+[15:43:10] <RedIndian 9419> gg
+[15:43:12] <Thomas F.> @nofuckinghero2 Yoshi dagegen hat vermutlich 5000 Stunden auf dem Spiel oder sogar mehr und weiß genau auf was er achten muss beim Training und sieht die Fehler sofort.
+[15:43:13] <+nofuckinghero2> @Thomas F. war vor jahren mal lem, zum anfang von csgo, war halt nur abaimen. von den granaten werfen und taktischem hab ich kein plan vom game, deswegen lern ich ganz viel^^
+[15:43:13] <Schranzsteiner> eddy in quake ist immernoch ne macht
+[15:43:14] <derbudz> Giga esports? da warste aber bis zum bitteren ende mit dabei Hierarchy
+[15:43:16] <+Karsten Knastfuß> Ede spielt noch bei Team Limited dachte schon der wäre lange abgeworben
+[15:43:20] <bitmud> !tl flo
+[15:43:21] <+XAxeX> Schranzsteiner jop normalerweiße is es live ^^ aber heute wegen BEARDS 😀 haben sie es vorproduziert ^^ weil arbeiteszeiten und studio wird gebraucht usw.
+[15:43:21] <Baba Boy> !limited ede
+[15:43:27] <Milchalarm> Fracking?
+[15:43:28] <Nikogr2711> steigen die Ränge auch aufm Public?
+[15:43:29] <+chusak> Flo ist halt mal locker 4-5 ränge übner denen vom skill her
+[15:43:30] <SMSTRM> fracking is böse
+[15:43:36] <Baba Boy> !tl ede
+[15:43:37] <Thomas F.> @nofuckinghero2 Dann haste ja bald das komplette Paket 😀
+[15:43:42] <Schranzsteiner> !tl flo
+[15:43:42] <Gumma Power> !tl flo
+[15:43:46] <xzarrus> Game Two HYPU !
+[15:43:47] <bitmud> !tl flo
+[15:43:49] <+XAxeX> Nikogr2711 nope nur matchmaking ^^
+[15:43:50] <Liptonguy> hab gehört eddy ist der beste Mensch der Welt
+[15:43:51] <Darkeminence> eddy in quake ist krass gut...
+[15:43:51] <Fieser Fettsack> @JBpunkt ne 7/6/11 die 11 sind tode die 6 sind assists
+[15:43:53] <+DMC05> @Nikogr2711 nur dein LV was aber irrelevant ist ^^
+[15:43:54] <+Lightmare> 😞 ede bekommt nichts zum abschießen
+[15:43:57] <SMSTRM> vong skill her heisst das 😯
+[15:43:59] <der Hansmann kann> !tl ede
+[15:43:59] <Morgensternlps> !tl flo
+[15:43:59] <Fieser Fettsack> !tl flo
+[15:43:59] <Schranzsteiner> würd gern eddy öfter mal quake spielen sehen
+[15:44:00] <+DMC05> @Nikogr2711 aber nein Keine Ränge ^^
+[15:44:06] <+XAxeX> heute ist der Epische-MEGA-Freitag 😀 😀 😀
+[15:44:08] <%sLuG> nikogr2711 es gibt 2 ränge... einmal der spieler rang (der steigt auf auf public) und der MatchMaking Rang - steigt nur im competitive
+[15:44:08] <Quantum> ich dachte ede wäre schon bei mousesports 🌝
+[15:44:08] <SirTheSir> eddy ist immer so bescheiden
+[15:44:15] <twinflyer94> game two + beards? Der abend ist gerettet 😁
+[15:44:17] <Nikogr2711> @DMC05 dann braucht man immer ein festes Team um Ränge aufzusteigen?
+[15:44:17] <+nofuckinghero2> @Thomas F. sollten definitiv mehr dm und aimmaps spielen um besseres gefühl für die waffen zu bekommen
+[15:44:21] <Nikogr2711> @Slug Danke
+[15:44:24] <titty twister> !tl flo
+[15:44:26] <+sturm111> So ein schöner Sendeplan, hach 😀
+[15:44:27] <+XAxeX> twinflyer94 und verflixxteklixx usw. ^^
+[15:44:28] <Beatrix gefürstete Gräfin von und zu Niederwalde-Brokenburg> ich dachte veflixxte klixx würde heute um 19 uhr laufen
+[15:44:34] <Thomas F.> @nofuckinghero2 dann wären sie locker MG demnächst!
+[15:44:35] <+DMC05> @Nikogr2711 nee mann kann auch Randoom Ranked zocken ist dann nur chaos ^^
+[15:44:43] <Dem Ede seine unverdaute Blutwurst> @Beatrix gefürstete Gräfin von und zu Niederwalde-Brokenburg nächste Woche
+[15:44:44] <+XAxeX> Beatrix gefürstete Gräfin von und zu Niederwalde-Brokenburg nicht heute ^^ ab nächster woche evtl.
+[15:44:44] <derbudz> Nen Q3 Vanilla game gegen Ede würd ich auch gern mal machen
+[15:44:47] <Schranzsteiner> inside ps auch noch heute. nice
+[15:44:47] <bitmud> !tl flo
+[15:44:49] <SMSTRM> game two und beards aufm freitag... ich muss doch saufen 😖
+[15:44:49] <Nikogr2711> ok ^^
+[15:44:50] <Milchalarm> @Beatrix gefürstete Gräfin von und zu Niederwalde-Brokenburg ab nächster Woche
+[15:44:51] <Marius N.> Mental zu TL, Flo zu Bonjwa 🌝
+[15:44:55] <Thomas Waxiku> heite kann man träumen ;D
+[15:44:57] <Nikogr2711> hat sich seit 1.6 ja doch einiges geändert
+[15:44:57] <Darkeminence> @Nikogr2711 du kannst matchmaking ranked auch alleine spielen...n headset ist aber sehr ZU EMPFEHLEN
+[15:44:58] <Nikogr2711> 😃
+[15:45:03] <+Lightmare> 😀 mit abstand der beste sendeplan seit langem
+[15:45:08] <twinflyer94> XAxeX verflixxte Klixx find ich schrecklich xD
+[15:45:08] <Schranzsteiner> in quake hat er auch mehr selbsvertrauen
+[15:45:09] <Madde Hamburg> Alter was!!??  Heut is pen und paper???
+[15:45:10] <+DMC05> @Nikogr2711 als cs fü nen 5er kaufen lihnt schon verfall aber nicht der Skin sucht ^^
+[15:45:15] <%sLuG> nikogr2711 absolut. auch das grundniveau ist ziemlich angestiegen
+[15:45:20] <Fieser Fettsack> @lightmare auf jeden
+[15:45:22] <+XAxeX> twinflyer94 warum ? 😀 das doch geil
+[15:45:23] <+DMC05> lohnt*
+[15:45:24] <Thomas Waxiku> Geht B.B.E.A.R.D.S unter einmal durch ?
+[15:45:26] <Milchalarm> Verflixxte Klixx best show EU
+[15:45:28] <+nofuckinghero2> @Thomas F. problem ist halt auch das yoshi, einfach seine rasselbande besser unter kontrolle hat, ede, ben und nils hören halt oft nicht wirklich hin ^^
+[15:45:31] <King Of Rotten> Hallo Chat, ist euch mal aufgefallen dass CoD so ähnlich geschrieben wird wie Kot? Zufall? Ich glaube nicht!
+[15:45:41] <derbudz> #VoteForQuakeStream
+[15:45:49] <Yakumaru93> solo matchmaking? Ist super, lernst sogar russisch
+[15:45:49] <Darkeminence> @Schranzsteiner in quake macht ede sein gesicht und schon geht die luzi ab...beängstigend...
+[15:45:50] <Colovian> Eddy ist eigentlich Rechtshänder. Er spielt aber immer mit links um wenigstens eine kleine Herausforderung zu haben.
+[15:45:52] <Nikogr2711> Schönes Format, sehe es zum ersten Mal. Gefällt mir 😃
+[15:45:53] <+XAxeX> twinflyer94 das zeigt einem "alten" sack wie mir warum ich nur ein paar sachen (eig. nur rbtv zeug) auf YT schaue 😀
+[15:45:55] <3l Dud3r1nh0> es sind halt Spezialisten 🌝
+[15:45:57] <mYown Hierarchy GER> jemand der ab und an mal bock auf csgo hat? skillgroup irgendwo um >ak? keine Lust mehr auf russisch Beschallung
+[15:46:04] <SuperStirling> @King Of Rotten bei 3 Buchstaben ist einer gleich, Wahnsinn 🌝
+[15:46:09] <+DMC05> @Darkeminence head set bei SoloQUe ist immer aus bzw Voip ist aus dann ^^ xD
+[15:46:10] <SirTheSir> rush b ist russisch
+[15:46:14] <Thomas F.> @nofuckinghero2 Eddy und Nils sind halt mehr die Entertainer in dem Team, obwohl Nils echt brain zeigt manchmal und mit guten Taktiken daher kommt.
+[15:46:16] <+XAxeX> Nikogr2711 du meinst TeamLimited ? 😀 läuft immer Freitags 😃
+[15:46:17] <+nofuckinghero2> @Thomas F. vllt schaffen sies ja wirklich andy strauss für tld zu acquiren und der übernimmt dann die coach funktion, das würde es besser machen
+[15:46:18] <twinflyer94> XAxeX Lars + Florentin (aka Tini / wir müssen das durchsetzen) in kombination sind mir irgendwie zu anstrengend
+[15:46:25] <RedIndian 9419> Ist das nachher eine aufgezeichnete Pre-Show?
+[15:46:35] <Darkeminence> jap
+[15:46:37] <King Of Rotten> Und CoD hat das gleiche Niveau wie Kot
+[15:46:43] <+DMC05> @RedIndian 9419 jap ^^
+[15:46:44] <+XAxeX> twinflyer94 ach 😀 da können die beiden sich austoben ^^ und sind dann viel gechillter bei anderen sendungen 😀
+[15:46:45] <rödel bert> huhu
+[15:46:45] <Thomas F.> @nofuckinghero2 Ich glaub Eddy kannste erzählen was de willst, der wird nicht mehr viel besser, nichts gegen ihn, aber ist vermutlich die Wahrheit. 😀
+[15:46:46] <Schranzsteiner> #MakeQuakeGreatAgain - mit Eddy - jeden Mittwoch live
+[15:46:55] <+nofuckinghero2> @Thomas F. jo in nils schlummert definitiv am meisten talent von denen, der tilted auch nicht so schnell ^^
+[15:46:59] <jediratte> Lars als auch Florentin sind mir zu anstregend
+[15:47:00] <+DMC05> @Schranzsteiner bin dafür xD ^^
+[15:47:01] <Thomas F.> @nofuckinghero2 Wäre geil mit Andi Strauss 😀
+[15:47:12] <+DMC05> Ede alleine zuhaus 😲
+[15:47:14] <+XAxeX> twinflyer94 und es ist ein format was auch leute anzieht die mit rbtv wenig am hut haben 😀
+[15:47:15] <cowplant> Aaaw 😀
+[15:47:17] <Caner Cinar> Ede macht ja wiedermal alle ferig 😂😂😂😂
+[15:47:18] <twinflyer94> XAxeX können sie ja gerne tun. Ich sag ja nicht dass es abgesetzt werden sollte. Gibt ja offensichtlich viele die es mögen. Aber für mich is es nix
+[15:47:22] <Alex Zimmer> jajediratte
+[15:47:23] <SirTheSir> cod beste spiel of welt mit ausnahme aller anderen shooter
+[15:47:25] <derbudz> Kommt heute was gutes im TV? Bin zu faul zum suchen
+[15:47:29] <Thomas F.> @nofuckinghero2 Stimmt, Nils bleibt immer chillig und deutet auch mal neue Sachen an, die gar nicht so doof erscheinen!
+[15:47:29] <3l Dud3r1nh0> Ede müsste, wie jeder andere auch, von morgens bis abends trainieren um besser zu werden.
+[15:47:35] <Schranzsteiner> Lockenwickler!
+[15:47:37] <MD aus HH> Simon allein zuhaus? 😀
+[15:47:37] <+Fabrice X.> 2x gino ? 🌝
+[15:47:39] <cowplant> Ich mag diese Werbumm ^^
+[15:47:40] <Don Mixote> Ob es Absicht ist, dass Budi sich den Kopf stößt?
+[15:47:44] <Ar Be> habt ihr den post von rbtv zu inside playstation gesehen? Jetzt weiß ich auch, warum anne sich immer verkleidet
+[15:47:45] <Sebb> ginozwillinge
+[15:47:46] <Änni> Bübchen!
+[15:47:47] <MD aus HH> ach nee Ede allein zuhaus 😀
+[15:47:49] <Milchalarm> @nofuckinghero2 ich glaube, Nils wäre in jedem Spiel gut, wenn er genug Zeit investiert
+[15:47:49] <+XAxeX> twinflyer94 das ist ja das schöne hier 😀 für jeden was dabei 😀 und ALLES anschauen schafft man eh nicht ^^
+[15:47:51] <cowplant> Ede bleibt zuhause xD
+[15:47:54] <Thomas F.> Ede ist halt der perfekte Entertainer für das Team 😀
+[15:47:54] <Änni> Don Mixote denke ja
+[15:47:56] <MD aus HH> Ede allein zuhaus ^^
+[15:47:57] <WabuInferno> aaa
+[15:47:58] <+Bierhumpen> 2x gino 😯
+[15:47:59] <Yakumaru93> man kann sich immer verbessern, die einzige grenze die es gibt ist reaktionszeit, nimmt einfach mit dem alter ab, isso
+[15:48:01] <Schranzsteiner> welche rPost?
+[15:48:03] <+Andro> 😭
+[15:48:06] <+Fabrice X.> anne verkleidet sich weil sie auf rollenspiele steht 🌝
+[15:48:07] <+DMC05> die mütze ist das beste xD
+[15:48:12] <YDwelve> i cri everytime
+[15:48:12] <Sebb> der schlechte greenscrenn 😀
+[15:48:18] <ZaDonKilluminati> und der Oscar geht an Ede 😀
+[15:48:19] <Jakob s> geile wrbumm
+[15:48:22] <SirTheSir> eddy muss doppelt soviel trainieren, deswegen lässt er es gleich bleiben bzw. ist trainieren unsportlich
+[15:48:23] <Änni> 😨😨😨
+[15:48:24] <xzarrus> @Ar Be LOL 😀
+[15:48:25] <Teli Lala> 2x Gino ist doch Anspielung auf den Film
+[15:48:32] <Fynmar> Ich find das voll unmöglich wie die einfach im Flugzeug brüllen
+[15:48:34] <cowplant> Oooowwh 😸
+[15:48:35] <mYown Hierarchy GER> Suche noch gelegentliche Mitspieler für CSGO skillgroup: > master guardian.
+[15:48:40] <cowplant> So herzig die Werbung
+[15:48:49] <+DMC05> jaa woe könnt ihr nur vergessen wenn ihr bei Amazon einkauft den affilait LINK VERGESSEN 😮
+[15:48:49] <Christian Timm> nun
+[15:48:56] <+Jim Raynor> Ob Ede so alleine klar kommen würde, bezweifle ich 😀
+[15:48:57] <+DMC05> wie*
+[15:48:57] <Milchalarm> @Fynmar außerdem sitzen sie verkehrt herum
+[15:48:58] <Fieser Fettsack> weiter gehts
+[15:48:59] <twinflyer94> XAxeX Eben. Mittlerweile wirds aber immer mehr content der mir zusagt. Wenns so weiter geht guck ich in nem jahr nur noch RBTV. Jeden tag den ganzen tag^^
+[15:49:01] <derbudz> @Yakumaru93 Dann spielste halt vorrausschauender. Weniger Railgun und mehr GL und RL und ab dafür
+[15:49:04] <bababaanarama> schon wieder vergessen 😞
+[15:49:05] <+DMC05> oh man mein satz bau o.0 ^^
+[15:49:07] <Darkeminence> lümüütäääd
+[15:49:12] <bababaanarama> muss ich wohl geld hinterherwerfen
+[15:49:19] <SirTheSir> eddy = bescheiden
+[15:49:21] <Nafi von Fatz> @Fynmar is auch gefährlich... der captain könnte sich erschröckern
+[15:49:28] <Fynmar> @Milchalarm Das geht echt nicht
+[15:49:39] <+Bierhumpen> wieviel % bekommen die durch den affiliate link bei amazon ?
+[15:49:39] <Don Mixote> @DMC05 Geh mal wieder in die Schule 👿 🌝
+[15:49:40] <+Fabrice X.> alles wird anders diesesmal
+[15:49:44] <Darkeminence> Eddy ist der beste Mensch der Welt...neben Miriam 😀 😀
+[15:49:54] <Ist halt kein Dark Souls> App 4 von 98 wird optimiert ....
+[15:50:00] <+Fabrice X.> lillllla ?
+[15:50:01] <+Helmut Hummer> lilla
+[15:50:02] <Änni> lilla
+[15:50:03] <+Lightmare> lilla
+[15:50:12] <Thomas F.> Dennis R. würde ich gern bei TL sehen... 😞
+[15:50:14] <Dem Ede seine unverdaute Blutwurst> lilla
+[15:50:29] <btlasset> ich bin so weiß 😀
+[15:50:30] <Fünf Drei> "ich bin so weiß." 😀
+[15:50:30] <Simplex> kann bitte einer schreiben wie ede die farbe ausgesprochen hat?
+[15:50:30] <Steen Rai> russian?
+[15:50:35] <Simplex> habs verpasst
+[15:50:36] <Darkeminence> "ich bin so weiß" - Ben Koch 2016
+[15:50:37] <derbudz> Ich versteh das ganze Konzept nicht. Ist live. Yay.. Chat und Twitter werden ignoriert. Warum sollte ich mir das live ansehen wollen wenn ein Video das selbe bringt?
+[15:50:39] <Dem Ede seine unverdaute Blutwurst> lilla
+[15:50:47] <Gumma Power> ben nicht mehr rbtvLTD ?
+[15:50:49] <Dem Ede seine unverdaute Blutwurst> lilla
+[15:50:55] <Casperz> 😀 flo
+[15:51:04] <glueckskind> Bonjwa Ben
+[15:51:12] <3l Dud3r1nh0> der einzige Mehrwert ist Chad
+[15:51:12] <xzarrus> @derbudz Weil's nicht Live ist.
+[15:51:14] <moepmoep12> Suche mitspieler für csgo, selber global elite, könnt aber auch niedriger sein
+[15:51:16] <Boateng 111> @derbudz das hier ist grad nicht live
+[15:51:16] <Kaffeebohne122> derbudz heute nicht live sonst gehen sie manchaml auf chat und twitter ein
+[15:51:17] <NoR Cleaner> schonmal darüber nachgedacht wenn RBTV nich existieren würde ohje ein schrecklicher gedanke
+[15:51:47] <derbudz> Dann versteh ich das Logog gedönst nicht, mein Fehler. Sorry
+[15:51:55] <glueckskind> Dann hätte ich wohl ein normales Leben.. 😖
+[15:51:58] <SirTheSir> der mehrwert ist, wenn eddy alle bannt die sich über ihn lustig machen
+[15:52:01] <Gumma Power> oh oh shot called , flo hat ein schwaches glied
+[15:52:06] <Darkeminence> @NoR Cleaner du meinst...die dunkle zeit nach Game One? 😀 😀
+[15:52:09] <xzarrus> Aber über wen könnte ich denn dann ranten wenn RBTV nicht wäre ? 😖
+[15:52:18] <Dem Ede seine unverdaute Blutwurst> rekt
+[15:52:25] <keyboardcowboy666> arschleichen
+[15:52:34] <bitmud> Oha, das wird nix ;)
+[15:52:36] <Dem Ede seine unverdaute Blutwurst> Diese Runde wird jetzt lustig
+[15:52:40] <NoR Cleaner> ja genau schrecklich
+[15:52:44] <3l Dud3r1nh0> noobs vom sofa aus beschimpfen. Was gibts schöneres?
+[15:53:01] <maax276> Sk wins
+[15:53:02] <+RNE> 88 ist heutzutage nur mitte rechts? 😄
+[15:53:07] <bitmud> KONTAKT ;)
+[15:53:11] <3l Dud3r1nh0> dafür zahl ich doch GEZ
+[15:53:12] <xzarrus> Ranten und beschimpfen sind 2 paar Schuhe.
+[15:53:21] <Dem Ede seine unverdaute Blutwurst> rekt
+[15:53:22] <derbudz> Stoned noobs vom Sofa aus beschimpfen @3l Dud3r1nh0
+[15:53:24] <Darkeminence> 👮 Kontakt 👮
+[15:53:32] <tharos> warum bringt rene denen sone scheiße bei feelsbadman
+[15:53:37] <Lamantho> Pre show schon um 16:30? Da fuck?
+[15:53:40] <Don Mixote> Ich will Ace Olen sehen 😠
+[15:53:53] <Thomas F.> Ohje, die Runde werden sie zerstört. Das Ranking-System denkt bestimmt, weil sie eben rasiert haben, gegen gute Leute antreten zu lassen 😀
+[15:53:54] <bitmud> Du meinst noobs stoned vom sofa aus beschimpfen ;)
+[15:54:02] <Yuuseki> TANGO TANGO
+[15:54:10] <mYown Hierarchy GER> kann man bei google+ eigentlich nur vor und nachname ändern um nen nicknamen zu nutzen oder gibts irgendwo versteckt ein echtes nickname feld?
+[15:54:11] <3l Dud3r1nh0> stellt euch vor beim Musikantenstadl gäbs Chad. Wie man die schön rundmachen könnte. Die Schweine.
+[15:54:17] <glueckskind> Ist echt ein bisschen unglücklich mit der Pre-Show, aber GameTwo wird auch Leute locken 😃
+[15:54:18] <Beef Supreme> Hillary Clinton Turkey? xD
+[15:54:31] <der Hansmann kann> stoned jaay
+[15:54:31] <Darkeminence> 👮 Take Cover, TANGO down 👮
+[15:54:34] <AMS> Juhu bald Beards
+[15:54:35] <tharos> das ranking system rankt die einfach nur mit anderen gold nova 1s
+[15:54:42] <derbudz> Die reihenfolge ist egal @bitmud 😉
+[15:54:44] <+Ballerbecks> mvp eded
+[15:54:48] <+nofuckinghero2> Ede MVP 😯
+[15:54:57] <Yuuseki> @mYown Hierarchy GER siehste doch an meinem Namen 😃
+[15:55:04] <Fieser Fettsack> haha Rekt Bull xD
+[15:55:21] <+nofuckinghero2> @Beef Supreme turkey = truthahn 😀
+[15:55:24] <Dem Ede seine unverdaute Blutwurst> 88!
+[15:55:27] <Casperz> 😀
+[15:55:30] <bitmud> @derbudz ne, einmal sind die noobs stoned, einmal wir ;)
+[15:55:33] <glueckskind> hahah ben
+[15:55:34] <mYown Hierarchy GER> @Yuuseki was sehe ich da genau? 😀
+[15:55:47] <derbudz> Oder alle drei sussamen @butmud 😛
+[15:55:54] <derbudz> haha butmud
+[15:55:55] <xzarrus> Du siehst das er wein Weabo ist.
+[15:55:57] <vinc584> olli rasiert
+[15:55:57] <derbudz> *bitmud
+[15:56:00] <xzarrus> -w
+[15:56:01] <Darkeminence> Verflixxte Klixx und World of Wolfram usw. rauscutten u gleich zu Game Two wär mal geil 😀
+[15:56:08] <Alpacino1357> lol
+[15:56:10] <Sebb> killgeile
+[15:56:10] <Yuuseki> @mYown Hierarchy GER du möchtest hier bei YT einen 1-wort nick nutzen, ja?
+[15:56:12] <bitmud> Ich nehms nich übel ;)
+[15:56:18] <Ookler> Minecraft?
+[15:56:22] <Simplex> olli droppt wieder bullsht
+[15:56:23] <Darkeminence> Team Limited die griefer 🌝
+[15:56:25] <C_zer000> el meint seine Teammates nicht euch...
+[15:56:30] <derbudz> Ich bin mal kochen. Schönen Nachtmittag/Abend noch zusammen. Bai Bai
+[15:56:34] <pudelmuetz1> haha
+[15:56:34] <Don Mixote> Flo kennt sich aus 🌝
+[15:56:36] <C_zer000> *er
+[15:56:37] <xzarrus> Nein. Griefer sind Leute die anderen das Spiel kaputt machen. Rumtrollen etc. pp. Eben das was Rene sagt.
+[15:56:38] <Alpacino1357> 16:30 kommt p&p pre show?
+[15:56:42] <FourTwenty> dumm ist der der dummes tut mkay
+[15:56:50] <mYown Hierarchy GER> @Yuuseki, ja, aber bisher hab ich dafür meinen Vornamen einfach geändert, das ist aber irgendwie keine ordentliche Lösung.
+[15:56:50] <bitmud> Bit oder butt, is doch eh alles gleich ^^
+[15:57:05] <+nofuckinghero2> Nice
+[15:57:09] <Darkeminence> der OlenMagier!
+[15:57:12] <KamikazeJoe> jupp
+[15:57:14] <Don Mixote> F
+[15:57:15] <El hackerman> ohman 😀
+[15:57:16] <Yuuseki> @mYown Hierarchy GER ja du siehst doch wie viele Leute hier einen 1-wort Nick haben 😀
+[15:57:18] <+nofuckinghero2> F
+[15:57:21] <Spore809> es wäre cool wenn man den Namen oberhalb der facecam platziert damit man den Chat lesen kann
+[15:57:27] <Fieser Fettsack> olli spielt gut!
+[15:57:28] <+Lightmare> rush b Cyka blyat 😀
+[15:57:29] <+FrelleGames> Töte das Hun für Health!
+[15:57:34] <+RNE> wow 😀
+[15:57:34] <Execuse> LUL
+[15:57:34] <vinc584> wo?
+[15:57:34] <Don Mixote> Alle rennen in die AWP
+[15:57:35] <+minime> 😞
+[15:57:38] <1KillaChinchilla> wie dumm die einzeln reinlaufen
+[15:57:39] <SMSTRM> da is einer mit awe... alle weg
+[15:57:39] <Dem Ede seine unverdaute Blutwurst> rekt
+[15:57:40] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[15:57:40] <Keksi Keks> ist bei den cs streams das bild immer so kacke?
+[15:57:44] <Ionatic> omg wie können die denn alle 3 in den gleichen winkel der awp laufen? 😀
+[15:57:45] <TekkerTrancer> lool 😀
+[15:57:46] <glueckskind> rekt 😁
+[15:57:47] <Keksi Keks> das sind gefühlte 10 fps
+[15:57:50] <Yuuseki> @mYown Hierarchy GER du gehst auf google in deine Accountübersicht, klickst oben rechts auf dein Bild, dann öffnet sich ein Menü wo du den Punkt "Markenkonto" findest
+[15:57:58] <mYown Hierarchy GER> @Yuuseki hab ich ja auch gehabt bis vor 10 min 😀 nur halt nachname feld offen gelassen. weißt du denn wo ich das ändern kann?
+[15:58:00] <Thomas F.> Lol Ben 😀
+[15:58:02] <glueckskind> 2 Leute Mitte tot.. lass B gehen 🌝
+[15:58:05] <AgaliAMC> dumm
+[15:58:05] <%Dat_Olen> jetzt wirds geil
+[15:58:08] <%Dat_Olen> lel
+[15:58:11] <Yuuseki> @mYown Hierarchy GER dort kannst du unter deinem richtigen Account einen Sub-Account anlegen, wo du einen neuen Namen vergibst
+[15:58:17] <GrowUP> xD eine awe vorsichtig wo tot xD
+[15:58:19] <Fieser Fettsack> eddy laaabert die ganze zeit ^^
+[15:58:20] <glueckskind> spoiler
+[15:58:20] <Hafer Brei> ruhe wenn noch einer lebt
+[15:58:23] <+nofuckinghero2> @Dat_Olen SPoiler 🙈
+[15:58:29] <xzarrus> @Keksi Keks Ich kann dich beruhigen: es sind sogar 30 fps ! Krass oder ?!
+[15:58:29] <KamikazeJoe> isso
+[15:58:29] <Thomas F.> Olen macht alles alleine Hype
+[15:58:45] <+RNE> nicenstein
+[15:58:45] <+minime> 😯
+[15:58:45] <Fieser Fettsack> F
+[15:58:46] <Don Mixote> 😯//
+[15:58:46] <xzarrus> Krass Oli ! 😯
+[15:58:46] <KamikazeJoe> Ich wäre ausgerastet, bei dem Gelaber von Ede
+[15:58:46] <Christian H> f
+[15:58:46] <Ar Be> nicenstein
+[15:58:47] <SuperStirling> Jaaaaaaaaaaaa 💜
+[15:58:47] <+FrelleGames> nice Herr Olen
+[15:58:47] <shrpdrts> FFFFF
+[15:58:48] <SMSTRM> wow nice oli
+[15:58:48] <Gumma Power> nice ole !!
+[15:58:48] <+Lightmare> myp olli
+[15:58:48] <Dem Ede seine unverdaute Blutwurst> f @Dat_Olen
+[15:58:48] <Spektugalo> F
+[15:58:49] <Drehwespe> F
+[15:58:49] <Ar Be> F
+[15:58:49] <Ookler> Olen ftw
+[15:58:50] <Thomas F.> Bam F
+[15:58:50] <+Ballerbecks> F
+[15:58:50] <+DOOM Design> F
+[15:58:50] <Hafer Brei> 💜
+[15:58:52] <Stephan> Olli MVP
+[15:58:52] <Eduard Laser> nicenstein
+[15:58:52] <Sierra Hotel> F
+[15:58:52] <AgaliAMC> F
+[15:58:54] <Le Revenant> f
+[15:58:54] <Kiri> ham die andern eig nen kill gemacht?
+[15:58:54] <Hafer Brei> f
+[15:58:54] <%Dat_Olen> 😚 ACED
+[15:58:54] <Sebb> ACE
+[15:58:55] <Darkeminence> @Dat_Olen du Einzelgänger 😉 😀
+[15:58:56] <HavocMacdeth> 😀 F
+[15:58:57] <KamikazeJoe> F
+[15:58:58] <TwilightHighlight> F
+[15:58:59] <Sebb> ACE OLE
+[15:59:00] <SirTheSir> 4sec bis rundenende gegner alles richtig gemacht
+[15:59:00] <titty twister> f
+[15:59:01] <bitmud> !tl olli
+[15:59:02] <Phos> F
+[15:59:02] <Fabian We> F
+[15:59:02] <llNeevall> Respekt an olli, bei dem gelaber würd ich durch drehen
+[15:59:05] <OMEKBEATS> der CT hätte einfach warten können
+[15:59:05] <glueckskind> 😚
+[15:59:05] <Nafi von Fatz> banane 😮
+[15:59:05] <Evoseven1> sicke moves von olli
+[15:59:06] <TekkerTrancer> respekt
+[15:59:06] <+MasterRaik> Olen!
+[15:59:07] <Alex Zimmer> f
+[15:59:07] <3l Dud3r1nh0> es nennt sich: ADRENALIN
+[15:59:07] <du depp> wow
+[15:59:08] <Dem Ede seine unverdaute Blutwurst> Tatsächlich Ace?
+[15:59:09] <Fieser Fettsack> war das ein ace?
+[15:59:14] <Keksi Keks> @ xzarrus hab ich irgendwie ironisch gefragt? ich kann auf solche antworten verzichten; thx
+[15:59:16] <Sebb> @Dat_Olen saubere dinger will mitspielen 😀
+[15:59:16] <+maduk_> OLE = Carry
+[15:59:17] <Anno199> F
+[15:59:18] <%Dat_Olen> ja war ein ace
+[15:59:21] <du depp> aber wie die nicht die fresse halten
+[15:59:23] <maax276> Ich bin auch Gold Nova 2
+[15:59:30] <Fieser Fettsack> GG wp xD
+[15:59:32] <Dem Ede seine unverdaute Blutwurst> BINGO!
+[15:59:33] <Darkeminence> boahich kenn das mit dem Herzrasen auf der Map aber auch 😀
+[15:59:35] <Ionatic> ben hat eben in der runde einen gekillt
+[15:59:36] <craisy88> kein ace... ben hatte einen onspot
+[15:59:36] <Lennart Wolters> Ich freu mich schon auf das match gegen bonjwa 😀
+[15:59:36] <BrascoGaming> 😂
+[15:59:37] <Hyphistos> lol
+[15:59:44] <MrScamsonite> Flo stand auf ihm drauf
+[15:59:47] <Yuuseki> @mYown Hierarchy GER weiß nicht mehr genau wie das dort funzt, aber irgendwo darüber kannst du ein neue4s "Markenkonto" hinzufügen
+[15:59:47] <AgaliAMC> omg
+[15:59:48] <Sebb> @Dat_Olen ist never nur nova2
+[15:59:49] <+RNE> von der clinton in den rücken geschossen worden 😞
+[15:59:56] <HavocMacdeth> killary
+[15:59:57] <Fieser Fettsack> @dat_olen jetzt sag noch einmal "woher??" dan hab ich n bingo xD
+[15:59:59] <%Dat_Olen> ich bin sogar nur gold nova 1 😖
+[16:00:02] <Alex Zimmer> ff
+[16:00:09] <xzarrus> @Keksi Keks Ich wollt dir was gutes tun indem ich dir sage, dass dein Auge sogar 20 fps mehr wahrnimmt und nun reagierst du so ? Echt nicht toll von dir ! 😖
+[16:00:09] <Sven Krause> Geht die Beards Pre-Show nur ne halbe Stunde?
+[16:00:12] <+bananeBANANE> Klappa
+[16:00:13] <shrpdrts> ole on fire
+[16:00:14] <+MasterRaik> F
+[16:00:15] <TekkerTrancer> 😀
+[16:00:16] <+Lightmare> 😀 //
+[16:00:21] <Fieser Fettsack> läuft bei olli diese runde
+[16:00:24] <Thomas F.> Snipergod
+[16:00:24] <+nofuckinghero2> Ole MVP 😯 //
+[16:00:29] <Hyphistos> naja @Dat_Olen das ist ja eher ne Teamwertung 😉
+[16:00:29] <Kamaru1991> zum glück beginnt gleich die pree show
+[16:00:32] <+RNE> kauf mir bitte auch ne AK Ole
+[16:00:32] <Sebb> @Dat_Olen wie kommts 😮 kauf ich dir ne ab.. du spielst besser als ich und ich bin nova 3 😀
+[16:00:33] <KamikazeJoe> Ole Carrygold
+[16:00:36] <Darkeminence> läuft bei Olen immer....
+[16:00:39] <Murphy60> nein Eis Video cool danke
+[16:00:48] <Murphy60> nice
+[16:00:49] <%Dat_Olen> naja wenn ich mehr spielen würde würde ich sicher auch mal hochgestuft werden hab halt nicht SO viel zeit
+[16:00:52] <Michel Pastoor> !plan
+[16:00:53] <%Sendeplan> @Michel Pastoor: Den aktuellen Sendeplan findest du hier: https://www.rocketbeans.tv/wochenplan/
+[16:00:57] <NaMaMe> Dat_Olen finds echt super dass du dir auch immer das Feedback der "csgo-cracks" durchliest und wenn sinnvoll zu Herzen nimmst
+[16:01:01] <Don Mixote> Die anderen im Tl ziehen Olli runter 🌝
+[16:01:04] <3l Dud3r1nh0> ohne Salz schmeckt die Suppe nicht
+[16:01:12] <Sebb> @Dat_Olen wofür gibts urlaub XD
+[16:01:13] <Alexander Graefe> test?
+[16:01:13] <%Dat_Olen> @NaMaMe will ja auch effektiv besser werden
+[16:01:16] <+Lightmare> jedes mal ist er da
+[16:01:27] <Alexander Graefe> @Yuuseki
+[16:01:33] <+nofuckinghero2> @dat_olen vllt mal bonjwa zuschauen und lernen 🌝
+[16:01:34] <Alexander Graefe> läuft nicht so gut 😀
+[16:01:48] <glueckskind> Ben 😁
+[16:01:49] <Yuuseki> @Alexander Graefe 😀
+[16:01:53] <+Helmut Hummer> rip Ben 😭
+[16:01:59] <%sLuG> "der Slug nicht"
+[16:02:00] <%sLuG> ?
+[16:02:02] <GamerHund> Ben, das war boosted
+[16:02:02] <NaMaMe> Dat_Olen Merkt man. Grad bei so einem Format wie ranked, macht das echt viel aus 😃
+[16:02:03] <SirTheSir> ben ist cs go aktiv, alle 4 wochen 2h
+[16:02:05] <3l Dud3r1nh0> Kein Ton. AusrEDE
+[16:02:08] <KamikazeJoe> macht doch ne taktische pause
+[16:02:10] <KamikazeJoe> omg
+[16:02:16] <du depp> chaos
+[16:02:16] <%Dat_Olen> @nofuckinghero2 ich schau jedes mal bei bonjwa zu 🌝
+[16:02:20] <+Sepp Gankler> nehmt doch einen timeout
+[16:02:28] <tinimaus1986> Kein Ton!
+[16:02:38] <%sLuG> hab ich grade Timeout gehört? 😀
+[16:02:39] <+Lightmare> wenn ben kein ton hat, dann läuft alles nicht mehr 😀
+[16:02:50] <C_zer000> müsste nur ma jemand den ausszeit vote starten 😀
+[16:02:59] <+nofuckinghero2> @dat_olen nächstes mal bringst du dann deren op tactics mit ein 😀
+[16:03:00] <+RNE> "einfach alles abaimen" ist auch ne geile ansage 😀
+[16:03:05] <J. Jay> 👉👌
+[16:03:07] <tinimaus1986> Hab ich mich erschrocken!
+[16:03:20] <3l Dud3r1nh0> weil einfach einfach usw.
+[16:03:21] <+bananeBANANE> awe maria
+[16:03:25] <Darkeminence> alles abaimen mlg mvp OG
+[16:03:30] <Fieser Fettsack> joo olli springt mit pistole als erster vom balkon auf A obwohl er die awe hat und die anderen alle ne mp xD der jung hat bock xD
+[16:03:33] <3l Dud3r1nh0> 😀
+[16:04:01] <Jay Kay> Ede eingschlafen?
+[16:04:04] <Jay Kay> 😀
+[16:04:04] <xzarrus> 😂
+[16:04:05] <Kevin Kowkaa> lol
+[16:04:05] <SMSTRM> 😑
+[16:04:06] <XenoN> 😀
+[16:04:06] <+Helmut Hummer> 😂
+[16:04:07] <Darkeminence> 😑
+[16:04:08] <mega maxl> Guten Tag^^ 🙋
+[16:04:08] <shrpdrts> nun...
+[16:04:09] <Dem Ede seine unverdaute Blutwurst> Hahahaha ben 😀
+[16:04:09] <Domi Gonzalez> LOL
+[16:04:09] <+MasterRaik> lol
+[16:04:11] <Thomas F.> 😀
+[16:04:12] <Casperz> hahaha
+[16:04:12] <+nofuckinghero2> 😂
+[16:04:13] <+Helmut Hummer> gg Ben 😂
+[16:04:13] <3l Dud3r1nh0> omg
+[16:04:16] <+XAxeX> cFFF
+[16:04:17] <+Bierhumpen> 😀
+[16:04:18] <+XAxeX> xDDD
+[16:04:18] <xzarrus> Als würden sie zum ersten mal nen Headset aufhaben...
+[16:04:21] <HavocMacdeth> 😀
+[16:04:22] <Alex Zimmer> l
+[16:04:25] <Darkeminence> der Ton cheatet
+[16:04:29] <+RNE> weil ein ein auto nicht gut fährt wenn es nur 3 tonräder hat 😄
+[16:04:30] <+Lightmare> 😀 zu viele räder
+[16:04:31] <glueckskind> Logitech - Gute Produkte 😺
+[16:04:33] <Thomas F.> Ich feier den Ben so krass 😀
+[16:04:34] <Jay Kay> Flozen kackt ab
+[16:04:34] <xzarrus> Richtig peinlich Ben, richtig peinlich.
