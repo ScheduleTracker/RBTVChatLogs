@@ -4891,3 +4891,297 @@
 [12:04:26] <ninthprime> !calc (2 ^ 66) % 67
 [12:04:28] <Bohnen Matze> Die wollen den Bot zerstören 😖
 [12:04:38] <+chusak> !calc sqrt(25) * 5
+[12:04:44] <Svarsmannen> 10/0=oo 😉
+[12:05:00] <%501.legion> !wichteln
+[12:05:01] <%Sendeplan> Am 1.12. geht das große Community Wichteln wieder los! Jetzt mitmachen: https://wichteln.rocketspeak.de/
+[12:05:06] <FreeDoom z> !quote
+[12:05:31] <JanglesThe MoonMonkey> Wichteln klingt versaut
+[12:05:31] <%Sendeplan> "Ist halt kein Dark Souls" - Etienne G.
+[12:05:33] <%Sendeplan> Nehmt teil an unserem Jingle Beans-Gewinnspiel: https://www.rocketbeans.tv/blog/jingle-beans-die-expert-wunschaktion/
+[12:05:43] <Bohnen Matze> Ich wichtel meinen Nachbarn bald ab.
+[12:05:53] <+chusak> !calc sqrt(25) * 5
+[12:05:54] <%Sendeplan> @chusak: Sorry, diese Aufgabe kann ich nicht lösen 😞
+[12:06:12] <JanglesThe MoonMonkey> Was sagt seine frau dazu?
+[12:06:18] <FreeDoom z> !calc 10 / 0
+[12:06:26] <+chusak> !calc 0-100000000000000
+[12:06:31] <%Sendeplan> @chusak: Das Ergebnis ist -100000000000000
+[12:06:33] <Hans Peter> !calc Ede + Nils
+[12:06:36] <%thomate67> @chusak Sendeplan kann nur Grundschul Mathe
+[12:06:46] <FreeDoom z> !calc sqrt(-9)
+[12:07:07] <Svarsmannen> 3i
+[12:07:08] <%Sendeplan> @FreeDoom z: Sorry, diese Aufgabe kann ich nicht lösen 😞
+[12:07:16] <JanglesThe MoonMonkey> Heroquest!
+[12:07:18] <Bohnen Matze> !calc 1338-1 * 1337
+[12:07:23] <+chusak> und nur integer?
+[12:07:29] <Max Power> wenn ich almost playly einschalte, stell ich mich sowieso drauf ein, dass es langweilig wird
+[12:07:44] <Marius A.> !calc 544 + 793
+[12:07:46] <%Sendeplan> @Marius A.: Das Ergebnis ist 1337
+[12:07:50] <%501.legion> @chusak ja 😞
+[12:07:52] <+chusak> !calc 0 - 2147483647-1
+[12:07:58] <Effects Grinder> <------Free sound effects for your videos!
+[12:08:03] <Hans Peter> !calc ( !calc 1 + 2 ) + ( !calc 1 + 2 )
+[12:08:05] <+chusak> 😖
+[12:08:07] <%thomate67> float kostet auch zuviel
+[12:08:35] <Marius A.> !calc 5/7
+[12:08:35] <Dreck Fresse> !calc 210*2
+[12:08:36] <%Sendeplan> @Marius A.: Das Ergebnis ist 0
+[12:08:49] <+chusak> !calc 0 - 2147483647-1
+[12:09:13] <%Sendeplan> @chusak: Das Ergebnis ist -2147483648
+[12:09:25] <Marius A.> !calc -10 - 10
+[12:09:48] <Marius A.> !calc 10 - 10
+[12:09:51] <AgaliAMC> !calc 5/2
+[12:09:52] <%Sendeplan> @Marius A.: Das Ergebnis ist 0
+[12:10:06] <ninthprime> !calc 2^64
+[12:10:13] <MirkoPhon> !calc 1+2+3+4+5+6+7+8+9+10
+[12:10:16] <Marius A.> !calc (-10) + 10
+[12:10:19] <AgaliAMC> !calc 5/2
+[12:10:29] <%Sendeplan> @AgaliAMC: Das Ergebnis ist 2
+[12:10:33] <+chusak> der chat - besser als jeder beta tester 😀
+[12:10:36] <washiXD> !calc 100 - 12
+[12:10:43] <mee myself> wessen idee war der taschenrechner? 😑
+[12:10:44] <AgaliAMC> nichtmal aufrunden tut er
+[12:10:46] <%PandaBlack> Was ist hier los?
+[12:10:54] <Bohnen Matze> !calc 100 - 101
+[12:10:56] <%PandaBlack> Ahoy hoy
+[12:10:58] <Marius A.> !calc 1.2 - 0.2
+[12:11:05] <%Sendeplan> @Marius A.: Das Ergebnis ist 1
+[12:11:11] <+That is CORRECT!!! You are CORRECT!!!> !calc 0 - 1
+[12:11:32] <Marius A.> !calc 10/2
+[12:11:42] <%Sendeplan> @Marius A.: Das Ergebnis ist 5
+[12:11:43] <Guy Proteus> !calc NaN + NaN
+[12:11:49] <Marius A.> !calc 10/0
+[12:11:52] <+That is CORRECT!!! You are CORRECT!!!> !calc 0-1
+[12:11:53] <OfficialMSA Mixes> Ich fänd Dont Starve Together mal ganz gut hier 😃 (es sei denn das gabs schon, bin noch nicht lang dabei)
+[12:12:03] <FreeDoom z> !calc (1+1)^2
+[12:12:08] <Bohnen Matze> gabs schon
+[12:12:09] <JanglesThe MoonMonkey> Gabs
+[12:12:09] <MirkoPhon> !calc 1+2+3+4+5
+[12:12:10] <%PandaBlack> @OfficialMSA Mixes gab es mal mit Andreas und Florentin
+[12:12:20] <%PandaBlack> Könnten aber ruhig mal weitermachen 😀
+[12:12:26] <Marius A.> !calc 10 - null
+[12:12:26] <%Sendeplan> @Marius A.: Sorry, diese Aufgabe kann ich nicht lösen 😞
+[12:12:30] <+chusak> !calc (!calc 5*2) + (!calc 5+5)
+[12:12:31] <OfficialMSA Mixes> ahhhhhh okay und war gut oder doch eher ernüchternd?
+[12:12:54] <Marius A.> !calc null
+[12:13:03] <%Sendeplan> @Marius A.: Sorry, diese Aufgabe kann ich nicht lösen 😞
+[12:13:09] <JanglesThe MoonMonkey> Ich find den artstyle nais
+[12:13:25] <Guy Proteus> !calc
+[12:13:27] <%PandaBlack> @OfficialMSA Mixes kannten beide das Game nicht aber Florentin hat es recht schnell verstanden. War unterhaltsam. 😃
+[12:13:31] <Bohnen Matze> Dann geh mal auf Cyanide and Happiness
+[12:13:33] <FreeDoom z> !calc 5
+[12:13:40] <%Sendeplan> @FreeDoom z: Das Ergebnis ist 5
+[12:13:42] <Bohnen Matze> Gibts glaub ich bald seit 10 jahren schon
+[12:13:46] <Marius A.> !calc 10 + parseInt('5')
+[12:13:54] <OfficialMSA Mixes> ja stimmt 😃 schön, werd mal nach wiedewrholungen suchen 😃
+[12:14:03] <FreeDoom z> !calc ede + grumpy
+[12:14:08] <JanglesThe MoonMonkey> spielt das eigentlich irgendwie im cthulu/lovecraft universum? kam mir so vor
+[12:14:50] <%PandaBlack> @JanglesThe MoonMonkey hat viele Anlehnungen aber ist nicht des Universums. Zumindest habe ich da nichts drüber gelesen 😃
+[12:14:51] <Marius A.> !calc 10 + a
+[12:15:12] <OfficialMSA Mixes> @JanglerThe MoonMonkey Kenn ich nichtm, was ist das ?
+[12:15:29] <Marius A.> !calc 10 + 5
+[12:15:30] <JanglesThe MoonMonkey> Thx Panda
+[12:15:50] <%501.legion> nix mehr mit Rechnen 😞
+[12:15:53] <Guy Proteus> !calc 5');alert('hello world');//
+[12:15:57] <Marius A.> fuck taschenrechner wurde abgestellt
+[12:16:14] <%PandaBlack> @Sendeplan kann nun nicht mehr rechnen 🌝
+[12:16:46] <FreeDoom z> !quote
+[12:17:03] <Marius A.> @Guy Proteus nice try
+[12:17:26] <JanglesThe MoonMonkey> @mixes eine fantasywelt die von einem Schriftsteller namen Lovecraft erdacht wurde könnte man grob sagen google for further info
+[12:18:15] <Marius A.> entweder wurde der taschenrechner abgestellt, oder wir haben den parser zerschossen
+[12:18:26] <%PandaBlack> ersteres 😛
+[12:18:30] <%501.legion> !sendeplan
+[12:18:37] <%501.legion> rip 😞
+[12:18:49] <AgaliAMC> !quote
+[12:18:53] <%PandaBlack> jetzt fummelst alles kaputt @501.legion 😦
+[12:19:04] <%thomate67> @501.legion toll, du solltest ihm nicht den kompletten Bolzenschuss verpasen
+[12:19:11] <AgaliAMC> gut gemacht Marius A.
+[12:19:18] <Lukas Sasisz> was soll hier auf youtube nochmal der vorteil zu twitch sein?
+[12:19:22] <JanglesThe MoonMonkey> verparsen
+[12:19:37] <OfficialMSA Mixes> Dunno
+[12:19:38] <Marius A.> deshalb können wir keine schönen sachen haben 😞
+[12:19:48] <%thomate67> @Lukas Sasisz YT heult nicht wegen jedem zweiten konzept rum
+[12:19:54] <%PandaBlack> @Lukas Sasisz mehr non gaming content ohne Probleme 😃
+[12:20:16] <+Lubitzkie> so wie dosenbeats? 🌝
+[12:20:23] <Lukas Sasisz> monetarisierungsmöglichkeiten sind aber auf twitch besser oder sehe ich dass falsch
+[12:20:24] <%PandaBlack> @Lubitzkie 🌝
+[12:20:43] <%PandaBlack> @Lukas Sasisz rein vom live stream? Werbung kannst auch hier schalten
+[12:20:49] <Lukas Sasisz> subs
+[12:20:56] <%PandaBlack> Subs gibt es auch hier
+[12:21:02] <%PandaBlack> VIPs heißen die hier
+[12:21:11] <Lukas Sasisz> wo kann man des kaufen
+[12:21:47] <AgaliAMC> auf dem fetten VIP werden Butten
+[12:21:50] <%PandaBlack> https://gaming.youtube.com/rocketbeanstv/live
+[12:21:53] <+D' Artagnan> Über YT Gaming den Kanal schauen und dann unten auf VIP werden
+[12:22:29] <Lukas Sasisz> da supporte ich lieber amazon
+[12:22:44] <%PandaBlack> @Lukas Sasisz Viel Spaß 😃
+[12:22:49] <AgaliAMC> das bleibt dir frei
+[12:23:03] <MirkoPhon> well that escalated quickly
+[12:23:25] <Bohnen Matze> Classic Diggermc, der ja auhc lieber amazon supported
+[12:23:34] <Bohnen Matze> Jaja, amazon und google. die armen armen unternehmen!
+[12:24:30] <CallOfDutyGamer 1934> moin
+[12:24:55] <JanglesThe MoonMonkey> sperrt amazon nicht ihre mitarbeiter in gulags und füttert sie mit kinderarbeitern aus kambodscha?
+[12:25:05] <Bohnen Matze> Das Goldroger Album ist easy das beste weas ich dieses jahr gfehört habe
+[12:25:32] <prinzvaliumx> warum will der den Mond bemalen? o_O
+[12:25:57] <Lui> da singt krogis bruder 😯
+[12:26:01] <IDraftyI> High as a kite
+[12:26:28] <JanglesThe MoonMonkey> Hast die farbe schon gesehen? Locker mrd jahre keinen anstrich gehabt
+[12:26:30] <hans worscht> fetter sound
+[12:26:31] <waldor90> Maeckes Tilt war doch auch nice!
+[12:26:46] <+Sebastian Striggow> moin moin
+[12:27:21] <Leimking> Morsche
+[12:28:52] <Sebb> POWERNEBEL
+[12:29:02] <+Sebastian Striggow> energienebel
+[12:29:06] <JanglesThe MoonMonkey> auswaschen wär halt klug
+[12:29:29] <Bohnen Matze> hör auf mit logik zu kommen hier
+[12:29:32] <+Sebastian Striggow> auswaschen. vll auch noch bedienungsanleitung lesen oder was
+[12:29:32] <Bohnen Matze> 👿
+[12:29:44] <Sebb> XD
+[12:30:00] <Sebb> immer wieder geil!! kann man 20 wiederholungen anugggen und ist geil
+[12:30:20] <+Sebastian Striggow> krogi ist auch der beste^^
+[12:30:27] <ninthprime> !calc (2 ^ 66) % 67
+[12:30:28] <JanglesThe MoonMonkey> Smoke auf K
+[12:30:33] <%Sendeplan> @501.legion: Den aktuellen Sendeplan findest du hier: https://www.rocketbeans.tv/wochenplan/
+[12:30:40] <Kreis> 420!
+[12:30:41] <%501.legion> danke 🌝
+[12:30:42] <%PandaBlack> wow @Sendeplan
+[12:30:44] <Lui> 🙏💥
+[12:30:51] <faei1994> 420 blaze it
+[12:30:54] <Sebb> @Sendeplan wir lieben dich 💜
+[12:31:19] <%PandaBlack> !wichteln
+[12:31:20] <%Sendeplan> Am 1.12. geht das große Community Wichteln wieder los: https://wichteln.rocketspeak.de/
+[12:31:28] <%PandaBlack> 😄
+[12:31:36] <Sebb> ABOZE
+[12:31:44] <Fritz Kalus> getz gehts richtig los
+[12:32:07] <+Sebastian Striggow> !wichteln =?
+[12:32:26] <+Sebastian Striggow> öy
+[12:32:28] <%Sendeplan> Am 1.12. geht das große Community Wichteln wieder los: https://wichteln.rocketspeak.de/
+[12:32:28] <+Sebastian Striggow> ^^
+[12:32:32] <+Sebastian Striggow> danke!
+[12:32:48] <JanglesThe MoonMonkey> Ja
+[12:33:16] <Marius A.> !w').concat('ichteln')
+[12:33:22] <%Sendeplan> @501.legion: Den aktuellen Sendeplan findest du hier: https://www.rocketbeans.tv/wochenplan/
+[12:33:26] <Bastian Kaibonator> wer ist alles krank ?
+[12:34:12] <Sebb> magen darm hier!
+[12:34:12] <Avayo Music> hier 😞
+[12:34:29] <+Sebastian Striggow> alter sebb steck mich nicht an!
+[12:34:38] <JanglesThe MoonMonkey> Bipolar hier
+[12:34:40] <faei1994> magen darm gedöns geht im moment wieder runm
+[12:34:47] <Sebb> *handreichen*
+[12:34:54] <+Sebastian Striggow> *ableck*
+[12:34:58] <Sebb> XD
+[12:35:13] <Buettling> Schmeckt kotig? 😮
+[12:35:14] <Robin Sperling> Mich hats auch erwischt -.-
+[12:35:32] <Thomas Müller> MANOWAR
+[12:35:36] <+Sebastian Striggow> bisschen körnig. zuviele nüsse gegessen der gute
+[12:35:50] <Buettling> 😀
+[12:36:15] <Buettling> Sheesh... arbeiten gehen 😞
+[12:36:18] <Fritz Kalus> mannowaaaaar 💜 !!
+[12:36:36] <+Sebastian Striggow> öbuettling sei mal etwas flyer
+[12:37:57] <Sebb> Sebastian nur pizza mit mais 😀
+[12:38:15] <ph!L> vielleicht kann der dich über die schlucht klatschen?
+[12:39:23] <+Sebastian Striggow> solange es kein roher purer mais war. ich hasse das
+[12:39:27] <+Diplomat999> was war da los bei Moin Moin .. Krogmann stand im Plan und auf einmal ist Gregor da ... Hat der dazu iwas gesagt?
+[12:39:40] <+Sebastian Striggow> ansonsten kannst du deine hand alleine lecken!
+[12:39:59] <Marius A.> Krogmann ist als Kind in den Ritalin Kessel gefallen
+[12:40:27] <+Sebastian Striggow> ach deshalb ist er immer so ruhig und gar nciht hippelig
+[12:40:34] <spicyrubber> Wie Micha hats auch erwischt??
+[12:40:44] <Mangamaniac71> Ritalin ist doch GEGEN ADHS
+[12:40:48] <+Sebastian Striggow> ist ja weitläufig bekantn das retalin einen richtig aufputscht^^
+[12:40:55] <+Sebastian Striggow> ^^
+[12:41:27] <Marius A.> Ups
+[12:41:28] <ninthprime> @Mangamaniac71 Ritalin macht sich so genannte paradoxe Wirkung zu nutze... wer kein ADHS hat und Ritalin nimmt bekommt die Symptome.
+[12:41:32] <+Sebastian Striggow> ^^
+[12:41:46] <+Sebastian Striggow> echt?
+[12:41:52] <ninthprime> @Sebastian Striggow tut es... es ist chemisch dem Kokain sehr ähnlich.
+[12:41:57] <JanglesThe MoonMonkey> Billig speed
+[12:42:00] <Mangamaniac71> wenns im chat steht, glaub ichs
+[12:42:09] <+Sebastian Striggow> das doch diese quantemphysik sche*ssse^^
+[12:42:18] <DasKame> Chad sagt nur die Wahrheit
+[12:43:30] <JanglesThe MoonMonkey> SPALTEN
+[12:43:45] <Mangamaniac71> warum suchen eigentlich Schröckert und Uke zusammen mit der Berliner Polizei nach Darth Vader?
+[12:44:16] <JanglesThe MoonMonkey> Der hat haufenweise Jdi ermordet
+[12:44:27] <JanglesThe MoonMonkey> *Jedi
+[12:44:30] <Mangamaniac71> #BerlinsuchtVader
+[12:44:52] <Mangamaniac71> oder beim Todessternbau Steuern hinterzogen?
+[12:44:58] <+Sebastian Striggow> goldständers vaaaaaddder
+[12:45:09] <JanglesThe MoonMonkey> GarantiertGarantiert
+[12:45:28] <+Darkschelm> Steuerhinterziehung sonst gewegt sich die Polizei nicht mehr.
+[12:45:36] <Jan Looser> der stirbt
+[12:45:55] <+Diplomat999> haben wohl nix besseres zu tun
+[12:45:55] <ninthprime> nicenstein!
+[12:45:58] <JanglesThe MoonMonkey> Und schwarzarbeiter beschäftigt, von den klonen war auch keiner gemeldet
+[12:46:15] <Marius A.> mögt ihr alle das Format?
+[12:46:27] <ninthprime> lebkuchenmann sollte sich einen anderen frisör suchen
+[12:46:37] <ninthprime> @Marius A. ja
+[12:46:53] <+Diplomat999> ya
+[12:47:13] <Haabiii> ist das dieser berüchtigte Krogmann Krazy Kommunity Klub?
+[12:47:15] <Sebb> RUBINKLINGE
+[12:47:15] <alex612411> gothic ist einfach maximale realität
+[12:47:17] <Chris R.> mittlerweile wird beim kämpfen ja gar nicht mehr so hart gesuckt
+[12:47:27] <GrowUP> xD
+[12:47:29] <Sebb> SPOILER
+[12:47:30] <JanglesThe MoonMonkey> Ich schau prinzipiell formate die ich nicht mag, zum abhaten
+[12:47:34] <GrowUP> he
+[12:47:35] <Mangamaniac71> Krogmans 4K TV
+[12:48:17] <Fritz Kalus> xD
+[12:48:25] <Sebb> R U B I N K L I N G E
+[12:48:42] <Sebb> whackes schwerd braucht keiner
+[12:48:50] <Sebb> dddddd
+[12:48:50] <JanglesThe MoonMonkey> Gleich smoked krogmann den häserblock xD
+[12:48:56] <Marius A.> ist der Krogmann nicht bisschen zu gezwängt lustig?
+[12:49:03] <+Fabrice X.> wer hat hier den slowmode wieder entfernt...
+[12:49:15] <Mangamaniac71> das ist schon immer seine Art
+[12:49:20] <Sebb> doppelläufiges schwert XD
+[12:49:34] <Mangamaniac71> ist als Baby in den Enterteiner-Kessel gefallen
+[12:50:06] <Marius A.> ist doch eher anstrengend als lustig
+[12:50:25] <+Diplomat999> wieso guckst du es dann ?
+[12:50:38] <Mangamaniac71> no pian no lustig gain
+[12:50:40] <Sebb> viel spaß chad 💜 bin erstma weg
+[12:50:42] <Marius A.> weil ich immer RBTV gucke
+[12:50:46] <GrowUP> finde es angenehm zuschauen 😃
+[12:51:31] <IggiEletten> glaub da war noch eine kiste wo der erste steinwächter war
+[12:51:44] <Marius A.> ist nicht live
+[12:51:57] <DasKame> Ich sehe das genau wie [USER] hier, guter Spruch zu [THEMA] lieber [USER] 💜
+[12:52:44] <%Sendeplan> Test
+[12:52:53] <+Diplomat999> Voteban
+[12:52:54] <%501.legion> Test erfolgreich 😛
+[12:52:55] <+Fabrice X.> sendeplan los mach slowmode wieder an
+[12:53:04] <%501.legion> kann er nicht, sorry 😀
+[12:53:12] <%Sendeplan> Test123
+[12:53:42] <+Fabrice X.> wie kann man denn mit 2 accs online sein
+[12:53:46] <GrowUP> ftw wtf 321tset
+[12:53:51] <+Fabrice X.> legion ist doch ein hexer! verbrennt ihn
+[12:53:57] <%501.legion> 😀
+[12:53:58] <Maaze N> !gothic ja
+[12:54:13] <%Sendeplan> 😀
+[12:54:15] <%501.legion> 😀
+[12:54:28] <+Fabrice X.> TUE BUSE
+[12:54:35] <Henry Mackowiak> !gothic ja
+[12:54:36] <Darktoad WoW> !gothic ja
+[12:54:38] <+Diplomat999> ß
+[12:54:41] <+Fabrice X.> Buße*
+[12:54:54] <+Diplomat999> oder N
+[12:55:11] <+Fabrice X.> tue busen mit nippel ? 🌝
+[12:55:26] <+Diplomat999> mit Milch
+[12:56:27] <GrowUP> xD
+[12:56:54] <+Fabrice X.> das mit dem ork schlachten werden wir noch sehen. ich hab zuerst auch addon gemacht, und nur mit müh und not die fucking viecher gekilled
+[12:57:02] <hans wurst> hallo
+[12:57:15] <+Diplomat999> High
+[12:57:44] <+Fabrice X.> dann denkst du dir "easy komme einfach im nächsten akt zurück". kommste raus -> suchende in die fresse. noch schlimmer als orks...
+[12:58:38] <Chris R.> wenn sie sich die stärke boni auch direkt ballern wirds schwer im endgame 😀
+[12:59:06] <+Fabrice X.> finde endgame recht leicht
+[12:59:25] <+Fabrice X.> bei den drachen einfach einen dämon beschwören. game over
+[13:00:58] <+Fabrice X.> und mit beliars klaue gehen die orks und suchende irgendwann weg wie nix 💜 donner von oben
+[13:01:07] <+Viper3062> Shooter auf Konsole LUL
+[13:01:56] <+Viper3062> Pika
+[13:03:05] <SuffihasSuff> wenn das ding losnebelt, wirds geil
+[13:03:25] <SuffihasSuff> schaut mal dann auf links oben, da schießt der qualm unter dem sofa durch
+[13:03:30] <100 subscribers challenge> what language r they speaking?
+[13:03:41] <+Diplomat999> French
+[13:03:48] <xzarrus> mongolian 😏
+[13:03:52] <100 subscribers challenge> ohhhhh
+[13:03:56] <100 subscribers challenge> kk
+[13:04:02] <+DMC05> amazon hat die zweite fure gebracht ^^ Weihnachten 2.0 ^^
+[13:04:10] <+Diplomat999> German
+[13:04:34] <SuffihasSuff> gleich sieht man nix mehr
+[13:04:36] <+Andro> rip michas in 3...
