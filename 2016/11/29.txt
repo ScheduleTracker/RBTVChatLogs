@@ -3475,3 +3475,548 @@
 [12:04:29] <%501.legion> ne xD
 [12:04:34] <Kornbert der Maiskolben> auch wenn ich meine idee nicht sonderlich ausgeführt habe finde ich es interessant, das leute ideen hier grundsätzlich sofort zerreisen
 [12:04:35] <splex0007> @Sendeplan geh nach hause du bist betrunken👿
+[12:04:42] <+DMC05> !voteban Sendeplan
+[12:04:46] <%501.legion> @FlyingSoHighnow gibt gar keine Commands
+[12:04:48] <Kornbert der Maiskolben> und sich dabei sonst was aus den haaren ziehen. weil gefählt mir nicht
+[12:04:52] <Nafi von Fatz> @Skippy find ich auch
+[12:04:54] <skyzzza> !voteban sendeplan
+[12:04:56] <%501.legion> !quotes
+[12:04:58] <%Sendeplan> "Ist halt kein Dark Souls" - Etienne G.
+[12:04:58] <SuperStirling> @Kornbert der Maiskolben nein, sie sagen ihre grundsätzliche meinung dazu
+[12:05:03] <Kloster Hemmen> man muss doch zereissen um besser wieder zusammenzufügen
+[12:05:06] <FlyingSoHighnow> @501.legion meh 😕
+[12:05:08] <KommentarKanal> @Kornbert der Maiskolben Dann führ sie aus und dann zerreis ich sie (nein scherz, bin objektiv)
+[12:05:08] <Kloster Hemmen> wie eine anus
+[12:05:20] <Nafi von Fatz> ferkelmon
+[12:05:29] <gehremba> sodomiiiiiiiiie
+[12:05:34] <+RaketenBohneSchweiz> votekick @legion 🐯
+[12:05:37] <%Sendeplan> Sendeplan hat Sendeplan gebannt!
+[12:05:39] <Da Ha> @Kornbert der Maiskolben Das kommt auf die Ideen an. Deine "Idee" ist aber ähnlich sinnvoll wie "lasst uns den Chat grün machen". Ein wenig mehr Tiefe, bevor du irgendwas Unüberlegtes forderst. 😃
+[12:05:41] <%501.legion> 😞
+[12:05:50] <+Doktor Lowrider> das macht er schon richtig so
+[12:05:57] <Doktor Banane> ich fand die foge sehr unterhaltsam, eben weil man sich immer aufregen musste
+[12:06:04] <Kornbert der Maiskolben> Da Ha ahja und weil das ja auch so gut geht im chat.
+[12:06:07] <+DMC05> 😂
+[12:06:19] <Kloster Hemmen> wie hoch is der zeitliche unterschied zwischen chat und liveshowsP???
+[12:06:24] <Da Ha> @Kornbert der Maiskolben Wenn das umgesetzt wird, was du forderst, geht das NOCH SCHLECHTER.... merkste was ?
+[12:06:27] <+DMC05> @501.legion tja das kommt davon wennn mann zuviel will 😉 ^^
+[12:06:38] <%PandaBlack> @KommentarKanal wenn du Ideen hast für den Bot, immer her damit 😃
+[12:06:39] <SuperStirling> @Kornbert der Maiskolben deswegen ist das Forum ein besserer Ort für Verbesserungsvorschläge
+[12:06:42] <FlyingSoHighnow> @Kloster Hemmen ca 15sec
+[12:06:43] <splex0007> @Kloster Hemmen jetzt gerade ?`ne woche oder so
+[12:06:44] <+JotunnLoki> 10-20 Sekunden @Kloster Hemmen
+[12:06:49] <KommentarKanal> @Kornbert der Maiskolben Erst meckern und dann nichts liefern können. Du bist mir einer
+[12:06:49] <%501.legion> @Kloster Hemmen Einfach Rechtsklicken und dann Statistiken ^^
+[12:07:16] <Morton Orton> Was ist das eigentlich für ne derbe alte
+[12:07:17] <Kornbert der Maiskolben> nö ich lass mich nicht triggern, genau deswegen bin ich aus dem forum ausgestiegen.
+[12:07:34] <%501.legion> @Morton Orton Na na
+[12:07:47] <SuperStirling> @Kornbert der Maiskolben und setzt deine Erfolgsstory hier fort 😱
+[12:07:53] <KommentarKanal> @PandaBlack Was muss denn getan werden? Hab ideen und könnt auch bei der Umsetzung helfen, PHP und C#/C++ hab ich drauf kenne die Youtube API aber null
+[12:08:03] <+Doktor Lowrider> sie hat schon ne fiese ader...
+[12:08:03] <gehremba> mit dem Finger noch mal nachfühlen 😀
+[12:08:05] <%Sendeplan> 🎄 Was war dein schlimmstes Weihnachtsgeschenk? Nehmt an der großen Expert Wunschaktion 'Jingle Beans' teil 🎁 https://www.rocketbeans.tv/blog/jingle-beans-die-expert-wunschaktion/
+[12:08:08] <FlyingSoHighnow> Kombert der Maiskolben lässt sich nicht triggern... klingt wien bug in skyrim 😀
+[12:08:16] <soeren weyhe> Botox
+[12:08:22] <Morton Orton> Is mir total unsympathisch
+[12:08:26] <Da Ha> @Kornbert der Maiskolben Also postest du deine Verbesserungsvorschläge, wo sie nur von Trollen statt von RBTV-Mitarbeitern erfasst werden... Klingt sinnvoll.
+[12:08:30] <Kornbert der Maiskolben> wundert sich eigentlich einer ernsthaft das sich die bohnen im forum kaum melden?
+[12:08:31] <%PandaBlack> @KommentarKanal Ideen was genau gemacht werden soll reichen schon 😃
+[12:08:37] <splex0007> na endlich 3 stunden damit sich evoli entwickelt...
+[12:08:44] <Kornbert der Maiskolben> im forum ist es genau das gleiche...
+[12:08:47] <%501.legion> 😀
+[12:08:50] <SuperStirling> @Kornbert der Maiskolben melden sich genug 😉
+[12:09:01] <%501.legion> @splex0007 Welche Entwicklung hast du denn 😀
+[12:09:29] <soeren weyhe> Voll der Junge dieses weib
+[12:09:31] <Da Ha> @PandaBlack Gibt es eigentlich Möglichkeiten ehrenamtlich irgendwo mitzuentwickeln?
+[12:09:45] <splex0007> @501.legion mein shiny evoli sollte ein nachtara werden aber ich glaube irgendwie das zutrauen bei Shinys schwerer zu kriegen ist
+[12:09:47] <Es Kaliert> huhu
+[12:09:50] <%PandaBlack> @Da Ha jetzt speziell am Bot?
+[12:09:58] <+Doktor Lowrider> meld dich als praktikant
+[12:10:02] <Morton Orton> Die sehen wir sicher bald im Dschungel
+[12:10:16] <+JotunnLoki> ich noch immer kein Evoli muss nachher mal auf die Jagd gehen
+[12:10:18] <KommentarKanal> @PandaBlack mutevotes fänd ich klasse Wenn mehr als x-Zuschauer !mute username eingeben wird der für 3-5 Minuten gemutet, so kann die community was gegen spammer tun
+[12:10:21] <+DMC05> !quote
+[12:10:25] <+JotunnLoki> wird Zeit für n Blitza
+[12:10:29] <SuperStirling> @Kornbert der Maiskolben Simon hat erst neulich mit uns sehr viel über die Umfrage geschrieben. Eddy über sein Metroid Lp usw.
+[12:10:34] <Da Ha> @PandaBlack z.B. Ich hör auch immer wieder, dass die Website überarbeitet werden soll, es aber an Ressourcen mangelt... Da finden sich sicher einige freie Minuten.
+[12:10:34] <gehremba> huahuahuahua
+[12:10:34] <Nafi von Fatz> äh was wieso?! 😨 haha der simon 😜
+[12:10:49] <+DMC05> !plan
+[12:10:51] <%Sendeplan> @DMC05: Den aktuellen Sendeplan findest du hier: https://www.rocketbeans.tv/wochenplan/
+[12:10:56] <%501.legion> @KommentarKanal Also eigentlich !votekick? 😀
+[12:10:59] <+Mindori Veigar> Alles was Lars "kocht" sieht irgendwie eklig aus.
+[12:11:00] <+DMC05> @Sendeplan du warst gebannt
+[12:11:08] <+Doktor Lowrider> mist - muss gleich arbeiten ....
+[12:11:12] <+DMC05> !voteban Sendeplan
+[12:11:14] <%PandaBlack> @KommentarKanal so ne Idee gab es mal auf Twitch, finde hier könnten sich zu stark Gruppendynamiken bilden die gezielt bestimmte Leute immer raushauen wollen. hmm 😕
+[12:11:15] <+JotunnLoki> freu mich aber jetzt schon wie Eddy einfach fluchen wird 😀
+[12:11:16] <%501.legion> @Da Ha Bewirb dich doch einfach 😀
+[12:11:22] <FlyingSoHighnow> @KommentarKanal das wird nichts, dann erstellst sich x einen bot und lässt fröhlich leute bannen mit seinen 200 accs..
+[12:11:38] <Kornbert der Maiskolben> SuperStirling ja ich weiß, aber nur wenn es offensichtlich brennt.
+[12:11:50] <%PandaBlack> @Da Ha Hmm also in der Größe. Da kann dir sicher @Timo W weiterhelfen 😀
+[12:11:51] <gehremba> uuuuund der Stream kackt mal wieder ab
+[12:11:54] <KommentarKanal> @FlyingSoHighnow Dann checkt man die IPs und verhindert das
+[12:12:01] <Kornbert der Maiskolben> SuperStirling guck doch nur mal jetzt isn forum... das gebashe gegen headlinez und über die quoten bzw umfrage...
+[12:12:09] <%501.legion> @KommentarKanal geht leider nicht 😀
+[12:12:18] <%PandaBlack> @KommentarKanal sowas wie die IP sieht man nicht in der YT API 😃
+[12:12:40] <+Doktor Lowrider> und das ist gut so
+[12:12:44] <Kornbert der Maiskolben> man bräuchte halt auch eigentlich einen whisper chat
+[12:12:55] <+DMC05> @501.legion @PandaBlack wie wäre es mal ganz einfach mit nem Beitrags counter ^^
+[12:12:57] <FlyingSoHighnow> @KommentarKanal zu einfach gedacht, ein proxy server dawischen und das ist nicht mehr drin 😉
+[12:13:06] <KommentarKanal> Habt ihr zugang zum outh playground? Da könnte man das über die erweiterte API bekommen
+[12:13:11] <%PandaBlack> @DMC05 dann würden die Bots bis Grenze X spammen
+[12:13:18] <Da Ha> @501.legion Ich bin CTO in einer großen Webagentur in DD. Das wäre kein besonders sinnvoller Umstieg. 😃 Aber ich arbeite in meiner Freizeit gern an interessanten Projekten mit.
+[12:13:19] <+DMC05> @PandaBlack 😀
+[12:13:24] <SuperStirling> @KommentarKanal das reicht ja meistens auch, für kurze Statements, alles andere muss jetzt Timo nehmen, ist ja auch sein Job. Zu Headlinez gab es jetzt auch ein klares Statement von Seiten RBTVs
+[12:13:42] <%501.legion> @KommentarKanal Nein, wir kriegen von YouTube keine IPs 😀
+[12:13:53] <Neef Klostein> ihhh sims
+[12:14:00] <+DMC05> @SuperStirling wo gab es das ?
+[12:14:07] <%PandaBlack> Hmm evtl. könnte man aber bestimmte Leute auf "trusted" oder sowas setzen, die könnten dann voten 😐
+[12:14:09] <%501.legion> Moooortal Koooombat
+[12:14:10] <AgaliAMC> !calc 5/2
+[12:14:14] <FlyingSoHighnow> @501.legion wär ja auch zu schön ^^
+[12:14:17] <Kornbert der Maiskolben> ich finde meine anregung am chat zu basteln allein schon deswegen gehaltvoller als das meiste, weil die meisten chats tatsächlich einen viel größeren funktionsumfang bieten.
+[12:14:22] <Cubia Ciel> klingt nach spasss
+[12:14:28] <PLATTENWALD CGN> Meine Freundin hat 690std. Sims gedaddelt
+[12:14:36] <Kornbert der Maiskolben> zugegebenermasen weniger massenchats. aber dennoch.
+[12:14:43] <SuperStirling> @Kornbert der Maiskolben und zur Quote und Umfrage gab es ja auch Rückmeldungen. Die Bohnen sehen ncht als Gebashe, sondern auch als lebhafte Diskussion
+[12:14:49] <+RaketenBohneSchweiz> @PandaBlack das bin dann wohl ich 🐯
+[12:14:49] <%501.legion> Wir könnten auch theoretisch selbst nen Chat zusammenbasteln, aber der ist halt auf YouTube nicht sichtbar 😀
+[12:14:50] <KommentarKanal> Die VIPs vielleicht? Die sind schließlich supporter, tendenziell verfügen die über Geld -> gewisse Reife ist mit höherer wahrscheinlichkeit vorhanden
+[12:15:08] <SuperStirling> @DMC05 jeweils in den beiden Threads zu Headlinez
+[12:15:19] <+DMC05> @KommentarKanal die VIps sind die schlimmsten xD ^^
+[12:15:26] <Nafi von Fatz> schön reinlunsen
+[12:15:30] <KommentarKanal> Und man hätte was mit dem man für den VIP status werben kann, den mutevote
+[12:15:30] <%501.legion> Lecker 😀
+[12:15:31] <Neef Klostein> das sieht so eklig aus X.x
+[12:15:31] <+DMC05> @SuperStirling im forum ? da war ich wochen net mehr xD ^^
+[12:15:38] <Kloster Hemmen> PLATTENWALD CGN die viele generationen hat sie geschafft?
+[12:15:40] <+Doktor Lowrider> die beiden sind auch gut genervt ^^
+[12:15:45] <FlyingSoHighnow> @501.legion die idee find ich gar nicht so abwägig, damit hätte mich zumindestens 100% kontrolle
+[12:15:45] <MadHatt0r> 😚😚😚
+[12:15:50] <+Doktor Lowrider> der blick von simon über die schulter
+[12:15:51] <Kornbert der Maiskolben> SuperStirling naja... das mag sein von 10% vom ganzen thread. im rest kriegen sich nur leute in die haare
+[12:15:52] <Kloster Hemmen> *wie
+[12:15:57] <FlyingSoHighnow> man*
+[12:16:01] <SuperStirling> @Kornbert der Maiskolben es wäre halt zieführender, sie ausführlich im Forum darzulegen, wo sie dann auch besser und übersichtlicher diskutiert werden kann.
+[12:16:11] <+DMC05> @KommentarKanal villeicht hören die mal auf dich ich hab solche sachen schon bei Twitch VOrgeschlagen xD
+[12:16:16] <PLATTENWALD CGN> kA. Sie zockt nur Sims. nix anderes am WE. Ich hab von Sims kein Plan.
+[12:16:20] <%PandaBlack> @KommentarKanal wäre ne Idee, wenn dann jemand mit Bots votes manipulieren will kann man diese kicken und er musste dafür zumindest etwas blechen
+[12:16:25] <SuperStirling> @DMC05 ja, aber da fand eben die Diskussion um Headlinez statt
+[12:16:39] <Kornbert der Maiskolben> SuperStirling joa, ich hab dafür kein nerv und keine zeit mehr. 10 minuten in der mittagspause sind ok. mehr ist nicht drin.
+[12:16:40] <SuperStirling> @Kloster Hemmen
+[12:16:41] <%501.legion> Ne, VIPs sollen nicht unbedingt bevorteilt werden ^^
+[12:16:42] <%PandaBlack> @DMC05 du hast nichts 😛
+[12:16:53] <%501.legion> Jetzt habe ich Hunger 😞
+[12:16:54] <%PandaBlack> @501.legion geht ja erstmal nur um Ideen sammeln 😛
+[12:17:02] <+RaketenBohneSchweiz> vips 💜
+[12:17:07] <+DMC05> @SuperStirling ich bin mal gespannt ^^ und les mal rein ^^ ( schau eig selber nie HEadlinez weil es mir zu flach ist ^^ )
+[12:17:18] <Kloster Hemmen> hab auch alle sims gezoggt aber irwann wirds dann zu langweilig immer wieder bedürfnisse....
+[12:17:27] <+DMC05> @PandaBlack wie ich hab nichts xD ?
+[12:17:32] <SuperStirling> @Kornbert der Maiskolben das ist normal, wenn unterschiedliche Auffassungen aufeinanderprallen. Man muss halt auch hart im Nehmen sein und seine Meinung verteidigen können. Oder eben überarbeiten
+[12:17:32] <KommentarKanal> @PandaBlack Na dann auf an die Umsetzung, sollte doch irgendein Praktikant an nem Tag machen können, können niemals mehr als nen paar Zeilen sein (auch wenn google api krebs ist)
+[12:18:18] <Kornbert der Maiskolben> SuperStirling ich finde das enorm kontraproduktiv, zumal ein einlenken nur selten passiert. Denn dadurch wird einfach nur die idee verwaschen
+[12:18:26] <%PandaBlack> @KommentarKanal erstmal schauen ob es auch im Interesse der Beans wäre sowas zu machen 😃
+[12:18:32] <Kornbert der Maiskolben> statt das sinnvoll zu ergänzen schreiben lieber 10 leute rein dass sie es scheiße finden
+[12:18:39] <Kornbert der Maiskolben> was bringt das?
+[12:18:48] <Kloster Hemmen> in sims müsste es ein schreibtisch geben wie unseres! weihrauch für die atmosphäre kaffe tee für energie ein joint für wohlbefinden kippen gegen flachatmung und und und
+[12:18:53] <FlyingSoHighnow> feedback? ^^
+[12:18:56] <SuperStirling> @DMC05 ist schon ne heftige Diskussion, bin dann aber ausgestiegen als zu einem Kampf der Ideologien mutierte. RBTV stellt sich hinter Rayk und dem Format Punkt^^
+[12:18:59] <KommentarKanal> Es ist einfacher sich zu beschweren als eine Lösung zu finden, daran liegt das
+[12:19:02] <Niko Black> oh gott die könn ja garnicht kochen (:
+[12:19:04] <BaarsMaster> ich hab hunger
+[12:19:10] <%501.legion> @Niko Black 😀
+[12:19:33] <Kornbert der Maiskolben> es zählt doch nicht wieviel leuten es nicht gefällt, sondenr das gegenteil. denn unterm strich wird es immer eine mehrheit geben die damit nichts anfangen kann. deswegen benutzt ja auch nur ein bruch
+[12:19:36] <Kornbert der Maiskolben> teil den chat
+[12:19:38] <%501.legion> Bestellen kann ich auch 🌝
+[12:19:40] <Niko Black> die haben alles voll gestellt
+[12:19:48] <+DMC05> @SuperStirling das ist ja das problem bei politik iwann bilden sich 2 lager und die führen dann verbalen krieg ... total unnötig eig .. naja ^^
+[12:19:57] <Kornbert der Maiskolben> soll man ihn deswegen abschaffen?
+[12:20:00] <SuperStirling> @Kornbert der Maiskolben wenn Leute die Idee grundsätzlich nicht gut finden und auch Argumente liefern, ist das einfach legitim. Das findet man als Person die die Idee lieferte nicht so geil
+[12:20:03] <Niko Black> masen essen /:
+[12:20:08] <Niko Black> massen
+[12:20:18] <%501.legion> Vorschläge zum Chat könnt ihr übrigens an chat@rocketbeans.tv schicken 😀
+[12:20:24] <Alex Zimmer> ich liebe einfach den GameTwo-Trailer
+[12:20:27] <Hans Peter> ich glaub ich kann nicht kochen: immer wenn ich was zu essen bestelle schmeckt es eher so wäh
+[12:20:37] <Kornbert der Maiskolben> SuperStirling das fußt auf meiner persönlichen erfahrung, aber die argumente sind meistens dann doch eher... fragwürdig
+[12:20:44] <%PandaBlack> Oder mit nem Thread im Forum 😃
+[12:20:57] <SuperStirling> @DMC05 wie gesagt, spätestens nach dem Statement von RBTV war das thema für mich durch. Der Rest ist Zeitverschwendung^^
+[12:21:03] <KommentarKanal> Ich schreib mal nen paar Ideen zusammen wenn ich nachher Zeit finde und mich dazu fähig fühle nen brainstorming zu starten
+[12:21:05] <Niko Black> oh was ist das im mixer alles mögliche reingestellt /: das arme essen
+[12:21:17] <Kornbert der Maiskolben> oder besteht aus lösbaren problemen, einfach nur weil einem das bauchgefühl sagt: mir gefällt es nicht.
+[12:21:18] <%501.legion> Und jetzt wird gemixt xD
+[12:21:22] <+DMC05> @SuperStirling ist ja auch inter im haus produziert^^ also ^^
+[12:21:27] <+Zaldarion> @PandaBlack 😄<3
+[12:21:35] <Kornbert der Maiskolben> so ich bin wieder weg bb
+[12:21:36] <Kev Corporation> Simon: der mixer ist nicht voll genug! 😂
+[12:21:38] <%Sendeplan> 🎄 Was war dein schlimmstes Weihnachtsgeschenk? 🎁 Nehmt an der großen Expert Wunschaktion 'Jingle Beans' teil: https://www.rocketbeans.tv/blog/jingle-beans-die-expert-wunschaktion/
+[12:21:38] <Andreas Baumann> und alles in. den. MIXER!
+[12:21:43] <Sebb> 501.legion musst du spoilern 😞
+[12:21:44] <%PandaBlack> AHoy hoy @Zaldarion 😄
+[12:21:49] <+DMC05> @SuperStirling ist auch gut so !
+[12:21:52] <%501.legion> @Sebb 😞
+[12:21:59] <FlyingSoHighnow> ich war mir so sicher das er beim mixen das ganze zimmer voll macht
+[12:22:07] <Sebb> komplette folge fürn arsch jetzt
+[12:22:13] <%501.legion> 😀
+[12:22:22] <SuperStirling> @Kornbert der Maiskolben auch das ist normal, dass man Argimente der Gegenseite eher fragwürdig findet^^ Letztendlich erwartet dich hier das gleiche wie im Forum.
+[12:22:27] <Sebb> ^^
+[12:22:59] <KommentarKanal> @SuperStirling Ist das eine Warnung?
+[12:23:03] <SuperStirling> @Kornbert der Maiskolben nur wirst du im Forum für eine gute Idee mehr Gehör finden als hier. Und mehr Platz um sie darzulegen.
+[12:23:09] <ninthprime> wo ist der bacon? in der grillshow wäre das nicht passiert
+[12:23:19] <Kornbert der Maiskolben> SuperStirling nein, das sehe ich nicht so. die meisten leute sind nicht in der lage einen aufbau ala: behauptung begründung beweis zu folgen
+[12:23:23] <Sebb> simon platzt
+[12:23:23] <KommentarKanal> Und sie wird archiviert!👆
+[12:23:26] <%501.legion> Das Format braucht mehr Fleisch 🌝
+[12:23:27] <SuperStirling> @KommentarKanal Inwiefern?
+[12:23:30] <Skippy> mixxer deckel noch halb auf xD
+[12:23:38] <Kornbert der Maiskolben> ich bin seit reddit dabei und mit der zeit wurde das immer schlimmer
+[12:23:38] <ninthprime> @501.legion true dat, bro
+[12:23:42] <KommentarKanal> "Letztendlich erwartet dich hier das gleiche wie im Forum."
+[12:23:45] <Niko Black> das ist kein mensch (-:-:
+[12:23:54] <Niko Black> ISST
+[12:24:04] <SuperStirling> @Kornbert der Maiskolben kenn ich im Forum anders. 😕
+[12:24:48] <SuperStirling> @KommentarKanal ja, ich meinte in Sachen Rückenwind und Gegenwind für seine Ideen
+[12:24:58] <Niko Black> singen ist nervig
+[12:25:04] <%PandaBlack> @KommentarKanal dürfte ich fragen wie du im Forum heißt? Evtl. kann ich es dann nachvollziehen 😃
+[12:25:36] <Niko Black> die sind komisch /:
+[12:25:36] <Jakatte> 💜 rbtv 💜
+[12:25:45] <Niko Black> HILFE
+[12:25:48] <deutscher hanfverband> die blonde is komisch , passt da garnet rein
+[12:25:55] <Niko Black> jep
+[12:25:57] <deutscher hanfverband> viel zu vorlaut und hat kein benehmen
+[12:26:07] <SuperStirling> @Kornbert der Maiskolben ich muss auch sagen, ich kenn mittlerweile die Leute, mit denen ich mich auf eine Diskussion einlasse und welche, mit denen es sich nicht lohnt. Das ist auch hilfreich
+[12:26:14] <KommentarKanal> @PandaBlack Bis jetzt heiß ich noch garnichts, es hat mich noch nie ins Forum gezogen außer für Umfragen und Votings, ich leg mir mal nen Account an (selbiger Name)
+[12:26:22] <Sebb> also gregott und allwinner sind eh die geilsten gewesene
+[12:26:31] <C_zer000> Budi hat immernoch kein Bier bekommen, das schleift....
+[12:26:36] <%PandaBlack> @KommentarKanal alles klar 😃
+[12:26:37] <Kev Corporation> woher ist evelyn? kenne sie garnicht
+[12:26:44] <DeatheyeHardcore> die blonde mag ich auch nicht
+[12:26:50] <Niko Black> bin bei einem komischen stream gelandet /:
+[12:26:55] <Haabiii> @deutscher hanfverband die passt perfekt in den chat
+[12:26:56] <DeatheyeHardcore> am ende sieht man richtig wie sie lars für sie fremdschämt
+[12:27:02] <DeatheyeHardcore> sich*
+[12:27:12] <Niko Black> china japan kasathan russland südasien
+[12:27:13] <Digga Alda> das wird wix
+[12:27:14] <%501.legion> Traurich 😞
+[12:27:29] <%501.legion> Hilfe, Lars hat Zuckungen 😞
+[12:27:32] <Niko Black> lasst es
+[12:27:43] <ninthprime> @501.legion ist er zuckerkrank? 🌝
+[12:27:48] <%Sendeplan> RocketBeans TV wurde für die Goldene Kamera nominiert 🎥 Jetzt abstimmen: http://vote.goldenekamera.de/
+[12:27:52] <BaarsMaster> er brauch ein snickers
+[12:27:57] <%501.legion> @ninthprime Gebt dem Mann mehr Zucker! Und mehr Fleisch!
+[12:28:21] <Kev Corporation> was macht diese Evelyn normalerweise? Moderatorin Journalistin?  oder was macht sie
+[12:28:32] <ninthprime> @BaarsMaster @501.legion es bräuchte snickers mit fleischfüllung. snickers döner edition oder so.
+[12:28:46] <deutscher hanfverband> budi @ fremdschäm-marathon
+[12:28:47] <HunterMK22> @Kev Corporation: nerven
+[12:28:49] <Niko Black> LASST ES IHR KÖNNT NICHT KOCHEN! dieses egliche essen oh gott
+[12:29:04] <%501.legion> Ich bin studierter Gamer 🌝
+[12:29:17] <SuperStirling> @Niko Black beruhige dich Caps Hero 😴
+[12:29:18] <Niko Black> ich kann besser zocken (:
+[12:29:19] <KommentarKanal> Ich bin TATSÄCHLICH studierter gamer!
+[12:29:28] <YS> LASS ES, DU KANNST NICHT SCHREIBEN. Diese schlimme Orthographie, oh Gott.
+[12:29:29] <Paul Pottsau> ist es normal das das alles nach erbrochenem aussieht ?
+[12:29:30] <KommentarKanal> Game Design Bachelor und Master of Arts
+[12:29:55] <Sebb> ja Paul ist ja auch thanks giving
+[12:30:03] <SuperStirling> Außerdem sah das Essen gar nicht übel aus 💜
+[12:30:06] <ninthprime> @KommentarKanal nicenstein... was machst du jetzt? arbeitest du als designer?
+[12:30:07] <Niko Black> ich gehe hilfe
+[12:30:20] <Bartimaeeus> shit is die nervig.
+[12:30:23] <FlyingSoHighnow> studierter gamer, wäre man wohl auch mit bwl, studiert ist studiert ^^
+[12:30:23] <Timm Breitner> KommentarKanal - nicht rein zufällig in nem studio, das noch praktikanten braucht? 😛
+[12:30:33] <Sebb> hatet nicht gegen gäste!!!
+[12:30:39] <ninthprime> @FlyingSoHighnow und studiert heisst nicht, dass man nen abschluss hat 😃
+[12:30:50] <FlyingSoHighnow> 😀
+[12:30:56] <ninthprime> @FlyingSoHighnow das is meist der trick bei medienleuten... "studierte dings, bums und blubb" heisst meist: ohne abschluss
+[12:30:58] <KommentarKanal> Studio wird grad eröffnet mit ein paar Kollegen aus dem Studium, aber bis jetzts nichts außer Planung, geht jetzt grad ans Rechtliche dabei 😃
+[12:31:01] <LaCipe> Boah, GEH bitte
+[12:31:24] <deutscher hanfverband> Absolute Beginner - Geh Bitte
+[12:31:26] <ninthprime> @KommentarKanal geil, ich drück euch die daumen 😃
+[12:31:35] <KommentarKanal> @ninthprime Danke 😉
+[12:31:37] <FlyingSoHighnow> @KommentarKanal viel glück dabei
+[12:32:04] <%501.legion> oh nein!
+[12:32:07] <ninthprime> @KommentarKanal ich hab auch immer mal überlegt, in die games-ecke zu gehen... ich bin richtig gut darin, die letzte performance aus C und C++ rauszuquetschen... aber mir fehlt der games hintergrund
+[12:32:12] <Space Zombie> Mehr Hate! Mehr Hate! 😈
+[12:32:17] <Skippy> ein xavier nadoo 😦
+[12:32:28] <deutscher hanfverband> lol
+[12:32:28] <Jinxeß> rbtv ich will sehen wie ihr zockt oder pc sachen macht aber kochen und so alles? ich vermisse GIGATV
+[12:32:30] <%501.legion> @Skippy wir sind verloren 😞
+[12:32:45] <Anal Fister> Verabschieden bohn jour?
+[12:32:47] <splex0007> nur noch das feen evoli dann habe ich alle Evoli Dex einträge 😴
+[12:32:58] <ninthprime> I used to be a developer like you, but then I took an arrow to the knee 😀
+[12:33:08] <KommentarKanal> @ninthprime Reicht doch volkommen, als entwickler brauchst du keinen games hintergrund, die apis / engines versteht man in ner woche, ich würds einfach mal versuchen!
+[12:33:08] <%501.legion> @splex0007 👍
+[12:33:11] <FlyingSoHighnow> ^^
+[12:33:11] <deutscher hanfverband> meine Diagnose für die blonde tussy: ganz klarer fall von amphetmin-konsum
+[12:33:13] <Haabiii> morgen letste folge bohnjour
+[12:33:16] <Lloydzero> Felinara kann ich dir tauschen
+[12:33:31] <+DMC05> moin moin war tatsächlich richtig nais xD ^^
+[12:33:31] <SuperStirling> @splex0007 Cool 👍
+[12:33:37] <splex0007> @Lloydzero ne das schaffe ich schon alleine bin ja schon groß 😀
+[12:33:47] <ninthprime> @KommentarKanal stimmt schon... gibt auch ein paar Gamestudios hier bei Aachen... da schaue ich mal
+[12:33:48] <HunterMK22> @ Jinxeß: das hier ist kein Gameing Kanal, sondern dient der Allgemeinen Unterhaltung.
+[12:33:49] <FlyingSoHighnow> @deutscher hanfverband würd ich so unterschreiben
+[12:33:53] <+DMC05> seit dem FLo nicht mehr auf super macker macht und sich normal benimmt kann ich ihn auch leiden xD ^^
+[12:33:59] <%Sendeplan> 🎄 Was war dein schlimmstes Weihnachtsgeschenk? 🎁 Nehmt an der großen Expert Wunschaktion 'Jingle Beans' teil: https://www.rocketbeans.tv/blog/jingle-beans-die-expert-wunschaktion/
+[12:33:59] <Skippy> @DMC05: GuteFrage ist immer ein interessanter ort wenn man langeweile hat xD
+[12:34:04] <Anal Fister> Wieso letzte ,gibts dann ne pause?
+[12:34:14] <Lloydzero> @splex0007 glaube ich gern. Ich wollte nen Nachtara trainieren und das kam dabei raus. 😀
+[12:34:23] <Jinxeß> Naja kein Gamingkanal mit den GIGA Moderatoren^^
+[12:34:25] <deutscher hanfverband> @FlyingSoHighnow ja gell.. da ist etwas mehr als nur natürliche dummheit im spiel...
+[12:34:48] <+DMC05> @Skippy aber nur wenn Rene das so derbe trocken rüber bringt xDDD ^^ ich mag sein subtilen humor xD ^^
+[12:34:54] <splex0007> @Lloydzero siehste dann müsste ich dir ja mein Shiny Nachtara geben
+[12:35:04] <Haabiii> @Anal Fister pause oder nicht ist noch nicht bekannt. gestern wurde gesagt, dass es die vorerst letzte ist
+[12:35:11] <FlyingSoHighnow> @deutscher hanfverband defintiv, war auch dirket das erste an das ich denken musste bei der live show. so "gut" kann man das nicht schauspielern
+[12:35:13] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[12:35:23] <Lloydzero> @splex0007 eigentlich nicht. Es sei den du willst 😉
+[12:35:25] <Jinxeß> gibts hier sowas wie gigatv auf twitch?
+[12:35:30] <KommentarKanal> @ninthprime Viel glück dabei!
+[12:35:38] <Junge Mann> Hallö- wer hat schon das neue FF15 angetestet?
+[12:35:46] <+DMC05> @Jinxeß ?? was ? ^^
+[12:35:54] <ninthprime> @KommentarKanal danke 😃 hab gerade eh ein paar Bewerbungen laufen, da kann ich auch breiter streuen 😃
+[12:36:03] <Jinxeß> kennst nicht giga?
+[12:36:13] <Jinxeß> oder wie hiess der sender damals
+[12:36:18] <Haabiii> @Junge Mann Gregor gestern in G+D
+[12:36:32] <deutscher hanfverband> @FlyingSoHighnow ja. ganz klarer Fall.weil die pupillen normal sind ist sie es total gewöhnt oder evntl. augentropfen.aber wer sich damit auskennt merkt direkt wie bei der der hase läuft.
+[12:36:33] <%501.legion> Beans on Rice 💜
+[12:36:36] <+DMC05> @Jinxeß ehmm seit 1998 das echte kenn ich das echte ist hier das
+[12:36:47] <+DMC05> es gibt noch das neue Giga das ist aber nicht giga ^^ xD
+[12:37:01] <Junge Mann> War gut? Vielversprechend?
+[12:37:02] <%501.legion> @DMC05 Ihm gefällt RBTV nicht und er sucht jetzt eine Alternative ^^
+[12:37:17] <+DMC05> @501.legion achsoo ^^
+[12:37:20] <FlyingSoHighnow> @deutscher hanfverband jo, würd ich auch einiges drauf wetten
+[12:37:22] <Wowbagger> @jinxeß guck dir doch die letsplays in der mediathek an
+[12:37:23] <KommentarKanal> Wichtig ist eigentlich nur ein portfolio in dem du zeigst, dass du programmieren kannst, am besten irgendwas richtung Anwendungsentwicklung, was getestet werden kann - aber das weißt du sicherlich :)
+[12:37:39] <Haabiii> @Junge Mann für mich ists nicht. man muss sich da wohl selber ein bild machen.
+[12:37:41] <Simon Reikersdorfer> Seas
+[12:38:10] <splex0007> oha das Hänchen von simon und budi sieht ja echt nicht so dolle aus
+[12:38:12] <DannyMaier> .
+[12:38:12] <ninthprime> @Wowbagger wieviel Prozent der fühlenden Lebewesen im Universum sind schon abgehakt? 😃
+[12:38:18] <Jinxeß> Wowbagger sowieso ist aber nicht das selbe
+[12:38:36] <KommentarKanal> Evelyn und Lars harmonieren so wunderbar
+[12:38:36] <Junge Mann> okay ty
+[12:39:03] <FlyingSoHighnow> @deutscher hanfverband wie stehts überhaupt mit den petitionen? kommt da bald mal der durchbruch? 😀
+[12:39:06] <Wowbagger> @ninthprime 1/3 hab ich schon durch
+[12:39:15] <deutscher hanfverband> man kann budi richtig ansehen wie er in jeder sekunde der show bereut diese blonde tussi mit ins boot geholt zu haben 😃
+[12:39:18] <ninthprime> @Wowbagger nicenstein!
+[12:39:21] <DerKettenhund> RIP
+[12:39:23] <Wowbagger> ^^
+[12:39:46] <deutscher hanfverband> @FlyingSoHighn
+[12:39:46] <Anja Müller> Warum nimmt Lars Knethaken 😱
+[12:39:56] <%501.legion> Yamas!
+[12:40:00] <Sin Nombre> find die is inordnung
+[12:40:05] <PLATTENWALD CGN> Ja Budi ist konzentriert. Er wil les einfach nur noch hinter sich bringen.
+[12:40:08] <KommentarKanal> @FlyingSoHighnow Mein guess ist, dass nächstes Jahr die Parteien die Entkriminalisierung zum Wahlkampf nutzen - kommt also ganz drauf an wers einsetzt und wer gewinnt
+[12:40:21] <deutscher hanfverband> @FlyingSoHighnow darauf hat der DHV keinen Einfluss. ich kann nur auf die DHV News verweisen und die aktuelle Umfrage auf der website vom hanfverband.
+[12:40:26] <Gray Face No Space> auch erstmal nen bier zünden
+[12:40:44] <+Dryhoof> Haben die sich grade rumaroma reingeknallt?
+[12:40:50] <FlyingSoHighnow> @KommentarKanal @deutscher hanfverband jap soweit bein ich auch informiert 😉
+[12:40:54] <Dustin K.> der heutige RBTV-Tag ist sehr lahm
+[12:41:00] <KommentarKanal> SPD setzt Cannabis-Entkriminalisierung ein - Es ist sehr effektiv!
+[12:41:11] <C_zer000> heut kommt Pokemon, nix lahm ^^
+[12:41:31] <+Dryhoof> Wieder mit Tini?
+[12:41:38] <C_zer000> glaub nich....
+[12:41:47] <deutscher hanfverband> @FlyingSoHighnow gut. ja das mit der FDP in NRW is schon mal cool un dass in Berlin ein zweiter Anlauf genommen wird. Ich denke das Wichtigste ist NICHT die CDU bei den nächsten Wahlen zu wählen.
+[12:41:49] <+DMC05> @KommentarKanal wie jedes mal vor den wahlen xD ^^
+[12:42:00] <FlyingSoHighnow> @KommentarKanal ich wage doch stark dran zu zweifeln ob eine der 2 großen partein das dirket anspricht
+[12:42:03] <Akito> Wieso nimmt er denn Knethaken zum Eiweiß aufschlagen? 😀
+[12:42:31] <+DMC05> @KommentarKanal seit den 90s sagen zb die Grünen das auch immer ^^ 😉 nach ca 20 jahren glaub ich niicht mehr drann ^^ xD
+[12:42:36] <KommentarKanal> Die CDU wird ohnehin icht gewählt wenn die Merkel aufstellen
+[12:42:44] <+Dryhoof> @Akito Materialmangel
+[12:42:44] <Anja Müller> Danke Akito das es dir auch auffällt 😁
+[12:42:46] <FlyingSoHighnow> @deutscher hanfverband ja CDU und CSU sind wohl die härtesten gegner
+[12:42:57] <SuperStirling> FDP 👐
+[12:43:19] <+DMC05> sind die piraten eig wählbar ?
+[12:43:25] <FlyingSoHighnow> @KommentarKanal wie sagete pispers: solgane die merkel da ist können wir uns die whal auch gleich schenken man muss wissen wann man verloren hat ^^
+[12:43:26] <SuperStirling> Freiheit 💢
+[12:43:32] <+DMC05> oder iwas anderes kleinere soewas wie die KPD oder so ^^
+[12:43:58] <C_zer000> Sie mach aber auch ne Sauerei 😀
+[12:44:05] <PLATTENWALD CGN> Viele werden sie wählen. Weil keiner weiß was sie machen sollen. Bei mir im Bekanntenkreis... naja^^
+[12:44:10] <Thimo Scholl> der gesunde Menschenverstand bedarf keiner politischen Richtung
+[12:44:23] <deutscher hanfverband> @KommentarKanal denkste. schau mal die umfragen an. ich weis auch nich warum aber die wildsau (merkel) hat mit ihrer CDU zuzreit die mehrheit.
+[12:44:34] <splex0007> also ich werde HSP wählen 🌝
+[12:44:50] <KommentarKanal> FlyingSoHighnow den ganzen Rentnern gefallen die Flüchtlinge auch nicht, und Merkel wird angeprangert. ich glaube nicht, dass die nochmal ne Chance hat in ihrer Wählerdemografie
+[12:45:04] <Wowbagger> „Die Wahlen sind frei, kostenlos, manche sagen sogar, sie sind umsonst.“ ―Volker Pispers
+[12:45:07] <+DMC05> @PLATTENWALD CGN also mein umfeld ist sich sicher was die wählenauch die fam die haben die fresse voll 😉 ^^ nur reden nicht gerne öffentlich drüber 😉
+[12:45:09] <%PandaBlack> Willkommen bei Politik im Chad vor eins 🌝
+[12:45:27] <Mr. T> wie ätzend ist die Alte bitte?!
+[12:45:32] <%501.legion> jetzt will ich ein Bier
+[12:45:34] <Eye of Providence> lolz 247 People subbed my channel last night because of the Turkey UFO Video xD
+[12:45:35] <Ahrtax> Kann mir wer sagen wer die blonde Frau ist?
+[12:45:42] <SuperStirling> ph 1,5 🌝
+[12:45:49] <KommentarKanal> Also entweder sind die Umfragen manipuliert um die Masse zu lenken oder nen großteil der Bevölkerung hat nen brett vorm Kopf
+[12:45:49] <Rigashiga> so wie deine Frisur MR T
+[12:45:52] <deutscher hanfverband> @Mr. T SEHR sehr ätzend.
+[12:45:58] <splex0007> @PandaBlack watch?v=906VrkPSiok weiste bescheid
+[12:45:59] <Timm Breitner> Achtung, sonst hetzt Simon euch Politikredner wieder Carmageddon auf Kappa
+[12:46:17] <%Sendeplan> RocketBeans TV wurde für die Goldene Kamera nominiert 🎥 Jetzt abstimmen: http://vote.goldenekamera.de/
+[12:46:17] <%Sendeplan> 🎄 Was war dein schlimmstes Weihnachtsgeschenk? 🎁 Nehmt an der großen Expert Wunschaktion 'Jingle Beans' teil: https://www.rocketbeans.tv/blog/jingle-beans-die-expert-wunschaktion/
+[12:46:30] <Kashayar> Ist das Game Two schaut Game Two schon irgendwo online?
+[12:46:44] <Wowbagger> ja auf game two kanal
+[12:46:49] <+DMC05> bei dem GEwinnspiel kann man voll bescheissen 😲 ^^
+[12:46:50] <Wowbagger> auf dem*
+[12:46:51] <Pasa Gaming> Was hat Sie denn für eine komische Stimme? 😀
+[12:46:53] <SuperStirling> Ich wähl FDP, weil Lindner so unverbraucht aussieht. Argumentation beendet 🌝
+[12:46:56] <KommentarKanal> @Ahrtax Eveln, macht keine Pornos
+[12:46:59] <%PandaBlack> @splex0007 😯
+[12:47:09] <KommentarKanal> Eveln*
+[12:47:13] <BaarsMaster> budi hat immer noch kein bier
+[12:47:14] <%501.legion> @Wowbagger Ne 😀
+[12:47:15] <KommentarKanal> Evelyn*
+[12:47:32] <FlyingSoHighnow> @KommentarKanal das dachte ich auch noch ihrer ersten und zweiten amtsperiode. Die frau ist in der polikt einfach unschlagbar, mit ihrer meinungslosigkeit
+[12:47:37] <Kashayar> @Wowbagger öhm... nö?
+[12:47:42] <+RaketenBohneSchweiz> merkel gewinnt doch eh 😀
+[12:47:52] <Mr. T> nichts gegen selbstbewusste, laute frauen, aber dann sollte sie auch wenigstens lustig sein, oder was zu sagen haben ...
+[12:47:52] <Wowbagger> 501.legion , nicht? die neue game two?
+[12:48:05] <%501.legion> @Wowbagger geht um Game Two schaut Game Two 😀
+[12:48:11] <%PandaBlack> @Wowbagger er meint das GameTwo schaut GameTwo
+[12:48:12] <Kashayar> @wowbagger nicht die neue folge, sondern die sendung "Game Two schaut Game Two"
+[12:48:14] <SuperStirling> Außerdem ist die FDP gelb, wie mein username und Budi! kann sowas nicht richtig sein? 😏
+[12:48:15] <deutscher hanfverband> @Pasa Gaming eine Persönlichkeit innerhalb einer Persönlichkeit. Grund: Amphetaminkonsum
+[12:48:20] <%Valkyrie0025> @RaketenBohneSchweiz ach immer diese ausländer und ihre meinung 😛
+[12:48:22] <Wowbagger> oh ah sry, bin noch etwas verpennt sry
+[12:48:23] <KommentarKanal> Wenn vernünftige Gegner aufgestellt werden und guter Wahlkampf betrieben wird gibts noch chancen
+[12:48:31] <+RaketenBohneSchweiz> 😮
+[12:48:35] <Kashayar> Und die ist afaik nirgends online
+[12:48:52] <Wowbagger> vielleicht noch im schnitt 😃
+[12:49:10] <splex0007> @KommentarKanal der Super Siggi wird doch von der SPD Gestellt was soll da schon schief laufen 🌝
+[12:49:16] <FlyingSoHighnow> @KommentarKanal man kann nur hoffen, wobei wohl auch genau das der grund war aus dem sie letztesmal gewählt wurde
+[12:49:24] <Timm Breitner> ?v=EYuR4whwz_E hier ist die gametwo folge
+[12:49:30] <Kashayar> naja egal. beards ist online, das ist wichtiger *find*
+[12:49:32] <FlyingSoHighnow> @splex0007 ebend genau das ^^
+[12:49:36] <%Valkyrie0025> ich wette siggi wird kein kandidat...kiste maggi druff
+[12:49:52] <KommentarKanal> 😕 warten wir ab, machen alle unser kreuz wonanders und wandern sonst aus
+[12:49:57] <splex0007> @Valkyrie0025 dachte er ist doch schon aufgestellt
+[12:50:08] <SuperStirling> @Valkyrie0025 ich glaube auch nicht, da könnte man Merkel auch gleich gratulieren
+[12:50:15] <+DMC05> @Valkyrie0025 du meinst firmankapotal siggi xD ^^
+[12:50:19] <FlyingSoHighnow> @KommentarKanal schweden soll ganz schick sein 😉
+[12:50:36] <%Valkyrie0025> @DMC05 wat?
+[12:50:45] <KommentarKanal> *war schick, die haben auch ganz schön zu kämpfen
+[12:50:45] <+DMC05> die parteienlandschafft ist froh wenn se im januar wieder 15 % mehr "diäten" bekommen
+[12:51:03] <FlyingSoHighnow> @KommentarKanal well right 😞
+[12:51:05] <+DMC05> aber hey unsere rente 2040 wird soo 30€ mehr geben ^^ Woohoo 😉
+[12:51:15] <+DMC05> endlich machen die politiker was xDDD ^^
+[12:51:27] <+DMC05> wählt mich DMC aus der WPD ^^
+[12:51:39] <FlyingSoHighnow> @KommentarKanal aber immer noch gbesser als merkel mit mehreren amtsperioden ^^
+[12:51:39] <splex0007> @KommentarKanal also Österreich und die USA haben beide schonmal die kanada seite gecrasht da können wa doch auch mit machen ^^
+[12:51:41] <SuperStirling> @DMC05 2040 wachsen noch die Renten 😯 besserer Aussichten als erwartet 🌝
+[12:51:44] <%PandaBlack> DMC und Politik, wow 🌝
+[12:51:59] <+DMC05> @SuperStirling 😀 ^^
+[12:52:20] <KommentarKanal> @splex0007 😀
+[12:52:22] <splex0007> das ist meine Mascarpone 👿
+[12:52:23] <+DMC05> @PandaBlack die WPD gibt es seit 1998 oder 1999 ^^
+[12:52:29] <+RaketenBohneSchweiz> rip deutschland 😀
+[12:52:29] <SuperStirling> @DMC05 😀
+[12:52:36] <+DMC05> ich bin zwar ihr einziges Parteimitgliet aber hey ^^ 😉 ^^
+[12:52:44] <FlyingSoHighnow> die 3 kanzler die am längsten im amt waren , na?
+[12:52:50] <EiZZB0NG> hauptsache das Wetter ist gut
+[12:52:53] <FlyingSoHighnow> kanlzer/kanlzerrinen
+[12:52:54] <%PandaBlack> @DMC05 eingetragen? Und nur du bist drin?
+[12:53:01] <splex0007> aber die chat eigene partei wird wieder ignoriert oder wie ? 😭
+[12:53:14] <SuperStirling> Habe nur keine Lust mehr auf die große Koalition 😟
+[12:53:22] <+DMC05> @PandaBlack nope 😉 ^^ ich warte nur auf die revolution und dann kann ich die macht ergreife xD
+[12:53:30] <SuperStirling> Die Chad Partei wäre super 😀
+[12:53:39] <%PandaBlack> @DMC05 also die WDP gibt es seit 2003, WARUM-Partei heißt die und hat mehr als nur ein Mitglied 😛
+[12:53:48] <KommentarKanal> Meine prognose ist Revolution vor 2020, alle hundert jahre wieder
+[12:54:09] <Timm Breitner> oh gott - bitte - lass so ein nonsense gebrabbel
+[12:54:11] <+DMC05> @PandaBlack jaa die haben meinen namen geklaut xD ^^
+[12:54:18] <MD aus HH> nomma moin ihr luschen 😀
+[12:54:18] <%PandaBlack> WARUM steht für Wirtschaft, Arbeit, Recht, Umwelt und Mehr . Wow 🌝
+[12:54:23] <splex0007> @SuperStirling 60-70 % hatten zur letzen wahl auch keine lust auf die Große Koalition allerdings haben so viele nicht gewählt das sie es troßdem geschafft haben
+[12:54:35] <C_zer000> das beste an der Folge is sowieso Gino ^^
+[12:54:36] <+DMC05> @PandaBlack werden sofort aus dem land verwiesen wenn ich an der macht bin ^^
+[12:54:44] <PLATTENWALD CGN> Die Chad Partei wählen. Und allen gehts gut. Versprochen. Ich hab euch alle Lieb <3
+[12:54:55] <scarathea> Oha, Politik im Chat?
+[12:55:03] <Wowbagger> macht das denn einen unterschied wer regiert? Am ende bestimmt doch die wirtschaft was passiert. 😞
+[12:55:14] <splex0007> @SuperStirling und es gibt eine Chad Partei die KKP Kekse und Kadsen partei
+[12:55:16] <KommentarKanal> Wählen gehen muss einfach komfortabler gestaltet werden, dann wird demokratie auch besser umgesetzt wenn alle ihre meinung abgeben
+[12:55:18] <+DMC05> meine WPD = Weed Party - deutschland xD ^^
+[12:55:21] <Jack Black> Wer ist da zu Gast?
+[12:55:26] <FlyingSoHighnow> @splex0007 mit einer masse von kanpp 40% ohne perspektive bei der letzten wahl wundert es nicht das die beteiligung so niedrig war oder? ^^
+[12:55:28] <+DMC05> warum auch partei ^^ wenn man party haben kann xD
+[12:55:36] <scarathea> Tja, der faule Bürger geht ja nicht auf die Straße für das, was ihn an der Politik stört.
+[12:55:36] <+Fabrice X.> die partei ? 💜
+[12:55:40] <+DMC05> das ist ein slogan ^^
+[12:55:41] <deutscher hanfverband> @Jack Black irgend ne pepp-tussi
+[12:55:47] <SuperStirling> @splex0007 ist halt immer das Problem mir Koalitionen, man wählt sie ja nicht direkt, sie bilden sich immer. Damit waren wohl auch kaum CDU und SPD Wähler zufrieden^^
+[12:55:52] <scarathea> Demokratie ist ganz sicher nicht nur Wahlkreuz alle 4 Jährchen.
+[12:55:52] <Jack Black> hahahahahha
+[12:55:53] <+DMC05> @Fabrice X. diesind mir viel zu politisch geworden
+[12:56:01] <splex0007> @FlyingSoHighnow naja aber um ebend das zu ändern sollte man doch gerade wählen gehen
+[12:56:06] <Neef Klostein> die Partei !! Denn sie ist gut!
+[12:56:10] <+Fabrice X.> ja mit kiz ist man eindeutig zu rechtsradikal 🌝
+[12:56:17] <Timm Breitner> Komfortabler? Sonntags den ganzen Tag den Fuß in die Verwaltung zu setzen langt nich?
+[12:56:17] <Jack Black> @scarathea mittlerweile schon
+[12:56:35] <+DMC05> da wähl ich lieber die linke als die partei xD ^ // beides das gleiche xD ^
+[12:56:38] <%PandaBlack> @Timm Breitner am besten per App wählen 🌝
+[12:56:56] <+Fabrice X.> pff umwelt. was soll der scheiss
+[12:56:57] <Neef Klostein> sie ist nervig...
+[12:56:57] <splex0007> @Neef Klostein Die Partei ! Wir lieben dich
+[12:56:58] <%PandaBlack> @DMC05 die linke ist das gleiche wie die Partei?
+[12:57:05] <+DMC05> nur die fragee ist wer bekommt erst wer zweit stimme xD ^^
+[12:57:15] <+RaketenBohneSchweiz> gott is die botoxtante lustig 🌝
+[12:57:19] <FlyingSoHighnow> @splex0007 wenn du dir die zalhen der letzen wahl anschauen möchtest, gab es keine alternative zu schwarz-rot-gelb, egal was der sonst nicht wähler gekreutz hätte,
+[12:57:26] <FlyingSoHighnow> draum sprech ich von perspektivlosikteit bei der wahl
+[12:57:26] <Jack Black> Wer was gegen das Bimon sagt sollte öffentlich erschossen werden
+[12:57:26] <Neef Klostein> @splex0007 darauf ein Bier!!!
+[12:57:28] <Michaela Böhm> die frau ist nicht auszuhalten
+[12:57:30] <scarathea> @Jack Black, Staat und Gesellschaft sind von Menschen geformte Systeme, die man ändern kann. Aber uns geht es noch zu gut als dass wir uns empören würden. 😉
+[12:57:37] <+DMC05> @PandaBlack sagen wir mal so die partei hat sich in den letzten 2 jahren sehr Politisch angaiert ^^ ... spass partei ist es nicht mehr xD
+[12:57:52] <deutscher hanfverband> loool
+[12:58:00] <Neef Klostein> ih
+[12:58:01] <deutscher hanfverband> "oh jetz wirds langsam lustig hier " loool
+[12:58:10] <splex0007> @FlyingSoHighnow natürlich wenn denn die ganzen nicht wähler gewählt hätten
+[12:58:11] <Jack Black> @scarathea das ist korrekt, aber du hast die Lobby vergessen 😉
+[12:58:27] <%Sendeplan> 🎄 Was war dein schlimmstes Weihnachtsgeschenk? 🎁 Nehmt an der großen Expert Wunschaktion 'Jingle Beans' teil: https://www.rocketbeans.tv/blog/jingle-beans-die-expert-wunschaktion/
+[12:58:28] <HunterMK22> die könnte glatt ein kerl sein
+[12:58:34] <PLATTENWALD CGN> Ht die nicht mal bei GGG in einem Streifen mit gemacht?
+[12:58:37] <Kurama Kitsune> DIe Bayernbarbie nervt aber echt hart😡😛😕
+[12:58:38] <Wowbagger> muss man sich aber auch mal zu gemüte führen das die einzigen alternativen zu den großen parteien "spassparteien" sind
+[12:58:47] <Neef Klostein> was machen die denn noch mit der Leber?
+[12:58:56] <scarathea> @Jack Black, ja, die machen ihr Ding. Weil von ihrem Kuchen ein paar Krümel für die Leute abfallen, aber nicht zu wenig als dass wir richtig wütend wären. Obwohl wir Grund dazu hätten.
+[12:58:59] <SuperStirling> Irgendwie war es schon vor der Wahl vor 4 Jahren recht offensichtlich, dass es auf einen große Koalition hinausläuft. Rot-Rot-Grün war da einfach zu unrealistisch
+[12:59:10] <+Fabrice X.> alkoholl in die leber nach der show
+[12:59:11] <KommentarKanal> Die Partei ist keine Spaßpartei, sie ist sehr gut!
+[12:59:11] <SmokinAcesMusik> boah ist die tante nervig, wie kam die bitte in die frank elstner masterclass? 😀
+[12:59:26] <scarathea> Ich kann bloß das Gejammere über die Politik nicht mehr hören, wenn man selbst keinerlei Änderungen im eigenen Lebensstil vornimmt. ^^
+[12:59:29] <+DMC05> und kinder Brief wahl machen ^^ ganz wichtig ^^ immer noch ein Foto machen von dem was man wählt ^^
+[12:59:30] <no0kieNRW> die redet so viel und sagt so wenig. das ist echt nicht feierlich :x
+[12:59:32] <Neef Klostein> Alkoholl!
+[12:59:33] <+Fabrice X.> weil sich sonst niemand beworben hat ?
+[12:59:37] <FlyingSoHighnow> "Die partei" spitze
+[12:59:46] <Wowbagger> kommentarkanal aber du weißt was ich mein. Ist halt abgef**** politische landschaft ^^
+[12:59:47] <SmokinAcesMusik> ☺
+[12:59:51] <Da Ha> @scarathea +1 - dein kassenbon ist ein Stimmzettel. jedes verdammte mal. Liebe Grüße, dein Kapitalismus. 😃
+[12:59:56] <Ahrtax> !cc ben
+[13:00:25] <scarathea> @Da Ha Exaktomente. 😃
+[13:00:30] <KommentarKanal> Klaro, aber was will man tun? Bin ja fan von der vorstellung dass uns in 20-30 jahren AIs regieren werden, die sind dann wenigstens fair
+[13:00:34] <Da Ha> Wenn die Menschen realisieren würden, wie mächtig ihr Konsumverhalten ist, würde sich so viel ändern
+[13:00:54] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[13:00:54] <+Baum Inventions> glaubst du
+[13:00:56] <splex0007> haben sie die Leber nicht benutzt ?
+[13:01:05] <trashcoin> Nachspeise mit Eis, obst und ganz viel liebe... wundervoll 😊
+[13:01:14] <Neef Klostein> genau Da Ha!! *fluppe Dreh und Booster Ex*
+[13:01:17] <scarathea> Man muss sich mal vorstellen, dass unser Hauptproblem eine Finanzwirtschaft ist, die überhaupt nicht mehr die eigentliche Funktion von Wirtschaft erfüllt... Dem Gemeinwohl zu dienen.
+[13:01:24] <+RaketenBohneSchweiz> voteban evelyn 🐯
+[13:01:27] <scarathea> Porsche macht ja jetz auch Börse unso, weil schnöde Autos bauen zu öde ist
+[13:01:31] <SHADOWoTHEoHEDGEHOG> glaub auch nicht.
+[13:01:33] <FlyingSoHighnow> @Da Ha da sind wir dann schon bei der Bewusstseinserweiterung der großen Massen, gibs gute doktorarbeiten drüber 😉
+[13:02:00] <Da Ha> @FlyingSoHighnow Ich les solche Sachen sehr gern. 😃
+[13:02:09] <+DMC05> Nieder mit den Banken !!! RBTV bankrun now xD ^^
+[13:02:13] <scarathea> Schick mal PMs mit Links rum 😀
+[13:02:29] <Da Ha> @FlyingSoHighnow Hab letztens eine Dotorarbeit über emotionale Ansteckung in sozialen Medien gelesen, war auch nice
+[13:02:31] <Räuber Fotzenbox> diese blonde olle is ja wirklich schrecklich
+[13:02:39] <scarathea> xD Das wär mal nice, wenn so ne Plattform ihre Reichweite für sowas nutzt. Siegismund is ja auch grad politisch ^^
+[13:02:40] <KommentarKanal> Leider ist die Gesellschaft so festgefahren in Tradition dass sich da kein apprupter Wandel ergeben wird, deshalb Revolution -> radikaler Umbruch, aber dafür braucht man erstmal nen auslöser
+[13:03:10] <splex0007> ach leute schaut mal die anstalt da seht ihr warum alles so ist wie es ist
+[13:03:17] <Da Ha> @KommentarKanal Die Revolution muss aber von untne kommen... daher die eigene Lebensweise umstellen. Damit Leute anstecken... usw...
+[13:03:40] <+DMC05> @scarathea keine sorge die wollen uns ja eh schon ins bargeld lose bezahle drängen um immer verfügen zu können 😉
+[13:03:41] <SHADOWoTHEoHEDGEHOG> die Mehrheit macht sich halt keine Gedanken bzw. will sie das auch nicht weil sie da nachdenken müsste, die bequemlichkeit des Schwarmdenkens ist halt zu schön.
+[13:03:47] <FlyingSoHighnow> @Da Ha ah ja, die manipulation des verhaltens via emotionaler botschaften, ist auch fanzinierend stimm ich zu 😉
+[13:03:52] <KommentarKanal> Der Bauerntölpel muss sich in seiner Existenz bedroht fühlen, erst dann kann sich etwas ändern
+[13:03:53] <EiZZB0NG> lol
+[13:04:01] <+Fabrice X.> gleich kommt g(enuss)ino der nicht weiss wann hähnchen geil ist und wann trocken...
+[13:04:11] <+Baum Inventions> porsche hat sich von huawei jetzt nen super tolles handy bauen lassen ... ist genau wie das MATE9 nur exorbitant teurer ... bei null Mehrfunktion 💜
+[13:04:17] <+DMC05> @KommentarKanal wird nie passieren ... schade eig
+[13:04:21] <washiXD> heut werden ja die buntesten sachen wiederholt
+[13:04:33] <Da Ha> @Baum Inventions Warum auch nicht? Bei Apple klappt das seit Jahrzehnten...
+[13:04:34] <%Sendeplan> RocketBeans TV wurde für die Goldene Kamera nominiert 🎥 Jetzt abstimmen: http://vote.goldenekamera.de/
