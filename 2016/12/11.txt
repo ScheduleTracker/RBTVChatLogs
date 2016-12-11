@@ -4425,3 +4425,241 @@
 [16:02:49] <petrik coffy> Essen die eigentlich nur Miltank, Groink und Karpador? Oder auch mal son feines Pichu, vielleicht auf Salat oder so....
 [16:04:12] <petrik coffy> Dacht es wär shiny 😖
 [16:04:31] <GesichtsKuchen> ja
+[16:04:44] <GesichtsKuchen> oder tauros
+[16:05:04] <pixel pat> was geht?!
+[16:05:11] <petrik coffy> Warum spielt das Spiel so mit unseren Gefühlen? 😖
+[16:05:32] <GesichtsKuchen> weil es dass kann
+[16:06:12] <pixel pat> offtopic frage: weiß jemand wie ich aus ner foreach schleife gleichmäßige 'li' elemente mache?
+[16:06:43] <pixel pat> per 6
+[16:06:52] <Sir Boron> das weisst du nicht? hätteste mal in der schule aufgepasst
+[16:07:12] <pixel pat> ich troll gerne mit offtopics
+[16:07:12] <Julius Blatt> Was meinst du mit gleichmäßig?
+[16:07:22] <pixel pat> 6er li elemente
+[16:07:34] <Julius Blatt> o.O
+[16:07:49] <GesichtsKuchen> alles gelogen
+[16:07:58] <petrik coffy> verwirrend.
+[16:08:00] <Yuuseki> Bisashiggy raus
+[16:08:09] <pixel pat> oll.wie man der foreach schleife sagt, dass sie per 6 ein li Element ausgeben s
+[16:08:31] <pixel pat> triangle grammatik
+[16:08:34] <desoxyephedrin> pixel pat, gruppier deine daten vorher in 6er bloecke oder mach ne normale for loop + module magix
+[16:08:40] <desoxyephedrin> *modulo
+[16:09:20] <TheCoCe> foreach hat eh nen großen overhead also ist ne normale for sowieso meist besser, wenn man die Möglichkeit hat
+[16:09:56] <+Chemile0n> etwas unschön, aber du könntest in die for schleife ne zählschleife für die variable packen..
+[16:10:20] <pixel pat> werd gerade eher gezwungendermaßen zum programmierer und kapier oberflächlich betrachtet den unterschied nicht
+[16:10:40] <pixel pat> warum unschön?
+[16:10:47] <pixel pat> mit i++ ?
+[16:11:18] <+Chemile0n> weil schleife in schleife gerne bugs profuziert oder sich aufhängt oder oder oder.. außerdem ist der code dann schwerer zu lesen..
+[16:11:22] <+ManganGER> diese moves :D
+[16:11:28] <+Chemile0n> und andere leute sollten ihn auch verstehen können
+[16:11:58] <pixel pat> foreach = für jeden, for = für... so sehr verständlicher find ichdas nicht
+[16:12:31] <+Kr4no> rutenschlag.... 😀
+[16:12:33] <pixel pat> egal ich probs mal
+[16:13:23] <+Chemile0n> naja eine reguläre zählschleife halt.. ist immer schwer zu sagen, wenn man den gesamten code nicht kennt.. und ich bin ne weile aus der programmiererei raus..
+[16:13:43] <pixel pat> du glücklicher 😉
+[16:14:14] <petrik coffy> warum? zaubern können is doch hübsch
+[16:14:24] <petrik coffy> wie kommst du dazu programmieren zu müssen aber keinen bock zu haben? 😀
+[16:14:33] <+Chemile0n> du könntest aber sagen, dass variable a mit jedem durchlauf +1 hochzählen soll, und wenn a 6 erreicht hat geht die schleife weiter, gibt den li wert aus und a wird wieder auf 0 gesetzt
+[16:14:51] <pixel pat> ist nur:
+[16:15:02] <Yuuseki> baust einen manuellen zähler in die foreach und machst in der schleife if ($i % 6 == 0) echo li
+[16:15:04] <pixel pat> foreach from user item=oneuser
+[16:15:11] <Viktor Reichert> um welche programmiersprache geht es denn?
+[16:15:17] <pixel pat> dann brauch ich 6er li elemente innerhalb ul
+[16:15:54] <pixel pat> smarty
+[16:16:08] <Yuuseki> smarty ist ein template system
+[16:16:09] <desoxyephedrin> lel
+[16:16:18] <pixel pat> ja aufbauend
+[16:16:25] <+Bugfix 85> Was zum Geier ist mit euch Kaputt Oo
+[16:16:44] <Yuuseki> @pixel pat was genau möchtest du noch mal?
+[16:16:46] <pixel pat> brauch im um modulvariablen zu verarbeiten
+[16:16:52] <Yuuseki> jeden 6. Durchgang ein li ausgeben?
+[16:17:05] <PLATTENWALD CGN> m0in Chat
+[16:17:16] <pixel pat> aus ner foreach schleife 6er li elemente inneralb eines ul damit ich die in nen slider jqueryen kann
+[16:17:20] <Viktor Reichert> aha, habe ich noch nie gehört 😛
+[16:17:30] <PLATTENWALD CGN> Bin aufgewacht grade, immer dieses Techno Partys :D
+[16:17:38] <pixel pat> also blöcke aus 6 elementen
+[16:17:43] <Yuuseki> was soll "6er li elemente" sein?
+[16:17:48] <+Chemile0n> achte darauf die variable die hochzählt nach dem 6. durchgang wieder auf anfangswert zu setzen, sonst funktioniert deine schleife nur ein mal
+[16:18:29] <AwesomeFlombe> wenns ja nur bei eddy so wär die anderen sind doch genauso schlimm 😀
+[16:18:43] <Yuuseki> @Chemile0n mit modulo ist das doch egal
+[16:18:49] <Yuuseki> braucht man nicht zurücksetzen
+[16:19:06] <hans wurst> sei kein dieb
+[16:19:23] <+Bugfix 85> laut Google kostet ein "Träger mit Verschluss m. Schlüssel li. 6er" 370,15€ ^^
+[16:19:38] <petrik coffy> 😀
+[16:19:50] <0iz01> weiß jemand, wann die kino+ folge vom Donnestag hochgeladen wird?
+[16:20:05] <petrik coffy> war das nicht ne alte?
+[16:20:08] <+Chemile0n> mit modulo ja, aber wir hattes es vorher noch von einer zählschleife innerhalb seiner for schleife
+[16:20:11] <desoxyephedrin> ❤ schluesselli
+[16:20:16] <hans wurst> vollgejizzed
+[16:20:16] <Yuuseki> @pixel pat hab halt immer noch nicht kapiert was du vor hast
+[16:20:21] <+Bugfix 85> jo war ne Alte
+[16:20:28] <+Chemile0n> egal ist wie gesagt schwer was zu empfehlen, wenn man den gesamten code und das eigentliche problem nicht kennt..
+[16:20:35] <pixel pat> also if.$smarty.user %6 == 0 ?
+[16:20:42] <+Chemile0n> vllt ist er mit seiner schleife ja auch völlig auf dem falschen dampfer..
+[16:20:52] <desoxyephedrin> we need moar spaces
+[16:20:53] <Hyperion> was ist das für 1 bübchen?
+[16:21:06] <DeatheyeHardcore> ich muss auch mal wieder glücklich gerubbelt werden
+[16:21:15] <pixel pat> egal ich machs mal einfach un dberichte nachher
+[16:21:18] <+ManganGER> rote rakete!
+[16:21:50] <petrik coffy> Ich war noch nie auf einem Dampfer, egal ob richtig oder falsch 😖
+[16:21:51] <That Vipe0ut Guy> servus
+[16:22:20] <+Bugfix 85> ❤
+[16:22:21] <GirlLoveAnime18> 💜
+[16:22:33] <+Bugfix 85> der blick
+[16:22:35] <Nasreddin> küsse iiiiiieh
+[16:22:37] <+Bugfix 85> köstlich
+[16:22:39] <IInteresting> TINI Love
+[16:22:49] <0iz01> wann kommt die neueste Kino+ folge auf yt? weiß das jemand?
+[16:22:49] <mrvn> ich küsse deine augen
+[16:23:10] <IInteresting> Richtig die Augäpfel?
+[16:23:10] <petrik coffy> die kommt nicht, es gibt keine
+[16:23:18] <petrik coffy> schröck war mit seinem baby beschäftigt
+[16:23:21] <+Bugfix 85> @0iz01 nächste Woche , letzte Woche gab es kein neues Kino+
+[16:23:33] <0iz01> ach das Baby is gekommen ❤ ok danke
+[16:23:38] <Dende> letzte folge retroklub 😕
+[16:23:46] <+Bugfix 85> EvE top o. Flop?
+[16:23:49] <IInteresting> Für immer?
+[16:24:20] <Nasreddin> eve top
+[16:24:24] <Chixomat> flop
+[16:24:26] <petrik coffy> Excel Online geht ab
+[16:24:41] <FlyingSoHighnow> wer kommt worauf?
+[16:24:45] <0iz01> Eve is love
+[16:24:53] <+Bugfix 85> okeeey, lass ich mich mal überraschen
+[16:25:01] <Knusti000> excel online, tabellenkalkulation-clash gegen andere!
+[16:25:07] <kristian kramer> Wiederholung
+[16:25:14] <Cry Stophe> schon wieder wiederholung... ? L4D war zwar nett aber warum läuft dat schon wieder...
+[16:25:24] <Crayy Darks> ISt das live ?
+[16:25:30] <Petee BEE> weil ich es noch nicht gesehen habe 😉
+[16:25:33] <+Bugfix 85> es ist Sonntag! ^^
+[16:25:38] <Crayy Darks> Ist das live ?!
+[16:25:39] <rockit beans> immer cool wenn die vier jungs mal alle am Start sind
+[16:25:41] <kristian kramer> okay
+[16:25:45] <kristian kramer> thx
+[16:25:51] <Crayy Darks> ist das live ?
+[16:25:54] <FlyingSoHighnow> donnie beim ersten lets play?
+[16:25:58] <Uber Yami> immer wieder sonntags...
+[16:25:59] <+Bugfix 85> !planlos durch die Nacht
+[16:26:22] <+Late Knight> super live
+[16:26:22] <+Bugfix 85> !penisplan
+[16:26:24] <%Sendeplan> @Bugfix 85: Den aktuellen Sendeplan findest du hier: https://www.rocketbeans.tv/wochenplan/
+[16:26:26] <kristian kramer> kommt sonntags Wiederholungen
+[16:26:59] <Hyperion> age of empires royal beef wäre göttlich
+[16:27:08] <kristian kramer> ja
+[16:27:09] <Skippy> ede xD
+[16:27:14] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[16:27:16] <+Late Knight> naja
+[16:27:17] <kristian kramer> simon
+[16:27:20] <petrik coffy> This is a Truck.
+[16:27:30] <+Bugfix 85> Danke @Sendeplan ❤ ^^
+[16:27:43] <Herr Fraglich> bei l4d2 wird man online immer von russen zerfleischt xD
+[16:27:44] <desoxyephedrin> haben die bei soundcloud jetzt werbung eingefuehrt? also auch in de?
+[16:27:52] <desoxyephedrin> oder weshalb sollte man das premium dingen abschliessen?
+[16:28:16] <IInteresting> Etiennes blick sagt alles
+[16:29:15] <Heinrich Heinrichson> Ede ^^
+[16:29:32] <desoxyephedrin> keine soundcloud lover da? 😖
+[16:29:36] <+Bugfix 85> @desoxyephedrin hab keine Werbung, bin mit Googlekonto angemeldet in Soundcloud ^^
+[16:29:40] <Skippy> nö
+[16:29:43] <petrik coffy> ich bin pirat.
+[16:29:46] <+Late Knight> nope
+[16:29:48] <petrik coffy> ich bezahle im intenet kein geld.
+[16:29:57] <petrik coffy> also nur wenn ich auch material dafür bekomme 😀
+[16:30:07] <Herr Fraglich> lol xD
+[16:30:07] <+Bugfix 85> BOOMER 😚
+[16:30:56] <jackyhorror> Classic Simon 😅
+[16:31:05] <petrik coffy> Vorsicht die Fässe explodieren / Schiesst drauf
+[16:31:53] <Quantum> xD
+[16:32:06] <Skippy> armer nils 😀
+[16:32:11] <LfynnL> f
+[16:32:17] <LfynnL> x
+[16:32:19] <+Bugfix 85> Wie beim Wrestling alles nur Showkampf 🌝
+[16:32:51] <LfynnL> CD funken Heyne gegeben DVDs geb brdbdbdbdbdbbbxbdhdhrhbddjdjndjdbdidbrjdhrjdhrgkRhsfhygmhggmxjzdzjshdhdgsfuzdduzsegegGahrarjmH.agnnagearhshrsstszdzdzddurhhdhdhdhdhdhdhhshsgdgddgdgddvhdhdhddbdhr
+[16:33:20] <HumanDie> ist das l4d 2 oder 1?
+[16:33:24] <Einfach Ich> @Bugfix 85 heyho 😊
+[16:33:25] <MRccMR> das spiel ist mega nice! Ich spiele es auch
+[16:34:13] <MRccMR> welcher teil ist das von left 4 dead?
+[16:34:20] <FelixBraun> Team BENIS? Kappa
+[16:34:32] <Disturbed Mox> Multiplayer ist aber leider tot
+[16:34:47] <GesichtsKuchen> müsste der erste ein
+[16:34:55] <Disturbed Mox> ja erste
+[16:35:01] <+Bugfix 85> jop Teil 1
+[16:35:04] <MRccMR> Ja glaub auch
+[16:35:08] <HumanDie> der soundtrack zum ersten teil ist sooooo geil
+[16:35:17] <+Bugfix 85> huhu @Einfach Ich , @GesichtsKuchen 😃 / <3
+[16:35:22] <MRccMR> ich spiele den 2. und der ist anders
+[16:35:40] <MRccMR> aber fast gleich
+[16:35:49] <GesichtsKuchen> @Bugfix 85 ❤
+[16:38:28] <petrik coffy> Ey ich hör irgendwas... Irgendwer heult doch hier? Moment, ich glaub das kommt von... AAAAAAAHHHH
+[16:39:03] <+Bugfix 85> ❤ Kaskade & CID - Us ❤ 🎶🎶🎶🎶
+[16:40:54] <Einfach Ich> @Bugfix 85 alles gut?
+[16:41:45] <darknesses90> bisschen harassen
+[16:41:46] <Dende> 😀
+[16:41:53] <GesichtsKuchen> @Einfach Ich ❤
+[16:42:14] <Einfach Ich> @gesichtskuchen 💜 🍪
+[16:42:21] <Raiden LIVE> dennis bleibt cool
+[16:43:42] <+Bugfix 85> @Einfach Ich bin knapp 1h wach, weiss ich selbst noch nicht 😀 grad gabs nenn Chappo & Rest vom Brokoli-Kartoffel Auflauf
+[16:44:01] <prinzvaliumx> 😱
+[16:45:00] <Einfach Ich> @Bugfix 85 achso stimmt ja wegen der Arbeit ☺ mh klingt gut 😊
+[16:46:49] <ThegReg1602> Geht, durch den Spitter können die Survivors gar nicht mehr campen
+[16:47:10] <Dende> 🌝
+[16:47:43] <HumanDie> Tennis..
+[16:50:18] <LUCA YT> Abonniert ALLE DEBITOR!!!
+[16:50:39] <HumanDie> Limburger Käse schmeckt
+[16:51:09] <Dende> Nein @LUCA YT
+[16:52:55] <petrik coffy> Ob Mama weiss, was ihr Bübchen für schlimme Spiele spielt?
+[16:53:25] <HumanDie> das hat die selbe altersbegrenzung wie painkiller oder?^^
+[16:53:36] <RBS> limburger 😚😚😚
+[16:54:11] <HumanDie> Ich habe hier wirklich Limburger 😀 und Brie
+[16:54:22] <Herr Fraglich> spitter gabs ja nocht nicht, wunder mich die ganze 😫zeit
+[16:54:35] <Einfach Ich> @RBS mike? bist du es ?
+[16:54:47] <petrik coffy> muss 😀
+[16:54:54] <RBS> klar 😀
+[16:55:43] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[16:56:09] <RBS> @Einfach Ich glaubst du es gibt hier noch andere schweizer? 😂
+[16:56:09] <GesichtsKuchen> @Sendeplan ❤
+[16:56:36] <HumanDie> ach hier sind schweizer? dachte deutsch only
+[16:57:16] <GesichtsKuchen> schweizer sind aber auch keine menschen!
+[16:57:16] <k4loenneli> RBS hat dein kochgehalt nicht für einen weiteren VIP gereicht? 🌝
+[16:57:23] <%Zeddy> @RBS ich hab hier letztens noch einen schweizer gesehn
+[16:57:23] <Einfach Ich> @RBS keine Ahnung 😀 Wieso hast du deinen Namen verkürzt?
+[16:57:33] <Alex aka *Ghostpeper*> ish ja logish das äs au schizer git da
+[16:57:36] <RBS> @Zeddy 😂
+[16:57:55] <%Zeddy> @RBS un ich mein nich dich oder einen anderen nick von dir
+[16:57:59] <HumanDie> GesichtsKuchen was sollen sie denn sonst sein?
+[16:58:06] <Einfach Ich> swissnes war doch auch Schweizer oder nicht?
+[16:58:09] <GesichtsKuchen> aliens!
+[16:58:14] <RBS> @Zeddy ich weiss dr.zoidberg z.b.
+[16:58:14] <HumanDie> lol
+[16:58:17] <k4loenneli> HumanDie die nächste evolutionsstufe 🌝
+[16:58:19] <%Zeddy> @Einfach Ich genau so hiess der 😃
+[16:58:33] <projection 3> ragemon
+[16:58:34] <xChrisS41x> gg
+[16:58:36] <HumanDie> deutsche sehen aber schon besser aus 😀
+[16:58:50] <Einfach Ich> @Zeddy gut dann ist mein Gedächtnis doch nicht so schlimm
+[16:58:56] <Einfach Ich> 😂
+[16:58:57] <RBS> gyt nimmt meine kreditkarte immer noch nicht. is das ein bug oder so? ^^
+[16:59:12] <%Zeddy> @Einfach Ich meins is sicher schlimmer
+[16:59:29] <k4loenneli> rbs muesch halt geld uf de bank ha 🌝
+[16:59:30] <Einfach Ich> @Zeddy kann sein 😂
+[16:59:43] <RBS> @k4loenneli ...
+[17:00:12] <Einfach Ich> @RBS wie geht's dir? Lange nicht mehr gesehen im chat 😀
+[17:00:35] <GesichtsKuchen> @RBS HALLO
+[17:00:56] <RBS> @Einfach Ich ich war die letzten tage auch nicht sehr lange online ^^ aber passt schon alles, war nur bissl mehr los. wie gehts deinen bauch? ^^
+[17:01:03] <RBS> @GesichtsKuchen HALLO !
+[17:01:38] <HumanDie> painkiller.. bester egoshooter
+[17:01:43] <RBS> @GesichtsKuchen wir sollten uns nackt ausziehen 😂
+[17:01:55] <GesichtsKuchen> @RBS ja!
+[17:02:05] <HumanDie> warum denn ausziehen?
+[17:02:12] <HumanDie> ist doch kalt!
+[17:02:18] <RBS> @GesichtsKuchen bis runter auf den teig 😚😚
+[17:02:24] <Einfach Ich> @RBS gut wächst immer mehr aber sonst entwickelt sich die kleine super ☺ Namenssuche läuft 😀
+[17:02:28] <GesichtsKuchen> @RBS aber saftig!
+[17:02:39] <+Baum Inventions> Der smoker smokt die ganze zeit... ah was...
+[17:02:54] <RBS> @Einfach Ich ich meinte eher wegen der kotzerei ^^
+[17:03:17] <Marco S> hallo
+[17:03:24] <+Baum Inventions> haiii
+[17:03:25] <RBS> @GesichtsKuchen ein deepteig 😚😚
+[17:03:34] <Marco S> legalize weed
+[17:03:42] <+Baum Inventions> +1
+[17:03:50] <Einfach Ich> @RBS achso ups 'tschuldige 😂 Alles wieder gut. Hahaha ich bin ja blöd
+[17:04:00] <GesichtsKuchen> @RBS es wird episch!
+[17:04:08] <RBS> @Einfach Ich das is ja nix neues 😂
+[17:04:31] <RBS> @GesichtsKuchen wie warmer gesichtskuchen 😚😚
