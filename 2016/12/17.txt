@@ -2833,3 +2833,286 @@
 [07:04:17] <Dat Wh0p> 500HZ beim TV sind aber auch nicht 500 Bilder
 [07:04:18] <MC Hodenflash> @EnteDerBoss Und für bei so nem teuren Monitor sollte es dann eigentlich schon IPS sein, was das Graka + Monitor auf über 1000 Euro kommen lässt. Das wars mir dann doch nicht wert
 [07:04:22] <EnteDerBoss> @MC Hodenflash brauchst du dann mit ziemlicher sicherheit, ja. hatte erst den monitor, und dann direkt eine 1080 zu release bestellt. und das war das ... hätte tagebuch schreiben sollen
+[07:04:40] <Julez 554> Mir ist es aber auch immer nur bei FPS aufgefallen.
+[07:04:41] <+Baron De Conde> ja, die prahlen oft mit ungenauen angaben, um leute zu locken
+[07:04:45] <Dat Wh0p> hab ich allein fürn Moni bezahlt Hoden ... -.-'
+[07:04:50] <+DMC05> hmmm
+[07:05:13] <+Baron De Conde> hunger
+[07:05:20] <MC Hodenflash> @EnteDerBoss Hä? Wieso Tagebuch?
+[07:05:29] <+DMC05> sucht einfach nach cpubenchmark AMD + A12-9700P
+[07:05:31] <+Baron De Conde> burger im backofen... mikrowelle...
+[07:05:34] <Einfach Ich> so da bin ich wieder
+[07:05:42] <+Baron De Conde> wb
+[07:05:45] <+DMC05> dann seht ihr das test ergebniss meines lappys ^^
+[07:05:49] <MC Hodenflash> @Dat Wh0p Wenn du dir auch wieder die Moni leisten musst 🌝
+[07:05:59] <2xtreme4u _____> hurra \0/
+[07:06:10] <MC Hodenflash> @Dat Wh0p Was kann der, wenn er so teuer war?
+[07:06:17] <Dat Wh0p> Monitor und TV sind riesen unterschiede was HZ angeht .... der Monitor kann dir 100 Bilder ausgeben wenn er 100 von der Graka bekommt ... der TV kann mit 400HZ verkauft werden und nur 60 gehen rein
+[07:06:21] <+DMC05> @Einfach Ich WB und aloha xD
+[07:06:41] <EnteDerBoss> @MC Hodenflash hatte eine der ersten 1080er von evga in ganz deutschland. allerdings hat sich der spass um 2 monate verschoben, und ich hatte in der zwischenzeit keine grafikkarte.
+[07:06:58] <Einfach Ich> @DMC05 aloha und danke 😀 Wie geht's dir?
+[07:07:02] <Dat Wh0p> der TV füllt nur mit doppelten Frames und schwarzbildern um die schneller zu (flimmern)
+[07:07:19] <Dat Wh0p> 1440p 144Hz IPS Freesync Hoden 😃
+[07:07:43] <+DMC05> ich hab mich schon 7 mal verabschiedet 😉 ^^ und will endlich gehn xD ^^
+[07:07:50] <MC Hodenflash> Die interpolierten Hertz von nem TV bringen dir nichts, wenn du einen PC anschließt
+[07:07:53] <+DMC05> dieser chad wird zur ner lästigen sucht xD
+[07:08:13] <Einfach Ich> @DMC05 hahaha 😂
+[07:08:23] <+DMC05> @MC Hodenflash  kommt drauf an ob die Graka dx12 kann xD
+[07:08:34] <MC Hodenflash> @Dat Wh0p OK dann aber 34 Zoll oder warum 1000 Euro dafür?
+[07:08:40] <+DMC05> @Einfach Ich  warum anderes profil bild 😲
+[07:08:59] <+DMC05> bzw dx11
+[07:09:17] <Geek and Gamer> voll .. eingesackt 😃
+[07:09:20] <MC Hodenflash> @DMC05 Was soll das denn bringen?
+[07:09:39] <+DMC05> lol was 1k für nen 34 zoll ?
+[07:09:44] <+DMC05> hahaha Muhahaha xD
+[07:09:56] <Dat Wh0p> 27 ... und naja... kost halt.... und das nur zum zocken ... jetzt zB nutz ich den großen
+[07:10:03] <Einfach Ich> @DMC05 abwechslung muss auch mal sein aber bei dem Bild bleibe ich 😉
+[07:10:12] <MC Hodenflash> @Dat Wh0p Marke?
+[07:10:16] <+DMC05> meiner hat 67 zoll und 100 herz und hat nur ca 400 gekostet xD
+[07:10:18] <Dat Wh0p> Eizo
+[07:10:29] <Sabri Noor> 14"
+[07:10:43] <+DMC05> @MC Hodenflash  ich hab eh den faden verloren ich swimme im bier FLuss um mein leben ... will doch nur ins bett ^^
+[07:10:45] <Julez 554> Bin mit BenQ sehr zufrieden mit der Serie von vor 3 Jahren
+[07:11:03] <Dat Wh0p> und nen 35er Curved 21:9 AOC ... Frau is weg und hat Auto mitgenommen... kanns mir aktuell leisten xD
+[07:11:07] <+DMC05> @Einfach Ich  😉 passt schon ^^ ich behalte auch nur das eine bild 😉 ^^
+[07:11:13] <Einfach Ich> wir haben nen samsung Fernseher
+[07:11:17] <+Baron De Conde> @DMC05 hab nen burger und nen muffin als rettungsinsel gefunden 😀
+[07:11:24] <+Baron De Conde> doppel-cheese
+[07:11:42] <+DMC05> @Baron De Conde  nee danke 😉 ^^ juckt mich net ^^
+[07:12:02] <Julez 554> Digger dito xD du bist nicht alleine 😀 🍺
+[07:12:03] <+Baron De Conde> mich aber 😀 Fleisch, lecker Fleisch 😀
+[07:12:13] <MC Hodenflash> @DMC05 Schwierig einen Fernseher zu finden der geeignet ist zum Zocken. Zumal es ja oft schon an fehlendem hdmi 2.0 hapert.
+[07:12:22] <+DMC05> @Baron De Conde  ich hatte heute pizza das langt ^^ xD
+[07:12:23] <2xtreme4u _____> monitore sind was die bildquali angeht sowieso sehr subjektiv, ich schau mir die vor dem kauf immer in geschäften vorher an, also eingeschaltet natürlich xD
+[07:12:28] <+DMC05> @Julez 554  🍻 ^^
+[07:12:33] <+Baron De Conde> 🍔🍻
+[07:12:52] <MC Hodenflash> @DMC05 Dann der input lag und das einem die interpolierten Hertz was bringen ist mir auch neu
+[07:13:07] <+Baron De Conde> + oreo dounut
+[07:13:07] <+DMC05> @MC Hodenflash  eben das delay ist meist immer so mies 😞  aber was solls 😉  wenn man ein pc mit Displayport hat ^^
+[07:13:28] <+DMC05> @MC Hodenflash  nur dann muss auch ein monitir her kein TV 😉
+[07:13:36] <+DMC05> Monitor ^^
+[07:13:37] <Einfach Ich> Ich möchte es endlich 10 Uhr haben
+[07:13:47] <MC Hodenflash> @Dat Wh0p OK Eizo erklärt den Preis
+[07:13:58] <+Baron De Conde> warum das denn @Einfach Ich ?
+[07:14:29] <MC Hodenflash> @DMC05 Aber dein 67" hat doch kein Displayport eingang
+[07:14:33] <+Baron De Conde> weniger besoffene/bekiffte/sonstig zugerauschte hier? 😀
+[07:14:38] <+DMC05> VGA kabel war aber immer noch das beste ... ^^ 😀 damals in der rohre 😉 als der moni noh ca 10 kg gewogen hatte ^^
+[07:14:47] <+DMC05> @MC Hodenflash  ich weiss meiner hat auch ein 😉 ^^
+[07:14:50] <+DMC05> kein*
+[07:15:08] <MC Hodenflash> @DMC05 Auflösung?
+[07:16:31] <+DMC05> @MC Hodenflash  wennich vom pc streame reich 1080p
+[07:16:34] <Dat Wh0p> 10kg xD
+[07:16:53] <MC Hodenflash> @EnteDerBoss 2 Monate on Board?
+[07:17:01] <+DMC05> @Dat Wh0p  soo schwer waren unsere 15-17 zoll monitore
+[07:17:07] <+DMC05> gefühlt xD
+[07:17:07] <Dat Wh0p> 24er Röhre auf LAN .... die wollten Doppelten Eintritt von mir weil ich 2 Tische brauchte
+[07:17:12] <EnteDerBoss> @MC Hodenflash so in etwa, ja
+[07:17:17] <+DMC05> La party war immer stressig xD
+[07:17:22] <+DMC05> lan*
+[07:17:42] <MC Hodenflash> @DMC05 OK aber hat er eigentlich mehr?
+[07:17:54] <+Baron De Conde> "dokumentarfilme" tauschen, auf lans
+[07:18:31] <+DMC05> @MC Hodenflash  ich denke ja ich weiss die zahlennet hab nur auch ein normalen HD reciver ... ich glaub aber iwas von 2xxx iwas hat der tv von LG
+[07:18:59] <+DMC05> wer braucht mehr 😉 ^^
+[07:19:02] <Dat Wh0p> immer schön 15-17 gehabt bis der Onkel seinen 24er aussortiert hat ... dazu noch nen rechner der mit 230V Pabst Industrielüftern gekühlt wurde .. und schon warst du der Arsch auf der Lan
+[07:19:52] <Einfach Ich> @Baron de Conde weil mein mann wenn er nicht so viele Überstunden macht Feierabend hat ☺
+[07:20:15] <+DMC05> @Dat Wh0p 😀 ^^ die guten alten zeiten xD wo ne dot matrix in 800x 640 gereicht hatte xD
+[07:20:26] <MC Hodenflash> @DMC05 OK, wenn du die nutzen willst mit 60FPS brauchst du eben auch Hdmi 2.0 oder DisplayPort 1.4 sonst bekommst du nur 30FPS.
+[07:20:49] <Julez 554> Schau leider seit Monaten kein TV mehr ich hab kp
+[07:20:50] <+Baron De Conde> @Einfach Ich frühaufsteher? bin meistens erst gegen 13 uhr wach ^^
+[07:21:08] <MC Hodenflash> @DMC05 Da das fast kein 4K Fernseher hat, kommen die für mich nicht in Frage
+[07:21:33] <Einfach Ich> @Baron de Conde ich?
+[07:21:33] <Dat Wh0p> @DMC05 und wo man für den ersten Drucker noch nen Anbau brauchte
+[07:21:49] <+Baron De Conde> @Einfach Ich jop
+[07:21:52] <+DMC05> @MC Hodenflash  eben 😉 ^^ ich weiss selber net ist auch nicht das neuste model 😉 und der TV hat kein Display port nur hdmi 2.0 oder so xD ^^
+[07:22:04] <Dat Wh0p> Nadeldrucker so groß wie nen Corsa A ... und so laut wie nen Wartburg 323
+[07:22:06] <domofour> aber echt
+[07:22:48] <Einfach Ich> @Baron de Conde ja durch meine Arbeitszeiten ist mein schlafrythmus am a***ch
+[07:22:54] <+DMC05> @Dat Wh0p ach jaa comport 😉 ^^ mit sicherheits hebel xD 😉 ^^
+[07:23:40] <Dat Wh0p> 386 mit 33MHz ... 30MB Festplatte die lockere 6 Kilo wog xD
+[07:23:55] <+DMC05> @Dat Wh0p  und netzwerkkabel kabel die wie satenliten kabel waren und man noch eine gewischt bekommen hatte wenn man drann fasste 😉 ^^
+[07:24:04] <MC Hodenflash> @DMC05 Vermutlich auch das nicht. Wird glaub ich erst seit diesem Jahr verbaut. Wenn 1080 dir reichen ist es ja auch nicht schlimm.
+[07:24:07] <Dat Wh0p> Ringnetzwerk 😮
+[07:24:26] <+Baron De Conde> @@Einfach Ich deswegen entscheide ich mich gegen schichtdienst und respektiere jene, die das machen/können ^^
+[07:24:29] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[07:24:35] <+DMC05> @MC Hodenflash  ein tipp für 2017 scheiss auf Nvidia scheiss auf Intel 😉
+[07:24:36] <+DMC05> Go ZEN @MC Hodenflash  ^^
+[07:24:50] <+DMC05> @Dat Wh0p  nullmodem kabel xD
+[07:25:00] <+DMC05> switch kabel 😲
+[07:25:08] <+DMC05> die alte zeit xD ^^
+[07:25:10] <MC Hodenflash> @DMC05 Hab ich "leider" beides 2015 gekauft
+[07:25:13] <Einfach Ich> @Baron de Conde ist auch nicht einfach aber mein mann und ich kennen das nicht anders
+[07:25:28] <Dat Wh0p> was war ich damals stolz als ich meine ganzen 3,5 und 5,25 gegen nen Zip-Laufwerk getauscht hatte
+[07:25:30] <+DMC05> @MC Hodenflash  dann warte ne generation ab 😉 ^^
+[07:26:05] <+DMC05> @Dat Wh0p  2 fach CD lauf werk Woop Woop xD
+[07:26:35] <+Baron De Conde> @Einfach Ich dann ist es ja ok. meine aktuellen kolleginnen spucken gift, wenn sie bis 16:30 bleiben müssen, ich bin aber 17:00 uhr gewohnt vom hort
+[07:26:36] <+DMC05> ich wollte aber immer Zip haben bis man wusste das die disketten so teuer waren xD
+[07:26:48] <MC Hodenflash> @DMC05 Ja ich bin noch 1-2 Jahre versorgt mit CPU, GPU und Monitor. Aber nen Fernseher will ich mir bald zulegen. 40-50 Zoll
+[07:27:04] <Dat Wh0p> schöne alte zeit ... auch als die Bullen die Hausdurchsuchung wegen BTM machten und die 3 200er register mit VCD und SVCD einfach übersehen haben xD
+[07:27:08] <+DMC05> @MC Hodenflash  wenn nicht sogar bis zur nächsten Konsolen generation 😉 ^^
+[07:27:22] <Einfach Ich> @Baron de Conde na dann zumindest einer der nicht rum meckert
+[07:27:39] <MC Hodenflash> @DMC05 Scorpio kommt doch in nem Jahr
+[07:27:53] <+DMC05> wenn ich überlege das ich vor 7 jahren ca eine gleich starke CPU hatete wie heute dann ist es traurig wie langsam die sache vorran geht 😉 ^^
+[07:28:08] <Dat Wh0p> TV brauch ich auch -.-'
+[07:28:09] <+DMC05> @MC Hodenflash  ist auch nur ne APU in Zen form 😉 ^^
+[07:28:10] <+Baron De Conde> @Einfach Ich wirklich nur einer ^^ nur speikobras bei uns, deswegen neuer job nach silvester
+[07:28:27] <Dat Wh0p> meiner is noch 1080p ...
+[07:28:38] <Einfach Ich> @Baron de Conde super 😃👍
+[07:28:52] <+DMC05> @Dat Wh0p  dat reich lange 😉 wenn es ein smart TV ist 😃
+[07:29:07] <MC Hodenflash> @DMC05 Schon klar das die Das AMD Zeug verbauen. Aber ich meine damit kommt doch die neue Generation schon nächstes Jahr
+[07:29:07] <Dat Wh0p> und.. zu groß...
+[07:29:14] <+GesichtsKuchen> @Einfach Ich ❤
+[07:29:15] <+Thomas Bühler> Vergleicht Preise der Schweizer Hàndler wenn Ihr nen neuen Fernseher wollt... Oft billiger
+[07:29:16] <Dat Wh0p> ich brauch nen kleineren TV xD
+[07:29:41] <Einfach Ich> @gesichtskuchen ❤🍪
+[07:29:50] <+DMC05> @MC Hodenflash  ich glaube nicht drann as es sich was ändern wird momentan 😉
+[07:29:57] <+DMC05> @Dat Wh0p  xD 😀
+[07:30:05] <+Baron De Conde> @Einfach Ich aufgrund von krankheit in 7 wochen knapp 13kg abgenommen, trotzdem als krankmacher abgestempelt. pech gehabt, dann mach ich eben meine letzten urlaubstage krank und bekomme 225€ bezahlt
+[07:30:13] <MC Hodenflash> @DMC05 Inwiefern ändern?
+[07:30:37] <+DMC05> @MC Hodenflash  in sachen von leistung der sprung ist meist nur so 10 % ...
+[07:30:40] <Dat Wh0p> bin jetzt auch erstmal weg ... einkaufen etc... later...maybe...cya
+[07:30:42] <Einfach Ich> @Baron de Conde oje das klingt nicht gut
+[07:30:45] <+Baron De Conde> und sowas nennt sich erzieher, "empathisch"
+[07:30:48] <+DMC05> @Baron De Conde  ... hmm nicht gut 😞
+[07:31:01] <+DMC05> @Baron De Conde  wie letztes mal schon GUte besserung !!
+[07:31:05] <2xtreme4u _____> @DMC05 liegt daran dass man sich immer mehr den physikalisch machbaren grenzen nähert, z. b. bei der fertigung nähert man sich schon langsam an die größe eines atoms und mehr geht natürlich nicht xD
+[07:31:21] <Einfach Ich> von mir auch gute Besserung
+[07:31:22] <+DMC05> @2xtreme4u _____  eben 😉  !!
+[07:31:27] <+Baron De Conde> @DMC05 danke 😃 di darmspiegelung 😭
+[07:31:27] <MC Hodenflash> @DMC05 Naja bei Grafikkarten immerhin bisschen größere Schritte als bei CPUs
+[07:31:32] <Fox Eye> Guten Morgen liebe Genossen, äh Zeitgenossen 🌝
+[07:31:36] <+Baron De Conde> danke
+[07:31:53] <+DMC05> @Baron De Conde  ich weiss du konnstes Jhonny nicht geniessen 😞
+[07:32:00] <Fox Eye> Es ist Samstag, möge der Kakao mit euch sein 🐸
+[07:32:07] <Julez 554> @Baron De Conde zum Arzt gehen !
+[07:32:20] <MC Hodenflash> @DMC05 Kommt ja jedes Jahr 1 TeraFlop dazu 🌝
+[07:32:25] <+DMC05> @Fox Eye  machste mal chad unter haltung ich muss mal pissen und ich muss seit 8 mal nacht sagen immer noch schlafen ;D xD
+[07:32:27] <Einfach Ich> @Fox eye moin flummi 😀
+[07:32:33] <Derpy Hooves> kakao \🐸/
+[07:32:44] <+Baron De Conde> @meinste grünes kraut aus resident evil? xd
+[07:32:45] <+DMC05> soo chad ich bin dann mal weg zum 10ten xD
+[07:32:48] <Julez 554> Hey Fox 😃 sry aber Kakao? 😀
+[07:32:52] <MC Hodenflash> Fox Eye ist schon wach \😧/ Ich sollte längst schlafen
+[07:32:57] <+DMC05> und hört auf das zu lese ^^
+[07:33:00] <+DMC05> BYE
+[07:33:01] <Fox Eye> @DMC05 Ja, meine Chad-Schicht fängt jetzt an 😖
+[07:33:07] <MC Hodenflash> Bye
+[07:33:18] <+DMC05> @Fox Eye  gut so 😉 so kann ich weg xD
+[07:33:25] <Einfach Ich> @Fox eye gut geschlafen?
+[07:33:31] <Julez 554> Digger gönn dir Schlaf ^^
+[07:33:39] <Fox Eye> @Einfach Ich Guten Morgen Grashüpfer 🐙
+[07:34:03] <Julez 554> is bald weihnachten xD ^^
+[07:34:23] <+Baron De Conde> moin
+[07:34:24] <2xtreme4u _____> 🍮
+[07:34:29] <Fox Eye> @MC Hodenflash Ich habe dich erwischt, stehengeblieben! 👮
+[07:34:35] <MC Hodenflash> Ich bin auch mal weg. Ich erwarte einen Bericht von Ihnen über die Ereignisse in meiner Abwesenheit! 👮
+[07:34:54] <Fox Eye> Jawohl Sir! 😠
+[07:35:13] <MC Hodenflash> @Fox Eye Wie reden Sie mit ihrem Vorgesetzten? 😠
+[07:35:20] <Einfach Ich> 👮
+[07:35:22] <MC Hodenflash> Schon Besser! @Fox Eye
+[07:35:29] <Julez 554> aye captain
+[07:35:57] <+Baron De Conde> mehr rum, kapitän
+[07:36:01] <MC Hodenflash> Captain? 😖 Ich bin doch eindeutig nur Master Chief
+[07:36:48] <Julez 554> Lieteunant?
+[07:37:06] <Julez 554> Corporal Lieteunant captain private?
+[07:37:09] <Julez 554> xD
+[07:37:13] <Einfach Ich> die wahre Polizistin bin ja wohl immernoch ich 😂
+[07:37:15] <+Baron De Conde> mehr 54er rum?
+[07:37:25] <Chris Pütz> Master Chief? Kandidat bei der SKY One Koch Show? 😃
+[07:37:30] <MC Hodenflash> Master Sergeant
+[07:37:36] <AK-Gamer 0_0> NOOB
+[07:37:39] <Fox Eye> Wo sind die Echsenmenschen unter den Chad-Leuten, wenn man sie braucht?
+[07:37:42] <Julez 554> Machs gut MC ^^
+[07:37:48] <Fox Eye> @Einfach Ich Ne, seit 4 Tagen schlaf ich mies
+[07:37:56] <MC Hodenflash> 😊/
+[07:38:08] <Einfach Ich> @Fox eye wie blöd
+[07:38:17] <Fox Eye> Auf Netflix gibts Assassination Classroom (Anime-Serie). Echt unterhaltsam 😀
+[07:38:18] <AK-Gamer 0_0> NOOB
+[07:38:22] <Julez 554> 😃 /
+[07:38:32] <MC Hodenflash> @Einfach Ich Dienstgrad?
+[07:38:48] <+Baron De Conde> @diphenhydramin - in reisekrankheitstabletten drinnen. gibts in jeder apo
+[07:39:06] <Einfach Ich> @MCHodenflash gehobener dienst hauptkommissarin
+[07:39:10] <+Baron De Conde> machen müde wie sa*
+[07:39:15] <Einfach Ich> 😀
+[07:40:01] <Fox Eye> Hab ich schon gesagt das ich gestern in RougeOne war und da nur laute Leute im Saal waren und Kids die rumrannten, den ganzen Film über? Ein Alptraum 😖
+[07:40:35] <+Baron De Conde> @Fox Eye gehe morgen/heute abend ins kino 😭
+[07:40:36] <AK-Gamer 0_0> NOOB
+[07:40:54] <MC Hodenflash> @Einfach Ich Hmm? Wie verhalten sich denn die Dienstgrade der Deutschen Polizei zu denen von der US Air Force? 🤔
+[07:40:58] <+Baron De Conde> BOON
+[07:41:17] <Fox Eye> Da konnte keiner 5 Minuten einfach mal die Schnauze halten im Saal. Zum kotzen.
+[07:41:39] <Einfach Ich> @MCHodenflash mit den US amerikanischen Polizisten kenne ich mich nicht aus 😂
+[07:42:13] <+Baron De Conde> die schießen in der regel erst, bevor sie fragen/denken
+[07:42:28] <Einfach Ich> @Fox eye aus diesen Grund bleibe ich immer Zuhause
+[07:42:29] <MC Hodenflash> @Einfach Ich OK sagen wir im Krieg bist du mir unterstellt und im Frieden hast du das Sagen
+[07:42:52] <Einfach Ich> @Baron de Conde das weiß ich auch noch 😀
+[07:43:02] <Fox Eye> @Einfach Ich ich war dieses Jahr auch erst das 2. Mal im Kino. Für Star Wars muss das sein 😭.
+[07:43:23] <Maximilian Klima> ☺☺☺☺☺
+[07:43:33] <+Baron De Conde> der doppel-cheeseburger ist fast vollendet
+[07:43:52] <Einfach Ich> @Fox eye ich war dieses jahr kein einziges mal im kino
+[07:44:08] <Fox Eye> @MC Hodenflash Im Krieg? Bist du etwa einer dieser Endzeit-Diktator-Lords wie aus Mad Max? Hast du die Wasserquelle unter deiner Wurstgriffelherrschaft?  😭
+[07:44:16] <+Baron De Conde> @Einfach Ich ich locker 8-12x
+[07:44:16] <Chris Pütz> Katzenöhrchenflugdings.
+[07:44:35] <Einfach Ich> @Baron de Conde oha
+[07:44:56] <MC Hodenflash> @Fox Eye Die Wasserquelle hat doch der Schweizer unter Kontrolle! 👿
+[07:44:57] <+Baron De Conde> alleine 5x mit versch. leuten in hateful 8
+[07:45:30] <Saubstauger> oh das ist ja live
+[07:45:33] <Fox Eye> @Baron De Conde 5x? O_o
+[07:45:49] <+Baron De Conde> @Fox Eye john ruth ftw!
+[07:46:23] <MC Hodenflash> @Fox Eye RaketenBohneSchweiz meinte er und Nestle hätten uns in der Hand
+[07:46:23] <Einfach Ich> @MCHodenflash abgemacht 😀
+[07:46:24] <Fox Eye> Naja, gibt genug Leute die haben eine Kinokarte, zahlen fürs Jahr 100,- irgendwas und gehen so oft ins Kino wie sie wollen. Nur bei sowas wie gestern hätt ich gern mein Geld wieder.
+[07:46:29] <Fox Eye> Auch wenn der Film geil war.
+[07:46:44] <Einfach Ich> @MCHodenflash sind wir gerade im Frieden?
+[07:47:13] <MC Hodenflash> @Einfach Ich Soweit ich weiß ja.
+[07:47:20] <Fox Eye> @MC Hodenflash Was, RaketenBohneSchweiz ist mit ImperatorNestle im Bunde? 😭
+[07:47:35] <MC Hodenflash> @Fox Eye Ja 😖
+[07:48:07] <Einfach Ich> @MCHodenflash behalte den Schweizer im auge!
+[07:48:41] <MC Hodenflash> VIER 😠
+[07:48:45] <MC Hodenflash> 4
+[07:48:46] <MC Hodenflash> 4
+[07:48:56] <+Baron De Conde> mehr bier für mich 😀
+[07:49:11] <Saubstauger> neeeein
+[07:49:14] <+Baron De Conde> bockbier und witcher 3 oder chad... hmmmm...
+[07:49:40] <MC Hodenflash> Simon ich bin zutiefst enttäuscht 😖
+[07:50:30] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[07:50:36] <2xtreme4u _____> das hier ist chyt, nicht chad!!!111 kappa
+[07:50:48] <+Baron De Conde> wot
+[07:50:59] <Einfach Ich> Ich verschwinde gleich kommt die hebamme bn danach wieder da
+[07:52:07] <MC Hodenflash> Musst du mal schnell werfen 😂
+[07:52:29] <Einfach Ich> bin*
+[07:53:22] <MC Hodenflash> Ich seh jetzt erst den Gag mit Alwin, Simon, Theodor 😀
+[07:53:44] <Fox Eye> Wozu brauchst du jetzt die Hebamme?
+[07:54:04] <Einfach Ich> @Fox eye untersuchung
+[07:54:13] <Nasengold> Aligator
+[07:54:16] <2xtreme4u _____> kroki
+[07:54:26] <Fox Eye> @Einfach Ich oh, da hast du Glück, es gibt nicht mehr viele Hebammen (hohes Risiko, schlecht bezahlt)
+[07:54:28] <Nasengold> Ali Gator 👳
+[07:54:53] <Einfach Ich> @Fox eye ja ich habe echt nen Volltreffer
+[07:56:28] <2xtreme4u _____> stimmt nicht laut wiki, aligator ist ein krokodil xD
+[07:57:00] <2xtreme4u _____> ist so als würde man sagen schimpansen sind keine affen xD
+[07:57:27] <+GesichtsKuchen> sid sie auch nich
+[07:57:30] <+GesichtsKuchen> sind
+[07:57:40] <Chris Pütz> Bones in Englisch und Pille in Deutsch
+[07:57:49] <2xtreme4u _____> chyt kluk kappa
+[07:57:56] <MC Hodenflash> Sind Menschenaffen
+[07:58:22] <Fox Eye> Was ist ein gefilteter Kaffee?
+[07:58:33] <Nasengold> ein ekliger ausgedienter Kaffee
+[07:58:44] <Nasengold> Kann ich gar nicht mehr trinken
+[07:58:47] <MC Hodenflash> Simon, wieso wusstest du nicht dass es 4 Touchdowns waren? 😖 😖 😖
+[07:59:10] <MC Hodenflash> Ich war doch immer eine Vaterfigur für dich 😖
+[07:59:10] <Fox Eye> An der Poke-Highschool 🐸
+[08:00:02] <MC Hodenflash> Schere Stein Hölle 😂
+[08:00:18] <MC Hodenflash> @Fox Eye 👍
+[08:00:26] <Nasengold> Schere schneidet Hölle 🌝
+[08:00:28] <2xtreme4u _____> ja, menschaffen sind ja auch keine affen->"Der Begriff „Menschenaffen“ ist dagegen nicht genau gefasst." wenn man argumetieren möchte, dann genau anders herum 😛
+[08:01:31] <MC Hodenflash> 66?
+[08:01:33] <Nasengold> 66 oder?
+[08:01:35] <The Cake Is a Lie> ^66
+[08:01:38] <Chris Pütz> Order 66
+[08:01:46] <Roll Rover> 66
+[08:01:48] <2xtreme4u _____> 0815 kappa
+[08:02:15] <MC Hodenflash> Order 88 😀
+[08:02:15] <Der_Legionaer> 88
+[08:02:48] <Asuka Langley> ORDER 88
+[08:03:32] <Chris Pütz> Ich zu meiner Freundin: "Order 69" 😃
+[08:04:01] <MC Hodenflash> Und versteht sie den Gag? @Chris Pütz
+[08:04:29] <Chris Pütz> 69 oder 88?
