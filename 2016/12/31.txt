@@ -514,3 +514,224 @@
 [02:03:19] <Matt Grey> @Nafi con fatz Das hyper threading was de abschalten wolltest.
 [02:04:02] <Nafi von Fatz> @Matt Grey achso, geht leider nich. bei fc5 gibts keine möglichkeit irgendwie was zu ändern per *ini. und in den my games ordner von fc5 is eine datei drinn
 [02:04:26] <Nafi von Fatz> haha der nils
+[02:04:37] <2xtreme4u _____> 😀
+[02:04:41] <Baum Inventions> Nils scheint amüsiert zu sein.
+[02:04:56] <+Adorondir> naja ^^
+[02:05:30] <Nafi von Fatz> lost ark sieht richtig gut aus 😜
+[02:05:33] <Matt Grey> Der typ meint im Bios abschalten und PC neu starten.. aber gibt bestimt noch andres.
+[02:05:53] <Matt Grey> 15-20 fps mehr meinten die
+[02:06:12] <Nafi von Fatz> überhaubt oder bei gta5 bzw fc5?
+[02:06:18] <YArbiterY> Gibs die woh noch
+[02:06:56] <Matt Grey> bei beiden sollte es gehen.. ich hab aber -disableHyperthreading bei GTA 5 als Startoption :).
+[02:07:02] <Lord Kratzebart> sieht fett aus...
+[02:07:05] <Nafi von Fatz> ok
+[02:07:09] <Matt Grey> also das - mitschreiben da
+[02:07:10] <Nafi von Fatz> jau, sieht voll gut aus
+[02:07:33] <Nafi von Fatz> ok, ich versuch das mal mit fc5. danke
+[02:08:25] <Nafi von Fatz> nils der bürgermeister
+[02:08:31] <Sven L> welches spiel is das? gerade reingeschaltet
+[02:08:40] <Matt Grey> bitte :).
+[02:08:56] <Matt Grey> Diablo 3 glaub ich
+[02:09:05] <Nafi von Fatz> lost ark
+[02:09:10] <Sven L> witzig . not.
+[02:09:19] <Nafi von Fatz> aus korea
+[02:09:28] <Matt Grey> ja. lost ark.. soll 2017 free to play kommen für Browser
+[02:09:40] <YArbiterY> Schnuss
+[02:09:51] <Nafi von Fatz> die die die!
+[02:10:11] <+DOOM Design> sah schon lecker aus
+[02:10:27] <Baum Inventions> Die Stinker
+[02:10:37] <Nafi von Fatz> freiheit is wichtig!
+[02:10:40] <2xtreme4u _____> 😂
+[02:10:45] <Lord Kratzebart> wie geil 😀
+[02:10:56] <DOAN> wtf
+[02:10:58] <Matt Grey> lol 😀
+[02:11:07] <2xtreme4u _____> 😀
+[02:11:12] <Nafi von Fatz> hehe
+[02:11:14] <Nafi von Fatz> voll gut
+[02:11:30] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[02:11:31] <+DOOM Design> 😀 wahre hingabe
+[02:11:48] <Matt Grey> da hatte er sich sein Haar mit Igelborsten nach hinten gestriegelt
+[02:12:31] <2xtreme4u _____> das muss man erstmal so bringen wenn einem die kamera und das mic unter die nase gehalten wird xDDD
+[02:12:40] <Young HNDMT> 👽
+[02:12:54] <Matt Grey> Ja und die Perrücke nich verrutschen lassen
+[02:14:17] <Nafi von Fatz> @Matt Grey klappt leider nich mit hyperdings ;(
+[02:15:44] <Young HNDMT> 1. September 2016 ???
+[02:16:05] <Matt Grey> bcdedit /set {current} hypervisorlaunchtype off dann als admin in cmd. bei win 10.. on für an
+[02:16:34] <Matt Grey> oops auto nich on
+[02:17:02] <2xtreme4u _____> die pokèmonisierung 😀
+[02:17:54] <YArbiterY> 😑😑
+[02:17:57] <2xtreme4u _____> 😂
+[02:18:18] <Matt Grey> geht aber nur wenn kein Tool das wieder an schaltet.
+[02:18:23] <Matt Grey> beim booten
+[02:18:39] <Heinrich Heinrichson> game two ❤
+[02:19:01] <+DOOM Design> als es noch keiner wusste 😀
+[02:19:06] <wraaarh> lol game two?
+[02:19:24] <popo2k3> gefrieren bier und apfelwein bei -3°?
+[02:19:26] <Matt Grey> game plus daily 56
+[02:19:30] <Matt Grey> ja
+[02:19:41] <Sir Boron> auf jeden fall
+[02:19:41] <Heinrich Heinrichson> jo
+[02:19:54] <Matt Grey> ab 40 umdrehungen nichmehr..
+[02:20:19] <Nixda Smiregal> bier ja wein nicht
+[02:20:43] <Matt Grey> na ^^ na na na ^^ was geht Nixda Smiregal
+[02:21:26] <Heinrich Heinrichson> wein bei etwa -5
+[02:21:41] <Matt Grey> asp
+[02:21:48] <Matt Grey> aso ..
+[02:23:09] <Nixda Smiregal> na nicht viel langeweileschieben
+[02:23:16] <Matt Grey> lol
+[02:24:01] <Sir Boron> ach, ich hau mir gerade schmerzmittel rein wie smartis. sonst geht nichts^^
+[02:24:19] <Sir Boron> und bei euch?
+[02:24:19] <Matt Grey> oh je.. schlimm?
+[02:24:43] <Jinoru> wird man davon wenigstens high?
+[02:24:49] <Matt Grey> Silvester vorbereitet.. kann los gehn morgen :D
+[02:24:56] <Matt Grey> nein.
+[02:25:05] <Sir Boron> nur heute beim downhill biken den superman gemacht^^ halber körper übersäht mir schweren prellungen und einzelnen gewebeschäden^^
+[02:25:07] <+ManganGER> Möglichst lange wachbleiben, damit ich morgen nicht um 22 Uhr einschlafe :D
+[02:25:31] <Sir Boron> und ja, man wird etwas high davon^^
+[02:25:32] <popo2k3> also bei -2 gings bisher gut...
+[02:25:42] <Nixda Smiregal> aua
+[02:25:50] <2xtreme4u _____> ich stopfe mich gerade mit schoko nougat zapfen zu xDD
+[02:25:58] <Matt Grey> is nur wenns durch friert.. schonmal bier am stiel ohne bier gehabt? lol
+[02:25:58] <+ManganGER> Gute besserung
+[02:26:18] <Matt Grey> Ja. Gute Besserung.
+[02:26:19] <Sir Boron> danke^^
+[02:26:22] <Grüner Gregor> oha
+[02:26:28] <Sir Boron> nur montag arbeiten gehen, wird nichts draus^^
+[02:26:30] <rene beckers> ich mit chiken nuggets
+[02:26:54] <Matt Grey> schade..
+[02:26:58] <Grüner Gregor> endorphinpumpe im hirnn lol
+[02:27:10] <Jinoru> hast dich sicher schon drauf gefreud ne? Sir hehe
+[02:27:30] <Sir Boron> joa ich finde arbeiten nicht schlimm
+[02:27:31] <Matt Grey> das lustige ist: sind die endorphintöpfe leer gibts depris..
+[02:27:59] <Matt Grey> Ich auch nicht. Brot is Brot.
+[02:29:09] <Heinrich Heinrichson> 😚😚
+[02:30:39] <Matt Grey> Boah is das gut.. kanns nicht erwarten bis die Beta vorbei ist.
+[02:30:51] <BavariaGames TV> ohje wie geil diablo einfach ist 😀
+[02:30:52] <Matt Grey> hoffentlich kein pay to win
+[02:30:59] <Matt Grey> das is nich diablo 😀
+[02:31:11] <BavariaGames TV> bei mir schon 😉
+[02:31:25] <BavariaGames TV> schatzgoblin königin 😉
+[02:31:52] <Matt Grey> klar.. war n scherz. :D.. kommtaber bald so n clon
+[02:32:34] <Matt Grey> paragon lvl? loa? lol
+[02:32:48] <BavariaGames TV> achso dieses asiatische plagiat oder?
+[02:33:03] <BavariaGames TV> mmorpg glaub ich sogar 😀
+[02:33:05] <Matt Grey> ja. aber ich zweifle an ner genehmigung für EU /NA
+[02:33:57] <BavariaGames TV> ja erstens das und zweitens ist es auch irgendwie uninteressant für mich ! Weiß nicht an was das liegt aber mich jukts irgendwie gar nicht 😉
+[02:34:13] <Nixda Smiregal> achja diablo lol
+[02:34:40] <Matt Grey> Mich auch nich. aber ich bin da experimentierfreudig wenns nix kostet XD
+[02:35:01] <Matt Grey> Supportet hab ich schon genug. muss auch mal free to play sein.
+[02:35:26] <BavariaGames TV> bin viel zu sehr mit Madden, diablo, dark souls und bloodborne beschäftigt 😀 meine absotuen Top Games 😉
+[02:35:54] <Matt Grey> 😃 schöne Spiele. Ich habe Diablo damals richtig genossen.
+[02:36:31] <Matt Grey> Aber Teil 3 is mir zu mau.. irgendwie fehlt was..
+[02:36:32] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[02:36:42] <Ma Rackmann> was ist denn madden
+[02:36:48] <BavariaGames TV> genieße es immer noch! Zurzeit mit meinem Bruder auf der PS4 im Koop 😉
+[02:36:51] <Matt Grey> madden nfl..
+[02:37:00] <Matt Grey> schön 😃
+[02:37:02] <Ma Rackmann> ah irgendson sportrotz
+[02:37:29] <BavariaGames TV> richtig 😃
+[02:37:34] <Heinrich Heinrichson> 😂
+[02:37:47] <2xtreme4u _____> ich hab damals diablo 1 zum vollpreis gekauft, als es kaum jemand kannte, ist irgendwie unreal was daraus geworden ist xDDD
+[02:37:54] <Matt Grey> hatte damals auch viel mit meinem bruder gezockt. ganze nächte heroes of might and magic.
+[02:37:58] <+ManganGER> da hat es jemand verstanden 😀
+[02:38:00] <+Sille 1988> Ihr seid ja immer noch wach Oo
+[02:38:11] <BavariaGames TV> ja logo
+[02:38:15] <Matt Grey> Die Sille is noch wach 😀
+[02:38:24] <Lucas S.> welches game iz das
+[02:38:29] <2xtreme4u _____> @Sille 1988 du nicht mehr? 🌝
+[02:38:44] <+Sille 1988> Jaaaa hab Pokemon geguckt obwohl ich zocken wollte Oo
+[02:38:54] <Matt Grey> Deus EX
+[02:39:01] <Lucas S.> danke
+[02:39:05] <Mokota87> raclette
+[02:39:16] <2xtreme4u _____> die pokèmonisierung schreitet unaufhaltsam voran xD
+[02:39:19] <+Sille 1988> @2xtreme4u _____ Hmmmm  vielleicht war ich noch nie wach *so ein bisschen auf mystisch tu* Hu hu
+[02:39:57] <2xtreme4u _____> @Sille 1988 hi 😀
+[02:40:05] <+Sille 1988> Ich finde die X/Y Staffel eigentlich ganz gut und stellenweise düster. Schade das das Game nicht so war
+[02:40:56] <Matt Grey> Also das sieht wie ne vorgefertigte Demo -Benchmark aus..
+[02:40:57] <+Sille 1988> Ich glaube aber, dass ich sofort einschlafe, wenn ich mich hinlege. Auch wenn ich mich nicht müde anfühle
+[02:41:01] <popo2k3> @Sille 1988 vielleicht warst du noch nie am leben
+[02:41:35] <+Sille 1988> @popo2k3 Ja daher auch vielleicht nie wach. Läuft doch aufs selbe hinaus ^^
+[02:42:20] <popo2k3> meinte jetz eher so den matrix ansatz
+[02:42:34] <Matt Grey> oh ja.. 2017 wird gut
+[02:43:03] <Matt Grey> Mehr Future Club aber bitte XD ohne Zichte au.
+[02:43:06] <Mokota87> du schläfst bereits
+[02:43:15] <+Sille 1988> Aso. Also den "Verbiege nicht den Löffel. Das ist unmöglich, denn der Löffel existiert nicht. Verbiege dich selbst" Ansatz
+[02:43:36] <Matt Grey> clever.
+[02:43:46] <BavariaGames TV> royal beef oh gott xD
+[02:44:08] <+Sille 1988> Aber ich geh auch gleich pennen. Ab 12.10 Uhr läuft die Royal Beef Wiederholung die ich noch mal sehn will
+[02:44:42] <Matt Grey> muss live sein. beste action ^^
+[02:45:08] <Mokota87> knack
+[02:45:09] <+Sille 1988> Nidhoogg war so episch ^^
+[02:45:30] <BavariaGames TV> da hab ich durchs zusehen schon aggressionen bekommen xD
+[02:45:56] <+Sille 1988> Also was da Ede und Simon bei Nidhogg abgezogen haben war einfach nur klasse ^^
+[02:46:53] <popo2k3> sry für die sporadischen antworten, zocke sf und hab den chad nebenbei laufen
+[02:47:15] <Matt Grey> Nixda Smiregal Auf zum Atem!
+[02:47:30] <+Sille 1988> Da liegt ein Portmonee
+[02:47:31] <popo2k3> hau ab mit dem löffel, voll das bla
+[02:47:49] <Nixda Smiregal> Ne zu Atom
+[02:47:51] <+Sille 1988> Du hast damit angefangen. Hau du doch ab ^^
+[02:47:57] <Nixda Smiregal> zum*
+[02:47:59] <Matt Grey> Sag ich doch zum Atem!
+[02:48:33] <popo2k3> sind raucher da?
+[02:49:09] <Matt Grey> Voll nukular.
+[02:49:11] <popo2k3> also "normale" nich 420...
+[02:49:22] <Matt Grey> ja. wieso?
+[02:49:38] <popo2k3> e zigarette probiert?
+[02:49:47] <Nixda Smiregal> ja bringt nix
+[02:49:57] <Matt Grey> ja. geht. is ok aber wenn amn nich aufhören will is die auch nix ^^
+[02:50:13] <popo2k3> is ja schon ganz nice und überbrückt den drang, aber is halt nich dasselbe
+[02:50:52] <Nixda Smiregal> bei mir haben die e zigaretten nix gebracht,war wie luft
+[02:50:54] <Matt Grey> Der Rauch wird aber mittlerwiele simuliert mit dem Kratzgefühl im Hals je nach Stärke.
+[02:51:21] <Nixda Smiregal> mit geschmack
+[02:51:52] <Matt Grey> ja. Die e Shisha war das Beste .. die hatte garnix drin.. keiner hats gemerkt :D
+[02:52:25] <popo2k3> wenn ich aber direkt zieh und inhalier (was ich noch nie gemacht hab) is eigentlich ganz nice
+[02:53:11] <Nixda Smiregal> ja,es gibt auch gute e zigaretten,die kosten allerdings
+[02:53:14] <Matt Grey> ja. is nur verdampftes Konzentrat .. geht.. Keine Sonstigen Schadstoffe. und ab und an sofgar ohne nikotin XD
+[02:53:29] <2xtreme4u _____> 😀
+[02:53:43] <Matt Grey> Die Amis haben das erfunden mit sowasim GLasin der Bar statt Zigarette das inhalieren
+[02:53:56] <popo2k3> jo, is klar. aber zum probieren kauft man sich halt nich so n teures teil. aber früher oder später werd ich das wohl machen
+[02:54:11] <Rick> ach quatsch
+[02:54:24] <Rick> meine hat nicht mal 10 öcken gekostet und hält schon seit nem jahr
+[02:54:26] <Matt Grey> Is schon was. besonders da es nich unters Nichtrauchergesetz fällt.
+[02:54:44] <Rick> aber unters hausrecht
+[02:54:46] <Matt Grey> is ja keine fremdbelästigung
+[02:54:49] <Matt Grey> ja.
+[02:55:19] <2xtreme4u _____> 😀
+[02:55:29] <Nixda Smiregal> doch,wenn sich einige durch den geruch belästigt fühlen schon
+[02:55:36] <Matt Grey> Welcher Bahnhof will einen da raus werfen wegen sowas? xD
+[02:55:44] <Matt Grey> aso ja. stimmt.
+[02:56:12] <Matt Grey> meine hatte nach nix gerochen
+[02:56:31] <2xtreme4u _____> 😂
+[02:57:17] <Nixda Smiregal> ich finde nur,das e zigaretten nicht in kinderhände gehören
+[02:57:20] <Matt Grey> boah boot mit kotzantrieb.. knaller frauen übertreibt.. XD
+[02:57:37] <Rick> hat mir doch mal jemand ernsthaft versucht zu erklären dass der wasserdampf meiner ekippe schimmel fördern würde
+[02:57:57] <Nixda Smiregal> lol
+[02:58:07] <Matt Grey> ja. in betsimmten Räumen fördert es Schimmel
+[02:58:08] <Rick> deshalb dürfte ich die nicht benutzen
+[02:58:15] <Matt Grey> Bücherei etc . no go
+[02:58:28] <Dat Wh0p> e zigaretten .... ich frag mich bis heute noch wofür ...
+[02:58:31] <Rick> ja im geschlossenem 2x2m raum vielleicht
+[02:58:38] <Matt Grey> Dürfen unser feuchtes Zeug da auch nich rin stellen.. Schimmel.
+[02:58:40] <Dat Wh0p> entweder rauche ich... oder ich rauche nicht ...
+[02:59:07] <Nixda Smiregal> Ich rauch so ne schachtel am tag
+[02:59:09] <Rick> @Dat Wh0p dämmlichtes argument ever
+[02:59:38] <Nixda Smiregal> war mal bei fast 2
+[02:59:46] <Dat Wh0p> das hat nichts mit dämlich zu tun.. dämlich sind die kinder die mit e-zigaretten rumlaufen... was ist das bitte fürn schwachsinn
+[02:59:49] <Matt Grey> Au so. vlt mittlereile ne Halbe.
+[02:59:58] <2xtreme4u _____> das passive einatmen vom dampf der e-zigaretten hat ungefähr die gleiche schadbelastung wie das einatmen von luft in großstädten xD ist ja auch nur dampf und kein rauch xDD
+[03:00:17] <Matt Grey> ja.
+[03:00:30] <Nixda Smiregal> geh mal in ne Tiefgarage und atme tief ein
+[03:00:35] <Rick> ich nehm meine e kippe nur hin und wieder und dann ohne nikotin und mit aroma.. was ist daran so dämlich?
+[03:00:43] <popo2k3> @Nixda Smiregal wer sagt denn dass zigaretten/jedweder art an kinder kommensollten?
+[03:00:44] <2xtreme4u _____> S C I L L
+[03:00:45] <Dat Wh0p> wer meint er würde das brauchen um vom "richtigen" rauchen weg zu kommen hat ganz andere probleme in meinen augen
+[03:00:47] <Matt Grey> lol Nixda.. lass mal
+[03:01:26] <popo2k3> @Rick nix dämlich, bist weiter als sehr sehr viele. mich eingeschlossen. lass dich nich blöd anmachen
+[03:01:31] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[03:02:08] <Matt Grey> @popo2k3 hä? weer hat das behauptet.. Die dinger sind verboten für Kinder.
+[03:02:21] <Matt Grey> Gesetzlich. selbst E-Shishas
+[03:02:55] <popo2k3> @Matt Grey ja na hoffentlich sind die verboten für kinder
+[03:03:21] <popo2k3> was ich heut als schlimm erachte sind die kaugummi zigaretten
+[03:03:29] <popo2k3> wie asozial is das denn bitte!?
+[03:03:32] <Nixda Smiregal> jaschon,aber ich habe das schon oft genug gesehen,das die dinger an kinder gegeben werden
+[03:04:05] <Rick> yup, ist leider gängig dass die dinger an kids verkauft weden
