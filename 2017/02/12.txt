@@ -962,3 +962,208 @@
 [03:03:56] <★SkillZ★⑲> Bei Zero Hour gabs glaub auch was ingame in den Optionen bei Multiplayer
 [03:04:02] <Wat Jordan> ach quark.. im Installationsordner hat das das ja.
 [03:04:06] <Wat Jordan> bei /data
+[03:04:33] <KazumaGER> bei denen liegts einfach nur an der unterschiedlichen Spielgeschwindigkeit... guckt euch mal die Baumbewegungen an ^^
+[03:04:41] <Wat Jordan> Entweder deine IP da rein oder alles 0 😀
+[03:04:57] <Nixda Smiregal> ja eben,die bäume
+[03:04:58] <Wat Jordan> Ja. die config gibts auf pcgames hardware extreme
+[03:05:07] <KazumaGER> wenns an der IP liegen würde dann würden die sich nichtmal finden...
+[03:05:24] <★SkillZ★⑲> Das liegt daran das die einen mit Laptop spielen soweit ich das gesehen hab
+[03:05:30] <★SkillZ★⑲> auf Laptops läuft C&C nicht so
+[03:05:33] <Wat Jordan> Doch schon. Aber de synch dann
+[03:06:01] <Wat Jordan> Klar läuft as auch da. is für XP SP 3
+[03:06:35] <Wat Jordan> Als Admin ausführen 😃
+[03:06:39] <Nixda Smiregal> bei einem läuft das zu schnell
+[03:07:15] <★SkillZ★⑲> Wir haben das schon überall drauf gespielt, auf Laptops hat man schnell Desyncs bzw delays
+[03:07:19] <KazumaGER> jjo bei Eddy - der hat keine Framelimiter... das rennt mit etwa 300 FPS oder so ^^
+[03:07:27] <Wat Jordan> Ja. das war bevor se das gepatcht und  die ini geändert hatten
+[03:07:55] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[03:07:56] <★SkillZ★⑲> Woher soll ich das wissen, hab das letzte mal vor 8 Jahren gespielt xD
+[03:08:02] <KazumaGER> @Wat Jordan erzähl doch keinen Unsinn... ich hab da garnix gepatcht und bei mir läufts normal... ^^
+[03:08:17] <Nixda Smiregal> bei mir sinds so 6 jahre her
+[03:08:31] <KazumaGER> bei mir ca 2 Wochen 😛
+[03:08:46] <Wat Jordan> Ich meinte ja die IP etc. sorry. gibt keine Patches mehr  ausser 1.8 oder was das war
+[03:08:48] <★SkillZ★⑲> Mein Bruder hat das früher aufs derbe gesuchtet so um 2003/2004 rum
+[03:08:50] <★SkillZ★⑲> xD
+[03:08:55] <Wat Jordan> kann man alles einstellen da 😃
+[03:09:17] <Wat Jordan> Öhm überlegen.. 4 Jahre?
+[03:09:19] <★SkillZ★⑲> Was die IP angeht war doch eben was in den Optionen Ingame
+[03:09:31] <KazumaGER> @Wat Jordan ach das meinst du... ne Custom-Vorkonfigurierte Ini-Datei... davon halt ich nich viel 😀
+[03:09:49] <Nixda Smiregal> das liegt nicht an patches,sondern einfach an der unterschiedlichen geschwindigkeit
+[03:10:04] <Wat Jordan> @KazumaGER  Naja. Die is nur so damit das läuft wie es soll. 😃 Ist von 2014..
+[03:10:04] <KazumaGER> in DIESEM Fall ja 😀
+[03:10:06] <Nixda Smiregal> das hatt man bei andren spielen auch
+[03:10:18] <Nixda Smiregal> dann kommt severtrennung
+[03:10:21] <★SkillZ★⑲> Ja von allem führt das eher zu Desyncs wenn du an den Spieldateien was änderst und dann mit anderen Spielst die das nicht verändert haben
+[03:10:58] <Wat Jordan> Ja. Den Frame limiter kann man rein machen. Aber die überempfindliche Maus  bekommste mitm scroll parameter  in den Griff.
+[03:11:54] <★SkillZ★⑲> Hey das Mikrofon aus der Werbung hab ich auch 😀 (Yeti Pro)
+[03:12:27] <★SkillZ★⑲> aber mit einem Steinberg UR12 und nicht direkt am PC über USB
+[03:13:00] <Wat Jordan> 😃
+[03:13:49] <★SkillZ★⑲> Bomben ding, Quali is echt nice. Aber für feintuning braucht man ein Interface
+[03:14:36] <Wat Jordan> MS , AMD ind NVIDIA hauen eh neue App- Profile raus w das früher oder später auch ohne was geht.
+[03:14:41] <★SkillZ★⑲> V-Sync kann man auch in den NVIDIA / AMD Kartentreibern einstellungen einstellen
+[03:15:00] <Wat Jordan> Freue mich shcon auf die neue Windows 10 - Version mit Bild in Bild.
+[03:15:20] <★SkillZ★⑲> Ja aber was Virtuelles kannst du nun man nicht mit etwas Realem vergleichen
+[03:15:30] <★SkillZ★⑲> Interface ist einfach ne Klasse für sich
+[03:15:47] <Wat Jordan> ja. 😃
+[03:16:26] <Wat Jordan> Das spielt in der Zukunft. Die  Menschheit führt da krieg mit Robotern statt ehcten Soldaten.
+[03:16:48] <Wat Jordan> Petroglyph hats erfunden ^^
+[03:16:54] <★SkillZ★⑲> Also an den Spieldateien würde ich bei Spielen die Synchronisation zwischen Spielern nutzt nichts rumstellen. Einfach in den Videoeinstellungen vom Grafikkarten Treiber nachsehen
+[03:17:53] <Fabs> funzt ja so gut, wie die DotA Runde 👍
+[03:18:02] <Wat Jordan> NE. Synchro is immer die Serververbindung. der kann dann die ganzen lan/neuen Server vom fanprojekt nicht abgleichen.
+[03:18:03] <★SkillZ★⑲> ja
+[03:18:21] <Wat Jordan> Aso is noich Folge 1. bzw schonwieder
+[03:18:26] <★SkillZ★⑲> Alle aus is eig besser
+[03:18:40] <Nixda Smiregal> jedenfalls nicht im spiele verändern
+[03:19:14] <Fabs> wollten sie demnächst nochmal cnc zocken?
+[03:19:16] <★SkillZ★⑲> Ehm ja, habt ihr alle das Spiel über Origin?
+[03:19:42] <Nixda Smiregal> ich hab das richtige davon
+[03:19:47] <Fabs> jo, ich schon
+[03:19:56] <Fabs> also origin
+[03:19:59] <★SkillZ★⑲> Gleiche Spielversion is wichtig, wir konnten über Origin auch nicht mit Spielern die das über CD hatten spielen
+[03:20:02] <Wat Jordan> Währ echt gut. Und ich habs auf  puhh dvd?
+[03:20:39] <★SkillZ★⑲> Musste ich das Spiel ein zweites mal installieren auf meinem PC weil alle anderen CD version hatten...
+[03:21:14] <Wat Jordan> die CD Version muss man nur patchen. die Updates  gibts noch im Netz
+[03:21:20] <Fabs> bei der Alert 2 gabs doch im Multiplayer den lustigen Bug, dass sich die Basis bei offsync selbst zerstört
+[03:21:49] <Nixda Smiregal> sollte man vorher mal testen
+[03:21:53] <★SkillZ★⑲> das war kein Bug
+[03:22:04] <Wat Jordan> ja. Nix vorher testen 😕
+[03:22:27] <Wat Jordan> Gooogl gibts auch erst seit egstern ist nue
+[03:22:31] <Wat Jordan> *neu*
+[03:22:41] <Fabs> ja, ich meinte auch "Bug"
+[03:23:17] <★SkillZ★⑲> Übrigens falls ihr nicht direkt über LAN zusammen spielt muss der HOST einen Offenen Port zum hosten nutzen
+[03:23:27] <Wat Jordan> Is kein bug ^^ Hatse  verloren. Die Basis geht kaputt dann.
+[03:23:42] <Wat Jordan> Ich hab Red alert 3 auch 😀
+[03:24:01] <Wat Jordan> Oder wars 3 Mit Tanja? ogal ist gut.
+[03:24:02] <Nixda Smiregal> wenn der bauhof kaputt ist ist es verloren zu 90%
+[03:24:19] <★SkillZ★⑲> In Red Alert?
+[03:24:44] <Wat Jordan> RA 3
+[03:24:57] <Fabs> im dritten gabs keine Tanja afaik
+[03:25:06] <★SkillZ★⑲> Also auf gar keinem fall die 8er Map im Sand Spielen, hab vergessen wie die heißt. Die Laggt nach paar Minuten wie dumm
+[03:25:34] <Fabs> aber sonst fand ich den dritten gut im Multiplayer
+[03:25:41] <Wat Jordan> ohh dann hab ich das mit dem Altem verwechselt :D.
+[03:25:52] <★SkillZ★⑲> Also ich find C&C 3 TW ganz gut
+[03:26:04] <Fabs> war der mit den japsen
+[03:26:26] <Nixda Smiregal> vonc%gibts soviele teile ist ja egal
+[03:26:30] <Wat Jordan> Ja. Hatte da den Kriegsroboter gebaut :).
+[03:26:40] <Nixda Smiregal> c&c*
+[03:26:43] <★SkillZ★⑲> Linke Maus gedrückt halten war doch Gebäude drehen oder nicht?
+[03:27:07] <Fabs> die japsen waren auch ziemlich op, glaube ich
+[03:27:30] <Wat Jordan> Naja. Hab die mit den AMis damalss auch besiegt.
+[03:27:54] <★SkillZ★⑲> Aber nicht zu See oder? xD
+[03:27:55] <Fabs> im Multiplayer?
+[03:28:10] <Fabs> mit Sicherheit nicht zur see
+[03:28:24] <Wat Jordan> Seeangriff war immer dumm. Bei allen Red Alert  Teilen 😀
+[03:28:40] <Nixda Smiregal> fand da die russen besser
+[03:29:03] <Wat Jordan> Hatte IUrgendwelche boote gespammt und dann bin ich übers wasser mitm Baufhof
+[03:30:13] <Nixda Smiregal> so scheint ja zu laufen
+[03:30:57] <Wat Jordan> Da ruckelts bei denen noch. zu schnell. wegen Maus. Weil deiner die auf Maximum gestellt hatte am PC  XD
+[03:31:10] <Gottesott> Leute wo bleibt das video vom animal squad teil 2?
+[03:32:01] <Fabs> das ist zu schüchtern
+[03:32:03] <Patrick Härtel> was ist das genau für ein c&c teil?
+[03:32:24] <Fabs> generals Stunde Null, denke ich
+[03:32:27] <★SkillZ★⑲> C&C Generals mit der erweiterung Zero Hour
+[03:32:44] <Patrick Härtel> danke 😉
+[03:33:03] <Nixda Smiregal> erstmal schön alle fahzeuge besetzen.dann angreifen,alle weg
+[03:33:50] <Wat Jordan> Ja .Steam hat den Red Alert 3 und alle Addons. biste wenn de alles nimmst bei Einem Vollpreis spiel für PC bekommste aber  das Letzte  Gratis.
+[03:34:05] <★SkillZ★⑲> Ach wie mich die Rocket Humvees immer aufgeregt haben
+[03:34:21] <★SkillZ★⑲> fast so schlimm wie die Aurora Bomber
+[03:34:24] <Wat Jordan> das Andre ist bei Origin 😃
+[03:34:29] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[03:34:45] <Nixda Smiregal> ja ja die bomber
+[03:34:51] <Wat Jordan> Da kauf ich lieber da. billiger bei EA
+[03:35:05] <Fabs> aber generals ist relativ balanced oder?
+[03:35:11] <★SkillZ★⑲> ne
+[03:35:24] <★SkillZ★⑲> die meisten Ami Generäle sind stark im vorteil
+[03:35:43] <Wat Jordan> Ja.
+[03:35:44] <★SkillZ★⑲> die einheiten sind teilweiße zwar echt Teuer, aber oho
+[03:36:00] <Nixda Smiregal> bei generals waren die amis im vorteil
+[03:36:21] <Fabs> stimmt, die Helis sind Recht krass oder
+[03:36:58] <★SkillZ★⑲> Naja gut, wenn man den Nuke General hatte und keine Regeln gesetzt waren dann ging da auch einiges ab
+[03:37:00] <JLS.cs> MBT würde aber auch nicht wirklich viel gegen inf. machen
+[03:37:11] <Wat Jordan> Schade. ALle Addons gibts nur bei steam. die 17Jahre für 30EU ist it nur einem Addon für RA 3 😕
+[03:37:52] <★SkillZ★⑲> Also ich hab für 9.99€ C&C The first Decade gekauft
+[03:38:03] <★SkillZ★⑲> Da sind 17 C&C Spiele drin
+[03:38:17] <Wat Jordan> dann lieber imHandel wenns da billiger ist
+[03:38:28] <Fabs> jo aber origin halt
+[03:38:50] <Nixda Smiregal> die amis waren da zwar stark,aber ich hatte meistens rusen gespielt
+[03:39:15] <★SkillZ★⑲> den Nuke General hab ich relativ gerne gespielt 😀 Die Migs mit Nuke Raketen und die Party steigt
+[03:39:18] <Fabs> du meinst chinepsen?
+[03:39:39] <Nixda Smiregal> ja die chinesen gingen so
+[03:39:57] <Fabs> russen gab es bei generals nicht
+[03:40:24] <Wat Jordan> Da gibst Terroristen 😃 . Der Stärkste war mit der Terrorprinz
+[03:40:24] <Nixda Smiregal> waren auch rot also egal
+[03:40:25] <★SkillZ★⑲> Doch mit Mods
+[03:40:35] <Wat Jordan> Deswegen istd as aufm Index gelandet damals
+[03:40:46] <Wat Jordan> Grün waren die
+[03:41:05] <Nixda Smiregal> ja terroristen auch
+[03:41:30] <Wat Jordan> Gibt für alle Teile kostenlose mods. Klar. Aber ist die Hauptgeschichte.
+[03:41:35] <★SkillZ★⑲> Grüne Terroristen?! hört sich ja fast an wie ne Partei ausm Bundestag
+[03:41:59] <Wat Jordan> lol 😀 Naja dieFarber der  Basis da hatte ich immer grün in erinnerung
+[03:42:12] <Nixda Smiregal> ja,weiß ja nicht ob man das heutzutage noch reinschreiben darf
+[03:42:27] <Nixda Smiregal> auch wenn es nur spielbezogen ist
+[03:42:46] <Wat Jordan> Doch. Counterstirke hat auch sowas.
+[03:43:27] <Wat Jordan> Naja. Die Seuchenbombe war immer gut ^^
+[03:43:37] <Nixda Smiregal> ja
+[03:43:54] <Wat Jordan> Jetzt hatten se es rausgefunden. Praktikant macht PC putt
+[03:44:00] <★SkillZ★⑲> Von der IBG?
+[03:44:07] <Nixda Smiregal> ja
+[03:44:17] <Wat Jordan> Bestimmt  Bubi dran gewesen mit Bübchen als Anleiter 🌝
+[03:44:26] <Nixda Smiregal> lol
+[03:44:30] <★SkillZ★⑲> GLA = Terroristen? xD ansichtssache
+[03:44:47] <Wat Jordan> Ja. IBG
+[03:45:54] <Wat Jordan> Mansollte niemals am pc das Zeug direkt umstellen. Nur im Spiel lol
+[03:46:08] <★SkillZ★⑲> Alter die Bäume eskalieren ja echt Extrem
+[03:46:27] <Wat Jordan> Ja. ist bei mir auch so. Aber mit den neuen Profilen sollte es gehen
+[03:46:42] <Wat Jordan> Mus ich mir mal die 17 Jahre Version kaufen 😀
+[03:46:44] <★SkillZ★⑲> Ich hatte das noch nie
+[03:46:56] <★SkillZ★⑲> 17 Jahre?!
+[03:47:14] <Wat Jordan> ja. da sist alels drin was bekannt war.
+[03:47:19] <Nixda Smiregal> vorallem sollte man nicht an den grafikkartentreibern rumspielen
+[03:47:26] <★SkillZ★⑲> Die ersten 10 Jahre bitte 😀
+[03:47:28] <Wat Jordan> 17 years aniversity. Stand bei uns auch mal rum im Handel
+[03:48:09] <★SkillZ★⑲> Ja ich meinte ja nicht die Grafikkartentreiber sondern die Videoeinstellungen die die Grafik-API mitbringt
+[03:48:58] <Nixda Smiregal> bei mir laufen einige spiele auch so komisch
+[03:49:10] <Wat Jordan> Das spart Nerven.
+[03:49:51] <Nixda Smiregal> und bei ihm sind die mausbewegungen auch so ruckartig
+[03:49:54] <★SkillZ★⑲> heißt bei NVidia glaub Geforce Experience und bei AMD Gaming Evolved
+[03:50:19] <★SkillZ★⑲> Ich schätze dass das am Vsync oder am Laptop liegt
+[03:51:10] <★SkillZ★⑲> Oder am Bildschirm 😀
+[03:52:35] <Abbrax D.> was ist das für ein Spiel
+[03:52:42] <Wat Jordan> Klar würde das Tool das Ganze auch so einstellen dass es geht
+[03:53:26] <Nixda Smiregal> hatt er die mausempfinlichkeit zu hoch?
+[03:53:31] <Wat Jordan> Ich glaube dass Dennis sowas drauf hat.
+[03:53:42] <Wat Jordan> Ja. und zu schnell
+[03:53:55] <★SkillZ★⑲> Das kommt standartmäßig normal mit dem Kartentreiber mit
+[03:54:16] <Wat Jordan> Ist bei AMD optional. Muss man anwählen 😃
+[03:54:41] <★SkillZ★⑲> Ja gut braucht man normal auch nicht, außer für ältere Spiele 😀
+[03:54:43] <Wat Jordan> Raptr geht aber für alle
+[03:55:04] <Nixda Smiregal> bei starcraft etc würde so ne hohe mausbewegung mehr sinn machen
+[03:56:36] <Wat Jordan> EA sollte den Kram zu Game-Owl schaffen. Die reparieren das und machen nen  Win 7/Win 10 Patch.
+[03:56:59] <★SkillZ★⑲> Das kann man auch auf WIN7/WIN10 spielen
+[03:57:03] <★SkillZ★⑲> also ich zumindest
+[03:57:14] <Nixda Smiregal> pssht keine webung
+[03:57:28] <Wat Jordan> sorry.
+[03:57:42] <Nixda Smiregal> sonst haut uns der plan wieder auf die finger
+[03:57:53] <Wat Jordan> hä? wegen was?
+[03:58:14] <Wat Jordan> aso.. ja. ne  ich lass das mal 😃
+[03:59:05] <Wat Jordan> Naja- Aber die Opti gibt es, sich Patches machen zu lassen 😃 Egal wo.
+[03:59:26] <★SkillZ★⑲> ne ich finde bei älteren Spielen gehören bugs dazu
+[03:59:38] <★SkillZ★⑲> die machen die Spiele einfach aus 😀
+[03:59:43] <Wat Jordan> Stimmt auch.
+[03:59:47] <Nixda Smiregal> mit bugs kann man leben
+[04:00:19] <★SkillZ★⑲> Eyy nicht Ghosten
+[04:00:25] <Wat Jordan> Können die Panzer nicht aufleveln?
+[04:00:25] <★SkillZ★⑲> Lowbobs :DD
+[04:00:35] <Nixda Smiregal> lol
+[04:00:45] <★SkillZ★⑲> doch klar können die leveln
+[04:00:59] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[04:01:20] <★SkillZ★⑲> jaja, Ghosten ist aber auch eine Spielregel
+[04:01:36] <Wat Jordan> Naja. Mal schaune was raus kommt. OIb es nochal so ne Session gibt. War schon gut.
+[04:01:54] <Nixda Smiregal> erstmal was gogglen
+[04:01:58] <Wat Jordan> Wasn Ghosten bitte? Höre ich zum ersten Mal
+[04:02:31] <★SkillZ★⑲> Ghosten = als geschlagener Spieler seinem Teamkollegen im Zuschauermodus dinge Verraten
+[04:03:08] <Derpy Hooves> als geist noch auf dem schlachtfeld sein sagste
+[04:03:22] <Nixda Smiregal> ja,das war machmal lustig
+[04:03:28] <★SkillZ★⑲> so wie es gerade eine Anwesende person macht
+[04:03:39] <★SkillZ★⑲> sowas gehört sich aber nicht, fairplay
+[04:04:13] <GermanDream2546> Das bringt Dennis aber nicht viel, dafür kennen Sie das Spiel zu schlecht.
