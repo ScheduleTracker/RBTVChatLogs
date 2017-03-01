@@ -861,3 +861,283 @@
 [02:03:32] <Immanuel Kant> also 6gb ram und 4gb v-ram ?
 [02:03:34] <Baum Inventions> geil
 [02:03:48] <Matt Brown> 16xx mhz zur zeit..
+[02:04:35] <Immanuel Kant> Ram wird meiner Erfahrung nach oft unterschätzt. Bevor ich auf DDR 4 bin hat der echt manchmal gebottleneckt
+[02:04:56] <Immanuel Kant> in witcher 3 zb.
+[02:05:20] <Matt Brown> nich V Ram -- Grafikspeicher.. 6x 1.5  lso 9 GB V ram
+[02:05:26] <Matt Brown> Statisch. immer  9 GB
+[02:05:37] <Scoobz187> CoD IW = starkes Thema o.O ok
+[02:05:38] <Baum Inventions> warum manchen sie den ram nicht so groß das das ganze system rein passt... das sollte dann schnell sein.
+[02:05:39] <Immanuel Kant> ich meinte normalen Ram^^
+[02:05:47] <Immanuel Kant> Also von ddr3 auf ddr4
+[02:06:04] <Immanuel Kant> ddr3 1600 auf ddr4 2666
+[02:06:05] <Matt Brown> 6 GB Hyper V. aber Leider gibts den neuen Hyper V kaum
+[02:06:26] <Matt Brown> ddr3.. ber der neue hat 4er Bios
+[02:06:32] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[02:06:36] <Immanuel Kant> Ich feier dein Humor xD
+[02:06:47] <Matt Brown> Hat meinBruder.. Waren die letzten 2 Riegel..
+[02:07:14] <Scoobz187> Schoko-Riegel?
+[02:07:28] <Matt Brown> Kein Getrolle. gibts echt .. naja Weiter suchen..
+[02:07:31] <Immanuel Kant> "Warum machen sie den ram nicht so groß das das gaze system rein passt?" Ich packs nich mehr
+[02:07:42] <Baum Inventions> ich habe mein System mit 6 Duplo Riegeln geupdatet...
+[02:07:57] <Baum Inventions> 1633 Kalorien
+[02:08:03] <Matt Brown> Weil RAM das .. oh warte.. Böses Gerickrolle..
+[02:08:08] <Immanuel Kant> warum gerade duplo ? War mars vergeben ?
+[02:08:13] <Scoobz187> Aber ist Twix nicht besser? 2 Riegel wo man sonst nur einen bekommt.
+[02:08:23] <Immanuel Kant> Aber rechterr oder linker twix ?
+[02:08:27] <Matt Brown> Rü rü ü sag ich.
+[02:08:44] <Derpy Hooves> @Baum Inventions dann sollte jetzt ja alles recht cremig laufen. 📙
+[02:08:55] <Scoobz187> Na einen für die linke Gehirnhälfte und einen für die rechte. Quasi Dual-Use und so
+[02:09:10] <Immanuel Kant> was die wenigsten wissen: man kann ram einfach runterladen
+[02:09:20] <Scoobz187> Das Cerebum freut´s
+[02:09:21] <Matt Brown> ! Ballisto hat 2Riegel für ballistische Spiele.
+[02:09:33] <Matt Brown> Läuft knusprig.
+[02:09:40] <Derpy Hooves> oder mann lässt sich ram von nem kumpel auf dvd/blueray brennen.
+[02:09:58] <Immanuel Kant> hab ich früher immer gemacht, damals auf ne cd noch
+[02:10:01] <Danbu1988> rams sind aber illegal. nur die imulatoren sind erlaubt
+[02:10:02] <Baum Inventions> streame
+[02:10:05] <Scoobz187> *lol* Ballisto, die taktische Riegel-Anwendung für taktische Skillorz
+[02:10:06] <Matt Brown> Ja. Oer nen china fake Ram der sich immer wieder leert und unendlich speicher hat.
+[02:10:51] <Scoobz187> Quasi ein perpetuum mobile speicher
+[02:11:14] <Danbu1988> ich würd gern sehen wie sie dem entwickler da eddies akzent aus morriton manor zeigen xD
+[02:11:15] <Matt Brown> Ja. Gibts vrzugsweise als USB Sticks 64 GB Speicher
+[02:11:22] <Baum Inventions> hier ein usb stick mit 128gb ... oh warte... er überschreibt sich nach 2gb von selbst ... was ist da los.
+[02:11:52] <Derpy Hooves> hmmm, ryzen ist ab morgen erhältlich. mal sehen was die ersten tests sagen.
+[02:12:02] <Matt Brown> Nach 300MB meinte der Tester. Lel
+[02:12:05] <Immanuel Kant> ich hoffe sie haben was gerissen
+[02:12:25] <Immanuel Kant> was intel mit kabylake abgezogen hat...
+[02:12:36] <Immanuel Kant> besonders mit dem 7700k
+[02:13:01] <Scoobz187> QUalmen den Hyänen die Köpfe?
+[02:13:45] <Neo333 MrAnderson333> 4x4GB RAM mit 2400MHZ stabil DDR3 G.Skill--CROSSHAIR V FORMULA-Z Fx8350 4.5 gut oder nicht gut
+[02:14:10] <Immanuel Kant> ram perfekt, prozi bottleneck
+[02:14:15] <Immanuel Kant> welche gpu hast du ?
+[02:14:18] <Baum Inventions> nich so gut
+[02:14:21] <Baum Inventions> geht besser
+[02:14:33] <Scoobz187> Für Internet reicht er
+[02:14:38] <Matt Brown> Ja. DEr gemoddete 3er packt halt nur rund 2 GHZ
+[02:14:39] <Derpy Hooves> was hast du damit vor sollte die erste frage hier sein...
+[02:14:48] <Baum Inventions> und für word sollte er auch ok sein
+[02:14:55] <Matt Brown> Super gut. Sag ich.
+[02:15:23] <Immanuel Kant> Du könntest gucken dir noch nen günstigen xeon e3-1231 v3 zu schießen, dann musst du ram nich aurüsten
+[02:15:30] <Matt Brown> Der PC muss uahc dazu passen. n Büro Przessor  packts nich so Aber is billiger.
+[02:15:46] <Neo333 MrAnderson333> MSI 1060 Gaming X
+[02:16:02] <Immanuel Kant> dafür wäre der xeon perfekt
+[02:16:14] <Matt Brown> Bei MSI hat man Listen wo steht was es sonst vergeleichbares gibt :).
+[02:16:19] <Immanuel Kant> außer dein budget ist natürlich nicht begrenzt
+[02:16:21] <Derpy Hooves> und ddr3 geht bis 3200mhz hoch
+[02:16:45] <Matt Brown> Cool. Will sowas. Gier! 4er Bios.
+[02:17:14] <Scoobz187> Unbegrenztes Budget, das hat nicht mal Trump ^^
+[02:17:30] <Immanuel Kant> für nen pc würds aber reichen xD
+[02:17:31] <Matt Brown> Trump musste heute Fehler eingestehen..
+[02:17:45] <Baum Inventions> ach...
+[02:17:46] <Matt Brown> Ne. max. 2.5 GHZ reichen ..
+[02:17:49] <Scoobz187> Trump ist der Fehler ^^
+[02:18:11] <Immanuel Kant> gigaherz ist nicht gleich gigaherz
+[02:18:13] <Matt Brown> Die überlegen ja, ihn abzusägen.. Naja Noch sind zu viele für ihn
+[02:18:19] <Immanuel Kant> *hertz
+[02:18:24] <XzilizX> Trump ist jetzt presi ob es gut oder schlecht ist
+[02:18:26] <Immanuel Kant> is spät, ok ?^^
+[02:18:32] <Scoobz187> Ich mag Call of Duty nicht
+[02:18:44] <Matt Brown> Hyper V ist da das Stichwort.
+[02:19:03] <Immanuel Kant> besser als clinton meiner meinung nach. aber war ne wahl zwischen pest und cholera
+[02:19:10] <Matt Brown> Das selbe was auch Windows ab und an einfrierren lässt.
+[02:19:20] <Scoobz187> Ja, das ist er wohl. Da kann man nichts gegen sagen.
+[02:19:46] <Immanuel Kant> bei wem friert windows denn noch ein ? iss mir seit jahren nich passiert
+[02:19:53] <XzilizX> wir haben gut lachen... genauso ist es doch in deutschland merkel oder schulz....
+[02:20:04] <Immanuel Kant> das stimmt leider
+[02:20:17] <Matt Brown> Was machen die da als Stream?   Co op Stream?
+[02:20:38] <Immanuel Kant> kein plan, bin nur wegen chat hier^^
+[02:20:40] <Matt Brown> Der Typ ist gut. Hat einen üblem Beleidiger ausm EU parlament verwiesen
+[02:20:57] <Scoobz187> Tjoa, wir leben in unstetigen Zeiten. Doomsday-Clock steht auf 1min vor 12.
+[02:21:40] <Derpy Hooves> und dann kommt dr doom? 😯
+[02:21:42] <XzilizX> wir haben nicht mal das recht den kanzler selber zu wählen...
+[02:21:51] <Immanuel Kant> Das sagt man aber auch schon seit jahren. Ich denke durch den permanenten zugriff auf medien wie das internet bekommen wir es einfach mehr mit und empfinden es als schlimmer
+[02:22:03] <Claudia Scheikl> ,hihihihihhihhhihihihihihii
+[02:22:10] <Immanuel Kant> die welt hat schon immer gebrannt
+[02:22:32] <Baum Inventions> schlimmer als was? schlimm?
+[02:22:39] <Matt Brown> ach das.. Das ist Panikmache. Atomwaffen darf Trump keine produzieren lassen mehr  z.B.
+[02:22:50] <prinzvaliumx> wo ist dmc05?
+[02:23:05] <Immanuel Kant> denke auch das vieles hochgepusht wird
+[02:23:11] <Derpy Hooves> haha, ist der nick auf der blacklist? 😀
+[02:23:26] <XzilizX> ich glaube auch nicht das er da budge für militörausgaben erhöhen will
+[02:23:28] <Baum Inventions> hmm
+[02:23:34] <Scoobz187> Nah. Die Doomsday-Clock ist eine "virtuelle" Uhr die bestimmt wie nah die Zivilisation vor einem atomaren Konflikt steht. 1989 war sie beim berühmten 5 vor 12. 1998 lag sie bei ca. 20 min.
+[02:23:38] <Matt Brown> Ach man hat die Blacklist des Nighbot entdeckt? Uii
+[02:24:02] <Immanuel Kant> so ne uhr gibts wirklich ?
+[02:24:28] <Matt Brown> Ja. ist Halt Panikmache..  Da drückt keiner ab.. Dann ist alles weg.
+[02:24:40] <Scoobz187> Ja, wird von WIssenschaftlern geführt.
+[02:24:51] <Immanuel Kant> ja klar, lustig isses trotzdem
+[02:24:59] <Immanuel Kant> also, die uhr. nen atomkrieg nich
+[02:25:39] <Scoobz187> such einfach mal nach Bulletin of Atomic Scientists Doomsday Clock
+[02:26:02] <XzilizX> naja Atomkrig kann man es dann nicht mehr nennen
+[02:26:09] <Scoobz187> Es geht ja dabei auch nur um Wahrscheinlichkeit.
+[02:26:11] <Matt Brown> Ach wenns danach geht.. Da habe ich schon ganz anderes verpennt..
+[02:26:29] <Immanuel Kant> two and a half minutes to midnight ?
+[02:26:47] <Immanuel Kant> und 1989 war sie bei 5 ?
+[02:26:53] <Scoobz187> Genau, da stehen die "Uhrzeiten" für die Jahre.
+[02:26:57] <Elias Dominguez> Random Frage-der You're wrong. that is correct. Einspieler von den beans, wie heißt das Original?
+[02:27:08] <XzilizX> 5 vor 12
+[02:27:08] <+stroggle Haufe> penis denis
+[02:27:18] <Scoobz187> Oder 6, irgend sowas
+[02:27:24] <Immanuel Kant> meint ich doch
+[02:27:56] <Neo333 MrAnderson333> Escape from Tarkov jetzt kaufen oder noch warten bis es auf Steam kommt ??? was meint ihr!
+[02:28:04] <XzilizX> angeblich hat ja ein russischer offizier den befehl zum angriff verweigert und somit den krieg verhindert
+[02:28:16] <Immanuel Kant> tangiert mich irgendwie garnicht
+[02:28:39] <Derpy Hooves> und bitte
+[02:28:40] <Derpy Hooves> gib mal "that is correct you are correct" in google ein und klick auf das zweite ergebnis. 😃
+[02:28:52] <Scoobz187> Na ja. er hat einen automatisierten Alarm hinterfragt und den Auslöser eben nicht betätigt.
+[02:29:24] <XzilizX> er kam dafür ins gefängniss
+[02:29:51] <Scoobz187> Hmm, das weiß ich nicht.
+[02:30:00] <Matt Brown> Doomsday Clock ist fake. BZW nur Panikmache/Propaganda.
+[02:30:03] <Elias Dominguez> 😄😄Nice! Danke 🙏🏽
+[02:30:26] <Matt Brown> Da ist nix was irgendwas bestätigt.
+[02:30:28] <Derpy Hooves> you are welcome 😎
+[02:31:13] <Scoobz187> Ne Matt, es geht dabei nur um Wahrscheinlichkeiten und darum den Menschen aufzuzeigen das es eben eine Gefahr ist die durchaus besteht. Ich habe dadurch nicht mehr Panik als üblich. ^^
+[02:31:37] <Scoobz187> Es ist keine akkurate Vorraussage
+[02:32:36] <Immanuel Kant> die meisten von uns haben doch schon lange keine panik mehr.... alles mediales hochgepushe etc. etc.
+[02:32:52] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[02:32:59] <Scoobz187> Jupp, da haste schon recht.
+[02:33:00] <Matt Brown> Aso. Also Eben auch so eine art Propaganda.. Weil die ja nciht geändert wurde als es schlimere Skandale gab.
+[02:33:36] <Matt Brown> Und orgiginal war die 7 Minuten vor.
+[02:33:38] <XzilizX> die welt verfällt sowieso in einigen jahren in panik wenn es mehr menschen gibt als platzt
+[02:33:56] <Scoobz187> Hmm, ich weiß nicht ob Propaganda das richtige Wort dafür ist. Nennen wir es einfach eine Erinnerung daran das der falsche Mensch, am falschen Ort, zur falschen Zeit ne Menge übel anrichten kann.
+[02:34:00] <Immanuel Kant> guck, dich tangiert die panikmache noch^^
+[02:34:03] <Derpy Hooves> sendeplan willst du mich heiraten? 🐸 💍
+[02:34:17] <Matt Brown> Ach was. Dafür bauen wir doch in die Höhe.
+[02:34:25] <Immanuel Kant> ich meinte xzilizx
+[02:34:57] <XzilizX> ne ich hab keine panik denn ich bin schon lange tod wenn es soweit ist
+[02:35:03] <Derpy Hooves> sendplan? 😖
+[02:35:12] <Derpy Hooves> +e
+[02:35:14] <Immanuel Kant> wieso stirbst du in den nächsten jahren ?
+[02:35:29] <XzilizX> jahrzehnten 😛
+[02:35:36] <Scoobz187> Aber wie sagt man so schön: "Die Toten stört es nicht, denn sie sind ja schon Tot."
+[02:35:51] <Immanuel Kant> ach das meintest du mit "einigen jahren"^^
+[02:36:05] <Immanuel Kant> gottseidank
+[02:36:07] <XzilizX> ich weiß ja nicht wann ich sterbe 😛
+[02:36:24] <Immanuel Kant> hoffen wir mal für alle das beste
+[02:37:03] <Scoobz187> Ist aber auch wirklich schwer als Mensch da Prioritäten zu setzen: "Schaue ich in den Blitz wenn die Bombe hoch geht oder schaue ich weg um das Leid im Anschluss noch mit ansehen zu können?"
+[02:37:11] <Immanuel Kant> läuft der stream eig. 24/7 ?
+[02:37:19] <Derpy Hooves> jup
+[02:37:34] <Matt Brown> YT suggeriert mir immer da weg zu springen wenn Werbung ist.
+[02:37:44] <Matt Brown> oO Das ist kein gutes Zeichen..
+[02:38:08] <Immanuel Kant> ich glaube darüber kann man sich keine richtigen Gedanken machen. Ich denke das is ne reine Reflexentscheidung bei der man vorhin einfach nicht weis was man machen würde
+[02:38:34] <Scoobz187> Insofern man überhaupt eine Entscheidung hat.
+[02:38:58] <Immanuel Kant> sofern, ja
+[02:39:24] <Scoobz187> Hab ich eigentlich schon geschrieben das ich CoD nicht mag? ^^
+[02:39:31] <Immanuel Kant> jup
+[02:39:50] <Immanuel Kant> and guess what, ich auch nich
+[02:40:11] <Scoobz187> Das macht Dich sympathisch.
+[02:40:19] <Immanuel Kant> danke, danke^^
+[02:40:24] <Scoobz187> ^^
+[02:40:28] <XzilizX> Medal of Honor solllte mal wieder was machen ... ;(
+[02:40:42] <Derpy Hooves> mir ist cod egal, bin ich ein schlechter mensch? 😖
+[02:40:50] <Immanuel Kant> ich muss aber gestehen, dass ich CoD nie mochte. Auch die alten Teile nich.
+[02:40:55] <Matt Brown> Sieht aus wie Deadpsace.
+[02:41:01] <Matt Brown> *Deadspace*
+[02:41:12] <Immanuel Kant> Haha, ja n bisschen
+[02:41:13] <Matt Brown> Oder Unreal.
+[02:41:15] <Scoobz187> Ne Derpy 😉
+[02:41:42] <Derpy Hooves> yay \😄/
+[02:41:54] <Matt Brown> urgs..
+[02:41:55] <XzilizX> Selbst Rainbow 6 war besser als CoD
+[02:42:15] <Immanuel Kant> Rückblickend war Dead Space schöner
+[02:42:32] <Immanuel Kant> und ich bin keine grafikhure
+[02:42:36] <Scoobz187> Irgendwie spiele ich schon zu lange Schlauch-Shooter um daran noch Freude zu haben.
+[02:42:54] <Solstitial Cold> moinsen
+[02:43:01] <Scoobz187> Falsch: Habe zu lange gespielt.
+[02:43:04] <Derpy Hooves> mojenz 🙋
+[02:43:06] <Matt Brown> Das ist doch unreal engine. Oder?
+[02:43:13] <Scoobz187> ^MOjenze
+[02:43:16] <Solstitial Cold> half life 4 läßt grüßen
+[02:43:33] <Derpy Hooves> ich glaub cod hat seine eigene engine
+[02:43:33] <Immanuel Kant> ehrlich gesagt hätte ich gerne wieder mehr detailreiche schlauchshooter mit liebevoll designten leveln, Mich kotzen mittlerweile die ganzen open world-sachen an
+[02:43:41] <Matt Brown> Ne.. #unrealEngine 4 ODer 5 ist besser.
+[02:44:15] <Solstitial Cold> kumpel von mir hat sich das neue sniper geholt
+[02:44:20] <Immanuel Kant> die far crys mit seinen türmen und immer gleichen landschaften
+[02:44:27] <Scoobz187> Hmm, was mich an den Open World Games nervt ist diese Pseudo-Freiheit.
+[02:44:33] <Solstitial Cold> teuer, aber kauft zweimal im jahr ein spiel
+[02:44:34] <XzilizX> ich verstehe aber auch nicht wieso CoD so gehyped wird / wurde
+[02:44:45] <Immanuel Kant> die und die ewigen laufwege um die spielzeit zu strecken
+[02:45:38] <Scoobz187> Dann doch lieber Arma. Obwohl ich von der Beta von GRWL durchaus positiv überrascht war.
+[02:45:42] <XzilizX> Crysis war toll
+[02:45:49] <Solstitial Cold> mein letztes war future soldiers
+[02:45:52] <Immanuel Kant> die lief bei dir ?
+[02:46:04] <Matt Brown> Hab Arma III seit der Alpha. Bin derbe enttäuscht worden
+[02:46:12] <Scoobz187> Sie lief auf Ultra perfekt.
+[02:46:20] <Matt Brown> Zu realistisch und  MAn sieht die Gegner kaum
+[02:46:25] <Mondschein91> er hat sein astmaspray vergessen
+[02:46:28] <projection 4> rip
+[02:46:41] <Matt Brown> lol .
+[02:46:44] <Derpy Hooves> dann hättest du früher mal operation flashpoint spielen sollen. 😀
+[02:47:03] <Scoobz187> Warum Matt? Ich spiele Arma seit dem originalen Flashpoint. Mit den richtigen Mods ist das Game noch deutlich besser-
+[02:47:14] <Scoobz187> Ohh Derpy ist ein OFP Veteran 😃
+[02:47:38] <Derpy Hooves> sir,yes sir!  👮
+[02:48:06] <Toby Tobsen> guten abend !
+[02:48:16] <Immanuel Kant> guten abend
+[02:48:18] <Derpy Hooves> abend 🙋
+[02:48:20] <Scoobz187> Bei OFP muss ich immer an die BO-105 VBH mit dem Kasten Bier im Frachtraum denken *lol*
+[02:48:25] <Scoobz187> Noabend
+[02:48:30] <Matt Brown> Nabend
+[02:48:33] <Immanuel Kant> sagte er um 10 vor 3 ^^
+[02:48:44] <Solstitial Cold> project I.G.I.
+[02:49:07] <Scoobz187> Ohh ja I.G.I war mega für die damalige Zeit.
+[02:49:18] <Immanuel Kant> Je nachdem was ihr macht
+[02:49:24] <Solstitial Cold> aber sowas von
+[02:49:36] <Toby Tobsen> na wer kauft sich die Switch zum launch ? ^^
+[02:50:04] <Derpy Hooves> ich hab schon nen switch für lan partys, ich brauch keinen neuen. 😂
+[02:50:06] <Solstitial Cold> ich spiel sowas nimmer
+[02:50:10] <Scoobz187> Gab damals schon echt ein paar Perlen an Spielen. Die alten AvP Teile z.B.
+[02:50:15] <Solstitial Cold> nur noch sowas wie dreamfall
+[02:50:15] <projection 4> ich kauf mir die bitch zum lunch
+[02:50:19] <Immanuel Kant> hatte noch nie ne stationäre nintendo
+[02:50:22] <Toby Tobsen> ^^
+[02:50:35] <Toby Tobsen> nicht mal einen snes ? buh 😜
+[02:50:58] <Scoobz187> Ich warte immer noch auf ein perfektes Remake von X-WIng ^^
+[02:51:11] <Immanuel Kant> schande über mich🤐
+[02:51:26] <Solstitial Cold> gute alte atari und commodore
+[02:51:53] <Toby Tobsen> wird zeit das die datasette wieder ins moderne gaming zurückkehrt
+[02:51:56] <Scoobz187> *haha* Das waren noch Zeiten XD
+[02:52:37] <Toby Tobsen> da "lädt" die cassette minutenlang .. dann brichts plötzlich ab -.- .... zurückspulen neustarten ^^
+[02:54:36] <Scoobz187> Weil wir gerade bei Dishonored II sind, eins war doch tatsächlich sehr amüsant.
+[02:55:23] <Peter A> david?
+[02:55:30] <Matt Brown> Ach Der Entwickler?
+[02:55:34] <Scoobz187> Goliath?
+[02:56:26] <Toby Tobsen> hach die KI ^^
+[02:57:24] <Scoobz187> Ein deutscher der zu einem Franzosen sagt: "Lets murder em all." *lol*
+[02:57:30] <XzilizX> kommt mal wieder ein neues Bioshock raus?
+[02:57:49] <Scoobz187> Keine Ahnung
+[02:57:54] <Toby Tobsen> ich glaube es gibt keine akuten npläne für neues bioshock
+[02:58:05] <Immanuel Kant> Hat sich das Studio ncih aufgelöst und die Rechte liegen bei 2k ?
+[02:58:17] <Solstitial Cold> was war eigentlich mit last guardian, ham die bohnen das noch durchgespielt?
+[02:58:20] <Derpy Hooves> glaub auch das sie meinten das infinite das letzte war.
+[02:58:21] <Toby Tobsen> ja irgendein Lizenzchaos ^^ .
+[02:58:39] <Derpy Hooves> jo haben sie durch
+[02:58:46] <Scoobz187> Hmm Bioshock hatte ich nie auf dem Schirm. Das Setting hat mich nie angesprochen.
+[02:58:53] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[02:59:05] <Solstitial Cold> cool, da hab ich ja später was zu gucken
+[02:59:08] <Toby Tobsen> aber wenn einem bioshock gefällt könnte man sich mal Prey anschauen :]
+[02:59:36] <Derpy Hooves> prey 1?
+[02:59:37] <Immanuel Kant> Wenn du das 2te auslässt hast du ne geniale, zusammenhängende, verworrene, Story
+[02:59:50] <Toby Tobsen> prey ohne zahl ^^
+[03:00:03] <XzilizX> ich fand die Atmosphärebei Bioshock immer hammer.
+[03:00:17] <Derpy Hooves> der erste hat keine zahl im titel. 😃
+[03:00:21] <Mopo Quizmaster> Lul
+[03:00:21] <Scoobz187> Mag sein, ich würde auch nicht sagen das es ein schlechtes Spiel ist, aber irgendwie hat es meine Synapsen nicht gezündet. ^^
+[03:00:48] <Immanuel Kant> Gameplay is auch so nah. Punktet wirklich durch atmo und story.
+[03:00:53] <Toby Tobsen> bei Infinite war mit das zu abwechslungs arm ... immer wieder shooter arenen
+[03:01:02] <Solstitial Cold> system shock war harter tobak
+[03:01:17] <Immanuel Kant> nie gespielt. Sollte ich nachholen ?
+[03:01:37] <Toby Tobsen> wenn dann teil 2 . das wird eh grad remastered
+[03:01:51] <Immanuel Kant> Oh, perfekt
+[03:01:59] <Derpy Hooves> kommt bald nen remake vom ersten teil. einfach nen bissl warten. 😃
+[03:02:32] <Scoobz187> Ist aktuell auch so ein Ding mit dem remastern oder irre ich mich?
+[03:02:32] <Tripple-A _96> wow ein franzose der wenigstens halbwegs english kann 😀
+[03:02:42] <Tripple-A _96> *ein remake
+[03:02:43] <Toby Tobsen> 😀
+[03:02:52] <Tripple-A _96> ihr lernt es nie 😠
+[03:03:02] <Derpy Hooves> naja, sys shock brauch schon eins. das hud/ui ist echt nix mehr heute
+[03:03:05] <Toby Tobsen> ja remastern ist sehr in im moment .. sogar nintendo macht es ^^
+[03:03:27] <XzilizX> Tripple-A genauso wie mit den remakes von kinoflmen... die haben einfach keine neuen ideen
+[03:03:33] <Toby Tobsen> ok system ist wirklich ein remake
+[03:03:52] <Immanuel Kant> ich bin prinzipiell großer fan von remastern..... solange die spiele nicht erst 1-2 jahre alt sind.....
+[03:03:53] <Scoobz187> Ich glaube es ging um ein statt nen. ^^
+[03:04:14] <Mondschein91> @XzilizX es liegt weniger an den neuen idee, mehr daran, dass sie angst haben, mit neuen ideen kommt zu wenig kohle rein, bei remakes is das anscheinend wahrscheinlicher
