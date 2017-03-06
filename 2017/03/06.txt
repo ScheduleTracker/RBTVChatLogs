@@ -1542,3 +1542,906 @@
 [10:04:39] <+MESOEP1C> @Doktor Lowrider exakt!
 [10:04:42] <Warrior Production> und wie ist das Spiel?
 [10:04:49] <Doktor Lowrider> plattentektonik liess die städte auseinandertreiben
+[10:05:07] <xort> Aso ja ist logisch, stimmt, ja ..
+[10:05:30] <xort> Ehm ja Captain lol natürlich sind sie nicht das Selbe aber ich weiß was du meinst 😃
+[10:06:03] <Ja Nein> So selbst das Spiel entwickeln hätte ich keine Lust. Eher die Modelle skizzieren. Der Prototypprozess an sich. Die Planung, die Algorithmen entwickeln. Brauch ich das denn noch  so richtig können?
+[10:06:07] <Alszarhin der Klugscheißer> !CIV YO
+[10:06:09] <Captain lol> ja also zumindest in Unity sehr ähnlich ^^
+[10:06:20] <Ja Nein> Wenn doch alles heute  so Benutzerfreundlich ist.
+[10:06:23] <Alszarhin der Klugscheißer> Wie auch immer das funktioniert, hab noch nie abgestimmt^^
+[10:06:26] <xort> Ja, Ja Nein
+[10:06:35] <Captain lol> newgrounds. com/projects/games/982108/preview
+[10:06:46] <Captain lol> muss man etwas zusammenschustern den link 😛
+[10:06:55] <xort> Vernünftige Softwarearchitektur ist das was zu Einschränkungen in der späteren Entwicklung führt (das sind die Punkte wo man sich fragt "Warum machen die das nicht rein??")
+[10:07:10] <Achmed Stephmeier> !CIV NO
+[10:07:16] <Der Mann> @Alszarhin der Klugscheißer das ist eine Wiederholung...
+[10:07:19] <xort> Und führen zu Stabilität, auch ein Punkt der vielen Titeln gerne mal fehlt.
+[10:07:25] <Alszarhin der Klugscheißer> lol
+[10:07:29] <Der Mann> Ihr Wisst schon das es eine Wiederholung ist ?...
+[10:07:36] <Alszarhin der Klugscheißer> gut zu wissen, bin gerade erst wach geworden 😀
+[10:08:15] <xort> Aber Ja Nein wie willst du die Algorithmen entwickeln ohne zu wissen wie eine Implementierung aussehen kann?
+[10:08:50] <xort> Dann müsstest du ein sehr fähiger Softwareentwickler sein, mit fähigen Programmierern und einem Austauschformat wie UML mit dem du deine Algorithmen für die Programmierer verfügbar machst. Als Beispie
+[10:09:18] <xort> Und wenn du UML kannt, kannst auch wiederrum Softwareentwicklung wodurch auch Programmierung kein Problem mehr ist.. ach scheiß drauf,
+[10:09:37] <Alqaido> huhu
+[10:09:57] <Ja Nein> Das können die Fachleute dann lösen. In der Einschränkung ergeben sich dann die Freiheitsgrade. Ich bleibe möglichst Abstrakt. Das ist mein GEschäft.
+[10:09:58] <raptorh> naja uml braucht man so dringend^^
+[10:10:13] <%Valkyrie0025> moin
+[10:10:45] <Alqaido> ich kann nicht schlafen :(
+[10:11:07] <Doktor Lowrider> hmmmm
+[10:11:21] <Gamemonster82> Wer?
+[10:11:28] <Doktor Lowrider> dann mach was produktives 😃
+[10:11:32] <Ja Nein> @xort  Aber danke für die Antwort.
+[10:12:17] <Gamemonster82> Larissa 😍
+[10:12:18] <Alqaido> hab' aber keine lust mehr die welt zu retten -.-
+[10:12:39] <xort> Was genau ist dein Geschäft?
+[10:12:44] <xort> Konzepter im Webbereich? 🌝
+[10:12:48] <Spuni lol> larissa ❤
+[10:13:02] <Captain lol> heute ist Dennis-Tag oder was 😯
+[10:13:03] <+MESOEP1C> Larissa ist einfach ne Granate, Fakt!
+[10:13:15] <Doktor Lowrider> @Alqaido  dann bleibt nur quängeln - es gibt da keine alternative - ausser drogen - der letzte ausweg
+[10:13:17] <Gamemonster82> bumsi 😮
+[10:14:07] <Ja Nein> Das ist ein Geheimis.  Etwas ganz anderes. Eher Theoriekram. Aber Game Design interessiert.
+[10:14:25] <phoboz666> die ich schon etwas debil oder tut sie nur so?
+[10:14:26] <Gamemonster82> 😀
+[10:14:28] <+MESOEP1C> DIE DIE DIE
+[10:14:36] <Tresies Fox> DER DER DER
+[10:15:34] <Alqaido> haha... letzter ausweg... bin schon lange zugeballert
+[10:15:40] <%Valkyrie0025> @phoboz666 keine beleidigungen oder bist weg..
+[10:15:42] <Doktor Lowrider> nach ner minute darf ein spiel auch gerne mal schwieriger werden ^^
+[10:15:43] <Captain lol> Tripple-A Quality VR Content 😁
+[10:15:46] <Alqaido> 🙈
+[10:17:11] <+MESOEP1C> minions deren eltern geschwister waren, also minions, legit!
+[10:17:21] <+Butcher32> @MESOEP1C wegen Fifa 17 ich war mal früher in Ligen und hätte fast um die deutsche Meisterschaft mitgespielt
+[10:17:26] <Doktor Lowrider> @Alqaido  eventuell die falschen genommen um genüsslich schlummern zu können 😉 die meisten sollen ja eher das gegenteil bewirken
+[10:17:30] <Alqaido> ist euch auch mal aufgefallen dass denzel die besten abmoderationen macht?
+[10:17:52] <+Butcher32> @MESOEP1C aber jetzt mit meinen 35 sieht das nicht mehr so gut aus xD
+[10:18:05] <+MESOEP1C> @Butcher32 okaaaay, na so krass ist es bei mir nicht, spiele fut liga 3 und 2on2s immer liga 2.
+[10:18:43] <Gamemonster82> 🐻
+[10:18:51] <+MESOEP1C> @Butcher32 lass gerne mal heute abend ne runde
+[10:19:21] <+Butcher32> @MESOEP1C ja das war wie gesagt früher so Fifa 13 Zeiten aber jetzt ist allgemein mein Aiming in Shootern z.B. nicht mehr so nice 😀 ich bin froh wenn ich noch treffe
+[10:19:48] <+MESOEP1C> @Butcher32 ja das Alter, musst du dann eben über die posi deine erfahrung machen
+[10:19:51] <+Butcher32> @MESOEP1C jop gern wir können ja mal schauen vll klappts heute oder die Tage 😉
+[10:20:22] <phoboz666> ohje
+[10:20:38] <Alqaido> @Doktor Lowrider naja whisky und grünzeug 😅😂🙊
+[10:20:56] <Alqaido> schlafrhytmus ist sowas von im anus
+[10:21:07] <+Butcher32> @MESOEP1C jop des stimmt 😉 aber naja was willst machen man wird halt älter
+[10:21:20] <+MESOEP1C> larissa ❤
+[10:21:21] <+MESOEP1C> XD
+[10:21:28] <%Valkyrie0025> defeat..besiegt ^^
+[10:21:33] <+Butcher32> Larrissa ❤
+[10:21:33] <Tresies Fox> na na na, diese Töne hier, Larissa!
+[10:21:36] <towelie1987> man kan quasi nicht verlieren 😀
+[10:21:40] <Karl-Heinz Schlünz> na na achten sie auf ihre aussprache frau rieß!
+[10:21:47] <+MESOEP1C> hauptsache lootboxen
+[10:22:02] <+Butcher32> *Larissa
+[10:22:33] <Doktor Lowrider> @Alqaido  naja die kombo ist eigentlich gut genug für ein schönes nickerchen 😃 - freu dich doch das du wach bist - schlafen ist völlig überbewertet ^^
+[10:22:40] <petrik coffy> süß wie ein zuckerwürfel 👍
+[10:24:03] <Doktor Lowrider> und knackig wie ein apfel 😃
+[10:24:08] <Alqaido> ja... 😂
+[10:24:32] <Chrometorte> Doooonniee!
+[10:24:55] <Doktor Lowrider> 6 minuten noch - ganz ruhig brauner ^^
+[10:25:19] <+Butcher32> 😀
+[10:25:33] <fedora> hätte jetzt lust auf Wombo
+[10:25:39] <+Olliwood09> Moin
+[10:25:42] <petrik coffy> Donnietag, Larstag, Andywoch, Edetag, Tinitag, Wochenende 👍
+[10:25:47] <%Valkyrie0025> wombo lief doch schon
+[10:25:52] <Captain lol> 😪
+[10:25:55] <Alqaido> omg ich bin dann seit 'nem gefühlten jahrhundert mal wieder live bei 'nem moinmoin am stizzle 😱
+[10:26:00] <fedora> da war ich nicht da 😞 @Valkyrie0025
+[10:26:07] <Doktor Lowrider> 😃
+[10:26:10] <+Olliwood09> @fedora na wie ist Horizon ?
+[10:26:19] <+Butcher32> jop wombo war schon aber könnte ruhig nochmal laufen ❤
+[10:26:24] <Ja Nein> Kann mir jemand sagen wie ich im Forum zu den aktuellen Artikeln eines Threads komme?
+[10:26:28] <%Valkyrie0025> @fedora mist
+[10:26:34] <Gamemonster82> Jerks ❤
+[10:26:41] <petrik coffy> hier, ein 🎉 für dich
+[10:26:43] <%Valkyrie0025> echt die mimik vom ulmen :D
+[10:26:47] <fedora> @Olliwood09 hyhy 😃 Wir lieben es ❤ Ganze WE durchgezockt
+[10:27:03] <petrik coffy> ist schon ein lustiger kauz dieser ulmen
+[10:27:07] <+Olliwood09> @fedora hehe was sagt ich 😃
+[10:27:15] <+Butcher32> 🎉 ❤
+[10:27:15] <+MESOEP1C> der herr ulmen ist ein guter
+[10:27:28] <+stroggle Haufe> das heimische Mauswiesel ❤
+[10:27:29] <Othar> @fedora Finds auch ganz dufte bisher, hatte nur schon einige Crashs, habt ihr da auch Probleme gehabt bissel?
+[10:27:31] <Alqaido> ersguterjunge
+[10:27:36] <fedora> @Olliwood09 hätte echt nicht gedacht das mich das Spiel so einfängt.
+[10:27:41] <Doktor Lowrider> @fedora  ist das so schick wie es hier auch aussieht ?
+[10:27:54] <petrik coffy> audience flow 😨
+[10:27:55] <+MESOEP1C> nils ist so ein  XD
+[10:27:55] <+Olliwood09> @fedora ja total
+[10:27:59] <fedora> @Othar ne bisher noch gar nicht. Nur der autm. Zielerfassung geht bei mir nicht
+[10:28:22] <+stroggle Haufe> Business Nils ❤
+[10:28:22] <Zaldarion> @Olliwood09 😯 💨 ❤
+[10:28:26] <Alqaido> nils is beschte <3
+[10:28:30] <fedora> @Doktor Lowrider Optik/Grafik wie Uncharted. macht Spaß einfach nur sich oben hin zu stellen und die Welt anzusehen ❤
+[10:28:32] <+Butcher32> Jerks ❤
+[10:28:34] <+Olliwood09> @fedora jep das zielen ist manchmal echt nicht so easy im kampf ^^
+[10:28:38] <Othar> @fedora Na dann hatte ich wohl nur Pech, aber das mit der Zielerfassung haut bei mir auch nicht hin
+[10:28:43] <+Olliwood09> @Zaldarion Guade Morgen ❤
+[10:28:55] <Zaldarion> hallole ^^
+[10:28:58] <+muhey> xD
+[10:29:01] <fedora> @Olliwood09 geht bei dir die autom. Zielerfassung?
+[10:29:04] <Alqaido> hallöle
+[10:29:20] <Tresies Fox> geht bei jmd better rbtv auf chrome ebenfalls nicht?
+[10:29:20] <fedora> @Othar aber so ist das Spiel einfach Hammer.
+[10:29:21] <+Olliwood09> @fedora ach sowas gibts ? 😀
+[10:29:26] <Markus Frahm> 21 :30 😱
+[10:29:36] <%Valkyrie0025> @fedora echt gut das game? hab mich ja aus dem lp rausgezogen 😉
+[10:29:42] <Doktor Lowrider> @fedora  danke - auf so augenschmaus-dinger steht ich schon ein bischen 😃
+[10:29:49] <Zaldarion> @fedora nein das aiming ist skandalös mies 👿
+[10:29:53] <fedora> @Olliwood09 ja kann man einstellen, aber es tut sich bei mir nix ob ich es an oder aus habe
+[10:29:53] <Othar> @fedora Das stimmt, mir gefallen die Brutstättendungeons, Story bin ich noch gar nicht arg weit gekommen
+[10:29:55] <+Butcher32> @Tresies Fox im chrome geht bei mir better rbtv aber leider nicht im firefox 😞
+[10:29:59] <+Olliwood09> @Valkyrie0025 das spiel ist Bombe ❤
+[10:30:11] <Markus Frahm> rush b cyka blyat !
+[10:30:15] <fedora> @Valkyrie0025 Wer Witcher mag, wird das spiel Lieben
+[10:30:16] <Leander Boy> Moin Moin
+[10:30:21] <Boner Alert> ok nach dem krach bin ichwach
+[10:30:27] <+stroggle Haufe> budi ❤
+[10:30:27] <+Claim1234> freue mich schon auf montag
+[10:30:30] <Doktor Lowrider> regie - doppeltrailer nerven ! 😉
+[10:30:37] <%Valkyrie0025> @Olliwood09 moinsen 😃 aber erstmal eh nur für konsole oder?
+[10:30:37] <fedora> @Othar haben erst eine und die war spuky ^^
+[10:30:40] <+Olliwood09> Das was @fedora sagt !
+[10:30:51] <Alqaido> jackie chan 😍
+[10:30:55] <+abol656> seit 5 1/2 h wach Oo
+[10:31:04] <+Olliwood09> @Valkyrie0025 PS Only kommt von Sony
+[10:31:13] <Zaldarion> das is schon arg hoch gegriffen... eher: wer das spiel mag wird far cry auch mögen 😀
+[10:31:15] <fedora> @Zaldarion ja hoffe das sie nachbessern
+[10:31:15] <Othar> @fedora Der alte Welt-Kack is recht atmosphärisch, das stimmt 😃
+[10:31:25] <+muhey> da hat wohl JEMAND VERSCHLAFEN !?
+[10:31:26] <+muhey> 😀
+[10:31:29] <Markus Frahm> Mensch !
+[10:31:34] <+Olliwood09> @Zaldarion nur weil du es nicht kannst 😛 🌝
+[10:31:37] <Captain lol> habr dieses Jacky Chan Biopic mit Nathalie Pirtman gesehen? 😯
+[10:31:47] <oShadow Master> Hi
+[10:31:50] <Doktor Lowrider> wir hängen ^^
+[10:31:56] <UltimateMakko> Freitag Animal Squad !
+[10:31:58] <+stroggle Haufe> animal squad ❤
+[10:32:00] <oShadow Master> 😋
+[10:32:01] <Realjimknopf44> Donnie ist schon da, no panic
+[10:32:02] <Zaldarion> @fedora ich glaub nicht, deswegen ziehe ich in erwägung mir den adapter für maus und tastatur zu kaufen
+[10:32:02] <JayTouchdown> @Captain lol *Birdman 🌝
+[10:32:04] <fedora> @Zaldarion hab Far Cry net gespielt, kann ich nix zu sagen
+[10:32:10] <+Butcher32> AS ❤
+[10:32:22] <Tresies Fox> @Butcher32 Danke dir. Werd's mal neu installieren 😭
+[10:32:23] <Tresies Fox> nun
+[10:32:24] <+stroggle Haufe> nun
+[10:32:25] <TarmokLP> AS 💔
+[10:32:29] <JayTouchdown> nun
+[10:32:34] <SAINT77> nun
+[10:32:35] <fedora> @Zaldarion hehe das wäre ne Möglichkeit
+[10:32:37] <+muhey> ruft ma bei donnie durch, das moin moin losgeht
+[10:32:41] <marcey747> endlich mal wieder ne Trailer-Schleife, wie in den guten alten Zeiten ❤
+[10:32:41] <nessio qq> nun.
+[10:32:42] <dead_ohio_sky> Skandal, Moin Moin fängt nicht pünktlich an. 😠
+[10:32:50] <Gamemonster82> nun 😼
+[10:32:50] <Doktor Lowrider> rdy for HYPE ?
+[10:32:51] <Zaldarion> @Olliwood09 ja ich kanns nicht stimmt, weil aiming +2 tasten gedrückt +3 taste drücken die auch noch zum aimen benutzt wird mir nicht liegt 😀
+[10:32:51] <+khayjeet> rip moinmoin
+[10:32:52] <+MESOEP1C> ..nun..
+[10:32:52] <Othar> @Zaldarion Horizon is meiner Meinung nach so wie Far Cry hätte sein sollen 😛
+[10:32:55] <+Butcher32> Nun.
+[10:32:58] <oShadow Master> kfifikefiivz zbkltbuejgirkoowx
+[10:33:00] <%Valkyrie0025> vielleicht ist ja alles zusammengebrochen ^^
+[10:33:00] <SAINT77> nun nun
+[10:33:02] <JayTouchdown> ❤
+[10:33:03] <derdasch> mit rlt2u wäre das nicht passiert 🌝
+[10:33:06] <Darcayler> bla REVOLTE blabla
+[10:33:06] <MultiSchinken> ❤ the champions ❤
+[10:33:07] <+muhey> ❤ ❤ ❤ ❤ ❤ ❤ ❤
+[10:33:07] <%Kaiserin thomate67> arghhh fucking Vergangenheits-Thomate du kannst doch den PC Sound nicht auf 70 lassen ... Tinnitus incoming
+[10:33:07] <Eppmaster> 👎 #NotmyIntro  👎
+[10:33:07] <Doktor Lowrider> HYPE!
+[10:33:08] <Gamemonster82> ❤
+[10:33:09] <Agnes K> ❤ ❤ ❤
+[10:33:09] <+Butcher32> Moin Moin Bohnen ❤ ❤ ❤
+[10:33:10] <+muhey> ❤ ❤ ❤ ❤ ❤ ❤ ❤
+[10:33:11] <Andy_ Flow> Nunn 3 Minuten Verspätung !
+[10:33:12] <+stroggle Haufe> f
+[10:33:13] <MC Hodenflash> ❤
+[10:33:13] <Shroomy McMushroom> jetze aber ❤
+[10:33:13] <SAINT77> Steht HAmburg noch ?
+[10:33:15] <Don Mixote> Muss ich mich schlecht fühlen, weil ich anstatt in der Vorlesung aufzupassen lieber MoinMoin schaue?
+[10:33:15] <+Olliwood09> @Zaldarion 😀 wenigstens ehrlich
+[10:33:15] <Doktor Lowrider> 😃
+[10:33:17] <Zaldarion> @Othar dennoch kein großer unterschied
+[10:33:17] <Babadook> Moin Moin Donney 💜💜💜
+[10:33:19] <Leon Zubaki> Donnie Hype
+[10:33:19] <%Kaiserin thomate67> Moinsen Chat ❤ /
+[10:33:20] <+MESOEP1C> intro neu?
+[10:33:21] <+Vulkangestein> ❤
+[10:33:22] <+muhey> ❤ ❤ ❤ f ❤ ❤ ❤ FASHION LATE ❤ ❤ ❤
+[10:33:22] <+stroggle Haufe> ❤
+[10:33:23] <Mel Pinkman> ❤ ❤
+[10:33:23] <masterofdragonfights> ❤❤❤
+[10:33:24] <Swissness> neues Intro?? lol geil
+[10:33:27] <steyfication> ❤ ❤ ❤
+[10:33:27] <Mattteee1> ❤
+[10:33:33] <Drogenkopf08> moim katjana
+[10:33:33] <+Olliwood09> @Kaiserin thomate67 Moin 😃 / ❤
+[10:33:34] <Zaldarion> @Olliwood09 ja halt nen tatsache wozu leugnen?
+[10:33:35] <llo100> ❤❤❤
+[10:33:37] <Markus Frahm> HEYYYYYYYY
+[10:33:37] <Mooncrystal> ❤ ❤ ❤
+[10:33:37] <PieDefinition> ❤
+[10:33:39] <+JotunnLoki> 😚
+[10:33:40] <SuperStirling> Kim Meyer ❤
+[10:33:41] <Agnes K> katrjana ❤ ❤
+[10:33:43] <dead_ohio_sky> Falsches Studio. 👿
+[10:33:43] <+Butcher32> Moin Donnie und Katjana ❤ ❤ ❤
+[10:33:43] <xChrisS41x> ❤
+[10:33:44] <woodandaluminum> wooooo
+[10:33:44] <gundi91> ❤️❤️❤️
+[10:33:45] <marcey747> ❤
+[10:33:45] <Babadook> nices studio
+[10:33:48] <MrCraicy> wtf is des studio
+[10:33:48] <petrik coffy> nanu 📙
+[10:33:48] <Gamemonster82> heeeeyyyy 😀 /
+[10:33:49] <Vanilla Thunder> 😁
+[10:33:49] <Blizzard105> ❤❤❤
+[10:33:51] <+stroggle Haufe> wo seid ihr denn heut ?
+[10:33:52] <Drogenkopf08> 🌝 //
+[10:33:52] <Seran Kar> Die Kulisse ist falsch aber kuschelig :D
+[10:33:53] <+nofuckinghero2> ich mag das neue intro immernoch nicht 😡 der flow fehlt irgendwie
+[10:33:54] <SAINT77> 💚💚💚💚☘ ☘🕥
+[10:33:55] <Swissness> moin moin neues Studio lol
+[10:33:58] <+nailzee> Moment, das ist doch Kim Meyer!
+[10:33:58] <+Olliwood09> @Zaldarion die wenigstens Zocker geben was zu
+[10:34:01] <+Claim1234> was ist das für 1 chris?
+[10:34:02] <marcey747> woooo, Christopher!!!
+[10:34:04] <Doktor Lowrider> moin die 3
+[10:34:05] <woodandaluminum> neues Studio?
+[10:34:06] <dead_ohio_sky> 👏Chris👏
+[10:34:06] <Shroomy McMushroom> what neu ?
+[10:34:08] <fedora> der Nicht-Live Donnie 😞
+[10:34:09] <John_Doe> chris christopher ❤
+[10:34:11] <+Butcher32> Christopher ❤
+[10:34:15] <+JotunnLoki> dat is nich neu das ist der Dachboden
+[10:34:15] <Alqaido> ok jetzt gehts los
+[10:34:18] <Bohn AQA> Herzen
+[10:34:19] <Mel Pinkman> Christopher ❤
+[10:34:20] <Alqaido> rip chat
+[10:34:21] <marcey747> wird geil ❤
+[10:34:22] <+nailzee> Wird geil
+[10:34:24] <Karl-Heinz Schlünz> HELLO!
+[10:34:24] <Agnes K> chris ❤ ❤ ❤
+[10:34:24] <+muhey> F Chris ❤ ❤ ❤
+[10:34:25] <Spuni lol> sweet ❤
+[10:34:26] <Zaldarion> @Olliwood09 bin ja auch nich die meisten, ich bin besser 🐯
+[10:34:26] <jannikkinaj> gut versteckt christopher haha 😀
+[10:34:29] <fabswe> wird wohl nicht so geil
+[10:34:30] <So genannt> bitte kein Anglizismus
+[10:34:30] <nessio qq> Chris HYPE ❤
+[10:34:31] <ProfessorHen> Christopher ❤
+[10:34:31] <fedora> @Olliwood09 ich geb gerne zu, das ich was zielen angeht ein noob bin
+[10:34:31] <SuperStirling> ZDF Morgenshow Moderatorin Kim Meyer bei MoinMoin ❤
+[10:34:35] <Babadook> Kaminzimmer 💛
+[10:34:36] <+muhey> ❤ ❤ ❤
+[10:34:38] <fedora> @Zaldarion lol
+[10:34:40] <+abol656> chris ❤
+[10:34:41] <Ed Zimmerman> Jetzt geht wieder das English-Gebabbel los
+[10:34:42] <glueckskind> Schmierlappen Donnie LUL
+[10:34:42] <+JotunnLoki> Donnie der Bildstar 😀
+[10:34:44] <Manta> nun
+[10:34:47] <+stroggle Haufe> Kim ❤
+[10:34:49] <Moritz Messmer> die anglophone Besetzung! 👏👏
+[10:34:50] <Alqaido> @So genannt why?
+[10:34:50] <SAINT77> 💚💚💚💚☘ ☘🕥
+[10:34:50] <Goku> haha
+[10:34:50] <UltimateMakko> was soll Dustin?
+[10:34:52] <+Olliwood09> Das Zimmer ist viel besser für MoinMoin
+[10:34:52] <%Valkyrie0025> hi dustin ^^
+[10:34:53] <+nailzee> Warum Kaminzimmer?
+[10:34:54] <Hillbilly TheKid> Dastinn
+[10:34:55] <dead_ohio_sky> Dustin needs a new name. 👿
+[10:34:57] <%Kaiserin thomate67> Dustin ❤
+[10:34:57] <Karl-Heinz Schlünz> Hallo Dustin! 😗
+[10:34:57] <SuperStirling> Dustin Jimberlake 🌝
+[10:34:58] <Babadook> Dustin 💜
+[10:34:59] <+Butcher32> Dustin ❤
+[10:35:00] <Hairy Potter> bin gespannt ob donnie jetzt wieder so enttäuscht wie bei zelda
+[10:35:01] <Agnes K> aw dustin
+[10:35:02] <ProfessorHen> hallo dustin
+[10:35:03] <+nailzee> Hallo
+[10:35:04] <Sector441> Hi Dasdinn
+[10:35:04] <Mel Pinkman> Dustin ❤
+[10:35:04] <+Olliwood09> @fedora ich doch auch aber es geht
+[10:35:06] <Icaps> Dustin ❤
+[10:35:06] <Spuni lol> Dustin
+[10:35:07] <+Vulkangestein> Dustin hype 😀
+[10:35:07] <%Valkyrie0025> sympathische socke
+[10:35:08] <SAINT77> Hi Dustin
+[10:35:10] <+abol656> dustin ❤
+[10:35:12] <Don Mixote> Dustin der Profi 🌝
+[10:35:13] <+Claim1234> dustin ist der mvp bei rbtv
+[10:35:14] <marcey747> Hallo Dustin ❤ , so viele neue Leute, bin total überfordert 😀
+[10:35:14] <Gernhardt Reinlunsen> dustin the wind
+[10:35:15] <dead_ohio_sky> @Olliwood09 Besonders in den Sommermonaten. 🌝
+[10:35:15] <Doktor Lowrider> überall neue leute - bin völlig übervordert ^^
+[10:35:16] <Doktor Banane> oh, neues studio, find ich gut
+[10:35:16] <+Helmut Hummer> Katjana ❤
+[10:35:16] <Captain lol> Scharfstell-Dustin 🤓
+[10:35:22] <Spuni lol> was soll dusdin
+[10:35:22] <Tabea Plan B> ❤ katjana
+[10:35:25] <tobak1887> ryan gosling 😚
+[10:35:29] <John_Doe> hahaha die goldene kamera xD
+[10:35:31] <+stroggle Haufe> Kim Meyer ❤
+[10:35:35] <Derolon Malastar> Es war zum Fremdschämen bei der GK.
+[10:35:36] <meepleMax> bild referenz in 3...2...1
+[10:35:39] <Viper3062> Katjana ❤
+[10:35:40] <+Deschain92> Alles so neu - mein Hirn implodiert! 😲 🌝
+[10:35:40] <Hillbilly TheKid> Katzjana ❤
+[10:35:42] <fedora> @Olliwood09 aber ich finds schön das es mir nicht allein so geht ^^
+[10:35:43] <So genannt> @Alqaido weil die deutsche sprache ein großes und schönes vokabular hat und das genügt
+[10:35:44] <+Olliwood09> woher kenn ich sie 🤔
+[10:35:45] <gizmo13lol> and now kiss
+[10:35:56] <Viper3062> CHAMPIIIOONS
+[10:36:07] <marcey747> @Olliwood09 Gut Arbeit Originals mit Florentin 😉
+[10:36:11] <Drogenkopf08> Gute Arbeit ❤
+[10:36:12] <+nailzee> Goldene Kamera war doch das cringe Fest schlechthin
+[10:36:14] <Viper3062> neues Studio??
+[10:36:14] <Trickyboie> @Olliwood09 Gute Arbeit Orginals, Beans on Rice?
+[10:36:17] <gizmo13lol> ryan gosling und emma stone
+[10:36:23] <+Blodyck> @Olliwood09 Kanalputz Teil 3: Heute wird richtig hard geschrubbt? 🌝
+[10:36:28] <+Olliwood09> @fedora aber so macht es mir mehr spaß besser wie durchrennen und alles weg schießen
+[10:36:29] <Kappageck> donnie pls
+[10:36:29] <+nailzee> Famous as fuck....lol
+[10:36:34] <+stroggle Haufe> Ich dachte Florentin ist mit Katjana zusammen ? 🌝
+[10:36:34] <+Helmut Hummer> YT Stars 🌝
+[10:36:37] <SuperStirling> Ich lese Emma Stone, I press like ❤
+[10:36:38] <Da Go> die hat mal mim donnie gekocht bei Beans on Rice @O
+[10:36:45] <+Olliwood09> ah ja mit Florentin stimmt
+[10:36:45] <SAINT77> Gute Arbeit Orginals,beste!!
+[10:36:49] <fedora> @Olliwood09 oh ja, bissl Herausforderung soll schon sein.
+[10:36:49] <Alqaido> hihi.. after
+[10:36:51] <ladegaillerie41> gau cards
+[10:36:52] <Hillbilly TheKid> Ronny mal wieder 😏
+[10:36:54] <+Deschain92> Die zwei passen einfach so gut zusammen ❤ 😀
+[10:36:55] <Tresies Fox> Ricky Martin
+[10:36:58] <Katsuradesu> immerhin Goldene Kamera Digital - Nominierte...
+[10:36:59] <Babadook> 1. world problems
+[10:37:03] <Viper3062> Gute Arbeit ist echt gute Arbeit
+[10:37:04] <Doktor Lowrider> Florentin ist wenn denn mit Lars zusammen 😉
+[10:37:16] <jannikkinaj> Ich hasse Riki. Mit seinem Invis werden and so on
+[10:37:20] <+JotunnLoki> Nicht neu das isses Kaminzimmer unten wir sicher was anderes gedreht...
+[10:37:21] <+nailzee> Ist das Kim Meyers Morningshow?
+[10:37:22] <Alqaido> möp möp
+[10:37:30] <Viper3062> alle bitte den Gute Arbeit Originals Channel abbonnieren
+[10:37:31] <Manta> ganz am anfang dachte ich ernsthaft, florentin und lars wären ein paar.. weil sie zusammen wohnten/umzogen etc..
+[10:37:37] <%Valkyrie0025> ich bin bei der goldenen kamera eingepennt und später nur dieses shaming ding auf twitter gesehen
+[10:37:51] <fedora> @Valkyrie0025 welches Shaming ding?
+[10:37:52] <%sLuG> #MoinMoin
+[10:38:10] <+Olliwood09> rip Blume
+[10:38:10] <Viper3062> Donnie flirtet hart
+[10:38:16] <Babadook> dat plant
+[10:38:16] <Gordon #17> MoinMoin
+[10:38:19] <OfficerMacSwag> War aber auch krasser Fremdscham bei der Kamera
+[10:38:22] <+Butcher32> @Manta wie kommst Du darauf? Die sind doch nicht schwul
+[10:38:22] <+Deschain92> 😲 😲 😲
+[10:38:26] <Alqaido> häää wieso sind die eigtl oben im haus? 😱
+[10:38:28] <%Valkyrie0025> @fedora mal sehen vielleicht erzählt donnie davon ^^
+[10:38:30] <+nailzee> Piranha Pflanze gerettet!
+[10:38:35] <JayTouchdown> Katjana trägt einen schönen Nagellack ❤
+[10:38:36] <+khayjeet> ruined
+[10:38:36] <+Helmut Hummer> bisschen 🌝
+[10:38:38] <Karl-Heinz Schlünz> neeein pflanze getötet! 😞
+[10:38:46] <+stroggle Haufe> Ist Kim schon wieder besoffen ?
+[10:38:50] <SuperStirling> Donnie macht da weiter, wo er bei Beans on RIce aufgehört hat. Er flirtet wie ein wilder Stier ❤
+[10:38:54] <Viper3062> Ricky Martin?
+[10:38:59] <Hillbilly TheKid> MoinMoin 1A abgeschlossen
+[10:39:08] <+Blodyck> Deutschland kann halt nicht auf lustig 🌝
+[10:39:11] <Intriganto> @Viper3062  Donnie und Katjana waren mal zusammen
+[10:39:13] <BubiBalboa> Katjana ist super ❤
+[10:39:13] <+Olliwood09> wieso muß Donnie die Pflanze jetzt in den hand nehmen ? 😀
+[10:39:22] <Viper3062> omg
+[10:39:33] <fedora> @Olliwood09 knallhart kaputtgespielt 😉
+[10:39:36] <SMSTRM> wovon reden die?
+[10:39:38] <Gamemonster82> 😂
+[10:39:38] <Hans Yolo> Sich die goldene Kamera anschauen und sich über den deutschen Humor aufregen klingt irgendwie....deutsch 😀
+[10:39:40] <Viper3062> ich möchte Simon für Breath of Wild
+[10:39:44] <phoboz666> hahaha
+[10:39:45] <ladegaillerie41> da passt die Chemie nicht so ganz 😳
+[10:39:46] <Babadook> Donnie 💜💜💜
+[10:39:50] <Manta> @Butcher32 ja.. keine ahnung, sie kamen eben so emotional connected rüber 😀
+[10:39:54] <+HAHA Reingelegt> !plan
+[10:39:55] <%Sendeplan> @HAHA Reingelegt: Den aktuellen Sendeplan findest du hier: https://www.rocketbeans.tv/wochenplan/?details=1
+[10:39:58] <Sector441> Vorsich Katjana, die die zur Seite gucken spucken Feuer 😕
+[10:39:58] <Ceto Monasteria> wird jetzt wieder ne Stunde darüber gequatscht was Donnie alles besser kann?
+[10:40:03] <Babadook> saxophon technno??
+[10:40:04] <SMSTRM> das hass ich voll 😃
+[10:40:04] <Hillbilly TheKid> da lacht der Ronny 😹
+[10:40:06] <+JotunnLoki> Saxanaphon
+[10:40:09] <Tresies Fox> 🌝
+[10:40:18] <+Helmut Hummer> hahahaha
+[10:40:19] <HidekoYamamoto94> huch anderes studio ?
+[10:40:21] <Tuna> Seit wann ist es lame, wenn man mit Instrumenten Musik macht?
+[10:40:21] <+JotunnLoki> tut es
+[10:40:21] <HidekoYamamoto94> Moin 😃 /
+[10:40:21] <minihamster> ❤
+[10:40:25] <Tresies Fox> unter die Schaufel 😭
+[10:40:27] <SMSTRM> ja das heisst so
+[10:40:28] <Babadook> alter
+[10:40:32] <+Butcher32> @Manta ok 😀 ja das ist aber nur blödsinn. Ich glaube nicht das die schwul sind
+[10:40:43] <Haabiii> sind 3h Breath of the Wild pro Woche nicht ein bisschen wenig? Er hat ja letzten Freitag schon knapp >2h gezockt. Das wird so doch ewig dauern
+[10:40:43] <+Deschain92> That is correct.
+[10:40:47] <vincenzo giannotti> moinn
+[10:40:47] <Don Mixote> Donnie so ein Schleimer 😀
+[10:40:49] <+nailzee> Immer diese Ausländer ;)
+[10:40:49] <+Blodyck> @Tuna er meinte techno mit instrumenten machen
+[10:40:50] <+stroggle Haufe> netflix event ?
+[10:40:54] <vincenzo giannotti> moinmlin
+[10:40:57] <%Valkyrie0025> @HidekoYamamoto94 moinsen 😃 /
+[10:40:57] <Fabian Hoffmann> Unter den Göffel!
+[10:41:00] <Manta> @Butcher32 ja klar, weiß ich jetzt auch ^^ aber ganz am anfang, als man sie noch nicht kannte..
+[10:41:07] <vincenzo giannotti> grüßt euch
+[10:41:08] <Markus Frahm> but it's me Donnie ! everybody loves Donnie ! 😀
+[10:41:27] <Ro Mi> Moin Moin!!!! 😁 TZELDA
+[10:41:42] <petrik coffy> Donnie stellt sein Schwert wieder unter den Hub 😖
+[10:41:44] <Viper3062> TZELDA RIP 😞😞
+[10:41:45] <SMSTRM> das ist die neue masche, knallhart durchgenommen 3h die woche, damit man nach 3monaten abbrechen kann, weils zu lange dauert 🌝
+[10:41:55] <Tuna> @Blodyck Und Techno ist keine Musik? ... Ja hast schon irgendwie recht. ^^
+[10:41:59] <towelie1987> 😀
+[10:42:04] <Captain lol> meine Mama hat mir mal einen Preis verliehen weil ich leckere Plätzchen gebacken hab 🤗
+[10:42:10] <Babadook> flyin steps 💜
+[10:42:18] <Karl-Heinz Schlünz> !penis
+[10:42:19] <%Sendeplan> @Karl-Heinz Schlünz: Den aktuellen Sendeplan findest du hier: https://www.rocketbeans.tv/wochenplan/?details=1
+[10:42:19] <+Helmut Hummer> Moinchen pennt
+[10:42:21] <+nailzee> War Katjana echt wegen Gute Arbeit bei der GK?
+[10:42:22] <+Butcher32> @Manta ok 😉 ja die beiden sind echt korrekt aber ich habe irgendwas gehört das Lars mit VOX was am laufen hat aber kp
+[10:42:30] <Doktor Lowrider> hmmm plätzchen 😃
+[10:42:35] <%Kaiserin thomate67> na wie sind die Leute reich geworden
+[10:42:41] <SMSTRM> und dann gibts wieder nacktfotos im netz
+[10:42:45] <Trickyboie> cool! meine Mama hat mich als Kind mal in ein Fliegenpilzkostüm gesteckt....
+[10:42:49] <+nailzee> Von den Reichen kann mans sparen lernen.
+[10:42:54] <Viper3062> walbusch?
+[10:42:55] <Arctus Vogtis> @Kaiserin thomate67 Sie haben auch geklaut?
+[10:42:59] <%Kaiserin thomate67> Räuber, DIebe sind auf roter Teppich tour
+[10:42:59] <paradin87> wasn das fürn moinmoinn studio? was habe ich verpasst?
+[10:43:09] <Vanilla Thunder> 😁
+[10:43:14] <Manta> @Butcher32 lars hat gleich was mit einem ganzen tv sender laufen?! was für ein hecht 🌝
+[10:43:14] <+Helmut Hummer> ...
+[10:43:16] <%sLuG> F5 🌝
+[10:43:16] <+Olliwood09> 😀
+[10:43:17] <Garbage Man> lag
+[10:43:18] <fabswe> RIP
+[10:43:18] <Babadook> rip
+[10:43:19] <%sLuG> Stream abgeschmiert
+[10:43:19] <Viper3062> rip
+[10:43:19] <Willson> woow
+[10:43:19] <MultiSchinken> rip stream 😀
+[10:43:19] <Viper3062> rip rbtv
+[10:43:20] <%Kaiserin thomate67> RIP 🌝
+[10:43:21] <+Olliwood09> nun
+[10:43:21] <MrScamsonite> RIP
+[10:43:21] <+Blodyck> @paradin87 moin moin studio ist jetzt im kaminzimmer
+[10:43:22] <+GesichtsKuchen> XDDD
+[10:43:23] <fedora> dumme poste
+[10:43:23] <Christian D> unangeneeeeehm 😀
+[10:43:24] <Hans Yolo> xD
+[10:43:24] <Hans Olo> hmmm
+[10:43:24] <SMSTRM> shoppingmusik? was zur hölle, wo soll ich die denn jetzt herkriegen?
+[10:43:24] <mee myself> LUL
+[10:43:25] <MC Hodenflash> 🌝
+[10:43:27] <Florentin Will> Hallo Donnie und Katjana! Guten Morgen
+[10:43:28] <+MESOEP1C> wäre das 60hz flackern nicht im Hintergrund XD
+[10:43:28] <Señor Droolcup> Sie wankt hin und her
+[10:43:30] <steyfication> Freeze xD
+[10:43:31] <Dondon Don> lul
+[10:43:32] <+Helmut Hummer> saved KappaRoss
+[10:43:34] <Intriganto> @nailzee  wahrscheinlich weil sie bei der Bild-und-Ton-Fabrik angestellt ist, die die auch Neo magazin royale produzieren
+[10:43:36] <+Blodyck> Moderatoren RIP
+[10:43:37] <SuperStirling> Donnie macht das richtig gut^^
+[10:43:39] <derdasch> 😀
+[10:43:39] <Doktor Lowrider> donnie iss bessa - sie hat gewackelt
+[10:43:41] <Garbage Man> da passen zwei perfekt zusammen xD
+[10:43:41] <Ventis> wtf 😂
+[10:43:42] <MrJohn> @paradin87 im anderen studio wird iwas neu verkabelt
+[10:43:48] <Markus Frahm> Cocaine is a hell of a drug
+[10:43:49] <dynamictrust> xD
+[10:43:50] <+JotunnLoki> 😀
+[10:43:50] <+HAHA Reingelegt> xD
+[10:43:52] <+Butcher32> @Manta 😀 ja das er halt dort was arbeitet nicht so wie Du denkst xD
+[10:43:54] <+stroggle Haufe> hahaha troll regie
+[10:43:54] <+nailzee> @Intriganto Ach so
+[10:43:56] <Promocable> Donnie konnte das erstaunlich gut O.O
+[10:43:59] <SuperStirling> Kim Meyer ist zu dicht, sie kann nicht ruhig sitzen bleiben 🌝
+[10:44:03] <Rukalus> Heeey..... XD
+[10:44:20] <Viper3062> Hotelschlappen gerippt
+[10:44:20] <+Olliwood09> wow schlappen
+[10:44:21] <+JotunnLoki> Schlappen ❤
+[10:44:22] <+nailzee> Schlappen!
+[10:44:22] <So genannt> geil schlappen
+[10:44:23] <Manta> @Butcher32 naja solange er bei rbtv und srsly bleibt, soll mir das recht sein :d
+[10:44:24] <Mehdi Gülec> ich liebe auch schlampen 🌝
+[10:44:24] <+stroggle Haufe> @SuperStirling ^^ .d
+[10:44:28] <+Blodyck> schlappen wuah
+[10:44:33] <MultiSchinken> durchfall flecken 😀 😀
+[10:44:33] <Babadook> squrit flecken
+[10:44:34] <%sLuG> Geil 😀 Extra für Donnies Fußfetisch... was ein tolles geschenk ❤
+[10:44:39] <SMSTRM> mist schon wieder aufn schuh gedurchfallt
+[10:44:42] <%Valkyrie0025> bin begeistert ^^
+[10:44:43] <Viper3062> Kackiflecken
+[10:44:43] <Señor Droolcup> "Kaffee"
+[10:44:43] <Don Mixote> Bestes Geschenk: Schlappen 😀
+[10:44:43] <MrJohn> benutzte schlappen - da steht der donnie drauf 🌝
+[10:44:43] <Eppmaster> MS Europa 😀
+[10:44:49] <jannikkinaj> Das wort ist super komisch.... Schlappen 😀
+[10:44:57] <Markus Frahm> benutzt die Durchfall-Kamera !
+[10:44:57] <+abol656> walbusch - mode für den mann in seinen besten jahren
+[10:44:59] <Captain lol> gut zu wissen dass meine Rundfunkgebühren gut genutzt werden 😬
+[10:45:03] <+Helmut Hummer> PogChamp
+[10:45:07] <+Butcher32> @Manta jop wär nice wenn sie beide bei RBTV bleiben ❤
+[10:45:07] <Viper3062> oui mon amourt
+[10:45:12] <Mav 290> einfach vom hotel mitgehen lassen :D
+[10:45:13] <Nabl0> again... xD
+[10:45:13] <+Olliwood09> 😰
+[10:45:14] <Markus Frahm> SACRE BLEU 😱
+[10:45:19] <LightShadow> Franzosen-Donnie kommt wieder
+[10:45:21] <Captain lol> Une Wolk!
+[10:45:24] <%Valkyrie0025> wichtig für den sommer...vor allem in den studios ^^
+[10:45:27] <+Helmut Hummer> Kreygasm
+[10:45:27] <SMSTRM> omg
+[10:45:31] <+Blodyck> Katjana ist ja mal supertoll ❤
+[10:45:32] <Babadook> lol
+[10:45:43] <%Kaiserin thomate67> aber nicht in die Funken wedeln
+[10:45:50] <Viper3062> wann wird denn Tzelda hochgeladen?
+[10:45:58] <+nailzee> Edel
+[10:46:02] <Manta> ein wat
+[10:46:04] <+Helmut Hummer> Nils Style
+[10:46:05] <%Kaiserin thomate67> das hat sich falsch angehört
+[10:46:07] <Fabian Hoffmann> Harry Potter Cosplay
+[10:46:07] <Viper3062> Donnie sieht gut darin aus 😀
+[10:46:13] <+Olliwood09> Batman Umhang 🌝
+[10:46:13] <xChrisS41x> a what?!
+[10:46:14] <+JotunnLoki> 😀
+[10:46:14] <%sLuG> Stolen... es heißt Stolen 🌝
+[10:46:22] <+Butcher32> Donnie und Katjana passen gut zusammen ❤
+[10:46:22] <Karl-Heinz Schlünz> nein donnie das ist für donnies!
+[10:46:23] <Trickyboie> lol
+[10:46:23] <+Helmut Hummer> Sexy Donnie
+[10:46:24] <+Vulkangestein> JETZT können es auch Männer tragen 😀
+[10:46:25] <Don Mixote> Wohl eher ein Handtuch 😂
+[10:46:26] <Babadook> stola im den leib und ich chill
+[10:46:27] <+nailzee> Für Frauen und Hunde
+[10:46:28] <Markus Frahm> it's something when you raus geh ing
+[10:46:30] <+Blodyck> das können auch Männer tragen 🌝
+[10:46:31] <SuperStirling> Ne, das können Männer und Donnie tragen 🌝
+[10:46:31] <MrJohn> 🌈
+[10:46:33] <JayTouchdown> So ein Kleidungsstück kann mir gestola bleiben 🌝
+[10:46:35] <fedora> man versteht sie kaum auf englisch
+[10:46:38] <John Reese> hahaahahaha
+[10:46:38] <Ed Zimmerman> Speke isch so americanisch
+[10:46:40] <Hans Olo> 😀 😀
+[10:46:41] <Captain lol> hmm Stollen 😙
+[10:46:43] <nessio qq> Sexy Donnie INC
+[10:46:43] <%Kaiserin thomate67> amahhhzing
+[10:46:43] <+JotunnLoki> Der Ire und die Ami ^^
+[10:46:44] <+Esusa> Moin Moin ❤
+[10:46:45] <Fieser Fettsack> oh my gooosh
+[10:46:48] <Markus Frahm> ohhh myyyy gaaaawwwwsh
+[10:46:49] <Izal Veevee> ehhww
+[10:46:49] <steyfication> Starbucks-Donnie 😀
+[10:46:50] <petrik coffy> wer nicht in die funken wedelt hat die kontrolle über seinen sLuG verloren 😨
+[10:46:50] <tobak1887> EEEEEW
+[10:46:51] <glueckskind> A M A ZING
+[10:46:52] <xChrisS41x> valley girl
+[10:46:52] <Luka Mrcela> 😀
+[10:46:52] <Hillbilly TheKid> Feels Amazing Man 😄
+[10:46:54] <Viper3062> oh my gooosh
+[10:46:56] <+MESOEP1C> ohw my gaaahwd
+[10:46:58] <Babadook> alter
+[10:47:03] <phoboz666> so geil
+[10:47:04] <Zaldarion> @fedora komisch ich verstehs sogar ziemlich gut 😀
+[10:47:07] <Viper3062> 😖
+[10:47:09] <Hans Olo> nice
+[10:47:11] <Rukalus> Awww mey gawwd, dis is sooo awesomm XD
+[10:47:22] <Viper3062> so ridiculous
+[10:47:26] <Babyproblemi> rip german language 😀
+[10:47:27] <Doktor Lowrider> seide für gez gebühren - naja^^
+[10:47:27] <fedora> @Zaldarion klingt für mich wie an einem Kaugummi erstickt ^^
+[10:47:38] <marcey747> Katjana ist Amerikanerin und Donnie ist Ire, deswegen rutschen die die ganze Zeit ins Englische 😉
+[10:47:38] <+JotunnLoki> allein weil Donnie von der Bild zitiert wird 😀
+[10:47:49] <raptorh> wenn du so von moimoin fasziniert bist, dass dein controller ausgeht
+[10:47:53] <Zaldarion> @fedora also typisch amerikanisch 😀
+[10:48:02] <SuperStirling> Besser als das Denglish von Eddy 🐯
+[10:48:13] <Markus Frahm> warum guck ihr überhaupt deutsche Produktionen ? die sind doch alle super cringy
+[10:48:14] <fedora> @Zaldarion aus welchem Bundesstaat kommt sie? Texas?
+[10:48:15] <Babyproblemi> ne, donnie ist iRRe, hö hö hö
+[10:48:17] <beatsonja> Moin! :)
+[10:48:17] <Viper3062> erstmal AFKaffe
+[10:48:36] <Hillbilly TheKid> 🐸
+[10:48:36] <JayTouchdown> @Markus Frahm Rocketbeans sind auch deutsche Produktionen.
+[10:48:44] <Fabian Hoffmann> @Viper3062 Was ist denn ein AFK Affe? 🌝
+[10:48:46] <Viper3062> @Markus Frahm was ist ein Cringy? kann man das streicheln? o_O
+[10:48:47] <Zaldarion> @fedora das weiss ich nicht OMGAcoots aber south carolina kanns nicht sein, der dialekt ist unfassbar unverständlich 😀
+[10:48:50] <Markus Frahm> JayTouchdown das gilt nicht
+[10:49:00] <LimaMike> Ich hätte ja gerne ein Beef #Siegmon MoinMoin gehabt 😀
+[10:49:02] <JayTouchdown> @Markus Frahm Sagst du jetzt 😀
+[10:49:02] <Diplomat999> racist donnie
+[10:49:02] <SuperStirling> @fedora Glaub New Mexico aber ich schau nochmal nach
+[10:49:06] <Viper3062> @Fabian Hoffmann Affe durch Kaffefilter gepresst der gerade nicht an der Tastatur ist. 🌝
+[10:49:15] <Intriganto> Holzkohle 🌝
+[10:49:15] <Babadook> so wie ralf richter hier
+[10:49:21] <%sLuG> Irische Telepathie 😀 sie wissen es einfach
+[10:49:22] <Ed Zimmerman> Weil Donnie ihn angebettelt hat 😀
+[10:49:23] <Markus Frahm> Viper3062 die leben in Australien und sind super süß aber auch knusprig weil sie insekten sind, daher cringy
+[10:49:26] <+JotunnLoki> Katjana hat in New Mexiko gelebt
+[10:49:34] <fedora> @SuperStirling ah okay. thx
+[10:49:35] <SuperStirling> @fedora Stimmt was ich sagte
+[10:49:43] <%Kaiserin thomate67> @sLuG die wissen auch wo das Gold versteckt ist
+[10:49:48] <Viper3062> mmh cringys ..
+[10:49:55] <Rukalus> "Irische Telepathie"  ist ja mal geil XD
+[10:49:57] <+Olliwood09> @sLuG Moin
+[10:50:06] <Gamemonster82> 😀
+[10:50:13] <SuperStirling> @fedora Kein Problem 😃
+[10:50:18] <petrik coffy> donnie soll rbtv endlich verraten wo sein goldtopf ist 👿
+[10:50:33] <Gamemonster82> @petrik coffy 😂
+[10:50:36] <Babadook> nicole kidman ist schlimm
+[10:50:46] <%sLuG> @Olliwood09  hi 😃
+[10:50:56] <+Olliwood09> haha typisch Joko und Klaas 😀
+[10:50:59] <Karl-Heinz Schlünz> waaaas!
+[10:51:02] <Manta> ich hab noch nie circus halligalli geschaut..
+[10:51:03] <+Blodyck> just a prank bro 🌝
+[10:51:06] <Captain lol> Donnnie soll sein grünes Kobold-Kostüm tragen!
+[10:51:09] <Trickyboie> Ich find aber Joko und Klaas kacke
+[10:51:11] <%Kaiserin thomate67> ich dachte das kommt montags
+[10:51:14] <Doktor Lowrider> dafür musst du ihn abfüllen @petrik coffy
+[10:51:22] <Viper3062> Böhmermann macht die besseren Streiche sry
+[10:51:25] <Raketenbohne Oeli> Hannes ❤
+[10:51:26] <MC Hodenflash> Die habem mit Ede gedreht? 😯
+[10:51:27] <fedora> Donnie die Vorzimmerdame von Hannes?
+[10:51:27] <Babadook> toll wegen einer matz zieh ich mir bestimmt 3 mal werbung rein
+[10:51:28] <Hans Yolo> Bin mal gespannt wie Steven Gätjen ein falscher Ryan Gosling verarscht hat
+[10:51:28] <steyfication> Der Grafiker-Vorhof
+[10:51:28] <SuperStirling> Hannes ❤
+[10:51:28] <+Helmut Hummer> Hannes ❤ ❤ ❤
+[10:51:28] <+JotunnLoki> Kinghannes ❤
+[10:51:29] <+Butcher32> Hannes ❤ ❤ ❤
+[10:51:29] <SMSTRM> hannes arscht wieder die sendung heimlich
+[10:51:30] <%sLuG> Hannes ❤
+[10:51:30] <+Olliwood09> @Kaiserin thomate67 nicht mehr
+[10:51:32] <Mel Pinkman> Hannes ❤
+[10:51:33] <mee myself> durch die cam wie ein echter profi ...
+[10:51:34] <%Kaiserin thomate67> cool
+[10:51:34] <petrik coffy> @Doktor Lowrider kann man kobolde überhaupt abfüllen?
+[10:51:35] <Papa Luigi> Bevor ich Circus Halligalli gucke gefriert die Hölle 😀
+[10:51:37] <+Blodyck> king hannes ❤
+[10:51:39] <Gamemonster82> Hallo kurz 😀 /
+[10:51:40] <Viper3062> boah wie geil der Hannes aussieht 😀
+[10:51:42] <MC Hodenflash> King 😚
+[10:51:43] <Nabl0> "halloooo kurz"😂
+[10:51:43] <Raketenbohne Oeli> 😪
+[10:51:44] <Andreas San> ❤️❤️❤️
+[10:51:44] <+nailzee> Die ham Ede als Ryan Gosling auf die Bühne gestellt
+[10:51:47] <Hillbilly TheKid> ☝ ❤
+[10:51:47] <Viper3062> 😚
+[10:51:49] <ProfessorHen> Hannes ❤
+[10:51:58] <SMSTRM> ich dachte halligalli wurde abgesetzt
+[10:52:03] <%Kaiserin thomate67> @Olliwood09 tja ich hab halt nen plan vom Fernsehen 😀
+[10:52:05] <MrJohn> der king ist im building 😚 ❤
+[10:52:05] <+Butcher32> King Hannes 😚 ❤
+[10:52:10] <Ceto Monasteria> Kann Hannes nicht weitermachen?
+[10:52:10] <+JotunnLoki> die hören ab Sommer auf
+[10:52:15] <JayTouchdown> @Viper3062 Da braucht man kein besser und schlechter, Hauptsache beschissene Produktionen bekommen ihr Fett weg.
+[10:52:22] <Michael Kristel> mr. hankey ist saugeil?
+[10:52:22] <Viper3062> geile Jacke, geile Hose, geile Tasche, Hannes ist King ❤
+[10:52:29] <jannikkinaj> Poooolaaak ❤
+[10:52:31] <+JotunnLoki> Oliver Polak is nice ❤
+[10:52:32] <Viper3062> @JayTouchdown aus der Perspektive.. ja
+[10:52:32] <Babadook> @JotunnLoki gott sei danke
+[10:52:35] <+Helmut Hummer> Titzler ❤ ❤
+[10:52:36] <+Olliwood09> @Kaiserin thomate67 ich hab gar kein Plan Halligalli ist das einzige was ich weiß 😀
+[10:52:39] <HidekoYamamoto94> @SMSTRM abgesetzt nicht .. nur eingestellt. Diese Staffel ist die letzte
+[10:52:40] <Doktor Lowrider> @petrik coffy  es kommt immer auf den versuch an - das schreit doch nach einem live-wettsaufen ^^
+[10:52:41] <SuperStirling> Ohne Emma Stone würde mich dort auch nur das Essen und ordentlich Ethanol interessieren 🐯 🌝
+[10:52:44] <Mav 290> Der Hannes der kannes
+[10:52:45] <Intriganto> Der Titzler
+[10:52:59] <hle hle> oliver polak, der krebs unserer comedy branche
+[10:53:04] <+Helmut Hummer> same Donnie
+[10:53:10] <petrik coffy> @Doktor Lowrider dr ouzo gegen donnie den irischen kobold 😂
+[10:53:11] <MC Hodenflash> Oho der feine Donnie findet das auch nicht so gut 😂
+[10:53:11] <jannikkinaj> Sein Buch ist ganz cool
+[10:53:13] <Kappageck> alter donnie
+[10:53:14] <Pommé Shakba> polak ist so gar nicht lustig!
+[10:53:18] <+stroggle Haufe> naaaaaaaaahhhh
+[10:53:20] <Karl-Heinz Schlünz> er hat jude gesagt! 😀 😀 😀
+[10:53:21] <xChrisS41x> darf er das?
+[10:53:22] <+Helmut Hummer> WutFace
+[10:53:22] <fedora> Moin @MC Hodenflash 😗
+[10:53:25] <Babadook> reinigt den magen
+[10:53:29] <Zaldarion> bülent macht auch immer ein und den selben witz
+[10:53:30] <JayTouchdown> Andy ❤
+[10:53:30] <gordgang> enfant terrible weil er schrecklich ist
+[10:53:31] <SuperStirling> 😀
+[10:53:34] <Viper3062> finde ich auch eklig 😀
+[10:53:36] <+nailzee> Ist normal 😉
+[10:53:37] <ProfessorHen> Andy ❤
+[10:53:38] <jannikkinaj> Der eigentliche erfinder von "darf er das?"
+[10:53:38] <Hans Olo> lol
+[10:53:40] <Viper3062> toll, jetzt rennen immer Leute durchs Studio.. super
+[10:53:44] <Mel Pinkman> Andy ❤
+[10:53:45] <Doktor Lowrider> durchgangsstudio..... ^^
+[10:53:46] <Zaldarion> das kann man sich einmal geben und dann wirds .. meh
+[10:53:46] <Diplomat999> andy lungert da auch 24/7 rum
+[10:53:52] <MrCraicy> haut mal einen raus Leute
+[10:53:54] <Rukalus> Ein Durchgangsverkehr-MoinMoin hat was 😀
+[10:53:58] <+JotunnLoki> Helium
+[10:54:01] <Hans Yolo> Oliver Polak hat das Herz am rechten Fleck, bloß auf der Bühne ist er nicht der Bringer
+[10:54:02] <Don Mixote> Andy wohnt dort
+[10:54:17] <Doktor Lowrider> viele gelegenheiten moin zu sagen in so einem studio ^^
+[10:54:21] <Babadook> donnie deine stimme ist immer hoch
+[10:54:25] <+Butcher32> @MC Hodenflash Moin 😉
+[10:54:45] <MC Hodenflash> 😊 Moin @Butcher32
+[10:54:51] <+Helmut Hummer> hahaha
+[10:54:56] <glueckskind> Donnie will die Goldene Kamera toppen LUL
+[10:54:58] <+Deschain92> Creeptweets MoinMojn-Edition ❤
+[10:54:59] <+Olliwood09> 5 gefällt mir 😀
+[10:55:00] <Señor Droolcup> ... und ...
+[10:55:05] <Hans Yolo> 20.08.16 - Alter Tweet 🌝
+[10:55:05] <Babadook> F
+[10:55:07] <Viper3062> 😂
+[10:55:28] <%Kaiserin thomate67> 😖
+[10:55:32] <%Sendeplan> ⚠ Hier im Chat gelten folgende Regeln: https://www.rocketbeans.tv/allgemein/chatregeln
+[10:55:34] <mee myself> dieses denglish oh my
+[10:55:35] <Flobbels> es war ein samstag^^
+[10:55:39] <Ron Sommerfeld> 🤣
+[10:55:41] <Ghisteslohm> 3/10 😴
+[10:55:44] <+Blodyck> @Hans Yolo in der heutigen zeit ist das alt ^^
+[10:55:52] <MC Hodenflash> @Flobbels 😀
+[10:55:55] <%sLuG> :D:D
+[10:56:00] <Drogenkopf08> LUL
+[10:56:02] <Doktor Fetus> ff kann auch surrender heißen ^^
+[10:56:02] <Viper3062> 😂
+[10:56:06] <Babadook> hää
+[10:56:08] <Tresies Fox> donnie givin' english lessons today 🌝
+[10:56:08] <+Butcher32> @MC Hodenflash zockst Du eigentlich noch BF 1 ? Ich habe es leider schon eine Weile nicht mehr gezockt 😞 aber bock hätte ich schon. Sind noch viele Cheater im MP?
+[10:56:08] <Silv0s7> Der WItz wurde egrade wirklich noch erklärt...
+[10:56:09] <+nailzee> Dachte auch nicht, dass das ein Gag sein soll xD
+[10:56:13] <Sector441> Ede would approve 🌝
+[10:56:14] <fedora> da würde Ede was anderes sagen
+[10:56:14] <%sLuG> Wer kein Fahrrad hat, hat die Kontrolle über sein leben verloren 😀
+[10:56:15] <%Kaiserin thomate67> ne klare 5/7 für mich 😀
+[10:56:16] <XONA official> oh das sag mal dem ede 😀
+[10:56:22] <Hans Yolo> Wer kein Fahrrad besitzt hat die Kontrolle über sein Leben verloren
+[10:56:22] <+Olliwood09> Eddy liebt den Satz bestimmt 🌝
+[10:56:23] <Ghisteslohm> 😂 1/10
+[10:56:27] <Captain lol> Donnie der Arsch 😁
+[10:56:31] <tobak1887> 😂
+[10:56:33] <Viper3062> lol
+[10:56:37] <Ed Zimmerman> logik aus ...
+[10:56:39] <Nabl0> wenn das jwtzt ede hören würde.. 😁
+[10:56:39] <SuperStirling> Mein Leben ist nicht in Ordnung und ich habe kein Fahrrad...sie hat Recht 🌝
+[10:56:41] <Babadook> man kann mit fahrrad nur zur arbeit fhren
+[10:56:41] <The Legend of Gina: Breath of the Wild> lass das ede nicht hören
+[10:56:43] <Realjimknopf44> Grabt tiefer! Irgendwo muss der Witz versteckt sein
+[10:56:44] <Señor Droolcup> Das sind "schön-für-dich" - Tweets
+[10:56:46] <Drogenkopf08> Katjana is einfach die beste 😀 ❤
+[10:56:46] <Mav 290> Oh Gott, die Tweets ähneln so komischen Beauty Bloggerinnen :D
+[10:56:47] <+nailzee> Alter, was ein Nicht-Gag 😁
+[10:56:54] <Silv0s7> wird das mit dem Beef Royal die Woche nochmal angesprochen oder bleibst das jetzt im Raum stehen?
+[10:57:03] <%Kaiserin thomate67> irgendwann vergisst jemand sein Fahrrad abzuschließen und dann hab ich auch eins 🌝
+[10:57:10] <Benjay1986> 08.2016 sehr alt 🌝
+[10:57:13] <dead_ohio_sky> Wenn man besoffen ist, "findet" man auch immer wieder Fahrräder. 🌝
+[10:57:14] <Viper3062> lol Durchgangs MoinMoin
+[10:57:14] <Andreas San> 😂😂😂
+[10:57:15] <+Butcher32> 😀 durchs Bild
+[10:57:16] <+CybRa> wtf
+[10:57:17] <fcaugsburg4ever1907> hannes 😂
+[10:57:18] <Diplomat999> King Hannes
+[10:57:18] <Doktor Lowrider> ein fahrrad muss man nicht aufräumen ^^
+[10:57:20] <Ghisteslohm> der letzte 😂
+[10:57:21] <Agnes K> hannes ❤
+[10:57:26] <+Helmut Hummer> Kreygasm 2x Hannes am Tag
+[10:57:26] <Don Mixote> Richtige Ninjas 😂
+[10:57:31] <SuperStirling> 2016 war ein hartes Jahr für Katjana 🌝
+[10:57:31] <JayTouchdown> Katjana und Nils müssen sich mal über one way Gedankengang Witze unterhalten. Ich sage nur Elefanten im Hagenbecker Tierpark xD
+[10:57:34] <Goku> reichlich verkehr bei moin moin  😃
+[10:57:44] <BME19991> anchorman
+[10:57:47] <+nailzee> Grafiker gehen zu dritt aufs Klo
+[10:57:50] <MrJohn> 4 retweets 😯
+[10:57:55] <Captain lol> haha er hat mich vorgelesen 🤗
+[10:58:05] <Peter Pflaume> Works 60 % of the time all the time
+[10:58:06] <+Butcher32> @MC Hodenflash Bist Du noch da?
+[10:58:07] <Tresies Fox> dat fame
+[10:58:09] <Diplomat999> Anchorman geiler Film
+[10:58:16] <Nero Best> über was die sich gedanken machen hahaha
+[10:58:21] <Drogenkopf08> LUL LUL
+[10:58:22] <+Blodyck> @Captain lol du hältst donnie also fürn arsch? interessant
+[10:58:30] <Ghisteslohm> 60% of the time it works everytime
+[10:58:34] <MC Hodenflash> @Butcher32 Ja
+[10:58:41] <SuperStirling> Gerald hätte Bock gehabt^^
+[10:58:45] <Intriganto> Gerald  A Johnson 😀
+[10:58:45] <Ed Zimmerman> lstisch ...
+[10:58:53] <MC Hodenflash> @Butcher32 Ist meine Nachricht gerade nicht angekommen?
+[10:58:54] <+Butcher32> @MC Hodenflash ok nice ja zockst du noch BF1?
+[10:59:00] <Dragonatos1> ich mag nachtschicht
+[10:59:04] <Viper3062> lol
+[10:59:07] <Señor Droolcup> ...like ...
+[10:59:13] <Sven Schulz> ring the beall = der hund ringt
+[10:59:13] <+Butcher32> @MC Hodenflash nee leider nicht
+[10:59:16] <Gamemonster82> 😂
+[10:59:17] <John_Doe> 😀
+[10:59:17] <Papa Luigi> Warum redet ihr die ganze Zeit Englisch? und warum schreibt Katjana nur auf Englisch?
+[10:59:23] <+nailzee> Gerald ist bestimmt ein Fake Account von Katjana
+[10:59:25] <Doktor Lowrider> und ich mag freie montage
+[10:59:26] <Tresies Fox> xDD
+[10:59:31] <+nailzee> xD
+[10:59:32] <MC Hodenflash> Dann nochmal: @Butcher32 Cheater sind mir fast noch nie aufgefallen. Habe bis vorgestern viel gespielt. Aber seit Gestren spiel ich Zelda. Denke in 1-2 Wochen werde ich wieder zu BF1 Wechseln
+[10:59:36] <Tom> Papa weil sie halb Amerikanerin ist 😃
+[10:59:39] <Dragonatos1> ich mag polenwochen
+[10:59:44] <MrJohn> @Papa Luigi amerikanerin
+[10:59:45] <Markus Frahm> solange du wenigstens eine Person erreichst damit 😀
+[10:59:51] <SuperStirling> @Papa Luigi und aus New Mexico kommt
+[11:00:01] <Papa Luigi> Ah alles klar
+[11:00:03] <Papa Luigi> Danke 😃
+[11:00:11] <Señor Droolcup> Nächste Ausgabe: Russisch
+[11:00:24] <%Kaiserin thomate67> @MC Hodenflash hast du das beim ersten mal genauso geschrieben? wtf wieso hat yt du gecatched O.o
+[11:00:26] <Doktor Lowrider> ja nje snaju
+[11:00:38] <SuperStirling> @Señor Droolcup Gab es schon, mit Sofia und Alwin^^
+[11:00:39] <gromsbard> morgen, das ist aber nicht das moin moin zimmer
+[11:00:44] <Hans Yolo> Ich hab auch nur 28 Follower 😖 Aber Simon folgt mir 😄
+[11:00:53] <+JotunnLoki> Da hat er den falschen Busch angebellt
+[11:01:02] <MrScamsonite> Willst du damit sagen, dass viele Hunde den falschen Bush anbellen?
+[11:01:02] <+Butcher32> @MC Hodenflash leider schon von mehreren gehört das BF1 ziemlich Cheater belastet ist aber kp ich habe nur gesehen das viele gebannt werden. Du zockst Zelda nice ich liebe
+[11:01:06] <tobak1887> 😂
+[11:01:07] <+tH3h0ff> wow 😀
+[11:01:09] <Spuni lol> HAHAHHA donnie
+[11:01:14] <+Pissbacke> ...
+[11:01:19] <Mortalis88> Sooooo funny
+[11:01:20] <Zaldarion> der is uralt ...
+[11:01:21] <SMSTRM> 😖
+[11:01:25] <Papa Luigi> Donnie, wenn er von seinen Twitter Gags erzählt ist so cringey 😀
+[11:01:29] <Hans Olo> bester witz
+[11:01:29] <Andreas San> zirpen
+[11:01:33] <Drogenkopf08> ba dum tss...
+[11:01:34] <+Butcher32> @MC Hodenflash The Legend of Zelda: A Link to the Past ❤ für den SNES die andern Teile sind nicht so meins kp mir gefällt die Grafik nicht usw
+[11:01:35] <+stroggle Haufe> bester witz in donnies karriere !
+[11:01:39] <MC Hodenflash> @Kaiserin thomate67 Ja hab ich. Denke es ist wieder der Bug dass manche Nachrichten einfach geschluckt werden. Ist ja seit 1-2 Wochen so
+[11:01:40] <Spuni lol> der hat mich abholt der witz 😀
+[11:01:45] <Babadook> läuft
+[11:01:50] <%Kaiserin thomate67> Regie sucht bestimmt schon den Grillen Sound
+[11:01:53] <+nailzee> Die kleine Grille im Raum
+[11:02:01] <+Vulkangestein> Twitterentwicklungshilfe für Donnie? 😀
+[11:02:02] <Intriganto> Max Power, cool
+[11:02:03] <Tresies Fox> Almosen für den Donnie 🌝
+[11:02:04] <Karl-Heinz Schlünz> oh mitleid Donnie! 😗
+[11:02:09] <Drogenkopf08> ???
+[11:02:19] <%sLuG> TLC ❤
+[11:02:20] <Babadook> tlc💜
+[11:02:21] <%Kaiserin thomate67> @MC Hodenflash ach YT wieso tut ihr euch so schwer mit dem Chat
+[11:02:30] <Viper3062> wer sich bei Twitter anmeldet und dann auch noch alles auf Englisch twittert aber aus germany kommt ist iwie weird 🌝
+[11:02:36] <+nailzee> 16 Likes von Freunden und Familie
+[11:02:39] <Sven Schulz> eine karte im bergwerk finden und und dann einen stollen bestellen
+[11:02:51] <Oli Mattt> verstehe ich nicht
+[11:02:53] <Babadook> lisa left eye 💜
+[11:02:59] <MC Hodenflash> @Butcher32 OK. Ich zock das neue. So riesig wie das ist, kann das bisschen dauern. Aber spätestens zum BF1 DLC bin ich wieder am ballern 😊
+[11:02:59] <Doktor Lowrider> hmmm stollen 😃
+[11:03:05] <Zaldarion> es is von tlc 😀
+[11:03:17] <Markus Frahm> solange es wenigstens 2 verstehen 😃
+[11:03:23] <Obsession> let's be hipsters, let's talk in english!
+[11:03:25] <glueckskind> (ditto)
+[11:03:26] <Diplomat999> lol
+[11:03:27] <Tresies Fox> ok donnie.. ok 😭
+[11:03:27] <Babadook> hinter dem wasserfall ist ein geheimgang
+[11:03:31] <Oli Mattt> lol
+[11:03:33] <dead_ohio_sky> Es gibt zwei Versionen von dem Tweet 🌝
+[11:03:37] <+Blodyck> die chemie ist so herrlich zwischen den beidne
+[11:03:44] <MrCraicy> 😀
+[11:03:46] <+Olliwood09> brüller
+[11:03:46] <tobak1887> 😂
+[11:03:47] <%Kaiserin thomate67> bestanden
+[11:03:50] <+nailzee> 1 Like xD
+[11:03:50] <Drogenkopf08> kek
+[11:03:57] <+Butcher32> @MC Hodenflash Ich wünsche Dir auf jeden Fall viel Spass beim Zelda zocken 😉 Jop mal schauen wann der DLC von BF1 rauskommt ❤
+[11:03:59] <MC Hodenflash> @Kaiserin thomate67 Man hat auch nicht den Eindruck als würde sie der Chat groß interessieren 😖
+[11:04:14] <+Helmut Hummer> hahaha
+[11:04:19] <Wolf Burrito> donnie wartet noch auf den einen 😍
+[11:04:21] <+Firebreath> die beiden sind der hammer xD
+[11:04:24] <%Kaiserin thomate67> @MC Hodenflash 😖
+[11:04:26] <Babadook> oh gott oh gott
+[11:04:27] <+nailzee> @Butcher32 Am 28. kommt der DLC
+[11:04:34] <SuperStirling> Die Mitlikes^^
+[11:04:37] <Doktor Lowrider> chad iss ja auch für uns und nich die moderation
+[11:04:40] <marcey747> @Obsession die sind beide in englischsprachigen Ländern aufgewachsen, die dürfen das 😉
+[11:04:52] <MC Hodenflash> @Butcher32 Danke. Müsste am 28. kommen
