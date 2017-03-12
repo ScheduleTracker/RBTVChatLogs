@@ -4062,3 +4062,372 @@
 [15:04:31] <+KleinesBöhnchen> @Phobos1083 Hab ich auch schon überlegt. Wollte mir vorher aber nochmal ne Meinung einholen. Der ist ja doch etwas frickelig zu montieren
 [15:04:43] <petrik coffy> 😄 glück auf
 [15:04:51] <RaketenBohneSchweiz> ne er will den twix besiedeln 🌝
+[15:05:01] <+KleinesBöhnchen> @petrik coffy 😫
+[15:05:05] <Phobos1083> lieber zweimal gecheckt,als einmal übersehen
+[15:05:53] <petrik coffy> muss mir auch dringend mal n neuen lüfter zulegen 🙈
+[15:05:59] <+KleinesBöhnchen> Danke euch schon mal. Werde mir das dann wohl oder übel nochmal antun
+[15:06:00] <raptorh> wärmeleitpaste nicht vergessen
+[15:06:39] <RaketenBohneSchweiz> @petrik coffy ein loch in den schlüpper schneiden reicht als belüftung 🐯
+[15:06:43] <raptorh> hallo auch
+[15:06:44] <Phobos1083> WEnn du es dir zutraust die CPU zu köpfen, könntest du locker ~15 Grad raus holen
+[15:06:56] <petrik coffy> ich hab in meiner hose keinen CPU 🙈
+[15:06:58] <+KleinesBöhnchen> @raptorh ach.
+[15:07:20] <ZesaRex> wofür sollte man das machen @Phobos1083 ?
+[15:07:21] <petrik coffy> wie kommt ihr schweizer mit so einem know how eigentlich überhaupt ins internet 🙈
+[15:07:29] <Donna> @petrik coffy Warum nicht?
+[15:07:46] <RaketenBohneSchweiz> @petrik coffy wie bringst du das ding dann zum laufen? 🤔
+[15:07:48] <petrik coffy> wär viel zu viel kabelsalat dann.
+[15:08:00] <Donna> Aaaah
+[15:08:11] <Trichome Lover> Gude ✌
+[15:08:18] <petrik coffy> zum laufen hab ich beine! was stimmt mit dir nicht 🙈
+[15:08:51] <RaketenBohneSchweiz> da rätseln viele drüber 🤔
+[15:08:55] <+KleinesBöhnchen> @Phobos1083 Das sollte kein Problem sein. Möchte ich aber erstmal vermeiden
+[15:09:01] <Donna> @RaketenBohneSchweiz Meinten Sie: Wie fährst du das Ding dann hoch?
+[15:09:05] <Phobos1083> @ZesaRex Damit man die mittlerweile von Intel genutze Wärmeleitpaste tauschen kann. Die kann nix, und treibt die Temperaturen in die Höhe.
+[15:09:25] <RaketenBohneSchweiz> @Donna ich wollte nicht so vulgär sein 😂
+[15:09:43] <Donna> Der Zug ist denke ich abgefahren.
+[15:09:50] <ZesaRex> frage eher wieso man das machen sollte, ob nun 30° oder 50°.. laut intel vertragen die gängigen CPUs 105°
+[15:09:52] <RaketenBohneSchweiz> 🤔
+[15:09:59] <petrik coffy> 😂
+[15:10:06] <Phobos1083> Früher wurde der IHS noch verlötet, das ist natürlich wesentlich effizienter bei der Wärmeabfuhr
+[15:10:15] <RaketenBohneSchweiz> ich bin doch ein liebes kleines ferkel \ 😨 /
+[15:10:29] <RocketRuffy> hahhaha Oh OH
+[15:10:35] <petrik coffy> Schweinkram 👿
+[15:10:49] <Phobos1083> Damit du ihn besser OCen kannst ;)
+[15:10:52] <raptorh> @ZesaRex 105 ist bevor sie kaputt gehen^^ arbeitstemperatur sollte deutlich niedriger sein
+[15:10:52] <Donna> Ferkel. That's it.
+[15:11:40] <petrik coffy> FerkelBohneSchweiz 😨
+[15:11:40] <ZesaRex> @raptorh schon klar, wer gerne mit risiko lebt kann das ja machen, aber selbst 80° gehen noch gut klar, durchgehend.
+[15:12:04] <RaketenBohneSchweiz> member ferkel? 😄
+[15:12:39] <Phobos1083> Höhere Temp = höherer Stromverbrauch = höhere Kosten
+[15:12:42] <petrik coffy> also n CPU jenseits der 80° fühlt sich schon n bisschen an wie der lauf einer pistole an der schläfe.
+[15:12:43] <petrik coffy> nur in warm.
+[15:13:19] <RaketenBohneSchweiz> was für leute kennst du denn die dir ne wumme an den kopf halten? 😂
+[15:13:26] <raptorh> @ZesaRex naja fördert nicht unbedinkt die lebensdauer, normal sagt man so bei spätestens 60° sollte bei allen halbleitern ende sein, raumtemp wäre zu empfehlen...
+[15:13:36] <Phobos1083> wenn meine 65 unter Last hat, werd ich schon unruhig :D
+[15:13:40] <petrik coffy> thats my fetish @RaketenBohneSchweiz
+[15:13:54] <ZesaRex> mhm, meine CPU lief damals teilweise auf 95°, über ein halbes jahr. ist nie was passiert, und ganz ehrlich, die ersparnis des stroms durch eine niedrigere temp.. das lohnt sich net auf 1-2 jahre
+[15:14:06] <RaketenBohneSchweiz> wers nötig hat 😂
+[15:14:31] <Donna> Einfach mal einen Strommesser kaufen und zwischenschalten.
+[15:14:38] <ZesaRex> habe ich 😉
+[15:15:14] <petrik coffy> @RaketenBohneSchweiz ich weiss, für dich 1 wegstecken von chlini her schon fetisch genug 😂
+[15:15:28] <Robert Atum> Einfach mal Fresse schalten
+[15:15:34] <Phobos1083> Sind ja nicht nur die Stromkosten. Du musst auch in eine potentere Kühlung investieren. Niedrige Betriebstemperaturen sind definitiv zu bevorzugen
+[15:16:03] <RaketenBohneSchweiz> @petrik coffy bissl latex, high heels und so gehen schon klar und sie darf sich auch gern was anziehen 😂
+[15:16:20] <MC Hodenflash> FischMannKarteee 😯
+[15:16:32] <TheAltair236> 😎
+[15:16:33] <petrik coffy> das wär lustiger gewesen, hätte ich nicht spätestens bei highheels gewusst das es um dich geht 😛
+[15:16:37] <Matthias Wally> wann geht es weiter mit "Was geschah auf Morriton manor?" ?
+[15:16:43] <RaketenBohneSchweiz> 😂
+[15:17:05] <yout ubestinkt> 24.3.
+[15:17:16] <yout ubestinkt> 17.3. animal squad
+[15:17:30] <RaketenBohneSchweiz> ich sterbe bald 😖
+[15:17:39] <petrik coffy> warum?
+[15:17:39] <ZesaRex> kann ja jeder machen wie er will. @Phobos1083 und irgendwie ist das unsinnig was du grade geschrieben hast. wenn du wärmer laufen lässt, HAST du idR keine gute kühlung, ergo keine kosten dafür
+[15:17:55] <RaketenBohneSchweiz> weil ich bald 30 werde 😖
+[15:18:11] <Donna> Es gibt schlimmeres @RaketenBohneSchweiz
+[15:18:15] <petrik coffy> achso. ja stimmt, such dir schonmal nen sarg aus 👍
+[15:18:21] <MC Hodenflash> Ich auch 😖 @RaketenBohneSchweiz
+[15:18:28] <RaketenBohneSchweiz> 😖
+[15:18:28] <Obsession> so ein schöner sonntag aber kein beef...
+[15:18:42] <RaketenBohneSchweiz> ich hab nur noch 9 tage @MC Hodenflash 😖
+[15:18:53] <+Kaldres LP> NEW SPONSOR! Welcome Kaldres LP!
+[15:19:02] <Karl Karlson> @RaketenBohneSchweiz Kann dir aus Erfahrung sagen es ist dan noch nicht unbedingt vorbei ...vorbei ist es erst wenn du mit über 30 verheiratet bist und ein Kind daheim hast🤔😫
+[15:19:06] <MC Hodenflash> Hab noch gut 3 Monate 🐸 @RaketenBohneSchweiz
+[15:19:07] <+XAxeX> @Kaldres LP  willkommen ❤ 😀
+[15:19:18] <Derpy Hooves> @RaketenBohneSchweiz  heul hier nich so rum! 👿 sei ein mann und kauf dir nen cabrio als ausgleich. 😂
+[15:19:28] <RaketenBohneSchweiz> @Karl Karlson 😀
+[15:19:30] <Donna> Hab noch gut 6 Jahre 🌝
+[15:19:38] <petrik coffy> bis zur 40? 😛
+[15:19:51] <Donna> Exakt.
+[15:19:51] <RaketenBohneSchweiz> @Derpy Hooves ich brauch kein cabrio, ich hab n schwan 😂
+[15:19:53] <RocketRuffy> bei mir 8 ihr Opas
+[15:19:54] <RaketenBohneSchweiz> zz
+[15:19:57] <RocketRuffy> 7
+[15:20:09] <petrik coffy> *streichelt kristallkügli*
+[15:20:15] <Donna> Uuuuh, ich möchte auch einen Schwan haben.
+[15:20:25] <Phobos1083> Das ergibt durchaus  einenSinn, frag doch mal das KleineBöhnchen. Er hat einen potenten Kühler, und dennoch hohe Temperaturen. Damit sind wir dann wieder beim Thema das der 7700K am Limit läuft.
+[15:20:48] <Karl Karlson> @RaketenBohneSchweiz Darfst nur nicht den Zeitpunkt verpassen an dem du dir die "Ich bin Jung und Hipp"-Glatze rasieren musst wene erstmal weg sind ist es zu spät dafür
+[15:20:54] <petrik coffy> @Donna kannste knicken, die gehören alle der queen
+[15:20:58] <MC Hodenflash> Wisst ihr warum man sich nie mim Chad anlegen sollte? Chad hat XAxeX24
+[15:21:01] <%Nightbot> Den aktuellen Sendeplan findest du hier:  https://www.rocketbeans.tv/wochenplan/?details=1
+[15:21:07] <Donna> )';
+[15:21:33] <RaketenBohneSchweiz> @Karl Karlson NEIN! niemals, meine haare sind mir heilig! ich bin froh dass ich so ein prachtvolles haupthaar habe 😀
+[15:21:42] <+XAxeX> @MC Hodenflash  😀
+[15:21:51] <Derpy Hooves> jetzt wird hier schon wieder rum geheult!? 👿
+[15:22:10] <RaketenBohneSchweiz> rip chat 😖
+[15:22:14] <Karl Karlson> @RaketenBohneSchweiz Wie gesagt verpasse nicht den richtigen Moment^^
+[15:22:37] <RocketRuffy> das kann er aber
+[15:22:43] <petrik coffy> ich wüsste mal gerne wie alt wohl der älteste regelmässige zuschauer ist
+[15:22:49] <Karl Karlson> @RaketenBohneSchweiz Gregott hat ihn erwischt Denzel verpasst wer willst du seinxD
+[15:22:52] <RaketenBohneSchweiz> 8
+[15:23:00] <RocketRuffy> bestimmt so 50
+[15:23:05] <RaketenBohneSchweiz> @Karl Karlson ich bleibe simon 😀
+[15:23:10] <Donna> Physisch oder psychisch?
+[15:23:18] <petrik coffy> n paar um die 50 gibts auf jeden fall
+[15:23:25] <RocketRuffy> physisch bin ich 75 lo
+[15:23:30] <petrik coffy> physisch weil sich psychisch schlechter messen lässt
+[15:23:32] <RaketenBohneSchweiz> valkyrie geht doch steil auf die 60 u 😀
+[15:23:59] <petrik coffy> sei nicht so gemein 😨
+[15:24:20] <Karl Karlson> @RaketenBohneSchweiz Valkyre hat dafür aber auch eine Einstellige Sozialversicherungs Nummer
+[15:24:20] <RaketenBohneSchweiz> hat sie doch iwie mal gesagt 😀
+[15:24:28] <RaketenBohneSchweiz> 😂
+[15:24:46] <RaketenBohneSchweiz> und sie hat ihren feuerstein stehts dabei LUUL
+[15:25:00] <Karl Karlson> ^^
+[15:25:06] <petrik coffy> nicht aus allem was eine lady sagt muss man einen dolch schmieden um ihr den in den rücken zu rammen 🙃
+[15:25:33] <Donna> Jaja @petrik coffy aber ich bin gleich an die 40
+[15:25:39] <RaketenBohneSchweiz> ich würde einer frau nie einen dolch in den rücken rammen 😂 da gibts andere sachen 😂
+[15:25:57] <Karl Karlson> In den Rücken so, so komischer fetisch aber ok
+[15:26:11] <petrik coffy> echt ma 🙈
+[15:26:42] <RaketenBohneSchweiz> es gibt auch einen verlängerten rücken 😨
+[15:26:52] <petrik coffy> das ist aber dann nicht der rücken
+[15:27:12] <petrik coffy> und ich glaub nicht das dein mini chlini das mag 😂
+[15:27:26] <RaketenBohneSchweiz> @petrik coffy halt den mund du blöde kuh 😨
+[15:27:27] <Karl Karlson> Einen Dolch also auch in den ...verlängerten...Rücken ...da kommen wir wieder zu "Sieben" und dem Latexanzug
+[15:27:37] <petrik coffy> 😂
+[15:27:44] <MC Hodenflash> Black Walter?
+[15:27:51] <MC Hodenflash> Der Böse Walter White?
+[15:27:54] <yout ubestinkt> hoffentlich komt the forest nochmal, jede zweite woche the forest, dazwichen immer andere games 😊
+[15:28:01] <MC Hodenflash> Ach ne der ist ja schon böse 🤔
+[15:28:03] <RaketenBohneSchweiz> und da hast du recht @petrik coffy mag sie nicht, lässt sie aber machen wenn sie blau is 😀
+[15:28:11] <MadHatt0r> 😚
+[15:28:20] <petrik coffy> du unmensch 😖
+[15:28:25] <RaketenBohneSchweiz> 😂
+[15:28:54] <petrik coffy> und Lügner 😂
+[15:29:16] <MC Hodenflash> Mr. Cracker fehlt der richtige Dip 😖
+[15:29:18] <RaketenBohneSchweiz> ich hab nie gesagt das ichs mache, nur das die option zur verfügung steht 😀
+[15:29:47] <petrik coffy> da hilft dir jetzt alles herauswinden nicht 😂
+[15:29:47] <Donna> tmi
+[15:30:03] <RaketenBohneSchweiz> 😄
+[15:30:21] <Daydreamer> was reimt sich auf Switch
+[15:30:35] <Donna> Twitch!
+[15:30:38] <petrik coffy> witch, ist aber n scheissreim
+[15:30:39] <MadHatt0r> pitch
+[15:30:42] <Karl Karlson> rich? snitch?
+[15:30:42] <RaketenBohneSchweiz> dildo schwaggins 😀
+[15:31:00] <RaketenBohneSchweiz> sw* .D
+[15:31:07] <Donna> Glitch
+[15:31:10] <MC Hodenflash> Ach kommen jetzt Bohn Jour Gäste alle nochmal? Ist ja ne neue Show 🌝
+[15:31:33] <yout ubestinkt> geisterjäger^^
+[15:31:43] <RaketenBohneSchweiz> @MC Hodenflash keine kritik bitte solange @XAxeX im chat ist 🌝
+[15:31:57] <RaketenBohneSchweiz> also is kritik immer untersagt 😂
+[15:32:00] <MC Hodenflash> 😰 @RaketenBohneSchweiz
+[15:32:19] <Karl Karlson> @RaketenBohneSchweiz Du bist leider kein Mod
+[15:32:58] <RaketenBohneSchweiz> @Karl Karlson wenn ich mod wäre würde hier die willkür herrschen 🌝
+[15:33:07] <petrik coffy> dann bannt der uns alle weil wir ausländer sind 😂
+[15:33:19] <+XAxeX> @RaketenBohneSchweiz  du hast scheinbar immer noch nicht den unterschied zwischen stupiden hate und kritik verstanden oder?
+[15:33:21] <Karl Karlson> @RaketenBohneSchweiz Was wäre dann der Unterschied zu jetzt?
+[15:33:41] <RaketenBohneSchweiz> @Karl Karlson gar keinen 😂
+[15:33:58] <petrik coffy> XAxeX 4 world president
+[15:34:04] <RaketenBohneSchweiz> @XAxeX du hast offenbar immer noch nicht gecheckt das ich dich einfach gerne auf den arm nehme 😀
+[15:34:19] <Karl Karlson> Und....TO
+[15:34:22] <yout ubestinkt> macht von euch jemand bei tunier mir?
+[15:34:33] <Joe W> stupidem *
+[15:34:35] <+XAxeX> @RaketenBohneSchweiz  und anstatt dauernd im Chat  über die Mods bzw. anwendung der Modrechte zu motzen/lästern könntest du dir auch iwas anschauen oder zocken 😉
+[15:34:58] <Vipex> da hat jmd nen nerv getroffen 😛
+[15:35:00] <Karl Karlson> Darf man auch Ornanieren?
+[15:35:11] <RaketenBohneSchweiz> nicht im chat
+[15:35:17] <RaketenBohneSchweiz> sonst wird chad schwanger 😂
+[15:35:18] <Joe W> organigrammieren?
+[15:35:22] <+XAxeX> @RaketenBohneSchweiz  "auf den arm nehme"   in den fall auch "versuche dauernd zu provozieren" 😉
+[15:35:24] <Karl Karlson> 😫
+[15:35:24] <petrik coffy> eine armlänge abstand bitte
+[15:35:47] <Joe W> in DEM* was isn los mit dem Axt xD
+[15:36:01] <petrik coffy> wat
+[15:36:10] <RaketenBohneSchweiz> @XAxeX du gehst aber immer sofort in den rechtfertigungsmodus, also scheint es ja nicht sonderlich schwer sein dich zu triggern 😀
+[15:36:10] <Karl Karlson> @RaketenBohneSchweiz Wenn der Chad schwanger wird wils nachher wieder keiner gewesen sein
+[15:36:12] <Clemens Der Geile> Ede ist der schönste Mann der Welt
+[15:36:21] <+XAxeX> @Joe W  Tastatur kaputt 🌝
+[15:36:31] <Karl Karlson> @Clemens Der Geile Das macht sein Reichtum
+[15:36:33] <petrik coffy> stellt euch mal vor was das kind für ein absonderlicher mutant wäre 🙈
+[15:36:33] <RaketenBohneSchweiz> @Karl Karlson ich distanziere mich dann auch vom baby chad 😂
+[15:37:13] <Karl Karlson> @RaketenBohneSchweiz Aber bei jeder sich bietenden möglichkeit...reinhalten is klar
+[15:37:23] <RaketenBohneSchweiz> das gesicht von @petrik coffy wäre schon echt mies 😂
+[15:37:42] <Nicole> Huhu
+[15:37:49] <RaketenBohneSchweiz> ahoi
+[15:37:55] <+XAxeX> @RaketenBohneSchweiz  was hasten eig. mit DMC angestellt?
+[15:37:57] <Donna> Moin
+[15:38:01] <Nicole> Matrose
+[15:38:12] <Donna> Haare wieder on fleek, @Nicole ? ^-^
+[15:38:17] <RaketenBohneSchweiz> @XAxeX ka 😀 hab nur auf twitter was von nem ban gelesen 😀
+[15:38:45] <+XAxeX> . . .
+[15:38:48] <petrik coffy> och uehli, mir tut leid das dein aussehen dich so belastet, dass du dauernd auf das aller anderen eingehst 😖
+[15:39:01] <petrik coffy> wenn du möchtest schick ich dir ne hockeymaske oder so 👍
+[15:39:01] <%Nightbot> Den aktuellen Sendeplan findest du hier:  https://www.rocketbeans.tv/wochenplan/?details=1
+[15:39:11] <RaketenBohneSchweiz> @petrik coffy ich weiss ja nicht mal wie du aussiehst 😀
+[15:39:24] <Nicole> joa
+[15:39:25] <petrik coffy> sag ich ja 😖
+[15:39:51] <Karl Karlson> Auf jeden fall scheinst du eine Auswahl an Masken daheim zu haben das sagt schon was aus
+[15:39:54] <RaketenBohneSchweiz> @petrik coffy aber es stimmt schon, ich bin echt oberflächlig 😀
+[15:39:59] <Nicole> Mir ist langweilig :(
+[15:40:02] <%Nightbot> Den aktuellen Sendeplan findest du hier:  https://www.rocketbeans.tv/wochenplan/?details=1
+[15:40:21] <RaketenBohneSchweiz> @Nicole lad dir pokemon go runter und geh sie alle fangen 😂
+[15:40:39] <+Blodyck> @Nicole mach ne weltreise
+[15:40:40] <petrik coffy> das stell ich mir sehr anstrengend vor @RaketenBohneSchweiz
+[15:40:46] <Nicole> hab ich schon aber wurde nach ner Zeit langweilig ^^
+[15:40:49] <+XAxeX> ach shit Fußball kommt ja gerade
+[15:40:55] <Nicole> pleite
+[15:41:02] <raptorh> @Nicole lust nen beta test zu machen?^^
+[15:41:03] <petrik coffy> Fußba... 😴
+[15:41:03] <RaketenBohneSchweiz> scheisse 04 bekommt aufn sack 😀
+[15:41:05] <+Blodyck> @Nicole das sind die nafris auch 🌝
+[15:41:09] <Dam4 Show> laufen ^^
+[15:41:33] <Donna> Nickerchen machen 😸
+[15:41:34] <+XAxeX> @RaketenBohneSchweiz  leider noch nicht 😕  die liegen gerade 1:0 vorne
+[15:41:36] <Donna> Geilen Snack essen
+[15:41:46] <Nicole> ich will was zocken aber weiß nicht was gibt ja nichts :(
+[15:41:48] <RaketenBohneSchweiz> mist 😀
+[15:41:51] <Donna> Viel zu lange duschen
+[15:41:55] <RaketenBohneSchweiz> bin grad erst am einschalten 😀
+[15:42:19] <petrik coffy> @Nicole fang an Kunst zu machen 😯
+[15:42:25] <ReadyF0RHeady> auf gog com gibt es noch nen frühlsingssale da möge so manches dabei sein
+[15:42:38] <Nicole> steht dann nur im weg rum petrik
+[15:43:03] <petrik coffy> dann mach halt nix plastisches sondern musik oder sowsa
+[15:43:29] <+Blodyck> also wenn mir langweilig ist, dann entscheide ich einfach dass mir nicht mehr langweilig ist
+[15:43:38] <RaketenBohneSchweiz> stadium live geht bei mir nicht 😨
+[15:43:41] <Karl Karlson> Oder mach es wie Bushido kack auf ein Blatt Papier und nenn das dann Kunst
+[15:43:43] <Nicole> ne bei meiner Gitarre ist die Seite gerissen und wohne in miete
+[15:44:11] <petrik coffy> bestell neue, oder mach von nem alten satz ne passende rein 👍
+[15:44:40] <Nicole> ich kann ja nicht spielen nur mamor stein und Eisen bricht xD
+[15:44:57] <petrik coffy> dann musst du mehr spielen, sonst lernst dus auch nicht 🙈
+[15:45:26] <frederikj1> nicer media player
+[15:45:39] <Nicole> das gute ist die hab ich umsonst bekommen aber hab halt nie weiter geübt
+[15:45:41] <+Blodyck> gott nicole, wir haben dir super tipps gegeben nun mach was damit aber nerv hier nicht rum 👿
+[15:46:01] <petrik coffy> 😖 gitarren werden traurig wenn sie ungespielt daliegen
+[15:46:21] <+Blodyck> @petrik coffy menschen auch oder? 😭
+[15:46:27] <Nicole> dann stell mich auf ignorieren Problem gelöst
+[15:46:42] <petrik coffy> ja, aber menschen können weinen, gitarren müssen ihren schmerz still ertragen.
+[15:46:46] <Dam4 Show> rekt ^^
+[15:46:48] <Donna> @Blodyck That was deep, man.
+[15:46:49] <+Blodyck> nein, das problem ist nicht gelöst
+[15:47:33] <Fake Bros> Nicole abonniere mich
+[15:47:46] <Nicole> Nö
+[15:47:49] <EnteDerBoss> oh, du spielst gitarre?
+[15:47:51] <petrik coffy> 😀
+[15:48:03] <+Blodyck> @petrik coffy das ist irgendwie ... paradox?
+[15:48:10] <Karl Karlson> Man kann auch Spazieren gehen an der Alster oder Elbe bei dem Wetter oder sich das 1on1 mit Artzooka Nils angucken Whaow
+[15:48:13] <petrik coffy> findest du?
+[15:48:21] <ReadyF0RHeady> whaaaooww
+[15:48:25] <White Sorrow> lange haare und gitarre ohje vorurteil inc
+[15:48:33] <Nicole> ich hab mal gespielt aber kann es nicht mehr ^^
+[15:48:37] <Fake Bros> danach könnt ihr bei mir vorbei schauen
+[15:48:37] <petrik coffy> ¯\_(ツ)_/¯
+[15:48:38] <RaketenBohneSchweiz> man kann sich auch an der tanke n bier holen
+[15:48:40] <Tobitod87> 🐰
+[15:48:43] <+Blodyck> Gitarren wurden doch nur aus einem Grund erschaffen, nämlich Geräusche zu machen
+[15:48:52] <Donna> @Fake Bros Nö.
+[15:48:57] <+Kaldres LP> 😀😀
+[15:49:05] <+Blodyck> @Nicole hast du schon tinder durchgezockt? 😂
+[15:49:19] <EnteDerBoss> @nicole hallo,  übrigens^^ hab mal viel klavier gespielt. aber ist schon ein paar jahre her..
+[15:49:21] <White Sorrow> nach all den jahren hat petrik coffey endlich die aufmerksamkeit die er sich erhofft hat, wow ich freu mich so für ihn
+[15:49:24] <Nicole> was das?
+[15:49:25] <petrik coffy> um mit ihnen geräusche zu machen, ja, aber von sich aus sind das sehr schweigsame wesen.
+[15:49:27] <Karl Karlson> @Blodyck Ich dachte es wurde als nahkampf schlagwaffe entwickelt mit umständlicher Bogeneigenschaft
+[15:49:51] <RaketenBohneSchweiz> @Blodyck ich dachte jeff jarret hat die gitarre erfunden um gegner niederzustrecken 😶
+[15:49:51] <Derpy Hooves> ich dachte gitarren werden geschaffen um girls im collage auf zu reissen? 🤔 oder lügen mich die ganzen ami filme an? 👿
+[15:50:01] <Fake Bros> Donna doch
+[15:50:02] <%Nightbot> Den aktuellen Sendeplan findest du hier:  https://www.rocketbeans.tv/wochenplan/?details=1
+[15:50:15] <Nicole> Hi Entchen ^^ Klavier ist find ich geil
+[15:50:15] <Donna> @Fake Bros Neeee.
+[15:50:36] <+Blodyck> @petrik coffy ich komme nicht auf das richtige word 😑
+[15:50:47] <RaketenBohneSchweiz> word 🌝
+[15:50:50] <petrik coffy> kann ich dir helfen? 👍
+[15:51:06] <Karl Karlson> Gibts es von Word auf fake seiten?
+[15:51:23] <Karl Karlson> Gott sei dank von CD installiert und nicht gedownloaded puhhh
+[15:51:30] <EnteDerBoss> @Nicole ja, das macht auch richtig spass. muss man nur leider recht viel zeit investieren, um das alles zu lernen
+[15:51:33] <Fake Bros> Donna wie so nicht
+[15:51:45] <+Blodyck> @RaketenBohneSchweiz musste googeln ... jetzt weiß ich wieder wer das ist. Ja 📙
+[15:51:52] <Donna> @Fake Bros Wieso denn?
+[15:52:13] <petrik coffy> klaviere sind toll, gibt kein anderes instrument das ohne jede begleitung so schön klingt.
+[15:52:15] <+Blodyck> @Derpy Hooves das sind alternative fakten 📙
+[15:52:28] <Nicole> Joa mein dad kann fast alle Instrumente spielen hatte ja viel zeit in seinem Keller...xD
+[15:52:32] <Late Knight> was ist mit maultrommeln?
+[15:52:34] <+GesichtsKuchen> @petrik coffy ocarina gehört da auch dazu
+[15:52:44] <Tobitod87> ich wollte früher immer gitarre lernen aber hab kein händchen dafür :\
+[15:52:46] <Dam4 Show> Schön das die ihre Taktiken vorm turnier im Stream preisgeben 😛
+[15:52:49] <Fake Bros> Donna zur Unterstützung
+[15:52:55] <Tobitod87> @GesichtsKuchen 😀 ❤
+[15:53:02] <+GesichtsKuchen> @Tobitod87 ❤
+[15:53:03] <Herr Frew> ist das noch länger reine theorie?
+[15:53:22] <Late Knight> unterstützt den armen Mann doch mal mit nem abo und lasst nen like da 🌝
+[15:53:25] <Donna> @Fake Bros Findest du es nicht etwas traurig, im Chat zum Stream von "jemand" anderem nach Support zu beggen?
+[15:53:25] <petrik coffy> maultrommeln gehen auch ab 😚 und das was kuchen sagt 😂 und kalimbas
+[15:53:48] <petrik coffy> @Tobitod87 warum kein händchen dafür?
+[15:53:56] <Nicole> Akkordeon ist super
+[15:54:04] <+GesichtsKuchen> @petrik coffy weil er keine hat!?
+[15:54:05] <petrik coffy> jaaaaa *_*
+[15:54:22] <Tobitod87> hatte leider nie denn erlan lang genug dran zu bleiben dabei lieb ich musik mega ❤
+[15:54:31] <+GesichtsKuchen> ich HASSE musik, bin mal ocarina of time spielen!
+[15:54:36] <petrik coffy> ohne arme ist das leben meh ¯\_(ツ)_/¯
+[15:54:38] <Tobitod87> 😀
+[15:54:54] <Karl Karlson> Hab mal Theremin spielen gelernt vor Jahren ist meins aber kaputt gegangen seit dem keine Zeit mehr gehabt und meine Frau ist wohl auch froh darüber
+[15:55:15] <petrik coffy> wirklich wahr? 😀
+[15:55:19] <Fake Bros> Donna brauchst nicht abonnieren nur wenn du  willst
+[15:55:36] <Nicole> mein Körper ist mein talent mit Instrumenten kann ich nichts anfangen leider ^^
+[15:55:37] <+XAxeX> @Dam4 Show  was meinsten damit?  TeamLimited ist immer hier Montags und da Trainieren die jungs 😉
+[15:55:51] <Deex rose> hey leute gab es nicht ein lp mit simon und schröck von mordors schatten?
+[15:55:55] <petrik coffy> @Nicole dann ist dein berufswunsch also-
+[15:55:59] <petrik coffy> ne, ich lass das besser 😀
+[15:56:10] <Tobitod87> @Nicole au yeah 😄
+[15:56:11] <Nicole> Tierpflegerin
+[15:56:16] <Donna> Tierärztin, exakt
+[15:56:18] <+Blodyck> @petrik coffy tänzerin?
+[15:56:18] <Nicole> :9
+[15:56:19] <+XAxeX> @Dam4 Show  welches Turnier meinste?  meinste den kampf gegen das Expert CSGO team morgen ? ^^ oder das CommunityTurnier? wo es ja eig. um die community geht 😸
+[15:56:20] <Tobitod87> xD
+[15:56:33] <HipHopGuru> Oh gott, was is hier schon wieder los? ^^^
+[15:56:35] <deface> 😵
+[15:56:41] <Dam4 Show> Beides ^^
+[15:56:55] <Tobitod87> @HipHopGuru  wuuhuuu 😀
+[15:56:58] <Nicole> Tänzerin wollte ich immer werden aber jetzt nicht mehr ^^
+[15:57:10] <EnteDerBoss> @nicole das hast du sehr schön  gesagt 😃
+[15:57:22] <+Blodyck> ist auch bestimmt schwer, professionel davon zu leben @Nicole
+[15:57:41] <Karl Karlson> Bei den meisten Mädchen die sagen ich möchte Tänzerin werden frage ich mich immer obs ums Poledancing geht
+[15:57:43] <+XAxeX> @Dam4 Show  naja TeamLimited ist eben das Team und es wird immer Montags 21:30 gespielt ^^  das die jungs schon mal 1-2 strategien haben und spielen können ist schon nen extremer fortschritt 😀
+[15:57:57] <Dam4 Show> hahahah 😀
+[15:58:05] <+XAxeX> @Dam4 Show  3 von den jungs haben das letzte mal bei 1.6 gezockt xD und müssen alles lernen
+[15:58:34] <+Blodyck> @Karl Karlson Ich muss ja sagen heute gibts du dir wesentlich mehr mühe. Der Stachel hat wohl tief gesessen?
+[15:58:35] <Nicole> Hatte ne professionelle Tanzlehrerin die meinte ich wäre genauso gut wie sie. sie hat viele Preise gewonnen Fand ich n krasses Kompliment ^^
+[15:58:38] <HipHopGuru> @Tobitod87 Hey du.  Alles klar bei dir?
+[15:59:20] <Tobitod87> @HipHopGuru jau alles supi , schön denn sonntag genießen 😃
+[15:59:23] <petrik coffy> ich kann nur walzer und pogo 😂
+[15:59:40] <+XAxeX> @Dam4 Show  zudem ist das gerade die wiederholung von letztem Montag 😀 da haben se diese map zum 1. mal gespielt ^^ und versuchen eben ne standard taktik
+[15:59:41] <petrik coffy> @Nicole yo, ist schon ne ansage 😀
+[15:59:44] <+Blodyck> ich kann nicht mal ententanz 😖
+[15:59:47] <projection 4> habt ihr am sonntag nix bessers zutun als hier rumzustreiten
+[15:59:50] <Nicole> xD
+[15:59:58] <White Sorrow> eddi's auffassungsgabe = 0
+[15:59:59] <Tobitod87> zählt headbängen zu tanzen:D
+[16:00:10] <+XAxeX> shiiiiiiiiiiiit
+[16:00:10] <Karl Karlson> @Blodyck Ich muss leider fragen...W0ot? was meinst du?....Nur weil Zeddy mich nicht leiden kann oder XAxeX gerne Leute die er nicht kennt als Troll bezeichnet=
+[16:00:16] <+XAxeX> 2-0 -.- schalke ey
+[16:00:22] <Karl Karlson> ?
+[16:00:31] <Nicole> hahahah
+[16:00:32] <+XAxeX> @Karl Karlson  ?  was trollst du rum ? 🌝
+[16:00:41] <EnteDerBoss> @Blodyck den krieg ich hin, denke ich
+[16:00:49] <HipHopGuru> @Tobitod87 Klingt doch ganz nice. Versuch ich heute auch. Hauptsache chillen.
+[16:01:04] <Karies _> guten morgen chad
+[16:01:11] <Donna> Moin
+[16:01:12] <+Blodyck> @XAxeX immer diese össis, müssen die immer rüber nach deutschland 🌝
+[16:01:13] <MC Hodenflash> Nils ist Wortspielsüchtig 😖
+[16:01:14] <HipHopGuru> @Karies _ Hey du
+[16:01:16] <+XAxeX> tach 😞
+[16:01:18] <Nicole> Guten Tag Karies
+[16:01:22] <Karies _> huhu
+[16:01:22] <petrik coffy> glück auf Karies _ ❤
+[16:01:44] <+XAxeX> HAHA 11er 😀
+[16:01:57] <Donna> Selten sieht man es, dass anscheinend viele erfreut über Karies sind.. ^-^
+[16:02:03] <+XAxeX> höwedes 😀
+[16:02:18] <+XAxeX> sind schalker anwesend? 🌝
+[16:02:31] <MC Hodenflash> Für Augsburg?
+[16:02:39] <+Blodyck> @Karl Karlson  Naja hatte angemerkt dass du genau das gleiche wie jemand anderes gesagt hattest, da entstand eine kleine diskussion (ohne mich). Zu den letzten beiden kann ich dir nix sagen
+[16:02:39] <HipHopGuru> Yo aber verschossen
+[16:02:42] <+XAxeX> shit ._.
+[16:02:48] <Tobitod87> @Donna 😀
+[16:02:49] <MC Hodenflash> 😖
+[16:03:04] <+Blodyck> @Karies _ 🙋
+[16:03:13] <Karies _> servus
+[16:04:07] <Karl Karlson> @Blodyck Das war rainer Zufall gewesen weil das letzt ad was ich gesehen hatte mit den selben Worten startete und nur weil ein Chad bekannter Troll eine sekunde später das gleiche schreibt kann ich...
+[16:04:25] <Karl Karlson> ....leider nichts dafür deswegen war mir die Diskusion danach auch sowas von Latte
+[16:04:40] <+Blodyck> @Karl Karlson Dann entschuldige ich mich, in dem moment kam mir das aber recht seltsam vor
+[16:04:51] <Nicole> welche Diskussion?
