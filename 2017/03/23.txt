@@ -15905,3 +15905,183 @@
 [23:04:43] <%Zeddy> !plan
 [23:04:52] <Diplomat999> so jetzt erstmal ne Sportzigarette
 [23:04:53] <Michael Bauer> @Sendeplan Bimst du 1 Bot?
+[23:04:58] <%Sendeplan> @Zeddy: Aktuell läuft [Live] Wir müssen reden #23 - Live-Call-In mit Gunnar, Gino & Krys. Um 23:00 folgt [Neu] Knallhart Durchgenommen #15 - Horizon: Zero Dawn.
+[23:05:06] <+Datscher> @Nightbot Sendeplan lügt
+[23:05:12] <Balmung> @Sendeplan "Was, wir werden bezahlt? Dann will ich auch Geld!"
+[23:05:17] <%Nightbot> March 23 2017, 11:05:17 pm
+[23:05:33] <Diplomat999> @Zeddy der plan lügt ..
+[23:06:20] <Diplomat999> !live
+[23:06:58] <%Zeddy> ​@Diplomat999 ja vll geht die uhr vom sendeplan falsch? er denkt wohl es läuft noch das wmr
+[23:07:00] <GreedyHornet> man muss halt auch mal schießen
+[23:07:04] <%Sendeplan> @Diplomat999: Diese Sendung ist live!
+[23:07:17] <DawnLeroin> hat er Nioh durchgezockt?
+[23:07:19] <DawnLeroin> *wer
+[23:07:21] <Diplomat999> @Zeddy das könnte sein ja
+[23:07:57] <%Zeddy> @Diplomat999 ma guggn wanns besser wird
+[23:07:57] <+Datscher> !pnp
+[23:08:11] <Herr Fürchtegott> f
+[23:08:12] <Diplomat999> yap
+[23:08:14] <+nailzee> Dass die nie die Ausweichrollen benutzen...
+[23:08:20] <HidekoYamamoto94> nice Gregor
+[23:08:20] <SevenCardStud> that applause
+[23:08:20] <Babadook> f für fabian
+[23:08:21] <%Nightbot> Das nächste Pen & Paper findet in:  21 hours 36 minutes 39 seconds statt
+[23:08:25] <AO> welche Schwierigkeit?
+[23:08:42] <HidekoYamamoto94> glaub Normal
+[23:08:50] <SevenCardStud> danke nightbot:)
+[23:09:16] <AO> dank dem Endless stamina war das auf schwer noch fast zu easy
+[23:09:16] <+nailzee> Spoiler: Nein
+[23:09:33] <HidekoYamamoto94> lol 😀
+[23:10:03] <Fr3ddy789> überall sieht man sie... :D
+[23:10:26] <AO> aloy is halt n scharfes Teil lol
+[23:11:11] <federiconicastro7> Warum ist Gregott so still?
+[23:11:30] <AO> ich war so froh dass es keine schnulzige liebes kacke gibt
+[23:11:44] <HidekoYamamoto94> @AO hätte ich keine Probleme damit
+[23:11:46] <+nailzee> Aloy und Rost...den Gag hab ich erst jetzt realisiert
+[23:12:13] <AO> naja im nächsten Teil vielleicht
+[23:12:25] <+nailzee> Aloy hat halt kein Bock und keine Zeit zum bumsen
+[23:12:49] <Mathrigo666> is halt kein arscheffect
+[23:13:11] <AO> mit dem stamina is die eh nicht aus der Puste zu bringen
+[23:13:26] <BK> gerade heute horizon durchgespielt, auf jeden fall ein highlight dieses spielejahres
+[23:13:54] <+nailzee> Ist echt ein tolles Spiel
+[23:14:07] <Mathrigo666> bei rbtv läuft ja nur noch werbung, auch nicht besser als pro7
+[23:14:40] <AO> lol mit pro7 is das ja nicht vergleichbar
+[23:14:47] <Fr3ddy789> ich sehe pumpen..
+[23:14:51] <turnyour turntable> woaaas ist hier los?
+[23:14:56] <Fr3ddy789> für den garten^^
+[23:15:17] <+nailzee> Schlag den Star ist in Sachen Werbung echt unerträglich
+[23:15:40] <Mathrigo666> bei tele5 sind auch immer irgendwelche nerds
+[23:15:42] <Mathrigo666> eh pro7*
+[23:16:09] <Karies _> der chat hat eben über weed geredet, darum nun die werbung für bewässerungssysteme 😉
+[23:16:19] <Fr3ddy789> Schärfer als die Realität!
+[23:16:39] <deface> 🍭
+[23:17:12] <AzarellLPX> Bin neu hier. Mal ne Frage. Der Chat hier auf der Website ist gekoppelt mit dem Youtube chat oder?
+[23:17:28] <Karies _> ja
+[23:17:29] <HidekoYamamoto94> @nailzee naja es gibt glaub ich 8 feste Werbeslots die je nach Sendungslänge von Länge und Anzahl unterscheiden.
+[23:17:46] <Fr3ddy789> irony ? ich klick auf überspringen und kommt nochmal werbung 😖
+[23:18:30] <Fr3ddy789> werbung wird intelligenter...😠
+[23:18:47] <Fr3ddy789> jetzt 😀
+[23:18:50] <HidekoYamamoto94> @nailzee geht die Sendung länger gibt es kürzere aber dafür häufigere Werbeunterbrechungen. Ist die Sendung wie geplant oder evtl sogar noch kürzer sind die Werbeunterbrechungen weniger aber länger
+[23:19:24] <+nailzee> @HidekoYamamoto94 Mir kommt das immer schlimmer vor. Vor allem während eines Spiels geht gar nicht
+[23:19:24] <Mathrigo666> irgendwoher muss rbtv ja ihr geld kriegen, sonst gibs nix zu essen
+[23:19:38] <tim pieper> welche rüstung ist das die die da an haben?
+[23:19:55] <HidekoYamamoto94> @nailzee die Werbeunterbrechungen sind aber fest eingesetzt
+[23:20:09] <HidekoYamamoto94> @nailzee soweit ich das mitbeka
+[23:20:15] <jenzOre> Zero dawn ist der titel des spiels
+[23:20:27] <+nailzee> @tim pieper Die, die allgemein gegen alle Elemntarschäden schützt
+[23:20:50] <Fr3ddy789> Boomerang ?
+[23:21:01] <tim pieper> ach diese nora überlebende oder wie die heißt?
+[23:21:42] <Fr3ddy789> alias die tochter von turok
+[23:21:45] <+nailzee> @tim pieper Keine Ahnung wie die auf deutsch heißt
+[23:22:12] <Juul Tube BlubBlub> ich hab auch videos zum spiel gemacht ich liebe es einfach danke das ihr stream macht :)
+[23:22:14] <tim pieper> ok danke trotzdem
+[23:22:31] <deface> 😈
+[23:24:04] <Andy Stoner> I LIKE TURTLES
+[23:24:09] <%Nightbot> Andy Stoner -> O Capslock! my Capslock! our fearful punctuation is done;The message has been deleted, the prize you sought is won. [warning]
+[23:24:30] <+nailzee> Ich weiß bis heute nicht, warum das Spiel eigentlich Horizon heißt
+[23:24:56] <+nailzee> Zero Dawn ist ja klar
+[23:25:14] <Andy Stoner> I like turtles
+[23:26:10] <HidekoYamamoto94> @nailzee außerdem darf ja laut Mediengesetze nur 12 minuten Werbung in einer einzigen Stunde gesendet werden. Würde also beispielsweise um 21:15 Uhr eine Werbung sein die 12 minuten geht, darf die
+[23:26:54] <Hyperion> Wie die Stimme mal überhaupt nicht zu dem Typen passt 😀
+[23:26:59] <HidekoYamamoto94> @nailzee nächste werbung erst um 22:15 sein. Und wenn halt ein Spiel um 22:00 Uhr beginnt und mindestens eine dreiviertel Stunde dauert - ist halt die Werbung mitten im SPiel
+[23:27:17] <+Hannes Boelsen> üble synchro
+[23:27:18] <+Manuel K> @Hyperion dachte ich mir auch grade
+[23:27:42] <redien47> passt überhaupt nicht ja:D
+[23:27:48] <Karies _> die synchro ist geradezu allerliebst, im gegensatz zu me:a
+[23:28:06] <deface> 👆
+[23:28:39] <+nailzee> @HidekoYamamoto94 Wurde das nicht letztens erst flexibler geregelt?  Mal davon abgesehen, dass zwischendurch 10 min sich umgezogen und herumgelaufen wird und dann die werbung erst kurz vorm
+[23:28:44] <Karies _> was was was
+[23:28:48] <Karies _> waaaaas
+[23:28:49] <Fr3ddy789> jau
+[23:29:16] <+nailzee> @HidekoYamamoto94 eigentlichen Spiel kommt.
+[23:29:37] <To Bo> Ich finde hier ist gar nicht soviel werbung... Also das werbung/content Verhältnis ist für mich total ok
+[23:29:38] <Karies _> piss auf den boden hör ich in nem game zum ersten mal
+[23:31:05] <Romo> Weiss einer warum die letzte Sitzung ANIMAL SQUAD noch nicht auf youtube ist? Musste an dem Abend arbeiten und will es mir ansehen
+[23:31:31] <Romo> Ich warte sehnsüchtig
+[23:31:32] <+nailzee> @Romo Es ist schon auf youtube
+[23:31:42] <Romo> wo denn ?
+[23:32:06] <+nailzee> Ich finds so lustig, wie extrem das Spiel selbst die roten Haare so hypt
+[23:32:40] <Romo> Find es zum verrecken nicht
+[23:32:44] <Karies _> 😍ich mag lange rote haare
+[23:32:45] <+nailzee> @romo Kann keinen Link posten. Habs aber schon letzten Samstag angeguckt
+[23:32:48] <splex0007> @Karies _ allerdings gibt es in gothic 1+2 hinreichend NPCs die das machen und nicht nur sagen 😀
+[23:34:40] <Tolboz> War gerade in Life drinne. Kann man sich geben 😄
+[23:35:14] <HidekoYamamoto94> @nailzee ob das jetzt flexibler geregelt ist weiß ich nicht..  Desweiteren weiß ich auch nicht ob in jeder Stunde max 12 Minuten Werbung gezeigt werden muss (kann auch 2 x 6 Minuten sein). (...)
+[23:36:53] <HidekoYamamoto94> @nailzee Das gibt leider der Gesetzestext nicht her
+[23:39:39] <Sebastian Siebrecht> Tolboz ist der auch gruselig wies versprochen wird oder is das einfach nur nen jumpscare marathon ??
+[23:39:57] <GreedyHornet> fail
+[23:42:36] <Tolboz> @Sebastian Siebrecht hat eine schön beklemmende Atmosphäre. Also erssteres trifft eher zu 😃
+[23:42:53] <Sash676> die können das nicht.
+[23:43:17] <Sebastian Siebrecht> nice 😀
+[23:43:38] <Sash676> dumm
+[23:43:42] <Sash676> bye
+[23:44:09] <Sebastian Siebrecht> bye
+[23:44:22] <+nailzee> Die Sch!euder hab ich irgendwann gar nicht mehr benutzt
+[23:45:36] <+Lecky> Nabend ❤️
+[23:46:24] <Sebastian Siebrecht> nabernd
+[23:48:25] <+Lecky> ❤️❤️❤️
+[23:48:50] <HidekoYamamoto94> 😀
+[23:48:55] <MoltenMetal> wahahaha
+[23:49:15] <Fr3ddy789> lol
+[23:49:30] <+Alessandro Masci> 😀
+[23:50:09] <Saubstauger> wolf ️❤
+[23:50:41] <blumenkopfgesicht> anne ist so mega hässlich oida...ekelhaft die nase fresse bäääh
+[23:51:38] <Dustin K.> nein @blumenkopfgesicht
+[23:51:41] <Kirisute Gomen> @blumenkopfgesicht anzeige ist raus! sorry
+[23:52:09] <blumenkopfgesicht> anzeige ? logic ? hahaha
+[23:52:13] <monox toxe> nabend^^
+[23:52:23] <Ibes K.> ich finde anne eigentlich ganz hot 😀
+[23:52:33] <Tobias Tebben> oida ist so 2014
+[23:52:37] <blumenkopfgesicht> vielleicht weil du noch hässlicher bist ?
+[23:52:38] <YinYang> naja , hübsch isse nicht
+[23:52:44] <Dustin K.> Tobias heißen ist so 2014
+[23:52:49] <Dustin K.> du Tobias
+[23:52:54] <Kirisute Gomen> @Ibes K. ist wirklich so 😁
+[23:53:00] <Chris89> Trolle unter uns
+[23:53:12] <YinYang> Dustin in 2017 is so 2000
+[23:53:16] <Karies _> ​anne ist doch voll niedlich
+[23:53:23] <blumenkopfgesicht> troll ist so 2016
+[23:53:24] <Fr3ddy789> jo
+[23:53:34] <+Lecky> Find auch
+[23:53:35] <Dustin K.> blumenkohl ist lecker
+[23:53:40] <YinYang> 2016 ist so 2015
+[23:53:48] <Sebastian Siebrecht> schon jemand was von sneaky peat gesehen ??
+[23:53:52] <Dustin K.> rip @blumenkopfgesicht
+[23:53:54] <Kirisute Gomen> nice blumenkopfgesicht wurde verhaftet! meine anzeige hat geholfen
+[23:53:56] <Sebastian Siebrecht> pete
+[23:53:57] <%Zeddy> @blumenkopfgesicht das war nicht nett
+[23:54:22] <YinYang> Zeddy schonwieder subjektiv
+[23:54:29] <+Lecky> 👌 zeddy
+[23:54:31] <YinYang> du sollst hab objektiv entscheiden habe ich doch gesagt
+[23:54:47] <YinYang> Zeddy lern es endlich!
+[23:55:01] <%Valkyrie0025> yin klappe
+[23:55:02] <Tobias Tebben> war ne beleidigung... die ist nicht subjektiv
+[23:55:16] <%Zeddy> @YinYang nein ein mensch ist doch nie subjektiv 🌝
+[23:55:24] <Dustin K.> Zeddy is so mega hässlich ey 🌝
+[23:55:24] <%Valkyrie0025> er lernt es nicht seufz
+[23:55:27] <Dustin K.> 🌝 🌝 🌝 🌝 🌝 🌝 🌝
+[23:55:32] <Kirisute Gomen> danke @Zeddy  @Valkyrie0025  ❤
+[23:55:42] <%Zeddy> @Dustin K. das is gemein 😞
+[23:55:45] <Chris89> Immer wieder faszinierend, dass Leute dem schlecht machen anderer Personen etwas positives entziehen können
+[23:55:51] <G4me-Force> Wachwerd- und Demotivationsphase
+[23:55:57] <+silverraider94> bei wiederholung einfach banns raushauen
+[23:55:59] <Dustin K.> war nett gemeint
+[23:56:04] <Raphael Stebler> Tragisch wiedermal... -.-
+[23:56:11] <Karies _> die mods hier sind doch echt kulant.. was ich so alles in den chat pupse.
+[23:56:18] <+MasterRaik> wer hier in hässlich und schön Schubladen denkt ist eh banane
+[23:56:25] <Karies _> könnte viel schlimmer sein
+[23:56:28] <Kirisute Gomen> !penispumpe
+[23:56:31] <%Sendeplan> @Kirisute Gomen: Aktuell läuft [Neu] Knallhart Durchgenommen #15 - Horizon: Zero Dawn. Um 00:00 folgt [Wdh.] MoinMoin #555 - Die Morning-Show mit Anne & Wolf.
+[23:56:35] <G4me-Force> Wo man sich während des Wachwerdens denkt... "hmmm... jetzt einfach den ganzen Tag hier stehenbleiben?..."
+[23:56:40] <%Zeddy> @Karies _ oh shit, hasse wieder einen losgelassen? 😀
+[23:57:17] <%Valkyrie0025> karies du pust in den chat?
+[23:57:23] <%Valkyrie0025> pubst
+[23:57:44] <Karies _> sinnbildlich gesprochen
+[23:58:27] <Karies _> ​und heimlich
+[23:58:27] <%Valkyrie0025> zum glück werd ich mir nie so ein rüssel vr holen
+[23:58:30] <%Zeddy> @Karies _ 😉
+[23:58:49] <%Zeddy> @Karies _ die stillen pubser isnd die schlimmsten 😀
+[23:58:49] <%Valkyrie0025> die leisen heissen, sind die schlimmsten
+[23:59:01] <%Zeddy> sind
+[23:59:16] <%Zeddy> siehste, genau @Valkyrie0025 😀
+[23:59:37] <%Valkyrie0025> ich kenn mich aus ;)
