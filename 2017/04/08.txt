@@ -1159,3 +1159,119 @@
 [03:04:25] <+GesichtsKuchen> rechner zu schlecht ?
 [03:04:44] <Julez 554> Hardware hat nichts damit zu tun
 [03:04:46] <+GesichtsKuchen> also bei den testern lief das mit 30... will aber nich wissen was die für nen rechner hatten
+[03:04:52] <+GesichtsKuchen> doch
+[03:05:07] <Julez 554> 4k läuft mit der selben qualität wie 640x480
+[03:05:34] <Julez 554> Hat wahrscheinlich mit der CPU zutun
+[03:05:35] <Mr Zonk> watt macht kein sinn
+[03:05:54] <+GesichtsKuchen> dann is es ja doch hardware ^^
+[03:06:21] <Julez 554> ähh doch macht sinn GPU ist nicht alles besonders bei Emulatoren
+[03:06:42] <Julez 554> Kuchen manche gehen bei Hardware von der GPU aus ^^
+[03:06:51] <+GesichtsKuchen> nein
+[03:06:57] <Julez 554> aber ja ist irgendwo die hardware ^^
+[03:07:02] <+GesichtsKuchen> also ja
+[03:07:13] <+GesichtsKuchen> aber ifür mich is harware hlt alles im rechner
+[03:07:19] <Nico Hutmann> is das nich schon vorbei mit pokemon ?^^
+[03:07:37] <+GesichtsKuchen> gpu kann die 1080ti sein das is kacke egal wenns nich für den przessor gemacht is
+[03:07:44] <Julez 554> Ich sollte meine CPU übertakten aber ich habe keinen geeigneten Lüfter
+[03:08:03] <+GesichtsKuchen> hmm
+[03:08:16] <+GesichtsKuchen> noch nen ventialtor dran stellen ? hab ich mal gemacht 😀
+[03:08:28] <Mr Zonk> i7-Prozessor mit einer Taktung in Höhe von 4,3 Gigahertz
+[03:08:55] <Julez 554> Der CPU muss die Shader Caches laden welche über den arbeitsspeicher laufen.. da wären wir schon mal weit entfernt von der Behauptung GPU CPU< all ^^
+[03:08:58] <Mr Zonk> laut netzwelt
+[03:09:14] <Julez 554> Leute ^^
+[03:09:34] <+GesichtsKuchen> mir is schon klar das hrdware nich nur gpu und prozessor is ^^
+[03:09:48] <Julez 554> CPU und GPU ist nicht immer das wichtigste ^^ besonders bei experimentals ^^
+[03:09:58] <Julez 554> die 25 GB RAM erfordern ^^
+[03:10:40] <Julez 554> Danach darf man höchstens gehen höchstens bei Alphas
+[03:10:43] <+GesichtsKuchen> joa
+[03:11:00] <+GesichtsKuchen> mal gucken wie lange das beim cmu noch dauert
+[03:11:05] <+GesichtsKuchen> die machen ja gut fortschritte
+[03:11:15] <Julez 554> Allein den 19k Shader Cache zu laden braucht 30 GB RAM
+[03:11:21] <Julez 554> aber sehr interessant
+[03:11:23] <Julez 554> dennoch
+[03:11:29] <+GesichtsKuchen> wäre kein problem ich hab 32 xD
+[03:12:04] <+GesichtsKuchen> wenn mir das aber isch auch mal auf dem rechner angucken
+[03:12:33] <Julez 554> Ich hab 8 ^^
+[03:12:49] <+GesichtsKuchen> dürfte noch reichen
+[03:13:07] <Julez 554> Sollte ja
+[03:13:34] <Julez 554> Frage mich halt nur warum es im Emulator mit 20 FPS läuft
+[03:13:52] <Julez 554> angeblich ist es die CPU
+[03:15:31] <+GesichtsKuchen> is doch meistens so das emulatoren den cpu stark beanspruchen
+[03:15:54] <Julez 554> yep
+[03:17:07] <Julez 554> Sieht halt auf der WiiU echt nicht so nice aus^^
+[03:17:32] <+GesichtsKuchen> mal gucken wie das auf der switch aussieht^^
+[03:19:44] <Julez 554> naja halt flüssiger ^^ aber niemals die quali
+[03:22:21] <Vargroth> Ein schleimiger Kriecher also der perfekte Name: NILS^^
+[03:22:28] <+GesichtsKuchen> ach wäre das schön, eine 4k nintendo konsole mit 60fps... unbezahlbar
+[03:24:42] <Julez 554> Wo ist das Problem ? ^^
+[03:25:10] <Vargroth> Ede wie ein Fels...
+[03:31:53] <Nixda Smiregal> schön ruhig
+[03:32:07] <SweetVoidofJustice> easy
+[03:32:55] <SweetVoidofJustice> Arbeit macht frei!!
+[03:33:09] <Phame> dann geh arbeiten
+[03:33:55] <SweetVoidofJustice> @Phame erst wenn du anschaffen gehst
+[03:34:08] <Nixda Smiregal> Buchenwald
+[03:34:24] <SweetVoidofJustice> Deutschland
+[03:34:27] <Dominik Haertel> ist das nicht eigtl eine alte folge?
+[03:34:35] <Fubbez> Habe einen 300€ Steam Acc zum traden falls jemand Bock hat
+[03:34:59] <SweetVoidofJustice> @Fubbez nope
+[03:35:49] <Holger Berg> könnte mir jemand 50 euro geben bitte
+[03:36:13] <Fubbez> Wenn du her kommst gebe ich dir sogar 51
+[03:36:29] <Phame> er will ja nur neen b
+[03:36:36] <Holger Berg> ich geb dir meine paypal adresse ok?
+[03:36:49] <Nixda Smiregal> was du gibst geld?
+[03:36:58] <Fubbez> Nee muss schon privat sein
+[03:37:22] <Holger Berg> trump.assad.putin@t-online.de
+[03:37:27] <Holger Berg> loool
+[03:37:35] <Julez 554> Ich vermisse den nächtlichen Chat über Religionen von Twitch
+[03:37:53] <Nixda Smiregal> deswegen schreibt man ja sowas hier
+[03:38:15] <Fubbez> @Julez 554 Über Politik und Religion diskutiert man grundsätzlich nie xD
+[03:38:34] <Fubbez> Endet immer im Beef ;D
+[03:38:49] <Dominik Haertel> ist das nun normal dass alte folgen als live gestreamt werden?
+[03:38:52] <Julez 554> Das ist ja grad das lustige 😀
+[03:39:15] <Holger Berg> geht ein mann zum bäcker und sagt, rumkugeln bitte. sagt der bäcker, bitte schön der boden ist sauber.
+[03:39:32] <Fubbez> @Julez 554 Geilst dich dann immer am Beef auf!? 😜
+[03:40:02] <Fubbez> Holger darf man da auch übermorgen drüber Lachen!?
+[03:40:29] <Holger Berg> klar, lass dir ruhig zeit mit dem lachen
+[03:40:37] <Fubbez> Danke ^^
+[03:40:46] <Holger Berg> hihi
+[03:41:59] <Julez 554> @Fubbez Nee ne... doch schon xD
+[03:42:23] <Fubbez> @Julez 554 xD Ich merk schon^^
+[03:42:27] <Nixda Smiregal> ist ja schom lustig zu sehen wie mods schreiben
+[03:43:55] <Julez 554> @Fubbez Es ist nur die Nostalgie xD
+[03:44:43] <Fubbez> @Julez 554 Egal^^ Zählt trotzdem
+[03:45:34] <Holger Berg> wo kommt ihr her, wenn ich fragen darf
+[03:46:59] <Fubbez> S zum aarland
+[03:47:31] <Holger Berg> familie heinz becker
+[03:47:41] <Fubbez> Beste
+[03:48:05] <Holger Berg> ich komm vom bodensee, aber bin ein mannheimer
+[03:48:13] <Fubbez> Gerd ist sogar so halbwegs Verwandt mit mir
+[03:48:28] <Holger Berg> echt?
+[03:48:37] <Fubbez> Yes sir
+[03:48:47] <Holger Berg> cool
+[03:49:02] <Fubbez> War aber auch bisher nur 4 mal bei mir Zuhause
+[03:49:14] <Julez 554> H zum Hessen
+[03:49:28] <Holger Berg> immerhin hehe
+[03:49:30] <Julez 554> North hessen
+[03:49:47] <Fubbez> North Hessen in da Hood yo
+[03:50:05] <Julez 554> Pretty much 😀
+[03:50:09] <Holger Berg> ich merke gerade, die alten chatzeiten fehlen mir.
+[03:50:16] <Holger Berg> hehe
+[03:50:24] <Julez 554> exactly
+[03:50:28] <Julez 554> they do
+[03:50:45] <Holger Berg> chat-tempel war meine heimat
+[03:50:56] <Fubbez> @Julez 554 Bist eigentlich ne Lady?! (Dumme Frage ich weis) ;D
+[03:51:49] <Nixda Smiregal> dioneah
+[03:51:59] <Julez 554> Ne alter sry
+[03:52:22] <Fubbez> Dachte wegen dem Namen kurz
+[03:53:15] <Julez 554> Duude...
+[03:53:28] <Fubbez> und wieso: sry?! ;D
+[03:55:18] <Julez 554> Ich will keine Hochzeitspläne zerstören Kappa
+[03:56:07] <Fubbez> Das verstehe ich^^ Sehr rücksichtsvoll von dir 😀
+[03:56:14] <Nixda Smiregal> Habt ihr noch eine Nightbot - Lizenz, Quannah?
+[04:00:37] <Julez 554> innit ;D
+[04:00:42] <Nobbstar88> grade online
+[04:02:07] <Nixda Smiregal> Gibt es Frogster eigentlich noch? War ja euer Arbeitgeber..
+[04:02:43] <ArkaN yo> !plan
+[04:02:45] <%Sendeplan> @ArkaN yo: Aktuell läuft [Wdh.] Knallhart Durchgenommen #4 - Pokémon Sonne & Mond. Um 4:15 folgt  [Wdh.] Knallhart Durchgenommen #5 - CoD Modern Warfare Remastered mit Simon und Schröck.
+[04:03:32] <Nobbstar88> um die Uhrzeit^^
