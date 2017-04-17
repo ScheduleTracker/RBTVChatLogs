@@ -687,3 +687,69 @@
 [03:02:00] <Karies _> shalom
 [03:04:19] <Euronet Tablet> schaut bei gronkh vorbei
 [03:04:41] <Euronet Tablet> er spielt es auch
+[03:05:01] <Karies _> ach der gronkh ist mir zu gronkhig.. aber sonst ganz ok
+[03:07:32] <Karies _> ich hätte nicht nach alten handhelds googeln sollen... eigentlich will man jedes gerät besitzen.
+[03:08:44] <Karies _> letzte woche erst nen gbc gekauft
+[03:11:44] <raptorh> @Karies _ du machst sachen^^
+[03:12:06] <raptorh> darf man fragen was man für son teil noch zahlt?
+[03:12:45] <Karies _> ​30 euro mit 18 games.. direkt mitgenommen.. von nem kumpel erworben.
+[03:13:07] <Galaxy Music> Search active subscribers
+[03:13:41] <raptorh> kann man sich mal leisten
+[03:14:59] <Karies _> ich hätte gern den grauen gameboy orginalverpackt. aber der bewegt sich inzwischen auch auf 200 euro zu.
+[03:16:23] <Karies _> der gbbc ist mir schhon zu klein.. aber immerhin ist die palette der games gigantisch
+[03:16:29] <Karies _> gbc
+[03:16:37] <raptorh> hm schon ne stange geld, aber für original verpackt doch noch einigermaßen günstig
+[03:17:55] <Karies _> seit dm boom aufs mini nes werden plötzlich retro-geräte ohne ende gekauft.. meist von euten, die kein mini-nes mehr bekommen haben. das treibt die preise hhoch.
+[03:18:15] <Karies _> sorry wegen typos.. blöde funktastatur
+[03:19:44] <raptorh> ein bekannter hat in ner firma nen computer austauschen müssen (glaube es war ein C64) also auf jeden fall hat das ding original verpackt ne halbe million gekostet
+[03:19:59] <+GesichtsKuchen> KEKSE!
+[03:20:13] <Karies _> nomnom
+[03:20:18] <raptorh> hi kuchi 🍪
+[03:20:44] <Julez 554> Warum mini NES wenn man Raspberry Pie bauen kann.. natürlich nur für alle mit Lizenz ^^
+[03:21:11] <Karies _> wegen der hardware.. nostalgie usw
+[03:21:51] <raptorh> naja der raspi hat seine leistungsgrenze und du hast nicht das look and feel aber im prinzip hast du recht @Julez 554
+[03:22:16] <Karies _> eigentlich müsste man sich jetzt mit gba und 3ds zeug eindecken.. nooch ists günstig.. und in 10 jahren kommt der nächste retrohype
+[03:23:15] <Karies _> so wie die betreiber vom kuschelmuschel .. die haben damals tonnen an zeug eingekauft und machen jetzt geld ohne ende
+[03:23:32] <Karies _> super laden btw.
+[03:23:53] <raptorh> ich finds halt aufm mini nes doof, das du keine module amschließen und keine spiele nachrüsten kannst... find ich einfach doof
+[03:24:02] <Julez 554> Gutes Argument kann ich auch nachvollziehen aber da machts nur bedingt sinn wenn man schon eine am TV stehen hat
+[03:24:30] <Karies _> ja das ist echt etwas blöd.
+[03:27:14] <Julez 554> lässt sich auch schwerer modden wenn man da affin ist
+[03:27:47] <raptorh> naja wahrscheinlich hätte nintendo dann auch emulieren müssen, weil du mit den damaligen architekturen nicht auf full hd kommst oder nen neuen chip machen lassen müssen und das wäre zu teuer
+[03:27:52] <Karies _> die meisten nintendo/sega/neogeo sachen zocke ich eh auf der dreamcast. habe mir vor jahren mal alle 8 / 16 bit sachen gezogen.
+[03:28:16] <raptorh> schnell paar spiele aufn anderen prozessor portiert und gut, fanboys schlagen schon zu
+[03:28:25] <Karies _> auf der dc lässt sich der alte kram gut mit kumppels zocken
+[03:29:38] <raptorh> ich zocke erstaunlich oft mit ner kollegin auf der wii (kp ob schon retro) die partyspiele machen einfach laune
+[03:30:16] <Julez 554> Man kann natürlich auch alles über Android laufen lassen auf TV samt controller
+[03:30:34] <Julez 554> Mame hab ich nur über android laufen
+[03:32:33] <raptorh> man kriegt auch fast alles am pc emuliert (wenn man eh einen hat), von dem her hast genug möglichkeiten dass man das mini ding nicht braucht
+[03:34:37] <Imaqtpie> jojo
+[03:35:07] <Karies _> die meisten smartphones machen das schon ganz gut.. aber die steuerung omg.  da kann man echt nur rpg zocken.
+[03:36:38] <raptorh> @Karies _ hab mal so ne art hülle gesehen wo du das handy rein legst und lings und rechts dann digipad und buttons hast, ist aber auch mehr spielerrei als altagstauglich
+[03:40:22] <raptorh> ich versuch nochmal die augen ne runde zu zu drücken, maachts gut leute
+[03:40:32] <aleister crowley> HALLO, KÖNNT IHR NILS GRÜSSEN, ICH BINS DER FRAGER
+[03:40:52] <Karies _> ok rapthor hau rein
+[03:41:04] <Karies _> ich kuck nochn paar folgen avgn
+[03:41:20] <Karies _> kenne das lp ja schon
+[03:42:15] <aleister crowley> WENN IHR MEINE FRAGE VORLEST, WEISS ICH IHR LEST MEINE FRAGE
+[03:42:48] <Karies _> es ist nicht live dude 😉
+[03:43:17] <aleister crowley> DAS IST ABER VOLL KAKE
+[03:43:22] <aleister crowley> DANKE MATE
+[03:48:08] <mister unbekannt> sewos
+[03:49:14] <Nixda Smiregal> wie auch immer
+[03:49:21] <CrazyMalaka100> shit
+[03:49:30] <CrazyMalaka100> war smb heute oder morgen?
+[03:49:53] <mister unbekannt> du bist gut skyrem auch so ein spiel
+[03:50:04] <Nixda Smiregal> guck mal in den sendeplan
+[03:50:58] <phucking phreak> !wochenplan @CrazyMalaka100
+[03:51:02] <+DerGruneWinni> SmB war gestern
+[03:51:25] <%Nightbot> @CrazyMalaka100 : Den aktuellen Wochenplan findest du hier:  https://www.rocketbeans.tv/wochenplan/?details=1
+[03:51:52] <Nixda Smiregal> das kommt davon lol
+[03:53:01] <CrazyMalaka100> Schade, aber danke
+[03:53:38] <Nixda Smiregal> die sind selten nachts live
+[03:54:35] <CrazyMalaka100> naja die frage war eher, ob es gestern(son) abend lief oder heute (mon) abend
+[03:56:02] <+DerGruneWinni> Lief gestern (Sonntag) aber das VOD ist bestimmt schon hochgeladen
+[03:56:17] <phucking phreak> Sonntag 21 Uhr
+[03:57:16] <CrazyMalaka100> jo, gucke grad den ersten Teil
+[03:57:49] <phucking phreak> 👍
+[04:01:00] <phucking phreak> manchmal funktioniert der nightbot sogar 😉
