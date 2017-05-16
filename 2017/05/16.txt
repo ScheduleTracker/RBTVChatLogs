@@ -2069,3 +2069,423 @@
 [09:03:35] <Wh00kI> ja ist aber auch die ausnahme die sagen immer hey wir werden dich übernehmen nur damit man schön motiviert bleibt und am ende schicken sie einen wieder auf die straße
 [09:04:28] <Pro-emit> was haltet ihr in dem Zug denn von dem bedinungslosen Grundeinkommen - gerade für wichtige Jobs die mies bezahlt werden ja eine interessante Geschichte - Pflege, Reinigung, soziale Berufe..
 [09:04:51] <Othar> Wenn die Tendenz wenigstens so wäre, dass es "positiver" wird in Zukunft, aber man wird ja immer mehr ausgenutzt und das merken ja auch immer mehr...
+[09:05:27] <raptorh> ich halte die idee, dass man sich kurzfristig arbeitskräfte ins haus hohlt für echt geil, aber da gibts zuviele schlupflöcher die schamlos ausgenutzt werden 😞  am schlimmsten dran sind die leih-
+[09:05:43] <inge braun> ist wie essensmarken fürs volk ..damit löst man keine probleme
+[09:05:49] <raptorh> arbeiter aus frankreich die in Deutschland arbieten.... arme leute
+[09:06:00] <Wh00kI> davon halte ich nicht viel ich bin für einen mindestlohn und gleiche bezahlung ganz gleich ob zeitarbeiter oder nicht @Pro-emit
+[09:06:31] <K3hx> meine firma hat mir nach der ausbildung auch nur einen befristeten vertrag gegeben. mal sehen ^^
+[09:06:33] <Othar> @Pro-emit Das ist ein heikles Thema, da müssen auch andre Rahmenbedingungen angepasst werden, in nem Zinseszinssystem macht das wenig Sinn.
+[09:06:37] <Pro-emit> das ist etwas zu kurz gedacht, denke ich @inge braun - man muss das mal durchspielen - essensmarken ist da das komplett falsche bild
+[09:06:41] <Wh00kI> ist der std lohn in frankreich noch schlechter oder wie meinste das? @raptorh
+[09:07:24] <Wh00kI> immerhin mich haben die nicht übernommen nach der ausbildung @K3hx
+[09:07:49] <+Bugfix 85> dazu müsste man aber auch das Steuersystem in Frankreich kennen + Lebensunterhaltskosten
+[09:07:50] <Pro-emit> Das unser Finanzsystem zum regelmäßigen Scheitern verurteilt ist, sehen wir jedes Mal wenn wieder eine Blase platzt und irgendwer der Leittragende ist, der die Schulden hat..
+[09:08:05] <raptorh> @Wh00kI hm ne iwie sind die drüben angestellt und haben deshalb keinen bezahlten urlaub, müssen nicht übernommen werden egal wie lang da usw....
+[09:08:15] <Wh00kI> whay mein teile für meinen neuen rechner sind unterwegs nice 😀
+[09:08:52] <Pro-emit> Daher finde ich es selbstredend, dass die Rahmenbedingungen für ein Bedingungsloses Grundeinkommen gegeben werden müssen. Daher sollte man den Gedanken auch vom jetzigen System lösen.
+[09:09:00] <Don Spex> Kurze frage, warum guckt ihr in die baumkronen anstatt sich mit der Wurzel zu befassen?
+[09:09:04] <+Bugfix 85> Wenn ich in De höre das Mindestlohn steigt um 1€ aber auch Steuern steigen, strom, miete etc teurer wird und ich unterm Strich +/-0 raus bekomme na dann glückwunsch 😀
+[09:09:26] <inge braun> naja wenn dann muss das jeder bekommen an leute die das garnicht brauchen,ich wäre eher dafür die sanktionen zu streichen
+[09:09:29] <Wh00kI> lockere arbeitsgesetze also sind die nicht deswegen auf die straßen gegangen noch vor paar wochen? @raptorh
+[09:09:40] <raptorh> @Wh00kI war zu abi zeiten als 450 euro kraft in ner firma wo das so war, wir sind grenznah und hört man immer wieder auch aus anderen firmen... echt mies
+[09:09:46] <Othar> @Pro-emit Witzig ist ja, dass oft Menschen in sozialeren Berufen das eher so sehen, wer darauf gedrillt ist, möglichst viel Profit aus allem rauszuholen hat momentan noch keinen Leidensdruck.
+[09:09:47] <Pro-emit> Die Frage ist, was ist denn Deiner Meinung nach die Wurzel? @Don Spex
+[09:09:53] <raptorh> @Wh00kI machen die ständig, nutzt nur iwie noch nichts
+[09:10:57] <Don Spex> Das keine der Waehrungen dieser welt bspw doch einen standard gehalten warden, wie anno dazu der Dollar durch gold
+[09:11:16] <Don Spex> *werden
+[09:11:19] <+HAHA Reingelegt> Nochmal auf Deutsch.
+[09:11:27] <Wh00kI> den trend in dieser richtung sieht man ja hier bereits @raptorh
+[09:11:31] <Othar> Jeder ist bei jedem verschuldet Don Spex, wem zahlt man überhaupt noch was zurück irgendwann? 😛
+[09:11:32] <Esusa> guten morgen chad <
+[09:11:34] <Esusa> ❤
+[09:11:45] <raptorh> morgen erasu
+[09:11:48] <+Bugfix 85> moin 😃
+[09:11:52] <Wh00kI> moinsen
+[09:12:18] <Pro-emit> Ja, da bin ich absolut bei Dir Don - der Wert des Geldes ist obsolet und nur eine Zahl, wenn es nicht mit Gold aufgewogen wird, aber ob das alle Probleme löst, vorallem die sozialen?!
+[09:12:43] <Wh00kI> gestern war meine alte firma übrigens in den nachrichten... ist in die luft geflogen^^
+[09:12:57] <raptorh> @Wh00kI das hasse ich an meinem job 😞  ich bau ja maschinen die möglichst so sind, dass das jeder trottel kann... wenigstens darf ichs so machen, dass es sicher ist, nicht wie in anderen ländern
+[09:13:14] <Don Spex> Das thema ist doch einmal was man fuer geld amchen wuerde oder nicht? da das geld heutzutage eigentliche keinen wert mehr hat, da es einfach generiert werden kann
+[09:13:22] <+Bugfix 85> wer außer wir betroffenen macht sich denn um das Soziale Gedanken? 😀 Mitglieder einer Partei bestimmt nicht
+[09:13:42] <Zaldarion> @Wh00kI hässte ja ncihtr gleich sop drastisch die kündigung ausdrücken müssen 😧
+[09:13:51] <raptorh> @Bugfix 85 die spd stand vor nem halben jahrhundert noch dafür
+[09:13:58] <Wh00kI> irgendwann läuft jede produktion voll automatisch denk ich @raptorh
+[09:14:18] <Othar> @Don Spex Geldschöpfung aus dem Nichts, ist ja nichts Neues mehr, aber das exponentielle Wachstum hat eben den Punkt noch nicht erreicht, an dem es zerbröselt...
+[09:14:20] <Pro-emit> Das stimmt wohl @Othar - lässt sich aber auf so ziemlich alles beziehen. wer keine probleme hat, sieht nicht die notwendigkeit der veränderung. es ist aber an der zeit auch an andere zu denken.
+[09:14:22] <raptorh> @Wh00kI nein, wirst du nie schaffen
+[09:14:51] <Wh00kI> haha ne keine sorge bin schon seit einem jahr nicht mehr in der firma bin froh das es nicht passiert ist als ich noch da war^^ @Zaldarion
+[09:15:24] <Wh00kI> hmm mal schauen schwer zu sagen kennst du das VW werk das voll automatisch lief?@raptorh
+[09:15:32] <Zaldarion> @raptorh ohoh, nie ist sone aussage... bill gates sagte auch mal das man nie mehr als 120 kb ram brauchen wird
+[09:15:44] <Einfach Ich> Der Blick
+[09:15:55] <Othar> @Pro-emit Dieses Denken ist heutzutage nicht gern gesehen glaube ich manchmal... hat man irgendwie irgendwann negativ belegt.
+[09:16:42] <+Bugfix 85> Hunger 😨 @Zaldarion mach mir was!
+[09:16:44] <raptorh> @Wh00kI @Zaldarion  spätestens wenn was kaputt geht, brauchst du menschen... ok nie ist übertrieben, vlt in ner weit entfernten zukunft...
+[09:16:45] <inge braun> ne ihr habt nur negative vipes würde konfuzius sagen
+[09:16:58] <Einfach Ich> Ich hab auch hunger @Zaldarion
+[09:17:09] <Wh00kI> dieses voll automatisierte werk war der größte reinfall da lief gar nix richtig VW ist darauf gar nicht gut zu sprechen dauernd standen die maschinen @raptorh
+[09:17:17] <Zaldarion> @Bugfix 85 💩
+[09:17:31] <+Bugfix 85> 👿 in your face
+[09:17:34] <Othar> Konfuzius würde ihm mit der Peitsche in die Fresse hauen inge braun 😀
+[09:18:00] <Zaldarion> @raptorh vll sone selbstversorgende anlage mit robotern die robotter reparieren unzo 🐯
+[09:18:03] <+Bugfix 85> scheisse sehe ich auf Arbeit genug...kein Appetit drauf
+[09:18:19] <Zaldarion> @Bugfix 85 😯 ein festmahl
+[09:18:29] <Wh00kI> mein prof hat auch bei ZDF oder so was mal dazu gesagt er meint das die industrie 4.0 nicht funktionieren kann @raptorh
+[09:19:15] <Zaldarion> 🤔 weil sich gelehrte noch nie geirrt haben in der vergangenheit
+[09:20:10] <Othar> Der Prophet im eigenen Land zählt nicht Zaldarion 😛 Viele wissen, dass es anders besser wäre, aber über allem steht das Geld noch 😀
+[09:20:12] <Wh00kI> ja ich bin da auch vorsichtig bin solchen aussagen jedenfalls klappt das jetzt noch nicht wie man sich das gerne vorstellt
+[09:20:19] <Wh00kI> mit*
+[09:21:06] <+Bugfix 85> Diarrhoe 😚
+[09:21:27] <Zaldarion> @Othar spätestens dann wenn die industrialisierung so fortgeschritten is das man keien menschen mehr braucht is das mit dem geld unnütz, da es keine arbeiter mehr gibt die bezahlt werden --
+[09:21:46] <Zaldarion> @Othar .. gibt es auch keine käufer mehr die die ware abnehmen die produziert wird
+[09:22:18] <inge braun> die jugend hat heimweh nach der zukunft.
+[09:22:19] <Othar> @Zaldarion Das stimmt, das ist eine von ein paar Möglichkeiten, es gäbe dann zwar Ware, aber gerade noch ein paar Prozent hätten Geld um es kaufen zu können.
+[09:22:19] <Wh00kI> wenn man keiner arbeiter mehr braucht... braucht man dann eig noch schule?🤔
+[09:22:50] <Pro-emit> Ich bin aber wirklich positiv überrascht wir tiefgründig hier die diskussionen gehen, sowas findet man ja chattechnisch eher selten
+[09:22:54] <Pro-emit> *wie
+[09:22:59] <The BrotKing> oberhauptvogel xD
+[09:23:19] <+Bugfix 85> @Pro-emit funktioniert nur Früh am Morgen 😃
+[09:23:34] <Zaldarion> @Othar auch nicht mehr, weil ja bei denen die noch geld hätten kein frisches geld nachkommt wird auch das irgendwann aufgebraucht und die gesellschaft wird sich etwas neues einfallen lassen müssen
+[09:23:40] <inge braun> ja in klugscheissen sind wir weltmeister
+[09:23:52] <Othar> @Pro-emit Ist ganz dufte zwischendurch, ja, tut gut. Aber kann auch sehr schnell ausarten, wenn man selber nicht aufpasst und zu verschwörerisch wird z. B. passiert mir manchmal 😀
+[09:23:54] <Wh00kI> morgens trifft sich die Elite im Chad 😬
+[09:23:58] <Pro-emit> wir sollten die beans partei gründen ;)
+[09:24:26] <Wh00kI> 😂
+[09:24:28] <+HAHA Reingelegt> xd
+[09:24:31] <+Bugfix 85> die RBP hat immer Recht!
+[09:24:44] <fizf jhfgu> was is hier los
+[09:24:56] <Zaldarion> chad is 1. vorsitzender 🍧
+[09:24:59] <Othar> @Zaldarion Da hast recht, ja spätestens dann wär Exitus.
+[09:24:59] <+Doktor Lowrider> Guten Morgen meine Damen und Herrren, wünsche wohl geruht zu haben.
+[09:25:05] <Pro-emit> ja die Sache mit den Verschwörungen - durch 50% Wahrheit und 50% Schwachsinn lassen sich immer wieder Leute einfangen..
+[09:25:07] <Einfach Ich> Moin
+[09:25:14] <G3n3ral Cookie> hab grad erst eingeschaltet, wer ist mützi und was hats mit den zeichnungen auf sich? xD
+[09:25:15] <+Bugfix 85> moin Dok
+[09:25:17] <Wh00kI> RBPD ( Raketen Bohnen Partei Deutschland ) 🤣
+[09:25:29] <Zaldarion> @Othar naja aber bis dahin wird sowieso noch viel blut fließen
+[09:25:33] <Pro-emit> Lowrider.. erinnert mich an die 2000er
+[09:25:38] <Pro-emit> man waren die ekelig ;)
+[09:25:46] <fizf jhfgu> ja echt schade wieivle leute glauben dass die erde rund ist 🌝
+[09:26:13] <Othar> @Zaldarion Wahrscheinlich wirds so sein, wenn wir Glück haben kommt unsere Generation noch so durch.
+[09:26:33] <Pro-emit> ..also die Lowrider waren ekelig, nicht die 2000er ^^
+[09:26:44] <%Zeddy> moin moin
+[09:26:58] <fizf jhfgu> oh gott nicht Zeddy 🙈
+[09:27:12] <+Bugfix 85> gumo @Zeddy ❤ alles im Lot?
+[09:27:15] <Wh00kI> moin
+[09:27:20] <Steen Rai> 3 std Zelda Hype!
+[09:27:26] <%Zeddy> @fizf willst du direkt raus?
+[09:27:55] <%Valkyrie0025> moin chad
+[09:27:56] <+Doktor Lowrider> @Pro-emit  das kann nur jemand sagen der noch nie auf 3 rädern durch ne kurve gefahren iss ^^
+[09:27:57] <fizf jhfgu> wie war nochmal die mail adresse um sich über moderatoren zu beschweren? 🌝
+[09:27:59] <+Bugfix 85> 3h Donnie 👿
+[09:28:07] <%Zeddy> @Bugfix 85 moin ❤ sischa datt
+[09:28:08] <Zaldarion> @Othar 🤔bei dem ganzen populissmus bezweifel ich das
+[09:28:10] <%Valkyrie0025> @zeddy moien 😃
+[09:28:19] <Othar> Servus Valkyrie 😃
+[09:28:25] <+Bugfix 85> @Valkyrie0025 😯 gumo ❤
+[09:28:28] <Wh00kI> und nochmal moin^^
+[09:28:31] <%Zeddy> @valkyrie0025 moin
+[09:28:33] <Zaldarion> @Zeddy @Valkyrie0025 😯//
+[09:28:47] <%Valkyrie0025> @Bugfix 85 ❤ moin
+[09:28:49] <Wh00kI> chad füllt sich langsam mit leben
+[09:28:53] <%Zeddy> @Zaldarion moin ☺
+[09:29:02] <%Valkyrie0025> @zaldarion huhu 😃 /
+[09:29:04] <Pro-emit> @Doktor Lowrider okay, erwischt - ich meinte aber andere lowrider - die man heute autoflower nennt. 😉
+[09:29:28] <%Zeddy> !regeln
+[09:29:30] <+Bugfix 85> Autoflower 😂 werden ja immer kreativer
+[09:29:30] <%Nightbot> Zeddy :  Hier sind die Regeln für den chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[09:29:41] <+Doktor Lowrider> @Pro-emit  die schreiben sich doch ganz anders ^^
+[09:29:57] <Wh00kI> !p&p
+[09:29:58] <%Sendeplan> @Wh00kI: Aktuell läuft [Wdh.] Bohn Jour - . Um 10:30 folgt  [Live] MoinMoin #590 - Die Morning-Show mit Budi und den Magnology Freunden.
+[09:30:00] <%Nightbot> Das nächste Pen and Paper Abenteuer findet statt in 10 days 11 hours 15 minutes
+[09:30:01] <Othar> @Zaldarion Wenn man es so sieht bräuchten wir mehr Politiker wie Trump, Berlusconi oder so wie Franz Josef Strauß war, unangenehm, aber nur so werden genug aufgerüttelt vielleicht.
+[09:30:08] <+Doktor Lowrider> jaja ein hoch auf die genetiker - und marketing spezis
+[09:30:10] <Pro-emit> das mag sein, ich habe den Namen wohl verdrängt ;)
+[09:30:11] <Wh00kI> doch schon so früh
+[09:30:21] <Pro-emit> auf jeden Fall hat es das bei mir getriggert
+[09:30:25] <%Valkyrie0025> @othar dir auch ein entspanntes moin 😃
+[09:30:36] <Pro-emit> since iam a led manufacture..
+[09:30:38] <%PandaBlack> uhh, Cosplay bei MoinMoin
+[09:30:42] <%PandaBlack> Ahoy hoy @Valkyrie0025
+[09:30:55] <Zaldarion> @Othar und ich dachte wir hätten schon genug davon 🐯 die gefahr dabei is, das es immer gibt die das feue
+[09:30:59] <%Zeddy> @Pandablack moin
+[09:31:00] <inge braun> der chad ist blau
+[09:31:04] <Zaldarion> @Othar feiern*
+[09:31:07] <Pro-emit> Nichts gegen Marketingprofis. ;)
+[09:31:10] <%PandaBlack> Ahoy hoy @Zeddy @Zaldarion  😃
+[09:31:10] <+Doktor Lowrider> genau @Pro-emit  - ich mags da eher "klassisch"
+[09:31:14] <Zaldarion> @PandaBlack 😯 //
+[09:31:40] <Othar> @Zaldarion Das ist die Gefahr dabei, ja, aber Revolution entsteht ja aus Hoffnung 😀
+[09:31:41] <Wh00kI> nun
+[09:31:44] <Pro-emit> klassisch imSinne von Regular - aber da wird es ja auch imemr rarer
+[09:31:53] <Zaldarion> so kurz afk... muss "raus" 😨
+[09:32:02] <%Nightbot> Das neue Q&A ist online! https://www.youtube.com/watch?v=OUW5JDKlSFk
+[09:32:14] <Wh00kI> ah sonne
+[09:32:29] <+Doktor Lowrider> @Othar  gegen was soll heute revoltiert werden?
+[09:32:32] <Othar> @Valkyrie0025 Ist wirklich sehr entspannt Valkyrie, wir haben diskutiert ohne dass jemand batzig wurde, toll gell? 😃
+[09:32:33] <fizf jhfgu> könnt ihr bitte aufhören über anbau illegaler substanzen zu reden? sons muss ich als anwalt leider anzeigen schreiben 📙
+[09:32:34] <+Bugfix 85> *Chats von euch überdauern bis in die Ewigkeit* 🎤🎼
+[09:32:48] <inge braun> und ich dachte revolution ist wenn man collin köpft
+[09:33:19] <Wh00kI> zustände wie im alten frankreich nenene
+[09:33:20] <+Doktor Lowrider> @fizf jhfgu  deinen "deutschen" anwalt?
+[09:33:31] <Othar> @Doktor Lowrider Schlag was vor, ich hol derweil mein Revoluzzerkit ausm Keller.
+[09:33:40] <Einfach Ich> @Valkyrie0025 Moin Fräulein Obernase ❤ ☕
+[09:33:51] <+Doktor Lowrider> 😉
+[09:34:09] <Zombie B> @fizf jhfgu du bist ja drollig 😀
+[09:34:27] <%Valkyrie0025> @PandaBlack hey 😃
+[09:34:48] <+Doktor Lowrider> @Othar  das problem ist - es geht nicht im kleinen rahmen - sonst würd ich mit banken - oder subventrionen anfangen - aber man MUSS ja immer gleich den ganzen Apperat zerschlagen ^^
+[09:35:07] <Sven Schulz> krogmann is live mit amsel tv
+[09:35:17] <fizf jhfgu> wtf ist amsel tv
+[09:35:31] <%PandaBlack> @fizf jhfgu mach erstmal nur Notizen, später können wir dann alles hochgehen lassen  😎
+[09:35:33] <Pro-emit> man muss es machen wie erdogan und das system als zug nehmen um ans ziel zu kommen. man sollte aber eine andere agenda verfolgen. ;)
+[09:35:48] <Othar> @Doktor Lowrider Wir suchen uns einfach in den Schweizer Alpen einen Berg auf dem es noch W-Lan gibt und dann denken wir uns in Ruhe was aus erstmal 😀
+[09:35:53] <%Valkyrie0025> @othar waren personen dabei die sonst auch eher besonnen sind? ^^ hab nix gegen solche diskussionen wenn man sich erwachsen benimmt ^^
+[09:35:55] <Sven Schulz> erinnert euch an jugendzimmer dann wisst ihr es
+[09:36:04] <fizf jhfgu> @PandaBlack ist gebongt 😎
+[09:36:10] <+Doktor Lowrider> @fizf jhfgu  revolten zu planen ist auch verfassungsfeindlich - das musste deinen anwalt auch gleich stecken ^^
+[09:36:22] <fizf jhfgu> @Doktor Lowrider ICH BIN der Anwalt
+[09:36:32] <Einfach Ich> 😀
+[09:36:45] <inge braun> nicht wenn man ein neue verfassung macht
+[09:36:51] <inge braun> 😀
+[09:36:56] <Othar> @Valkyrie0025 Ich werte hier niemanden, heute waren wir jedenfalls nach den Mod-Standards anständig 😃
+[09:37:04] <DEEP WEB> hö
+[09:37:08] <+Doktor Lowrider> 😉
+[09:37:13] <klunt tabunt> tach
+[09:37:17] <%Valkyrie0025> @einfach moien ❤ 😃
+[09:37:23] <Wh00kI> laut Xavier ist deutschland nur eine GmbH 😀
+[09:37:42] <+Bugfix 85> war angenehm @Valkyrie0025 😃
+[09:37:42] <%Zeddy> @Othar ich habs gelesen ☺
+[09:37:43] <DEEP WEB> moin moin  analle dudes
+[09:37:51] <Einfach Ich> @Valkyrie0025 gut geschlafen?
+[09:37:55] <%Valkyrie0025> @othar fein 😃
+[09:37:59] <+Doktor Lowrider> das trifft es auch recht gut @Othar
+[09:37:59] <Einfach Ich> @Zeddy Moin ❤
+[09:38:09] <fizf jhfgu> also ich hab der GMBH Deutschland auch schon gekündigt und meinen Personalausweis weggeschmissen weil ich kein Personal dieser GMBH sein will, ist doch logisch 🌝
+[09:38:11] <Zombie B> @fizf jhfgu woher kommt dein Name? Klingt orientalisch ..vielleicht auch klingonisch .. ^^
+[09:38:14] <inge braun> wen interessiert schon was der ne..künstler sagt
+[09:38:17] <%Zeddy> @Einfach ich moin ❤
+[09:38:17] <Othar> @Zeddy @Valkyrie0025  Das freut mich 😃
+[09:38:36] <fizf jhfgu> @Zombie B musst du meiner mutter fragen, die hat mich damals so genannt
+[09:38:53] <Wh00kI> er muss wohl im knast mal gewesen sein 😀
+[09:39:28] <%PandaBlack> @fizf jhfgu vergiss nicht dein Nummernschild verkehrt herum am Auto festzumachen
+[09:39:58] <inge braun> bessere werbung gibts doch nicht..xavier der faschistische gangster
+[09:40:04] <+Doktor Lowrider> wenn revolution, dann mal eine bei der nicht millionen sterben und sich nach 30-40 jahren keiner mehr dran erinnern kann...
+[09:40:12] <+GesichtsKuchen> @Zeddy ❤
+[09:40:15] <fizf jhfgu> xavier naidoo ist soviel gangster wie mein toastbrot
+[09:40:20] <+GesichtsKuchen> @PandaBlack ❤
+[09:40:24] <+Bugfix 85> @GesichtsKuchen  ❤
+[09:40:26] <Sille 1988> Noch 5 Minuten schlafen ._.
+[09:40:26] <%Valkyrie0025> @Einfach Ich mal wieder krude geträumt. vom knutschen mit schlechtem skill ^^ und selbst?
+[09:40:32] <%PandaBlack> @GesichtsKuchen hoy hoy ❤
+[09:40:38] <+GesichtsKuchen> @Bugfix 85 ❤
+[09:40:44] <+Doktor Lowrider> och nö
+[09:40:54] <DEEP WEB> xavier kracht in dein gehetto wie ein mond
+[09:41:11] <Sille 1988> @Valkyrie0025 Knutschen mit schlechten Skill? Du hast aber nicht von mir geträumt oder? Oo
+[09:41:14] <Einfach Ich> @Valkyrie0025 äh...du träumst aber auch Sachen xD Naja so gut wie gar nicht geschlafen aber bin fit ^^
+[09:41:19] <Sille 1988> Hallo Leut ^^
+[09:41:23] <Othar> @Doktor Lowrider Dafür gibts doch Denkmäler... die aber meistens so voll Vogelkacke sind, dass man das Schild nimmer lesen kann. 😀
+[09:41:26] <Wh00kI> moin moin
+[09:41:29] <Einfach Ich> @Sille 1988 Moin 😗 ❤
+[09:41:40] <Sille 1988> @Einfach Ich 😗 Moin ❤
+[09:41:43] <+Bugfix 85> gumo @Sille 1988  ❤
+[09:41:52] <Zaldarion> @GesichtsKuchen @Sille 1988 🐯/ ❤
+[09:42:02] <+GesichtsKuchen> @Zaldarion ❤
+[09:42:03] <fizf jhfgu> RIP Twitch chat 😖
+[09:42:04] <+GesichtsKuchen> @Einfach Ich ❤
+[09:42:06] <+GesichtsKuchen> @Sille 1988 ❤
+[09:42:08] <Zaldarion> 😨 drussen is ... draussen
+[09:42:12] <HidekoYamamoto94> @Wh00kI Xavier hat sich ganz klar gegen Rechtspopulismus ausgesprochen
+[09:42:12] <Sille 1988> @Bugfix 85 Morgen ^^ ❤
+[09:42:17] <Einfach Ich> @GesichtsKuchen ❤ Kuchi ❤
+[09:42:24] <+Bugfix 85> ich träume nie was aber wenn ich das so lese ... top 👍
+[09:42:32] <Sille 1988> @Zaldarion Zaldi ❤ 😗 / @GesichtsKuchen Kuchi ❤ 😗 /
+[09:42:41] <%Valkyrie0025> @Sille 1988 bist du männlich und und schnauzträger? ^^
+[09:42:42] <Othar> @Zaldarion Du hast tatsächlich überlebt? Respekt
+[09:42:51] <Sille 1988> @Valkyrie0025 Neee 😦
+[09:42:56] <Zaldarion> @Othar schutzanzüge helfen 😚
+[09:43:03] <fizf jhfgu> @Valkyrie0025 höchstwahrscheinlich schon wenn man sich im chat als frau ausgiebt 🌝
+[09:43:03] <inge braun> und was ist rechtspopulismus
+[09:43:05] <+GesichtsKuchen> @Valkyrie0025 ❤
+[09:43:22] <Othar> @Zaldarion Der Dreck auf deiner Haut ist kein Schutzanzug...
+[09:43:30] <+Doktor Lowrider> @Othar  die müssen aber mal so gebaut werden, dass sie nicht ein einer nacht-und-nebel-aktion von den neuen Herrschern entfernt werden können - mal so was richtig großes!
+[09:43:31] <%Zeddy> @Gesichtskuchen moin ❤ sorry, gar nich gesehn
+[09:43:34] <DEEP WEB> heiraten= der sichere Tod
+[09:43:38] <Wh00kI> für mich ist das nicht rechts was der sagt hab ich auch nie behauptet^^ @HidekoYamamoto94
+[09:43:43] <Zaldarion> @Othar 📙 was denn dann?
+[09:43:57] <%Valkyrie0025> @Einfach Ich klingt okay 😃 ansonsten pass dich dem schlafrhytmus des knubbels an ^^
+[09:44:13] <+Bugfix 85> @Zaldarion  hatteste heute das Teletubbie-Outfit oder den Astronautenanzug an?
+[09:44:22] <Othar> @Zaldarion Ich bin da Experte und sage dir jetzt: Google es du fauler Sack 😀
+[09:44:23] <Sille 1988> Sie haben sich übrigens damals wirklich verlobt, aber das wollte keiner glauben damals 😕
+[09:44:24] <Wh00kI> ich war verheiratet "hahaha" 3 mal "uuuuuuuh" hot shots^^
+[09:44:30] <%PandaBlack> @DEEP WEB never 😛
+[09:44:40] <Zaldarion> @Bugfix 85 ne mischung 🐯@Othar 😨 neee
+[09:44:55] <fizf jhfgu> ghandi würd ich auch heiraten der ist steinreich obwohl er predigt keinen materiellen besitz zu haben 😂
+[09:45:02] <%Nightbot> Hey Böhnchen, ihr schaut gerade überlange Werbung? Dann tut unserem Treibstofftank einen Gefallen und wartet 30 Sekunden, bis ihr sie überspringt. Das füllt den Tank und ihr verpasst trotzdem nichts.
+[09:45:03] <+Bugfix 85> @Zaldarion 😂 *kopfkino*
+[09:45:11] <Einfach Ich> @Valkyrie0025 wird schwierig ich schaff sowas nicht. Mein Mann macht des aber so xD
+[09:45:12] <DEEP WEB> @PandaBlack  nicht so dein fall? D
+[09:45:16] <%Valkyrie0025> @fizf jhfgu mir ist das so schnurz und um sowas mache ich mir keinen kopp mehr. hauptsache herz am richtigen fleck.
+[09:45:18] <Othar> @Doktor Lowrider Wie wärs mit Pyramiden? Das gabs noch nie glaub ich. 😀
+[09:45:33] <Zaldarion> @Bugfix 85 🐯 gern geschehen
+[09:45:45] <inge braun> kann man nicht einfach sagen das dass lied kacke ist ohne ihm ein hitlerbärtchen aufzumalen
+[09:45:52] <Sille 1988> Irgendwie merk ich immer wieder, dass ich für Romantik absolut unempfänglich bin Oo
+[09:45:52] <Hagbard Celine> die monstera ist geil
+[09:45:57] <%Valkyrie0025> @GesichtsKuchen ❤ 😃
+[09:46:01] <fizf jhfgu> verloben über ts? na herzlichen glückwunsch 😂
+[09:46:21] <+Doktor Lowrider> @Othar  wenn, dann müssten sie auf dem kopf stehen - symbolisch stehen die aktuellen ja doch eher für unterdrückung ^^
+[09:46:26] <Wh00kI> bald geht heiraten über das internet  haha
+[09:46:35] <OMEGA Germany> MoneyBOY
+[09:46:37] <DEEP WEB> romantik resistentz eine volkskrankheit
+[09:46:44] <Vincent Jascha> @Sille 1988 du bist also eher Typ "Ficken?" 😀
+[09:46:54] <Othar> @Sille 1988 Viel Schnitzel essen zu können hat mit viel Fantasie auch etwas romantisches, bestimmt 😛
+[09:47:03] <Sille 1988> @Vincent Jascha Nein und wenn du das glaubst, verpiss dich Oo 😛
+[09:47:15] <Wh00kI> na
+[09:47:24] <Sille 1988> @Othar Du hast es gestern also gelesen was? ^^
+[09:47:36] <fizf jhfgu> ich wette wenn ich jemandem sagen würde er soll sich verpissen würde ich ne stunde TO bekommen 🤔
+[09:47:41] <Wh00kI> pissen sagt man nicht pissen macht man ☝
+[09:47:42] <Zerja 89> was war daran romantisch ? soetwas macht man persönlich, alles andere ist einfach feige, bald kommt heirat über sms oder wie ? 😀
+[09:47:51] <Othar> @Sille 1988 Ich lese nur das was ich nicht lesen soll 😛
+[09:48:00] <+Doktor Lowrider> sille - der ton iss echt unangebracht
+[09:48:11] <Vincent Jascha> @Sille 1988 dann bist du ja doch empfänglich für romantik 😉 ich mein nur, manchmal fällt einem nicht sofort auf was alles in einem Begriff inbegriffen ist.
+[09:48:20] <%Zeddy> @fizf es kommt auch auf die Menge an scheisse an, die man hier verzapft
+[09:48:25] <Wh00kI> pfui pfui
+[09:48:50] <inge braun> das schönste, was ein junge seinem mädchen sagen kann, ist: "schatz, das nächste mädchen, das ich lieben werde, wird unsere tochter sein!
+[09:48:52] <+Bugfix 85> pissen, scheisse ... ich esse!
+[09:48:56] <%PandaBlack> @fizf jhfgu 🤔
+[09:49:03] <fizf jhfgu> @Zeddy naja auch in diesem punkt ist entsprechender chatuser ganz vorne dabei
+[09:49:06] <+Bugfix 85> aber macht weiter, stört mich nicht. 😋
+[09:49:11] <OMEGA Germany> dayum
+[09:49:11] <Sille 1988> @Vincent Jascha Ja aber du glaubst doch nicht das es nur das eine und das andere giibt? ^^
+[09:49:13] <Vincent Jascha> @Doktor Lowrider ne das war schon in Ordnung, wenn ich das nicht anders gemeint hätte wäre es ziemlich sexistisch gewesen
+[09:49:15] <OMEGA Germany> DONE
+[09:49:19] <%Zeddy> @Bugfix 85 sorry 😉
+[09:49:23] <+Bugfix 85> 😀
+[09:49:24] <%PandaBlack> @DEEP WEB never wegen der Aussage, ist schon mein Fall 😀
+[09:49:34] <Einfach Ich> 😀
+[09:49:45] <Othar> @Doktor Lowrider Da fällt uns noch was bessres ein irgendwann. 😃
+[09:49:50] <Sille 1988> @fizf jhfgu Schon mal was von ironie gehört? Du muss auch immer Stress schieben, wo keines ist.
+[09:49:57] <%Zeddy> @fizf da sehe ich eher doch ganz vorne
+[09:50:12] <WoP1008> ob die Beiden noch zusammen sind?
+[09:50:14] <Sille 1988> @Othar Merk ich ^^ 😛
+[09:50:14] <DEEP WEB> @PandaBlack  das ist ehernwert XD
+[09:50:21] <DEEP WEB> ehrenwert+
+[09:50:31] <%Zeddy> dich
+[09:50:34] <+Doktor Lowrider> @Othar  das erledigen wir alles an diesem abend auf dem berg in der schweiz ! ich mach schonmal ne liste
+[09:50:43] <Duke Thompson> @inge braun Den Spruch merk ich mir
+[09:50:45] <Wh00kI> krasse haare
+[09:51:11] <Kaneda> das sind haare?
+[09:51:12] <fizf jhfgu> ja wer kennt nicht das ironische "verpiss dich" 😂
+[09:51:13] <Vincent Jascha> @Sille 1988 natürlich gibts auch viele zwischenebenen. Genauso gibts halt nicht nur Männer die sexistische Kommentare Frauen gegenüber verfassen. 😜
+[09:51:16] <DEEP WEB> ich finde das pärchen super
+[09:51:19] <Wh00kI> Gandi mit langen haaren nice
+[09:51:21] <Sille 1988> @Wh00kI War ja klar, dass der Wooki unter uns auf die Haare steht 😛
+[09:51:37] <+Bugfix 85> @Sille 1988 😀
+[09:51:44] <Feri Nice> Rasta.Lord
+[09:51:55] <Othar> @Doktor Lowrider Dann bring ich Verpflegung mit 👍
+[09:51:58] <The BrotKing> süß die beiden
+[09:51:59] <Wh00kI> jeder hat einen fetisch 😛 @Sille 1988
+[09:52:01] <+Doktor Lowrider> ich hab ja glatze - werd da aber nicht neidisch
+[09:52:01] <Sille 1988> @Vincent Jascha Ähm, ja das wär mir klar. Habs auch nie behauptet und ich will darüber auch nicht reden. Das Thema ist schon lange durch 😉 ^^
+[09:52:27] <Sille 1988> @Wh00kI Jap meins ist Schnitzel 😛
+[09:52:37] <Wh00kI> dabei trag ich miene haare sehr kurz 3 mm^^
+[09:52:57] <Wh00kI> wichtig ist der Bart☝
+[09:52:58] <Othar> Das nennst du kurz? 1 mm ist kurz!
+[09:53:02] <Sille 1988> @Wh00kI Ein Nackidei 😮
+[09:53:23] <inge braun> shaped wookie oo
+[09:53:36] <+Doktor Lowrider> @Othar  ixi müssen wir auch mit ins boot holen - einer muss das ganze mit der weltrevolution ja auch protokollieren
+[09:53:37] <Esusa> lol
+[09:53:40] <fizf jhfgu> die art wie der redet geht mir irgendwie aufn sack
+[09:53:54] <Wh00kI> jetzt werd ich ganz roooooot 😀
+[09:54:09] <Einfach Ich> Die vorstellung
+[09:54:16] <Sille 1988> Da kenn ich noch einen hier, der einem auf den Sack geht 😌
+[09:54:16] <DEEP WEB> stop war make love
+[09:54:17] <+Bugfix 85> 😀
+[09:54:18] <%Zeddy> @fizf jhfgu un mir deine 😀
+[09:54:23] <Othar> @Doktor Lowrider Davon bin ich sowieso ausgegangen, dass er dabei ist und RBS kommt wahrscheinlich auch vorbei. Hoffentlich packt er sein Schnäbli nicht aus 😀
+[09:54:49] <+Doktor Lowrider> 😉
+[09:54:53] <Sille 1988> @Wh00kI 🤗
+[09:54:53] <+Doktor Lowrider> hehe
+[09:55:02] <DEEP WEB> süsses pärchen ❤
+[09:55:08] <Wh00kI> welche vorstellung haste denn?^^ @Einfach Ich
+[09:55:14] <%PandaBlack> Schlammschlachten am morgen  🙄
+[09:55:33] <Alex aka *Ghostpeper*> Moin Leude :)
+[09:55:39] <Einfach Ich> .@Wh00kl du als Gorilla mit kurzen Haaren
+[09:55:43] <%PandaBlack> Das ganze Ding war doch gefaked? 🤔
+[09:55:45] <+Doktor Lowrider> wenn die sache schief geht, können wir RBS auch schön alles in die schuhe schieben @othar
+[09:55:45] <+Bugfix 85> moin @Alex aka *Ghostpeper*
+[09:55:49] <Sille 1988> HAUFEN!!!! Haufen! Haufen.... auf Panda schmeiß Haufen!!!
+[09:55:53] <+Doktor Lowrider> moin alex
+[09:55:57] <fizf jhfgu> @PandaBlack Lügenpresse 😠
+[09:55:58] <%PandaBlack> Moin @Alex aka *Ghostpeper*
+[09:56:04] <Einfach Ich> @PandaBlack hm 🤔
+[09:56:05] <Sille 1988> @Alex aka *Ghostpeper* Moin 😃 /
+[09:56:12] <Alex aka *Ghostpeper*> Na alle gut geschlafen ? :)
+[09:56:21] <Esusa> wtf
+[09:56:28] <+Bugfix 85> näää ich muss noch
+[09:56:30] <+Doktor Lowrider> fast alle
+[09:56:34] <Wh00kI> im sommer ist ein langes fell nicht grad praktisch 😀 @Einfach Ich
+[09:56:44] <Othar> @Doktor Lowrider Aufgrund seiner Herkunft wird ihm eh nicht viel passieren, das ist schon ok 😃
+[09:56:47] <Esusa> gut geschlafen ja, du auch?
+[09:57:04] <Sille 1988> Eigentlich schon, aber irgendwie könnt ich noch ne stunde. Muss aber in Rythmus bleiben
+[09:57:12] <Einfach Ich> @Wh00kl ja is klar 😀 haste jetzt eigentlich twitter?
+[09:57:28] <Esusa> Sind die noch zusammen? 😀
+[09:57:33] <Wh00kI> ööööööhm^^ @Einfach Ich
+[09:57:35] <Alex aka *Ghostpeper*> @Bugfix 85  uff nachtschicht gehabt oder einfach ein nachtmensch ? @Esusa mähh häte 2 stunden mehr fertragen 😉
+[09:57:43] <+Bugfix 85> rhythm is a dancer 😚
+[09:57:48] <Sille 1988> Das würd mich auch interessieren. Das ist ja gute zwei Jahre her
+[09:58:02] <Einfach Ich> naja gut geschlafen würde ich jetzt nicht sagen aber passt
+[09:58:04] <+Bugfix 85> @Alex aka *Ghostpeper* ersteres 😃
+[09:58:05] <Esusa> ja absolut alex, bin auch schon 2h auf arbeit 😞
+[09:58:06] <fizf jhfgu> wenn man nach einem wecker aufsteht ist das kein rhytmus sondern ein takt, rhytmus ist was natürliches das nicht akkurat ist
+[09:58:21] <Einfach Ich> @Wh00kl nehme ich mal als nein
+[09:58:25] <Sille 1988> Gut das ich nicht mit Wecker aufsteh
+[09:58:26] <Wh00kI> bin ich noch nicht zu gekommen @Einfach Ich
+[09:58:45] <Einfach Ich> Ich hab nen menschlichen Wecker 😀
+[09:59:01] <Sille 1988> @Wh00kI Das hat man in 2 minuten fertig 😞
+[09:59:06] <+Doktor Lowrider> @fizf jhfgu  aber rhytmus kann ich mir antrainieren - ist das dann immernoch natürlich ?
+[09:59:34] <Sille 1988> @Doktor Lowrider Fang mit dem bitte keine Diskussion an. 😞
+[09:59:36] <fizf jhfgu> @Doktor Lowrider ohne taktgeber im fall von schlafen einem wecker dann ja
+[09:59:54] <Alex aka *Ghostpeper*> @Bugfix 85 Ok dachte ich mir schon 😃  @Esusa Was arbeitest du den wen ich so fragen darf ? ^^
+[10:00:02] <Einfach Ich> @Wh00kl ok
+[10:00:03] <%Nightbot> Das neue Q&A ist online! https://www.youtube.com/watch?v=OUW5JDKlSFk
+[10:00:15] <+Doktor Lowrider> nun
+[10:00:26] <Wh00kI> jaaaa ich weiß^^ ich werds noch einrichten @Sille 1988
+[10:00:35] <Sille 1988> @Wh00kI Jetzt. Mach es JETZT!
+[10:01:02] <%Nightbot> Hey Böhnchen, ihr schaut gerade überlange Werbung? Dann tut unserem Treibstofftank einen Gefallen und wartet 30 Sekunden, bis ihr sie überspringt. Das füllt den Tank und ihr verpasst trotzdem nichts.
+[10:01:04] <Othar> Die sind doch nur Follower-geil @Wh00kI
+[10:01:24] <Sille 1988> @Othar Nee ich bin Schnitzelgeil ^^
+[10:01:30] <Wh00kI> ich brauchs eig nur wegen der uni 😞 @Othar
+[10:01:33] <inge braun> ich arbeite daran die welt zu übernehmen,hab aber noch ein nebenjob
+[10:01:37] <fizf jhfgu> ist das nich irgendwie ungesund wenn diese kugelschreibertinte oder mit was auch immer das vorgemalt ist mit in die haut gestochen wird? 🤔
+[10:01:38] <Einfach Ich> @Wh00kl das was @Sille 1988 sagt. Mach hinne
+[10:01:41] <sebastian albert> über private tv sender lachen aber dann draufhalten wie ein anfänger tätowiert... so dumm
+[10:01:59] <Wh00kI> don't call it schnitzel! @Sille 1988
+[10:02:05] <Othar> @Sille 1988 Ich muss mich gerade sehr beherrschen, da gerade sehr viele Mods anwesend sind, verdammt 😀
+[10:02:20] <%PandaBlack> @sebastian albert tell me more 🤔
+[10:02:23] <Sille 1988> @Othar Ich mach doch nur Späße Oo
+[10:02:31] <kevin g> gibt es für übersprungene Werbung garkein Geld?
+[10:02:40] <Esusa> @Alex aka *Ghostpeper* Ausbildung zur Kauffrau im gesundheitswesen :;D
+[10:02:55] <Shroomy Mc'Mushroom> nö
+[10:03:01] <Zaldarion> @Sille 1988 für dich bin ich sogar nen schnitzel wenns sein muss \🐯/
+[10:03:01] <Sille 1988> @kevin g Skippe immer nach 30 Sekunden und fertig. So kriegen die Bohnen auch das volle Geld 😉
+[10:03:06] <Othar> @Sille 1988 Das wär auch meine Präferenz gewesen 😛
+[10:03:13] <Shroomy Mc'Mushroom> wieso sollte wer für übersprungene Werbung zahlen ^^
+[10:03:14] <+GesichtsKuchen> @Sille 1988 SCHNITZEL!
+[10:03:24] <Einfach Ich> Ich denke ich bin erstmal weg. Baby wird wach. Schönen Tag euch Tschüssi
+[10:03:35] <Sille 1988> @Zaldarion @@GesichtsKuchen @Othar  Beruhigt euch Oo
+[10:03:36] <+GesichtsKuchen> @Einfach Ich viel spaß!
+[10:03:41] <Othar> @Wh00kI Ein Studium, dass einem ein soziales Medium aufzwingt, das hätts zu meiner Zeit nicht gegeben 😀
+[10:03:42] <Wh00kI> 🍖 @Sille 1988
+[10:03:42] <+Bugfix 85> MoinMoin mit Budi & den Magnology Freunden
+[10:03:48] <Zaldarion> 📙 ich bin ruhig
+[10:03:49] <Sille 1988> @Einfach Ich Ich will siew knuddeln ❤
+[10:03:49] <+Doktor Lowrider> @Othar  ich glaub eher die geschichte wird ihn richten (oder ehren) und nicht die herkunft - nunja, kommt auf den verlauf der ganzen sache an 😉  wir kucken dann auch life of brian zur motivation
+[10:03:56] <Zaldarion> ich lieg nur so rum 🐯
+[10:04:04] <kevin g> Die Werbung lässt sich ja erst nach 5 sek überspringen gibt es dann nur anteilsmäßig Geld?
+[10:04:05] <+Bugfix 85> Retro Klub Sonderfolge wird heute aufgezeichnet
+[10:04:08] <+GesichtsKuchen> @Doktor Lowrider ❤
+[10:04:22] <Zombie B> !werbung
+[10:04:25] <Sille 1988> @kevin g Skippe die Werbung nicht nahc 5 Sekunden sondern nach 30 Sekunden.
+[10:04:28] <Othar> @Doktor Lowrider Oh ja, und ich bring den Sinn des Lebens mit, den schauen wir danach bitte 😀
+[10:04:34] <Wh00kI> ja finde das auch nicht berauschend aber die uni und die profs twittern nur hab nichmal FB 😕 @Othar
+[10:04:35] <Einfach Ich> @Sille 1988 kann ich mir denken 😊 ich kann sie ja für dich mitknuddeln. Wie wärs?
+[10:04:37] <inge braun> always look on the bright side of life
+[10:04:47] <Sille 1988> @Einfach Ich Jaaaaaa 😃 ❤
