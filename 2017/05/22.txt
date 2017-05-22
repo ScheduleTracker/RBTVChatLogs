@@ -4345,3 +4345,437 @@
 [12:04:50] <GameDevPodcast> @501.legion von manchen entwicklern höre ich da anderes 😀
 [12:04:52] <peter Zwackelmann> @Trichome Lover  Tja wir haben wohl so einiges gemeinsam :d
 [12:04:59] <PWRex> @Der Diddler das habe ich auch nie verstanden
+[12:05:24] <%501.legion> @GameDevPodcast Gut, wer besondere Ansprüche inbesondere an die Performance hat, der sollte sich eine andere Engine suchen oder gleich selbst eine schreiben 😀
+[12:05:38] <+Trichome Lover> Meine Waschmaschine piept ganz aufgeregt, Wäsche ist wohl fertig ^^
+[12:05:40] <%501.legion> aber es ist erstaunlich, was mit Unity alles zaubern kann
+[12:05:47] <%501.legion> da fehlt ein "man" 😀
+[12:05:52] <+raptorh> die entwickler von unity machen auch ne engine von grundauf^^ sie heißt unity
+[12:06:14] <GameDevPodcast> @501.legion selbst schreiben! ahhhh *finger kreuz* 😀 ich habe als grafiker leider nicht so gute erfahrungen damit gemacht weil die custom engines oft bezüglich tools ...nun sagen wir .. solala sind:D
+[12:06:15] <+Der Diddler> @Zaldarion Diskussionen darüber sind ja nun aber eh müssig denn der Schaden is ja nun mal schon angerichtet.
+[12:06:21] <inge braun> kackenengine...braun++
+[12:06:27] <Zaldarion> #Der Diddler das stimmt leider
+[12:06:27] <PWRex> @501.legion Ich warte gerade auf ein Unity spiel das ich bei Kickstarter unterstützt habe, aber es passiert auf jeden fall es
+[12:06:47] <Alex aka *Ghostpeper*> was kein Beanstag _.-
+[12:06:58] <+Trichome Lover> @peter Zwackelmann Ja, nech?! 👍😊
+[12:07:16] <+Der Diddler> @PWRex Ach da wollte sich einer nen Denkmal setzen. So ein ehemaliger Bürgermeister der von allem jetzt nichts mehr wissen will. Sei es wie es sei das ding wird so ein Schuss in den Ofen
+[12:07:20] <%501.legion> @GameDevPodcast Gibt Vorteile für bereits vorhandene Engines und es gibt Vorteile für selbstgeschriebene Engines, am Ende ist es eine Sache der Anforderung 😀
+[12:07:36] <%Sendeplan> Wetten können jetzt mit '!bet a:b' abgegeben werden! a steht dabei für die Runden für Team Limited und b für die Runden der Gegner!
+[12:07:36] <GameDevPodcast> @501.legion derzeit arbeite ich mit unreal - leckerschmecker kann ich nur sagen. aber für ein indiegame würde ich vermutlich auch unity benutzen.
+[12:07:42] <peter Zwackelmann> UHHHH Firewatch. Das soll super nice sein :D
+[12:07:46] <%501.legion> !bet drölf:drölf
+[12:07:54] <Alina C.> @501.legion oder eher eine frage des budgets
+[12:07:57] <PWRex> @Der Diddler fang mir nicht mit diesem menschen an, der hatte keibe ahnung von seinem job -.-
+[12:08:01] <Zaldarion> -.- verdammt, war nich für mich 😞
+[12:08:07] <%501.legion> @Alina C. stimmt, das auf jeden Fall auch
+[12:08:08] <GameDevPodcast> @501.legion ja das stimmt, es erfordert leider enorme zeit gute tools zu entwickeln und dan denen wird dann gern gespart was designer, grafiker, etc leiden lässt 😞
+[12:08:49] <%Sendeplan> Wetten können jetzt mit '!bet a:b' abgegeben werden! a steht dabei für die Runden für Team Limited und b für die Runden der Gegner!
+[12:08:51] <%501.legion> jetzt aber
+[12:08:53] <%501.legion> !bet bla
+[12:08:56] <%Sendeplan> @501.legion: Gib eine gültige Wette ab (z.B. !bet 16:0)
+[12:09:02] <%501.legion> dankeschön, Bot xD
+[12:09:11] <%501.legion> !bet 12:34
+[12:09:12] <kassiopeeia> ich versteh manchmal nicht, warum man die spiele nicht so vorbereitet, dass man weiter drin einsteigt statt immer was skippen zu müssen am anfang und dann oft so wenig zeit zu haben, dass man abbricht
+[12:09:13] <%Sendeplan> @501.legion: Gib eine gültige Wette ab (z.B. !bet 16:0)
+[12:09:13] <GameDevPodcast> @501.legion ich habe lange zeit materialien in xml-files editiert und musste nach fast jeder änderung an material/particlesystem das spiel neu starten um änderungen zu sehen.
+[12:09:22] <+Der Diddler> @PWRex unterschreibe ich. Bin voll deiner Meinung. Zum Glück hat er die Bibliothek die er noch bauen wollte nicht angefangen. Der Mann is doch nur wegen eines Satzes Bürgermeister geworden
+[12:09:25] <GameDevPodcast> @501.legion nervig, deprimiertend, nimmt jede lust am experimentieren 😀
+[12:09:27] <Jannick> hey, weiß iwer wo man die games von der beansjam spielen kann? gibts da irgendwo ne sammlung? hab iwie das ende verpasst -.-
+[12:09:28] <%501.legion> @GameDevPodcast Igitt, das ist schlimm
+[12:09:36] <peter Zwackelmann> !bet 14:6
+[12:09:39] <%Sendeplan> @peter Zwackelmann: Deine Wette von 14:6 wurde gespeichert!
+[12:09:43] <%501.legion> @Jannick klaro: http://jams.gamejolt.io/beansjam/games
+[12:09:50] <Jannick> danke 😃
+[12:10:07] <%501.legion> !bet 11:11
+[12:10:08] <%Sendeplan> @501.legion: Deine Wette von 11:11 wurde gespeichert!
+[12:10:11] <GameDevPodcast> @501.legion erwähnte ich, dass der particle editor 3rd party war und daher die effekte im spiel komplett anders ausgesehen haben als im spiel? 😀 es war herrlich. *unreal knuddel*
+[12:10:16] <%501.legion> !bet 0:10
+[12:10:19] <%Sendeplan> @501.legion: Du hast schon abgestimmt!
+[12:10:35] <+GesichtsKuchen> @GameDevPodcast ❤
+[12:10:49] <%501.legion> @GameDevPodcast mannomann, stelle ich mir ziemlich grausam vor 😀
+[12:10:53] <%501.legion> GDC ❤
+[12:10:56] <Zaldarion> achja #Olliwood09 du bist btw dran dir ds zu besorgen 🐯
+[12:11:16] <%501.legion> BetBot ist ready für Team Limited 😀
+[12:11:30] <GameDevPodcast> @501.legion jap 😀
+[12:12:06] <+raptorh> kann mir eigentlich einer erklären warum man bei games von engines und nicht wie sonst von frameworks spricht?
+[12:12:38] <inge braun> die spinnen die briten
+[12:12:40] <Alina C.> dieses iron marines siehst süss aus
+[12:12:50] <GameDevPodcast> @raptorh mit framework sprichst du zb von visual studio oder eclipse?
+[12:13:13] <%501.legion> Naja, ein Framework wird ins eigene Programm eingebunden, eine Engine bindet das Programm ein 😀
+[12:13:21] <%501.legion> irgendwie so kann man das doch bestimmt definieren 😀
+[12:13:34] <+raptorh> @GameDevPodcast visual studio und eclipse sind ides^^
+[12:13:37] <inge braun> aber es macht schon sinn,man hat einen motor worauf man das spiel aufbaut
+[12:13:54] <GameDevPodcast> @raptorh hehe stimmt, ertappt 😀
+[12:13:56] <%501.legion> Frameworks sind JUnit, .NET, YAML usw
+[12:14:17] <%501.legion> TYPO3 und WoltLab sind auch bekannte Beispiele
+[12:14:42] <+raptorh> @501.legion ok, gekauft, aber iwie sind die übergänge fließend^^ vergiss qt nicht
+[12:15:14] <GameDevPodcast> @raptorh "framework engine unterschied" --> google
+[12:15:40] <GameDevPodcast> @raptorh spuckt dir direkt als suchergebnis #1 einen stackoverflow beitrag aus mit genau deiner frage 😀
+[12:15:40] <inge braun> opengl ftw
+[12:15:52] <Alina C.> qt ist doch keine game engine
+[12:15:52] <GameDevPodcast> vulcan!
+[12:15:57] <+GesichtsKuchen> KEKSE
+[12:15:59] <%501.legion> Stackoverflow ist unser Freund ❤
+[12:16:01] <+raptorh> @GameDevPodcast werd ich nachher mal schauen, danke
+[12:16:05] <%thomate67> jap Vulcan > opengl
+[12:16:12] <%501.legion> @thomate67 oha
+[12:16:16] <peter Zwackelmann> !sendeplan
+[12:16:17] <%Sendeplan> @peter Zwackelmann: Aktuell läuft [Wdh.] Retro Klub #4 - Beansjam-Special. Um 12:15 folgt  [Wdh.] Plauschangriff #5 - Videospiel-Musik.
+[12:16:24] <GameDevPodcast> @501.legion wenn du das so sagst, dann ist div by 0 auch unser freund? 😀
+[12:16:25] <White Hangman> qt ist eher ein c++ framework
+[12:16:40] <Danbu> huhu
+[12:16:43] <+raptorh> @Alina C. hat doch auch keiner gesagt
+[12:16:54] <%501.legion> @GameDevPodcast das ist mit Abstand der häufigste Grund für Bluescreens an meinem PC xD
+[12:17:03] <Danbu> hab mich bisher noch nicht so schlau gemacht aber ist das beansjam Spiel jetzt eigentlich fertig und verfügbar?
+[12:17:16] <kassiopeeia> ha ha
+[12:17:16] <%501.legion> @Danbu Alle Spiele gibts auf http://jams.gamejolt.io/beansjam/games
+[12:17:21] <%501.legion> auch das Beans-Game 😀
+[12:17:21] <inge braun> dafr aber opengl>cryengine
+[12:17:30] <Sille 1988> Hab Bruschetta ❤
+[12:17:39] <GameDevPodcast> ist es eigentlich absicht, dass qt wie "cutie" klingt?
+[12:17:41] <%thomate67> oder ganz bequem per !beansjam
+[12:17:44] <Danbu> ok, gleich mal schaun. Danke dir 😃
+[12:17:53] <%thomate67> falls wir mal nicht da sind zum link raushauen
+[12:17:54] <Danbu> *euch
+[12:17:54] <%501.legion> Injustice 2 ist ziemlich nice 😀
+[12:18:02] <Alina C.> na weil du geschrieben hast "vergiss qt nicht" im kontext von engines
+[12:18:09] <%501.legion> @thomate67 ach ja, da war was 😀
+[12:18:09] <+Der Diddler> @Sille 1988 Selbstgemacht?
+[12:18:19] <Danbu> !beansjam
+[12:18:21] <Sille 1988> @Der Diddler Von mama ^^ Ja
+[12:18:22] <%Nightbot> Alle Spiele, die im Rahmen des Beansjam entstanden sind, findet ihr auf der Game Jolt Seite: http://jams.gamejolt.io/beansjam/games ! Spielt, bewertet und votet für euren Favoriten.
+[12:18:27] <GameDevPodcast> @Alina C. war bestimmt auf frameworks bezogen
+[12:18:27] <+raptorh> @Alina C. achso, ja weil legion frameworks aufgezählt hat
+[12:18:31] <%thomate67> @501.legion ich hab sogar satzzeichen drin 😘
+[12:18:34] <%501.legion> Get schwifty!
+[12:18:58] <%501.legion> @thomate67 Fehlen nur noch der Bindestriche bei Game Jolt-Seite 😛
+[12:19:02] <+Der Diddler> @Sille 1988 Verstehe. Klingt gut...müsste auch mal was frühstücken
+[12:19:03] <kassiopeeia> ja hoffentilch endlich auch mit story 😂
+[12:19:08] <%501.legion> *fehlt
+[12:19:18] <%501.legion> Plauschangriff ❤
+[12:19:20] <Viper3062> thats the bottom liiiineee
+[12:19:48] <PWRex> bin erstmal einkaufen
+[12:19:53] <%501.legion> Nuclear incoming ❤
+[12:19:56] <%501.legion> BESTES LIED
+[12:19:57] <Danbu> mochte das alte plauschangriff intro ja lieber
+[12:19:59] <%501.legion> evaaa
+[12:20:10] <Viper3062> das Wort heißt NUKULAR
+[12:20:13] <Danbu> aber who cares ich war so glücklich als der plauschangriff wieder da war xD
+[12:20:32] <%thomate67> so erst mal einkaufen
+[12:20:35] <Bladewolf 1317> endlich kein bohndesliga mehr mehr sendezeit für gutes zeug 😄
+[12:20:50] <%501.legion> @Viper3062 Das Lied heißt aber Nuclear! 😞
+[12:21:02] <Danbu> du meinst bestimmt "oh nein, kein bohndesliga mehr", richtig?
+[12:21:03] <+Der Diddler> wer nicht. Plauschangriff is ja immer wieder ne feine Sache
+[12:21:07] <%thomate67> @Bladewolf 1317 heute noch und dann gibt es ab nächsten Montag PUBG
+[12:21:17] <ende66> jajajaja
+[12:21:28] <Viper3062> 😀
+[12:21:37] <%501.legion> ❤
+[12:21:39] <%501.legion> soooo gut
+[12:21:49] <ende66> kak lied
+[12:21:52] <Karies _> ich esse jetzt im garten zu mittag und chille zum plauschi ❤
+[12:21:54] <%501.legion> 😞
+[12:21:54] <HipHopGuru> naja
+[12:21:56] <ende66> oma music
+[12:21:58] <Karies _> herrlich
+[12:22:03] <Bladewolf 1317> nein bohndesliga ist überflüssig gibt genug fußballgelump
+[12:22:14] <ende66> Kak lied
+[12:22:14] <HipHopGuru> für das was es sein will
+[12:22:14] <+Der Diddler> er geht raus. Er ist keiner von uns
+[12:22:25] <GameDevPodcast> Gibt es hier noch andere Spieleentwickler?
+[12:22:28] <Steen Rai> @Bladewolf 1317 sehe ich auch so
+[12:22:32] <Karies _> 😀
+[12:22:40] <+raptorh> @Karies _ du bist ha so ein verrückter typ, wie ede in der werbung 😉
+[12:22:43] <Danbu> aber ohne bohnen!
+[12:22:45] <ende66> Ja hier
+[12:22:46] <%501.legion> @GameDevPodcast warst du nicht beim Game Jam dabei? Da haben sich doch unzählige getroffen 😀
+[12:23:09] <+Olliwood09> ist nicht mal schlecht
+[12:23:12] <GameDevPodcast> @501.legion leider nein. aber ab und zu habe ich eingeschaltet und zugeschaut 😃
+[12:23:23] <Danbu> mit nils und tobi gibts nur ein fußballformat und das ist viel zu wenig und zu kurz meiner meinung nach xP
+[12:23:32] <Kapy Lanez> streamt rocketbeans auch auf twitch?
+[12:23:37] <Viper3062> wo kann ich bei BeansJam denn voten?
+[12:23:37] <Karies _> ey.. mike oldfield ist der hhammer
+[12:23:49] <%501.legion> !beansjam
+[12:23:51] <%Nightbot> Alle Spiele, die im Rahmen des Beansjam entstanden sind, findet ihr auf der Game Jolt-Seite: http://jams.gamejolt.io/beansjam/games ! Spielt, bewertet und votet für euren Favoriten.
+[12:23:59] <+JotunnLoki> Mike Oldfield ❤
+[12:24:11] <%501.legion> @thomate67 ausgebessert, sehr schön ❤
+[12:24:21] <%501.legion> @Kapy Lanez nope
+[12:24:24] <Viper3062> ja da wa rich. Wo ist der Vote?
+[12:24:25] <Viper3062> 😀
+[12:24:37] <%501.legion> einfach das Spiel öffnen 😀
+[12:24:46] <Sille 1988> Ich mochte die Musik von Metal Gear Solid 3 lieber
+[12:24:52] <%501.legion> da gibts dann einen Vote-Bereich
+[12:25:00] <Viper3062> achso ich muss mich einloggen
+[12:25:00] <%501.legion> @Sille 1988 oh ja, Snaaaaaake Eaaaaater
+[12:25:01] <+GesichtsKuchen> @Sille 1988 ja
+[12:25:02] <%Nightbot> Alle Spiele, die im Rahmen des Beansjam entstanden sind, findet ihr auf der Game Jolt-Seite: http://jams.gamejolt.io/beansjam/games ! Spielt, bewertet und votet für euren Favoriten.
+[12:25:05] <Kapy Lanez> @501.legion ok, danke
+[12:25:22] <%501.legion> @Viper3062 wäre nicht schlecht 😀
+[12:25:37] <GodofWar> Hat Gregor sich die Erlaubnis geholt die Songs zu spielen oder wie läuft das?
+[12:25:38] <SugarDaddy> snaaakee .. eeaatterr
+[12:25:54] <SugarDaddy> @Sille 1988 ja! war mega
+[12:25:57] <Sille 1988> @501.legion @GesichtsKuchen Jap Snake Eater. Eines meiner Magic Moment wo man im Tunnel die Treppe hochklettert und der Gesang ohne Musik ansetzt.
+[12:26:00] <+Der Diddler> das war so ein schöner 60er Jahre James Bond Soundtrack
+[12:26:05] <%501.legion> @Sille 1988 oh ja 😀
+[12:26:12] <Sille 1988> *einsetzt
+[12:26:13] <SugarDaddy> @Sille 1988 beim endbosskampf 😉
+[12:26:14] <GodofWar> snake eater ist geil
+[12:26:42] <Sille 1988> @SugarDaddy Oh ja ^^
+[12:26:45] <pigger1010> @GodofWar ich denk mal die haben eh n Komplettpaket von vielen Spielen die die Vorstellen, der OST ist ja sowieso oft in Sammlereditionen enthalten.
+[12:27:12] <+Der Diddler> da ich hier noch ne Woche rum sitzen muss könnte ich auch mal Snake Eater zocken 🤔
+[12:27:31] <Danbu> gregor nach aufnahme 17: "Ah, das hat doch überraschend gut geklappt mit der Aussprache"
+[12:27:47] <Sille 1988> Was ein Zufall, das Gregor mal wieder viel Japanogedöns in seine Liste gepackt hat ^^
+[12:27:51] <+GesichtsKuchen> @Sille 1988 ja das is spe,für mich is das ganze spiel ein highlight ^^
+[12:28:15] <SugarDaddy> oh wei.....
+[12:28:28] <Karies _> ich finde irgendwie keinen zugang zu japanischer popmusik.. metal und elektronisches ist niice, aber mit sowas hier werde ich nicht warm.
+[12:28:29] <+raptorh> das hört ein kolleg ständig im auto^^
+[12:28:31] <Sille 1988> @GesichtsKuchen Oh ja, besonders die Zwischenbosse. Ich mochte ja irgendwie The End als Gegner. Gegen den hab ich nie geschummelt ^^^
+[12:28:32] <+JotunnLoki> dat kenn ich aber auch, ist doch ganz cool an sich
+[12:28:32] <peter Zwackelmann> @Sille 1988 die machen halt mit die besten Soundtracks. Ok der Trailer titel (fire starter) von Just cause 3 ist auch geil. Abe rdas Hier ist der Hammer ;D
+[12:28:33] <Viper3062> sugoi sugoi!!
+[12:28:38] <peter Zwackelmann> Geiles Lied Danke gregor
+[12:28:41] <SugarDaddy> konichiwa honda mitsubishi yamaha?
+[12:28:43] <Steen Rai> Das Lied hat was
+[12:28:46] <inge braun> der 2 teil is besser,sons of liberty
+[12:28:58] <pigger1010> Das sollten die immer machen, zwischendurch n paar OST-Stücke mit soner Radiomäßigen Ansage von Gregor
+[12:29:11] <Viper3062> Kon'nichiwa ogenkidesuka
+[12:29:12] <+GesichtsKuchen> @Sille 1988 man kann ja so lange rum gammeln bis er von selbst stirbt xD oder ihn schon im rollstuhl zusammen ballern^^
+[12:29:13] <SugarDaddy> das ist mir zu animehaft 😀
+[12:29:20] <Sille 1988> @peter Zwackelmann Naja, persönlicgher Geschmack. Ich mag Snake Eater viel lieber als Nuclear. So meine Liste ist es nicht ^^
+[12:29:30] <peter Zwackelmann> Und jetzt Girld death monster und alles ist gut :d
+[12:29:33] <Danbu> ist doch eigentlich in jedem plauschangriff genug musik mit drin
+[12:29:52] <pigger1010> ich meinte auf dem Sender insgesamt
+[12:29:59] <Danbu> achso ok
+[12:30:00] <Karies _> aber greg hat nen guten geschmack was synth-pop  angeht.
+[12:30:02] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[12:30:06] <GodofWar> @pigger1010 Ja ich meinte eher wegen dem streamen/hochladen davon. Man darf ja sonst auch nicht ohne weiteres einfach ganze Songs abspielen
+[12:30:09] <Sille 1988> @GesichtsKuchen Man muss vorm Kampf abspeichern. Die Zeit von der PS2 Eine vor Stellen, anmachen und dann ist er gestorben, aber ich mag den Kampf. Deswegen schummel ich nicht
+[12:30:09] <Steen Rai> n bisschen J-Pop am Tag schadet nie
+[12:30:22] <peter Zwackelmann> @Karies Das stimmt. Das lied hier kommt auf meine playlist :D
+[12:30:29] <Viper3062> Ein J-Pop a Day keeps the Greg away
+[12:30:38] <Steen Rai> 😀
+[12:30:47] <Alina C.> ich kenne keinen einzigen track der silent hill reihe, der, gesungen von mary elizabeth mcglynn, nicht gut ist
+[12:31:02] <pigger1010> @GodofWar Ja gut kann sein, dass er da nochmal extra was einholen musste wenn der das im Rahmen von dem Podcast auch noch wo anders zur Verfügung stellt.
+[12:31:02] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://www.rocketbeans.tv/wochenplan/?details=1
+[12:31:04] <Danbu> Silent Hill hat supernice soundtracks, das stimmt
+[12:31:10] <inge braun> gangnam stylz
+[12:31:17] <Richard Runge> !sendeplan
+[12:31:18] <Leon Zubaki> Ich liebe dieses Lied
+[12:31:19] <%Sendeplan> @Richard Runge: Aktuell läuft [Wdh.] Plauschangriff #5 - Videospiel-Musik. Um 14:00 folgt  [Wdh.] Press Select #4 - Game Jams.
+[12:31:33] <+GesichtsKuchen> @Sille 1988 ich glaube man kann auch einfach direkt im gebiet warten bis er drauf geht gehen beide sachen, iden boss fight mochte ich aber auch. the sorrow is auch sehr geil, ich wusste das damals
+[12:31:37] <+GesichtsKuchen> mit der pille nich -.-
+[12:31:40] <Danbu> geht der anime gleich los?
+[12:31:51] <peter Zwackelmann> J-Rock geht halt ab. aber ich hör momentan auch viel eurobeat :D
+[12:32:07] <Alina C.> ich liebe animes, aber nein, solche songs finde ich schrecklich
+[12:32:09] <Richard Runge> Wo rum geht es in Plausch Angriff ?
+[12:32:20] <Viper3062> um Games development
+[12:32:21] <%PandaBlack> Videospiel-Musik
+[12:32:23] <Diplomat999> Plauschangriff E05 - Videospiel-Musik
+[12:32:24] <Viper3062> 🌝
+[12:32:39] <Steen Rai> ich höre in letzter Zeit nurnoch J-Rock und J-Pop. Hab da momentan irgendwie den Sinn nach
+[12:32:44] <peter Zwackelmann> War sonst noch wer bei final symphony 2 in düsseldorf vor 2 Jahren?
+[12:32:51] <Viper3062> nandato?!
+[12:33:07] <inge braun> mag jemand plauschangriff
+[12:33:29] <+Der Diddler> wer mag ihn nicht?
+[12:33:31] <Danbu> @peter Zwackelmann nein aber vor 5 oder so bei symphonic fantasies in köln
+[12:33:35] <+Trichome Lover> Plauschangriff ❤
+[12:33:44] <Karies _> gleich beim ds3 soundtrack dreh ich mal die anlage auf.. paise the sun 😀 meine nachbarn werden sich freun
+[12:33:50] <Karies _> praise
+[12:33:58] <Steen Rai> Plouse an-griff
+[12:34:02] <Viper3062> praise the ramen
+[12:34:17] <peter Zwackelmann> @Danbu final symphony 2 war super 😀 Bei Spotify findet sich final symphony 1 und Video-games music live. Da sind auch mega geile tracks dabei
+[12:34:29] <inge braun> möge die nudel mit dir sein
+[12:34:51] <peter Zwackelmann> @Karies Könnt eich auch machen bei der selbstbau anlage im wohnzimmer, aber meine Mutter ist da :C
+[12:35:04] <its appic> Komischer Plauschangriff
+[12:35:05] <Steen Rai> I bims ma Resi Let's Plays looken. Bis denn
+[12:35:36] <peter Zwackelmann> Gregor sollte nen eigenen Radiosender mit sowas machen. Non-spot videospiel mukke
+[12:35:43] <peter Zwackelmann> stop
+[12:35:44] <Viper3062> Die Ramen ist mit mir, und ich bin mit der Ramen
+[12:35:53] <Karies _> 6 neue resi filme wurden heute angekündigt
+[12:35:55] <its appic> Ist das gerade eine Aufforderung den Channel zu verlassen und erst heute Abend wieder vorbeizuschauen?
+[12:35:55] <Danbu> Ramen sind lecker
+[12:35:58] <+Trichome Lover> Gefällt mir!
+[12:36:11] <Danbu> @Karies _ juhu -.-
+[12:36:15] <Viper3062> @its appic exakt
+[12:36:26] <Karies _> komplettes reboot anscheinend
+[12:36:46] <michael schroth> Den besten Soundtrack der letzten Jahre hat Nier Automata
+[12:36:46] <Danbu> warum?
+[12:36:58] <Danbu> haben sie eingesehen was für ein mist die sind dies schon gibt?
+[12:37:02] <its appic> @Viper3062 🤔😤 Nagut, dann bis heute Abend
+[12:37:12] <Karies _> kann sein
+[12:37:21] <Viper3062> @michael schroth ich muss mich zurückhalten das jetzt schon zu kaufen
+[12:37:28] <+Trichome Lover> @Karies _ Evtl. im Stil von Teil 7?
+[12:37:48] <Karies _> ich hoffe es wird mehr wie die games
+[12:37:52] <Christopher Kuntzsch> kann Gregor bitte einen eigenen Radiosender haben?
+[12:38:01] <inge braun> den besten soundtrack hat der weisse hai...vorsicht vorsicht vorsicht ham
+[12:38:07] <Danbu> na mal schaun. Sollte der erste gut werden, generiert er bestimmt kein geld und die anderen kommen nicht
+[12:38:15] <Karies _> zombiedrachen im letzten resi-film waren doch etwas zu viel des guten
+[12:38:23] <michael schroth> @Viper3062 Es wird dich umhauen
+[12:38:45] <Bohnen Freind> ich hoffe simon konnte meinen tipp für the forrest noch nutzen er hatte mich gefragt wo die keycard ist ob er sie hat sehen wa heute abend 😀
+[12:38:59] <+Trichome Lover> Ich bekomme immer noch Gänsehaut beim Intro Song vom MGS2.
+[12:39:03] <peter Zwackelmann> Scars of time- das wäre jetzt nice :D
+[12:39:09] <peter Zwackelmann> Chrono trigger
+[12:39:16] <Danbu> fänds an sich aber auch cool würde da nochmal was kommen was näher an den spielen ist. Ich bin aber skeptisch, wie man vllt merkt xD
+[12:39:26] <Viper3062> Ich habe für Ende August noch Tzelda, Nier Automata, PUBG und diverse andere nie fertig gestellte Games vor mir. GG @michael schroth
+[12:39:41] <Viper3062> also, auch nicht angefangen ^^
+[12:39:43] <+GesichtsKuchen> @Karies _ WTF
+[12:39:45] <inge braun> der 2 ist auch der beste mgs teil
+[12:39:58] <Danbu> ich fand 1 am besten
+[12:40:07] <GodofWar> ich finde 2 den schwächsten
+[12:40:28] <Danbu> 1 > 2 > 3 > Rising
+[12:40:34] <michael schroth> Habe erst Zelda durch gezockt 140 Stunden zur Zeit zocke ich noch Nier und dann kommt Persona
+[12:40:41] <Leon Zubaki> Eins Miener Lieblings Game Traks ist Deatrly Beloved von Kingdom Hearts, aber werden wie eh nie bei RBTV hören
+[12:40:50] <+Holger von Gehlen> 6 filme von was @Karies _
+[12:41:06] <GodofWar> 1>3>5>4>PW>Rising
+[12:41:11] <Viper3062> Ich warte bis Herbst/Winter.. jetzt erstmal Prüfungen. @michael schroth
+[12:41:14] <+JotunnLoki> Definitiv The Dark Star rises aus dem Secret of Mana OST
+[12:41:16] <GodofWar> >2
+[12:41:28] <inge braun> das geht vielen so wegen raiden
+[12:41:38] <Danbu> wobei mit 3 ist schwierig. das war supergeil inszeniert aber ich fand das spiel an sich nicht gut
+[12:41:38] <%PandaBlack> @Leon Zubaki du und dein KH 😛
+[12:41:49] <Danbu> story und aufmachung schon
+[12:41:53] <michael schroth> Einfach mal den Soundtrack von Nier Automata auf Youtube hören der ist so abwechslungsreich und auf einen so hohen Level
+[12:42:03] <GodofWar> habe erst vorletzte woche nochmal alle am stück gespielt 😊
+[12:42:18] <Viper3062> @JotunnLoki Ja das ist verdammt geil
+[12:42:46] <Viper3062> @JotunnLoki Aber das Intro ist auch toll...
+[12:42:50] <Leon Zubaki> @PandaBlack ich weiß aber der Trak ist wirklich gut
+[12:42:55] <+JotunnLoki> @Viper3062 absolut
+[12:43:37] <Danbu> eske ist auch nur ein anhängsel um intelektueller zu klingen @.@
+[12:44:01] <Danbu> eine sehr chadeske aussage!
+[12:44:02] <+HAHA Reingelegt> nochmal die empfehlung an euch alle
+[12:44:06] <+HAHA Reingelegt> FURI auf steam kaufen
+[12:44:07] <+HAHA Reingelegt> sofort
+[12:44:16] <+HAHA Reingelegt> und durchspielen natürlich
+[12:44:30] <peter Zwackelmann> Was ist das für ein spiel=
+[12:44:32] <peter Zwackelmann> ?
+[12:44:37] <+Sagatto1337> walter
+[12:44:38] <+Trichome Lover> @HAHA Reingelegt Am letzten Punkt scheitert es bei mir meist 😀
+[12:44:55] <Danbu> aber ich hab vor jahren schon final furi gespielt :x
+[12:45:02] <%Nightbot> Hey Böhnchen, ihr schaut gerade überlange Werbung? Dann tut unserem Treibstofftank einen Gefallen und wartet 30 Sekunden, bis ihr sie überspringt. Das füllt den Tank und ihr verpasst trotzdem nichts.
+[12:45:04] <Mangamaniac71> bin zu blöd für Furi, hab den ersten großen Gegner nicht geschafft
+[12:45:18] <SugarDaddy> iiizz iiz iiiz
+[12:45:19] <+HAHA Reingelegt> ja der einstieg ist schwer
+[12:45:24] <Moneypenny78> @HAHA Reingelegt habsch leider keine kohle fuer, wird aber mal auf die wishlist gepackt und spaeter genauer angeschaut
+[12:45:41] <Mangamaniac71> aber die Mucke ist geil
+[12:45:46] <Shroomy Mc'Mushroom> klingt fast wie glitch mob
+[12:45:47] <+HAHA Reingelegt> aber nur als warnung, so richtig leicht ist das ding halt nicht
+[12:45:56] <+Trichome Lover> Fetter Tune!
+[12:46:01] <iLoveSweetTrichomes> die besten soundtracks kommen vom amiga
+[12:46:01] <Danbu> hat auch "schwer" als tag auf steam xD
+[12:46:18] <inge braun> schwerer als viewtiful joe_
+[12:46:22] <inge braun> ?
+[12:46:38] <peter Zwackelmann> ICh fand schon den ersten boss von Lords of the fallen schwer
+[12:47:01] <MC Hodenflash> Werden in Spielen eigentlich so selten GEMA relevante Musikstücke benutz oder warum haben Let's Plays da fast nie Probleme?
+[12:47:21] <Moneypenny78> @MC Hodenflash ziemlich genau das
+[12:47:32] <Danbu> @MC Hodenflash ist tatschlich so
+[12:47:36] <+JotunnLoki> Ja schon, ich glaube die sind anders lizensiert
+[12:47:37] <+Trichome Lover> Grüße an den Hoden!
+[12:47:43] <Zaldarion> gta dürfte probleme ham mit dem radi
+[12:47:43] <SugarDaddy> habe den ersten boss von lords of the fallen first try gelegt... lag aber an einem extrem op skill "illusion" oder wie das hieß :d
+[12:47:44] <Zaldarion> o
+[12:47:44] <+GesichtsKuchen> @MC Hodenflash ❤
+[12:47:58] <Avayo> guter track
+[12:48:01] <MC Hodenflash> OK Danke. 😊 @Moneypenny78 @Danbu
+[12:48:07] <MC Hodenflash> @GesichtsKuchen ❤
+[12:48:34] <inge braun> aber glaub mir wenn die gema ein song endeckt dann presst sie auch noch die kerne aus der zitrone
+[12:48:34] <MC Hodenflash> Grüße an das Trichome 😊/
+[12:48:35] <Mangamaniac71> das mit der Liste und den Covern hier ist ja super, gibts das Plauschangriff Video später irgendwo zum ansehen?
+[12:48:38] <Moneypenny78> @Zaldarion ich glaub das ist allerdings von rockstar "lizensiert" sprich bezahlt
+[12:48:45] <Danbu> die musik hat was metroideskes
+[12:48:49] <Karies _> ich tanze wie ein grufti.. stampf, stampf, stampf
+[12:48:57] <Brett Pit> Hallo.
+[12:49:03] <Leon Zubaki> Ich habe gerade im Forum ein coolen KHD Vorschlag gesehen Ede soll Persona 5 spielen. Ich würde gerne Ede als Japanischen Schüler sehen.
+[12:49:03] <peter Zwackelmann> @SugarDaddy Ich dachte das wäre nen netter einstieg in das genre. cih komm aber total damit nicht klar.
+[12:49:07] <+Trichome Lover> Gleich mal den Soundtrack bestellen von Furi!
+[12:49:13] <Zaldarion> #Moneypenny78 ja aber nich für lp's zumindest wäre komisch
+[12:49:18] <Ricktac> Ist das Spiel fertig geworden?
+[12:49:19] <Moneypenny78> @Brett Pit selten dich um diese uhrzeit hier zu sehen 😃
+[12:49:19] <Brett Pit> Werbung vorbei.. endlich Werbung.. ahh
+[12:49:30] <Danbu> Persona 5 ist eines dieser Spiele wo ich mich ärgere keine playstation zu haben...
+[12:49:31] <Brett Pit> @Moneypenny78  Ja. :
+[12:49:36] <Danbu> das sieht verdammt gut aus
+[12:49:37] <Moneypenny78> @Ricktac mit reichlich bugs am ende aber ausbessern ist wohl erlaubt 😃
+[12:49:57] <Moneypenny78> @Zaldarion ja wissen tu ich es nicht, aber kann man sicher nachlesen
+[12:50:02] <%Nightbot> Alle Spiele, die im Rahmen des Beansjam entstanden sind, findet ihr auf der Game Jolt-Seite: http://jams.gamejolt.io/beansjam/games ! Spielt, bewertet und votet für euren Favoriten.
+[12:50:13] <pigger1010> 2 mal werbung nice 😃
+[12:50:19] <Zaldarion> #Moneypenny78 bestimmt 🤔 wobeis mir egal is, ich stream ja nich :d
+[12:50:34] <Brett Pit> @Moneypenny78  Ja. Heute nehme ich mir mal Zeit.. Sorry. zu kleine Eingabetaste.
+[12:50:43] <Danbu> so, ich geh nun mal beans syndicate ausprobieren ^^
+[12:50:45] <peter Zwackelmann> @Danbu nen kollege hat ne ps3 dem schenck ich immer diese Speile. Nur um sie selbst bei ihm zu zocken :D
+[12:50:50] <Moneypenny78> @Brett Pit kein ding 😃
+[12:50:57] <Ricktac> bekommen wir das Game nochmal zu sehen?
+[12:51:04] <Moneypenny78> @Zaldarion ich mach mich da jetz aus interesse ma schlau 😃
+[12:51:11] <Brett Pit> Wie gehts so?
+[12:51:20] <Zaldarion> #Moneypenny78 🐯 viel erfolg
+[12:51:24] <Danbu> @peter Zwackelmann naja klingt nach win-win ^^
+[12:51:34] <Brett Pit> lol man.. neues Southparkspiel.
+[12:51:40] <pigger1010> 3 mal dieselbe werbung 😀 hauptsache rbtv kriegt auch 3 mal geld 😀
+[12:52:36] <peter Zwackelmann> @Danbu Ja. ich hab mir für nach dem abi extra ne xbox gekauft um Halo durchzu zocken. danach verscherbel ich die ode rbenutze die als media zentrale für alles andere gibts ja die ps 3 vom Kollegen. :D
+[12:52:41] <Moc Liamg> ich guck mir schon das 6. mal diese transgenderfamilienwerbung an....
+[12:53:16] <Rahjhh5> hört sich an wie ne midi version von dimmu/cradle :D
+[12:53:21] <MC Hodenflash> 😀 MagnumGate ❤
+[12:53:38] <Leon Zubaki> Ich muss jetzt die ganze Zeit an Ede als japanischer Schüler denken danke dafür Liebe ich das Forum
+[12:53:57] <Brett Pit> Ich bekam grad mit dass dsl 16k nicht nur 1.6 Mbyte sein sollte.. 10 mal so viel haben die mir gestern versucht zu schalten.. aber  da hat wohl wer das Kabel raus gezogen.. lol
+[12:54:25] <Brett Pit> Aber die 2Mbyte upload sind auch gut 😃
+[12:54:27] <Danbu> ok,spiel gestartete und gleich stellt sich mir eine frage...wer ist laymey?
+[12:54:36] <Derpy Hooves> 16k sind 2mb
+[12:54:41] <Danbu> einer der macher oder ein oc?
+[12:55:04] <+GesichtsKuchen> boah ich penn von der musik weg...
+[12:55:07] <Brett Pit> Echt? dann habend ie Grütze gebaut..  Ich sollte ja umgestellot werden auf das neue
+[12:55:29] <Brett Pit> 1.6 mb gibtzs nichmehr meinten die
+[12:56:20] <inge braun> yep einfach durch 8 teilen
+[12:57:07] <peter Zwackelmann> netter song
+[12:57:44] <Avayo> zwei durakkorde bis zum umfallen
+[12:58:02] <ju90sc> wer gibt sich sowas freiwillig?
+[12:58:09] <+Trichome Lover> So, Furi Soundtrack ist auf dem Weg zu mir 😃
+[12:58:11] <Danbu> du
+[12:58:27] <Sille 1988> @ju90sc Du gerade oder wirst du gerade gezwungen das zu hören? ^^
+[12:58:33] <+HAHA Reingelegt> Wenn Gregor das sagt.. 🌝
+[12:58:42] <Derolon Malastar> Trails in the Sky ❤
+[12:58:59] <extronicc exronu> Wieso wird das Lied von Skrillex in Black Ops 2 nicht genannt? Beste Lied ever
+[12:59:19] <Karies _> skrillex.. echt jetzt
+[12:59:24] <extronicc exronu> ja klar
+[12:59:28] <extronicc exronu> skrillex isch läbe brudi
+[12:59:35] <Moneypenny78> @Zaldarion mal kurz reingelesen, die musik muss fuer das spiel lizensiert werden. das macht der publisher/produzent. das gilt natuerlich nur fuer musik die nicht speziell fuer das spiel
+[12:59:50] <Zaldarion> #Moneypenny78 hmm
+[13:00:07] <Moneypenny78> @Zaldarion produziert wurde. sagen wir ne snoop dog LP landet in nem spiel dann lizensiert das der publisher fuer "X" kopien des spiels
+[13:00:08] <Avayo> hot hot hot
+[13:00:26] <peter Zwackelmann> @Moneypenny78 Genau. Darum werden aus GTA V auch hin und wieder leider genommen, da die Lizenz abläuft oder abgelaufen ist. 😀
+[13:00:59] <Moneypenny78> @peter Zwackelmann jo @Zaldarion und ich warn uns nich 100% sicher wie dat laeuft aber ich wollte das jetz mal wissen 😃
+[13:01:01] <+Trichome Lover> Frag mal bei Sega an, die haben das gut raus mit den Lizenzen 🌝
+[13:01:23] <extronicc exronu> Wo ist Eminems Survival für Call of Duty Ghosts?
+[13:01:44] <Zaldarion> #Moneypenny78 ich find das ziemlich umständlich und kompliziert, aber wir wärenm ja nicht in deutschland wenns mal einfach wäre
+[13:01:51] <Sille 1988> Alter, es geht nicht nach dir @extronicc exronu  Meine Güte -,-
+[13:01:53] <Mangamaniac71> Mafia 2 war ne ganze Weile nicht im PSN Store, vermutlich auch wegen Musik Lizenzen
+[13:02:07] <+JotunnLoki> 😚
+[13:02:12] <Alex aka *Ghostpeper*> ❤
+[13:02:14] <+GesichtsKuchen> geeeeeil
+[13:02:16] <+GesichtsKuchen> ❤
+[13:02:21] <Karies _> ❤
+[13:02:24] <extronicc exronu> sille maaadboy maaad no geschmack baaad
+[13:02:30] <peter Zwackelmann> Nächster Titel für den ESC incoming
+[13:02:31] <Moneypenny78> @Zaldarion ok ganz einfach. wenn du spiele streamst die gemamusik enthalten, kann dir keiner ans bein pissen. wenn du die musik selbst hinzufuegst, ist das was anderes
+[13:02:32] <extronicc exronu> 1988 maaad bad year
+[13:02:38] <SugarDaddy> 80er metal find ich persönlich aber etwas zu soft 😛
+[13:02:41] <GodofWar> Wo ist der Theme Song von Candy Crush Saga? 🌝
+[13:03:02] <+Trichome Lover> Grüße gehen raus an meine Nachbarn! 🤘
+[13:03:02] <%Nightbot> Hey Böhnchen, ihr schaut gerade überlange Werbung? Dann tut unserem Treibstofftank einen Gefallen und wartet 30 Sekunden, bis ihr sie überspringt. Das füllt den Tank und ihr verpasst trotzdem nichts.
+[13:03:16] <extronicc exronu> Limp Bizkit machte den besten metal 🤘
+[13:03:20] <Zaldarion> #Moneypenny78 aber wie gesagt wurde wenn die lizens für das game ausläuft ist auch das lp weg, im grunde ist es somit gehupft wie gesprungen
+[13:03:24] <Karies _> wtf
+[13:03:25] <Sille 1988> Ich bin weder ein Boy noch lass ich mich auf so einen Quatsch ein
+[13:03:31] <+JotunnLoki> LP ist alles nur kein Metal
+[13:03:39] <+JotunnLoki> LB mein ich
+[13:03:40] <extronicc exronu> sille dann schreib auch nicht x)
+[13:03:42] <+GesichtsKuchen> DOCH
+[13:03:44] <Moneypenny78> @Zaldarion jo das ist dann wieder was anderes 😃
+[13:03:45] <Karies _> limp bizkit.. jetzt reichts
+[13:03:47] <extronicc exronu> doch klar ist limp bizkit metal lOL
+[13:04:02] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[13:04:08] <peter Zwackelmann> @Moneypenny78 Das gilt aber nur für streams bei let's plays ist das was anderes. besonders bei älteren spielen, wo die lizenzen nicht mehr gelten. Nett ist aber auch, dass es NCS gibt 😀
+[13:04:08] <+JotunnLoki> in irgendeiner Parallelwelt vielleicht
+[13:04:18] <Moneypenny78> @Zaldarion davon ab, du erwirbst wenn du dir ein spiel kaufst heutzutage ja auch nur die "zeitlich" begrenzte erlaubnis das zu spielen 😃
+[13:04:19] <extronicc exronu> bruuuuuuuh
+[13:04:21] <Zaldarion> #Moneypenny78 🐯 das mein ich ja mit zu kompliziert, man selber informiert sich ja nicht ständig ob die songs innem game noch die lizens haben
+[13:04:39] <+Trichome Lover> Ziemlich weichkeksig für Metal ^^
+[13:04:44] <peter Zwackelmann> @Moneypenny78 NCS= no copyright sounds. nen Label unter dem viel house, Elektro, Drums und bass, dub, etc. gepublished wird
+[13:04:49] <GodofWar> ++Der Chat wurde nach Trollen gescannt. 1 Treffer: extronicc exronu​ ++
+[13:04:49] <+GesichtsKuchen> dragonforce ❤
