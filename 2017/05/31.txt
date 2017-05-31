@@ -12178,3 +12178,1356 @@
 [20:04:56] <Andreas Müller> !cd Kabel Eins
 [20:04:56] <Horst Birnenbaum> !cd sat 1
 [20:04:56] <+Ceziᴴᴰ> !cd ZDF Neo
+[20:04:56] <Xanto09> !cd VOX
+[20:04:56] <0Cactus1Jack0> !cd SAT1
+[20:04:56] <Ghetelen> !cd ZDF
+[20:04:56] <+fixalles 3> !cd Sat1
+[20:04:56] <+JohnnieJonny> !cd ZDF
+[20:04:56] <+CiddyCid> !cd Sat1
+[20:04:56] <Krähe> !cd Tele 5
+[20:04:56] <xucxic> !ch Kabel1
+[20:04:56] <Revijal> !cd Sat 1
+[20:04:56] <Luffy> !cd Nickelodeon
+[20:04:56] <Psychbo2> !cd ZDF
+[20:04:56] <BME19991> !cd sat1
+[20:04:56] <Klaus Klausen> !cd Sky
+[20:04:56] <Sod B. Rennen> !cd sat 1
+[20:04:56] <Michael Schlüter> !cd kabel1
+[20:04:57] <Si Mi> !cd Sat 1
+[20:04:57] <Daniel Kreusel> !cd Dmax
+[20:04:57] <MikedieONE> !cd sat1
+[20:04:57] <Prinzessin der weißen Schatten> !cd zdf
+[20:04:57] <schmady> !cd sat1
+[20:04:57] <ProfessorPixel> !cd sat1
+[20:04:57] <ALTUBELI95> !cd vox
+[20:04:57] <der1unbekannte1> !cd sat1
+[20:04:57] <suxcessfull1> !zdf
+[20:04:57] <Drehwespe> !cd sat1
+[20:04:57] <Gregor Sawatzki> !cd VOX
+[20:04:57] <+Incocknito1337> !cd vox
+[20:04:57] <Troinsen> !cd tele5
+[20:04:57] <Emty141> !cd Sat1
+[20:04:57] <Orbital Frame> !cd Sat 1
+[20:04:57] <Domm182> !cd vox
+[20:04:57] <ProfessorHen> !cd Sat1
+[20:04:57] <Maize1904> !cd Sat1
+[20:04:57] <Huggibear> !cd ZDF
+[20:04:57] <FAMILGALAS> !cd ZDF
+[20:04:57] <irondrax> !cd ZDF
+[20:04:57] <+Anisie Aradis> !cd Sat1
+[20:04:57] <Elke Hartmann> !cd SAT 1
+[20:04:57] <schdeef> !cd zdf
+[20:04:57] <Sebastian G> !cd ZDF
+[20:04:58] <+Björn Block> !cd sat1
+[20:04:58] <+DerSchuldige> !cd Sat1
+[20:04:58] <Jonas H.> !cd Tele 5
+[20:04:58] <Cat> !cd Sat1
+[20:04:58] <Döschen Dude> !cd ZDF
+[20:04:58] <Jufi16> !Sport 1
+[20:04:58] <Custer> !cd Tele 5
+[20:04:58] <Xpippo09X> !cd sat1
+[20:04:58] <PatrickVogt90> !cd zdf
+[20:04:58] <+MagiKujata> !cd zdf
+[20:04:58] <slindman> !cd ZDF
+[20:04:58] <Element> !cd sat 1
+[20:04:58] <Stephan Zivithal> !cd ZDF
+[20:04:58] <+Redlock> !cd ZDF
+[20:04:58] <johnny lefutatio> !cd zdf
+[20:04:58] <Daniel Harking> !cd ZDF
+[20:04:58] <Yannik Saathoff> Dmax
+[20:04:58] <Master Bean> !cd ZDF
+[20:04:58] <Xaliden> !cd zdf
+[20:04:58] <Timo Kopp> !cd ZDF
+[20:04:58] <kristallinsche> !cd Sat 1
+[20:04:59] <T-Rex91> !cd Viva
+[20:04:59] <Mangamaniac71> !cd Vox
+[20:04:59] <Chris Chros> !cd RBTV
+[20:04:59] <Wib nak> !cd sat1
+[20:04:59] <Bud Cillus> !cd VOX
+[20:04:59] <jolow1> !cd sat1
+[20:04:59] <Pipapo pu> !cd sat1
+[20:04:59] <Bratwurst1203> !cd Zdf
+[20:04:59] <Batz07> !cd ZDF
+[20:04:59] <Strooohm> !cd zdf
+[20:04:59] <YoungLouie> !cd VOX
+[20:04:59] <Selidari> !cd vox
+[20:04:59] <MarPol 07> !cd ZDF
+[20:04:59] <Reptyre> !cd zdf
+[20:04:59] <+kamehamehajessi> !cd sat1
+[20:04:59] <TheBehnson> !cd Tele5
+[20:04:59] <FenrizBelial> !cd Sat 1
+[20:04:59] <PhilB> !CD TLC
+[20:04:59] <Cwen> !cd sat1
+[20:04:59] <The Purple Tentacle> !cd 3sat
+[20:04:59] <Sascha Klein> !cd ZDF
+[20:04:59] <TheVictat0r> !cd Kabel 1
+[20:04:59] <Tommyk Mr> !cd sat1
+[20:04:59] <Peter Saalbach> !cd tele5
+[20:04:59] <Carsten L> !cd vox
+[20:04:59] <Marcos Rosado> !cd zdf
+[20:05:00] <DasSeppi> !cd sat1
+[20:05:00] <protagentraver> !cd zdf
+[20:05:00] <Flololo> !cd Sat1
+[20:05:00] <Niko Noe> !cd tele 5
+[20:05:00] <+CRYP77> !cd ZDF
+[20:05:00] <confusingconcoction> !cd Vox
+[20:05:00] <MrJohn> ❤
+[20:05:00] <Malte Gro> !cd zdf
+[20:05:00] <Daniel Rettig> DMAX
+[20:05:00] <satmihs> !cd Vox
+[20:05:00] <Alex Neujahr> !cd  kabel eins
+[20:05:00] <Zhalsee> !cd Tele5
+[20:05:00] <Cyner> !cd zdf
+[20:05:00] <Niklas Wagner> !cd zdf
+[20:05:00] <+tH3h0ff> !cd zdf
+[20:05:00] <RobinUrlaub> !cd Kabel Eins
+[20:05:00] <idutscha> !cd ZDF
+[20:05:00] <+MrWerder> !cd zdf
+[20:05:00] <SalaCameron> !cd ZDF
+[20:05:00] <HardstyleRulesz> !cd zdf
+[20:05:00] <Lukas Wayne> !cd Sat 1
+[20:05:00] <tbaum9> !kabel1
+[20:05:00] <NurNuls> !CD selteb
+[20:05:00] <mohtin> !cd zdf
+[20:05:00] <drumcoverer> !cd Tele 5
+[20:05:00] <Jennel Doodeldoo> !cd sat1
+[20:05:00] <Martin Mackinger> !cd ZDF
+[20:05:00] <+MHB7193> !cd Sat1
+[20:05:01] <DramieCalle> !cd kabel eins
+[20:05:01] <ProjectSilence> !cd vox
+[20:05:01] <Galy89x> !cd zdf
+[20:05:01] <Droggeldana> !cd sat 1
+[20:05:01] <Fabio> !cd zdf
+[20:05:01] <SirHitzerot> !cd nick
+[20:05:01] <Derpidio> !cd ZDT
+[20:05:01] <Maxi K.> !cd Kabel 1
+[20:05:01] <Philip T> !cd zdf
+[20:05:01] <Meister Gammler> !cd zdf
+[20:05:01] <ma lee> !cd ZDF
+[20:05:01] <+Jenny LovesMusic> !cd sat 1
+[20:05:01] <Sarahfinchen SCHWARZ> !MTV
+[20:05:01] <Rankenmuster> !cd sat1
+[20:05:01] <Claus Co2> !cd Tele5
+[20:05:01] <Ari> !cd zdf
+[20:05:01] <Prism> !cd Kabel 1
+[20:05:01] <+Julian G.> !cd zdf
+[20:05:01] <AquaaTV> !cd zdf
+[20:05:01] <iPat 95> !cd Kabel Eins
+[20:05:01] <Jaarvin> !cd Kabel1
+[20:05:01] <Die Wiewarum> !cd ProSieben
+[20:05:02] <phillip boyman> !cd Tele 5
+[20:05:02] <Ansgar Ragsna> !cd Tele 5
+[20:05:02] <+Maxzero100> !cd ZDF
+[20:05:02] <Jn K> !cd Vox
+[20:05:02] <+Hubu FM> !cd Sat.1
+[20:05:02] <+blaschko> !cd zdf
+[20:05:02] <+DrHelican> !cd ZDF
+[20:05:02] <+Martin Berwald> !cd kabel1
+[20:05:02] <Rischi24> !cd BeatheUse
+[20:05:02] <Marvin Welter> !cd Sat1
+[20:05:02] <TheGoliathD> !cd sat1
+[20:05:02] <Mopin777> !cdKabeleins
+[20:05:02] <Fabian Kratzer> !cd zdf
+[20:05:02] <Antonia Wilke> !cd zdf
+[20:05:02] <+Bugfix 85> @Der Diddler joa...der rasselt mir nur etwas zu schnell der Twitch chat, durch das dauergespamme von EMotes
+[20:05:02] <Felix M.> ntv
+[20:05:02] <+poeTV> !cd Tele 5
+[20:05:02] <Danny F> !cd ZDF
+[20:05:02] <Graue Eminenz> !cd zdf
+[20:05:02] <Terence Tino> !cd ZDF
+[20:05:02] <Romana> !cd Sat 1
+[20:05:02] <BadBone2k> !cd Sat1
+[20:05:02] <Gixxer> !cd ZDF
+[20:05:02] <Roman Hudak> !cd zdf
+[20:05:02] <frenz20> !cd ZDF
+[20:05:02] <Argon04> !cd ZDF
+[20:05:02] <Steffen> !Sat1
+[20:05:02] <Majon> !cd vox
+[20:05:02] <Dar Key> !cd DMAX
+[20:05:02] <Saubstauger> !cd ZDF
+[20:05:03] <adiosborritos> !ZDFneo
+[20:05:03] <mega moep> !cd vox
+[20:05:03] <+Screemie> !cd tele5
+[20:05:03] <HPZ1986> !cd 9live
+[20:05:03] <alayira> !cd sat1
+[20:05:03] <Lukas Merkert> !zdf
+[20:05:03] <Hendrik F> !cd DMAX
+[20:05:03] <Millenia16> !cd sat1
+[20:05:03] <Luca> !cd zdf
+[20:05:03] <sweetbriarx3> !cd Tele5
+[20:05:03] <Einfach Ich> !cd vox
+[20:05:03] <Junala> !CD ZDF
+[20:05:03] <mons pupis> !cd Sat1
+[20:05:03] <Dörpen McDörp> !cd kabel 1
+[20:05:04] <Loria> !cd zdf
+[20:05:04] <punkz> !cd sat 1
+[20:05:04] <Horatio McCallister> !cd sat 1
+[20:05:04] <+jogibär> cd! 9Live
+[20:05:04] <frank huemer> !cd DMAX
+[20:05:04] <hoommaa> !cd rocketbeans
+[20:05:04] <+Novek> !cd zdf
+[20:05:04] <Jan Goe> !CD ZDF
+[20:05:04] <Ole Gitzbrecht> !CD Sat1
+[20:05:04] <Sen Sukai> !cd sat!
+[20:05:04] <Basti> !cd sat1
+[20:05:04] <JayKayTue> !cd vox
+[20:05:04] <Ninn Kat> !cd kika
+[20:05:04] <Timo Kopp> !cd Sat1
+[20:05:04] <+Zitatwaffe> !cd Kabel 1
+[20:05:04] <EimAFreak> !cd VOX
+[20:05:04] <kradow> !cd sat 1
+[20:05:04] <FreshJump> Dmax
+[20:05:04] <Viarel> !cd zdf
+[20:05:04] <sachsendamm123> cd! DMAX
+[20:05:04] <Eras> !cd Sat1
+[20:05:04] <tyler tirion> !cd zdf neo
+[20:05:04] <Tischkannmanessen> !cd rtl
+[20:05:05] <Troinsen> !tele 5
+[20:05:05] <Gregor Spranger> !cd nickelodeon
+[20:05:05] <Bastian Wolff> !cd ZDF
+[20:05:05] <miemeyer96> !cd Sat 1
+[20:05:05] <AchFu> !cd zdf
+[20:05:05] <DaBoZzChriZz> !cd ZDF
+[20:05:05] <Prüssi> !cd ZDF
+[20:05:05] <Ben Braß> !cd ZDF
+[20:05:05] <masterjojo78> !tele5
+[20:05:05] <Parideis> !cd ZDF
+[20:05:05] <TheTetrisPie> !cd GIGA
+[20:05:05] <Joe Fettarsch> !cd kabel eins
+[20:05:05] <Yukitox Dude> !cd kabel1
+[20:05:05] <marcsigal -> !cd Tele 5
+[20:05:05] <stronius99> !cd SAT1
+[20:05:05] <DasFormanek> !CD ZDF
+[20:05:05] <Jana Woltmer> !cd ard
+[20:05:05] <1daysgrace> !cd tele5
+[20:05:05] <Supertyp Legatze> !cd SAT1
+[20:05:05] <alch134> !cd sat1
+[20:05:05] <sparrowprince> !cd zdf neo
+[20:05:05] <Balmung> !cd tele5
+[20:05:05] <+Lubitzkie> !cd ZDF
+[20:05:06] <dAEnny> !cd ZDF
+[20:05:06] <Gorn's Geist> !cd tele5
+[20:05:06] <EinBurgbauer> !cd ZDF
+[20:05:06] <Gerrit Goetze> !cd zdf
+[20:05:06] <Robert Nickels> !cd n24
+[20:05:06] <Simon> !cd zdf
+[20:05:06] <ElwinH24> !cd vox
+[20:05:06] <Julian Bch> !cd 3sat
+[20:05:06] <Peter Guth> !cd Tele5
+[20:05:06] <Kresimir Vlaic> !cd vox
+[20:05:06] <Blitz Dave> !cd sat 1
+[20:05:06] <UraiFen1138> !cd dsf
+[20:05:06] <a*[C]*e> !cd Sat1
+[20:05:06] <DonarHB> !cd Vox
+[20:05:06] <Alexander Seiche> CD sat1
+[20:05:06] <Moutertwist> !cd 3Sat
+[20:05:06] <+DoenerJunior> !cd tele5
+[20:05:07] <LumpiDX88> !cd Kabel 1
+[20:05:07] <fruchtzwerch> !cd Kabel eins
+[20:05:07] <Jack Farley> !cd tele 5
+[20:05:07] <Micha Vanderloo> !cd sat 1
+[20:05:07] <Nanique Vie> !cd sat 1
+[20:05:07] <Trafalgar3390> !cd VOX
+[20:05:07] <D. Flash Shumway> !cd Bibel Tv
+[20:05:07] <BVBene> !cd 3sat
+[20:05:07] <YellowHawk89> !cd ZDF
+[20:05:07] <JackSparrrov> !cd zdf
+[20:05:07] <Max> ZDF
+[20:05:07] <timeout212> !cd sat1
+[20:05:07] <Sofi87> !cd SAT 1
+[20:05:07] <PanamaPunisher> !cd Bible tv
+[20:05:07] <Hillbilly TheKid> !cd Tele 5
+[20:05:07] <Daniel Rettig> !CD dmax
+[20:05:07] <Emile Heskey> !cd sat1
+[20:05:07] <Hadono> !cd tele5
+[20:05:07] <Julian Bornemann> !cd sat1
+[20:05:07] <Slayz ZOne> !cd ZDF
+[20:05:07] <Corporal Chaos> !cd phoenix
+[20:05:07] <19zomtec82> !cd VOX
+[20:05:07] <Torkatus21> !cd RTL
+[20:05:08] <MsDuststorm> !cd sat1
+[20:05:08] <Oliver3911> !cd ard
+[20:05:08] <Crzzz Kalo> !cd qvc
+[20:05:08] <Farb I.> !cd sat1
+[20:05:08] <Tino> !cd vox
+[20:05:08] <+Luggi may> !cd ZDF
+[20:05:08] <manus dei> !cd vox
+[20:05:08] <+Jenny LovesMusic> !cd kabel1
+[20:05:08] <+Jack Müller> !cd zdf
+[20:05:08] <wasserbeutel> !cd ZDF
+[20:05:08] <+derjoker> !cd sat1
+[20:05:08] <boidiman13> !cd zdf
+[20:05:08] <SmeiliGamers> Sat 1
+[20:05:08] <+kruben> "cd Sat1
+[20:05:08] <Pawli M> !cd ZDF
+[20:05:08] <unskilled Drahim> !cd kabel1
+[20:05:08] <kippka _> !cd rtl
+[20:05:08] <TeX> !cd Kika
+[20:05:08] <Faktor VII> !cd sat 1
+[20:05:08] <FenrizBelial> !cd Sky
+[20:05:08] <jackyhorror> !cd vox
+[20:05:08] <KaterKarlo diePrinzessin> !cd SAT1
+[20:05:09] <Robert Arndt> !cd Sat 1
+[20:05:09] <Ben D> !cd Vox
+[20:05:09] <Patrick Lang> !cd DMAX
+[20:05:09] <SebHighDef> zdf ist falsch ihr dödl
+[20:05:09] <Mia Yil> !cd vox
+[20:05:09] <Punkdame> !cd ZDF
+[20:05:09] <Jan Köhler> !cd zdf
+[20:05:09] <Luca> !cd zdf
+[20:05:09] <NfsmanPlays> !cd ZDF
+[20:05:09] <+Abe Angle> !cd Sat1
+[20:05:09] <helmut klotencasper> !cdzdf
+[20:05:09] <Bin Entzückd> !cd zdf
+[20:05:09] <MkayIndianaJones> !cd sat1
+[20:05:09] <Kunstloses Brot> !cd phoenix
+[20:05:09] <Tobi S.> !cd Viva
+[20:05:09] <Neppuxx> !Arte
+[20:05:09] <Timo Kopp> !cd Vox
+[20:05:09] <Molestus666> !cd Kabel eins
+[20:05:09] <Aphrastes> !cd Vox
+[20:05:09] <dieJulie> !cd zdf neo
+[20:05:09] <Johannes Koop> !cd sat1
+[20:05:09] <Martin Geißler> !Tele5
+[20:05:09] <Zhalsee> !cd Tele5
+[20:05:10] <+XAxeX> !cd Tele5
+[20:05:10] <Niklas> !cd Zdf
+[20:05:10] <Nils Frühling> !cd zdf
+[20:05:10] <Sascha Gerlach> !cd ZDF
+[20:05:10] <Tim Huck> !cd tele 5
+[20:05:10] <GruenWeiss94> !cd dmax
+[20:05:10] <masterjojo78> !dmax
+[20:05:10] <PS3Faultier> !cdZdf
+[20:05:10] <MrRonVibbentrop> !cd fox
+[20:05:10] <+Pinkie Swirl> !cd zdf
+[20:05:10] <Chris Chros> RBTV
+[20:05:10] <Cerby> !cd fox
+[20:05:10] <Belegond> !cd Kabel 1
+[20:05:10] <Oliver3911> !cd ard
+[20:05:10] <step bo> !cd kabel 1
+[20:05:10] <Bla Bla> cd! ZDF
+[20:05:10] <El Duderino> !cd vox
+[20:05:10] <Carsten L> !cd sky
+[20:05:10] <Gold3nLion> !cd phoenix
+[20:05:11] <123fugo123> !cd SAT1
+[20:05:11] <Y2KO OO> !cd Sat 1
+[20:05:11] <SpinnerLP> !cd zdf
+[20:05:11] <Rya Bread> !cd Tele 5
+[20:05:11] <Plumsklomassaker> !cd Sat1
+[20:05:11] <+karamellmann 5> !cd vox
+[20:05:11] <anagallis> !cd tele5
+[20:05:11] <Loeweable> !cd Dmax
+[20:05:11] <+elkangaroo> !cd Tele5
+[20:05:11] <MichBekk> !cd ZDF
+[20:05:11] <Graf Scapula> !cd Tele 5
+[20:05:11] <ShdY20> vox
+[20:05:11] <Benji_zockt> !cd nickeloadeon
+[20:05:11] <dominik dyllong> !cd sat1
+[20:05:11] <Lilly Owly> !cd N24
+[20:05:11] <John Laserdrucker> !cd tele 5
+[20:05:11] <jast8421> !cd ZDF
+[20:05:11] <Chris89> !cd Kabel 1
+[20:05:11] <Leonardo De No Kenno> !cd ProSieben
+[20:05:11] <Eichelhaeher> !cd beate uhse tv
+[20:05:11] <fraggy 83> !cd tele 5
+[20:05:11] <Inspiring Pictures> !cd ZDF
+[20:05:11] <Lurchider> !cd ZDF
+[20:05:11] <FenrizBelial> !cd VOX
+[20:05:11] <+XAxeX> TELE5
+[20:05:12] <Debrando> !cd zdf
+[20:05:12] <Bömmel> !cd zdf
+[20:05:12] <Ravion7896> !cd vox
+[20:05:12] <+Dennis D> !cd kabel1
+[20:05:12] <Alexander Behm> !cd sat1
+[20:05:12] <Draggo> !cd funk
+[20:05:12] <roschwie> !cd tele 5
+[20:05:12] <AndyKoster> !cd ZDF
+[20:05:12] <Alicia Raab> !cd kikA
+[20:05:12] <Mel Pinkman> !cd Sat1
+[20:05:12] <Gregory Lamprakos> !cd MTV
+[20:05:12] <+Biedermeier 85> !cd zdf
+[20:05:12] <Daisycutter> !cd sat1
+[20:05:12] <Alexander Engler> !ca DMAX
+[20:05:13] <Alex> !cd Tele 5
+[20:05:13] <Mary E> !cd zdf
+[20:05:13] <Glurak Shakur> !cd zdf
+[20:05:13] <King Jules> !CD Tele 5
+[20:05:13] <Christoph Pg> !cd tele5
+[20:05:13] <Jallefcb> !cd ZDF
+[20:05:13] <eLn290> !cd Kabel Eins
+[20:05:13] <+Jack Müller> !cd sat1
+[20:05:13] <Sen Sukai> cd! Tele5
+[20:05:13] <Vanilla Thunder> !cd ZDF
+[20:05:13] <Filippo Brehm> !cd zdf
+[20:05:13] <Neppuxx> !cd Arte
+[20:05:13] <Fukurokuju> !cd Vox
+[20:05:13] <Adrian Flück> !cd 3sat
+[20:05:14] <+Bohnango> !cd zdf
+[20:05:14] <Marco Sieberg> !cd qvc
+[20:05:14] <GAMEBROS.AT> !cd vox
+[20:05:14] <Steinapet> !cd ZDF
+[20:05:14] <0gmo> !cd kabel 1
+[20:05:14] <Mike D> !cd sat1
+[20:05:14] <Trafalgar Law> !cd Kabel eins
+[20:05:14] <a*[C]*e> !cd Sat1
+[20:05:14] <Xpippo09X> !cd sat1
+[20:05:14] <DaHaecker> !cd ZDF
+[20:05:14] <Joshi2991> !cd sat 1
+[20:05:14] <Frederik Bieber> !cd kabel 1
+[20:05:14] <Milka0706> !cd Sat1
+[20:05:14] <Lukas Schönhofer> !cd Pro7
+[20:05:14] <FallendeBanane> !cd tele5
+[20:05:14] <Felix M.> !cd N24
+[20:05:14] <Firlefranz Brötchen> !cd tele 5
+[20:05:14] <Patrick K> !cd ZDF
+[20:05:15] <Dejan Zizek> !cd Tele 5
+[20:05:15] <Manuel Thomas> !cd Vox
+[20:05:15] <Alex aka *Ghostpeper*> !cd ProSieben
+[20:05:15] <Bulldoser824> !cd RTL
+[20:05:15] <Sonne, Mond und Brot> !cd ZDF
+[20:05:15] <Julia Bla> !cd Sat1
+[20:05:15] <CaptainKotPilot> !cd vox
+[20:05:15] <fragnich93> !cd tele 5
+[20:05:15] <robo slomka> Kabel 1
+[20:05:15] <Elena K.> !cd vox
+[20:05:15] <Disturbiagarfield> !cd vox
+[20:05:15] <Johannes Ritter> !CD ZDF
+[20:05:15] <Sophie Peeves> !cd sat 1
+[20:05:15] <+XAxeX> !cd Tele5
+[20:05:15] <Dominic LaLiLu> !cd DMAX
+[20:05:15] <Deinomer> !cd Sat1
+[20:05:15] <t-dog> !cd ZDF
+[20:05:15] <K Dr> !cd sat1
+[20:05:15] <ParaSid> !cd vox
+[20:05:15] <FlashBuzz> !cd DMAX
+[20:05:16] <Kai C.> !cd ZDF
+[20:05:16] <Kathi Busch> !cd vox
+[20:05:16] <masterjojo78> !cd sixx
+[20:05:16] <GoblinkingGermany> !cd tele 5
+[20:05:16] <+Only Me> !cd zdf
+[20:05:16] <+4Astaroth> !cd Kabel 1
+[20:05:16] <AgonieEvo> !cd sky
+[20:05:16] <Eric Schulz> !cd zdf
+[20:05:16] <Alexander Seiche> CD ZDF
+[20:05:16] <CreeperGreenMC> !cd RBTV
+[20:05:16] <apfelpizza> !cd zdf
+[20:05:16] <Martin Geißler> !cd Tele5
+[20:05:16] <Dennis Schröder> !cd zdf
+[20:05:16] <cfgydeh> !cd sat 1
+[20:05:16] <Vincenius> !cd zdf
+[20:05:16] <Philip Bechmann> !cd sat.1
+[20:05:16] <Tobias Ungvari> !cd sixx
+[20:05:16] <Caprice Gerlach> !cd sat 1
+[20:05:17] <wasabion3000> !cd ocket Beans
+[20:05:17] <atzenumberonexD> !3sat
+[20:05:17] <Dave Gates> !cd viva
+[20:05:17] <Phenrir Phinomenon> !cd ZDF
+[20:05:17] <Little Lotte> !cd sat1
+[20:05:17] <Yannick Schnur> !cd zdf
+[20:05:17] <1P9h9i1l> !cd Phönix
+[20:05:17] <Lukas Herbertson> !cd DMAX
+[20:05:17] <Einhorn Kotze> ! Sät 1
+[20:05:17] <Bettmensch> !cd sat1
+[20:05:17] <Jogi Duderino> !cd Tele 5
+[20:05:17] <NeRwErTeZ> !cd ZDF
+[20:05:17] <Lucien Grimaud> !cd sat 1
+[20:05:17] <+Helmut Hummer> Klappa Stefan
+[20:05:17] <SHARP> !cd ProSieben
+[20:05:17] <stscon> !cd zdf
+[20:05:17] <Twolin> !cd zdf
+[20:05:17] <Mr Miesfies> !cd tele 5
+[20:05:17] <TheMoepics> !cd Sat1
+[20:05:18] <De Lessige> !cd zdf
+[20:05:18] <Harry_Bo> Titzler ❤
+[20:05:18] <Taku> !cd zdf
+[20:05:18] <Rndde> !cd tele5
+[20:05:18] <KiboChan1> !cd sat 1
+[20:05:18] <c0ldsun> !cd SAT1
+[20:05:18] <Katie Fleur> !cd zdf
+[20:05:18] <Sarahfinchen SCHWARZ> !vox
+[20:05:18] <CAnders> !cd SAT 1
+[20:05:18] <Julian Retzlaff> !cd DMAX
+[20:05:18] <+kommerzpunk> !CD arte
+[20:05:18] <UntotesHanuta> !cd ZDF
+[20:05:18] <nils.> !cd Sat1
+[20:05:19] <Daadz> !cd zdf neo
+[20:05:19] <Michael Wolf> !cd ZDF
+[20:05:19] <iggbert> !cd ZDF
+[20:05:19] <Ratze16> !CD sat1
+[20:05:19] <Torkatus21> !cd Nickelodeon
+[20:05:19] <notenfreund> !cd kabel eins
+[20:05:19] <Gicana> !cd sat 1
+[20:05:19] <Christoph Damm> !cd ZDF Neo
+[20:05:19] <Ariane> !cd ZDF
+[20:05:19] <timosenkrecht> !cd ZDF
+[20:05:19] <DeLaGoi> !cd vox
+[20:05:19] <MAXLEN 1> !cd ZDF
+[20:05:19] <Adrian Flück> cd!3sat
+[20:05:19] <Crank795> !cd dmax
+[20:05:19] <PanamaPunisher> !cd bibeltv
+[20:05:19] <+Hubu FM> !cd Fox
+[20:05:19] <Mathias Stuhl> !cd 3sat
+[20:05:19] <Tarias> !cd Kabel 1
+[20:05:20] <ILOK 21> !cd sat 1
+[20:05:20] <Geggole> !cd VOX
+[20:05:20] <Niklas> !cd dmax
+[20:05:20] <miroleon> !cd KabelEins
+[20:05:20] <PhilB> !CD sat1
+[20:05:20] <Makho> !cd ocketbeans tv
+[20:05:20] <Rhonya> !cd kabel1
+[20:05:20] <Mei Ke> !cd zdf
+[20:05:20] <Noiroiloin> !cd vox
+[20:05:20] <Arty Party> !cd Tele 5
+[20:05:20] <Benny> !cd zdf
+[20:05:20] <MeisterQuitte> !cd Tele 5
+[20:05:20] <Chris> !CD pro sieben
+[20:05:21] <Jonny & Schehr> !cd sat 1
+[20:05:21] <MeisterEder> !cd zdf
+[20:05:21] <Seb Lakefield> !cd Bonjwa
+[20:05:21] <Christian Becker> !cd ZDF
+[20:05:21] <Rocket_Yves> cd! tele züri
+[20:05:21] <19OldSnake82> !cd Tele 5
+[20:05:21] <St3Re0Man> !cd 3sat
+[20:05:21] <+Bohn_Jovi> !cd tele 5
+[20:05:21] <Robin Berlusconi> !cd MTV
+[20:05:21] <Jacknife93> !cd sat1
+[20:05:21] <The1NzN> CD ZDF
+[20:05:21] <Ferdi LiFe> !cd zdf
+[20:05:21] <TheMoepics> !cd ZDF
+[20:05:22] <Prinzessin der weißen Schatten> !cd Disney channel
+[20:05:22] <Laura> !cd ZDF
+[20:05:22] <Olec Boleg> !cd tele5
+[20:05:22] <+Jack Müller> !cd dmax
+[20:05:22] <Gunnar Matthies> !cd DSF
+[20:05:22] <Matt Sinclair> !cd tele5
+[20:05:22] <+Touch of Hell> !cd DSF
+[20:05:22] <CaMa HH> !cd sat 1
+[20:05:22] <Andreas Rastl> !cd kabel1
+[20:05:22] <Somja> !cd zdf
+[20:05:22] <Sven> !cd Sat1
+[20:05:22] <SmeiliGamers> !cd Sat 1
+[20:05:22] <Green Blueberry> !cd ZDF
+[20:05:22] <Drehwespe> "lustig"
+[20:05:22] <bli blub> !cd Kabel eins
+[20:05:23] <FayeDRoux> !cd zdf
+[20:05:23] <Sabby Uchimaki> !cd ZDF
+[20:05:23] <Die Wiewarum> !cd Arte
+[20:05:23] <Anika Schmitt> !cd sat 1
+[20:05:23] <BullMusic42> !cd ZDF
+[20:05:23] <+NEO MIMZY NEO MIMZY> !cd Po7
+[20:05:23] <Siggy 87> !cd beate uhse tv
+[20:05:23] <Paul Eibisch> !cd zdf
+[20:05:23] <+XAxeX> !cd Tele5
+[20:05:23] <War schon da> !cd 9live
+[20:05:23] <MatChr> !cd zdf
+[20:05:23] <Andreas Müller> !cd Sport1
+[20:05:24] <Plumsklomassaker> !cd tele5
+[20:05:24] <Patrick P.> !cd zdf
+[20:05:24] <Filippo Brehm> !cd zdf
+[20:05:24] <+Julian G.> !cd tele5
+[20:05:24] <Sen Sukai> cd! Nickelodeon
+[20:05:24] <+Exoduz86> !cd Kabel 1
+[20:05:24] <Green Yoshi> !cd  Sat 1
+[20:05:24] <BigNErik> !cd Kabel1
+[20:05:24] <Pr0molle> !cd zdf
+[20:05:24] <ItsRawMelissa> !cd tele 5
+[20:05:25] <4 mal1> !cd zdf
+[20:05:25] <Flobbels> !cd tele 5
+[20:05:25] <Farb I.> !cd tele5
+[20:05:25] <BME19991> Zweites Deutsches FeRRRRnsehen 😉
+[20:05:25] <Bertmeister> !cd sat1
+[20:05:25] <Marco Sieberg> !cd qvc
+[20:05:25] <Johannes Koop> !cd dmax
+[20:05:25] <feuer kot> !cd bonjwa
+[20:05:25] <Gonastus> !cd sat1
+[20:05:25] <+Jack Müller> !cd vox
+[20:05:25] <Dune> !cd pro7
+[20:05:25] <Marc Melech> !cd kabel eins
+[20:05:25] <TheDavidTeam> !cd sat1
+[20:05:25] <Raketenbohne Oeli> !cd sat1
+[20:05:26] <TOBEY> !cd Sat1
+[20:05:26] <+geosunaj> !cd kabeleins
+[20:05:26] <Master Bean> !cd Kabel eins
+[20:05:26] <+XAxeX> !cd Tele5
+[20:05:26] <chocka beats> !cd pro7
+[20:05:26] <Dustin W> !cd Tele 5
+[20:05:26] <Sarahfinchen SCHWARZ> ! vox
+[20:05:26] <Chris Equilibrial> !cd mtv
+[20:05:26] <+Frannts bruh> für klein und jung 😂
+[20:05:26] <Dominic LaLiLu> !cd DMAX
+[20:05:26] <atzenumberonexD> !cd 3sat
+[20:05:27] <Kalle> !cd SAT1
+[20:05:27] <Jana Woltmer> !cd vox
+[20:05:27] <ruf sascha> florentil
+[20:05:27] <Escardos> !cd Kabel 1
+[20:05:27] <Bienelauri> !cd zdf
+[20:05:27] <Andreas Müller> !cd Vox
+[20:05:27] <+Hubu FM> !cd DMAX
+[20:05:28] <Stueppi> !cd rheinmaintv
+[20:05:28] <+Antiheld> !cd sky
+[20:05:28] <kucken123> !cd rtl
+[20:05:28] <Mary E> !cd pro7
+[20:05:28] <ShdY20> !CD Vox
+[20:05:28] <+XAxeX> !cd Tele5
+[20:05:28] <Joe Fettarsch> leute, dessen VOLLER name kein R enthält XDDD
+[20:05:28] <SeaBound> !cd Sat 1
+[20:05:28] <Thorsten Graw> !cd SAT1
+[20:05:28] <Michael Wolf> !cd ZDF
+[20:05:29] <+Jack Müller> !cd mtv
+[20:05:29] <FlyingSoHighnow> !cd kabel1
+[20:05:29] <CHRISSOCK> !cd sat 1
+[20:05:29] <Tobi Heisenberg> !cd ZDF
+[20:05:29] <Michael Neise> !cd vox
+[20:05:29] <Doc Hoschi> !cd1 DMAX
+[20:05:29] <Basti> !cd rbtv
+[20:05:29] <Bella Stella> !cd Tele 5
+[20:05:29] <Naddidaddi> !cd Das Erste
+[20:05:29] <Phi So> !cd mtv
+[20:05:29] <Laura Lou> /cd Sat1
+[20:05:29] <+ChronicE99> !cd DSF
+[20:05:29] <Jaime> FISCHKARTE!!!
+[20:05:29] <+Daniel W> !cd 3sat
+[20:05:29] <sebastian perschewski> !cd tele5
+[20:05:30] <+XAxeX> !cd Tele5
+[20:05:30] <TheMoepics> !cd Rocketbeans
+[20:05:30] <Ibes K.> !cd rtl
+[20:05:30] <Daaaniel> !cd tele 5
+[20:05:30] <timrobot> !cd 3sat
+[20:05:30] <Siggy 87> 😂
+[20:05:30] <Arînko> !cd kabel eins
+[20:05:30] <Rebecca Richter> !cd kabel1
+[20:05:31] <FleischDealer> !cd Tele 5
+[20:05:31] <+XAxeX> !cd Tele5
+[20:05:31] <Adrian Flück> !cd 3sat
+[20:05:31] <Fab030> !cd kabel 1
+[20:05:31] <robo slomka> !cd Kabel 1
+[20:05:31] <Party MCFly> !cd phoenix
+[20:05:31] <Sebastian Manske> !cd sky
+[20:05:31] <Chripsen> !cd ZDF
+[20:05:31] <unduebrigensnochwas> cd! zdf neo
+[20:05:31] <Andreas Kailer> !cd sat1
+[20:05:32] <BVBene> !cd 3sat
+[20:05:32] <sebalein> !cd zdf
+[20:05:32] <hennesder7> !cd ard
+[20:05:32] <Felix Schumacher> !cd Viva
+[20:05:32] <Jakob MPunkt> !cd gronkh
+[20:05:32] <Asuka Soryu> !cd ZDF
+[20:05:32] <Maus Laura> !cd Kila
+[20:05:32] <Jan Emanuel> !cd ntv
+[20:05:32] <jsbgdfzgbvsdaiblgiua> !cd Kabel 1
+[20:05:33] <Anke Lieb> !cd zdf
+[20:05:33] <bl4ckOut90> !cd dmax
+[20:05:33] <El Cativo> lol Ard bekommt quasi 0 %
+[20:05:33] <MsNintendoplayer> !cd sat1
+[20:05:33] <+Jack Müller> !cd bonjwa
+[20:05:33] <+Ballerbecks> !cd rbtv
+[20:05:33] <The1NzN> !cd ZDF
+[20:05:33] <Niklas Olbertz> !CD Sat1
+[20:05:33] <Sebastian Noa> !cd zdf
+[20:05:33] <RamBo Como> !cd 3sat
+[20:05:34] <+Hubu FM> !cd ZDF
+[20:05:34] <Philipp Schlüns> !cd ZDF
+[20:05:34] <+XAxeX> !cd Tele5
+[20:05:34] <Max Klose> !cd Kabel 1
+[20:05:34] <Lisa> !cd Vox
+[20:05:34] <+Ivy ImHaus> cd! kika
+[20:05:34] <Haschygt> !cd pro7
+[20:05:34] <Jonas H> !cd 3sat
+[20:05:34] <HerrGoeffel> !cd 3sat
+[20:05:34] <c0ldsun> !cd sixx
+[20:05:34] <Action Ninja> !cd sixx
+[20:05:34] <tbaum9> F steht für fehRnsehn ihr idioten ^^
+[20:05:35] <marcsigal -> zdf = Zweites deutsche fernsehen, ihr noobs
+[20:05:35] <Isa !> !cd SAT1
+[20:05:35] <Julez> !cd Vox
+[20:05:36] <Somja> !sat1
+[20:05:36] <+Exoduz86> wer ZDF schreibt ist doof
+[20:05:36] <Franziska Fraunstedt> !cd tele5
+[20:05:36] <Thomas H> !cd vox
+[20:05:36] <ChrisII Slaw.> !cd Prosieben
+[20:05:36] <Einfach Ich> !cd Disney channel
+[20:05:36] <Hakan Uçar> !cd ZDF
+[20:05:37] <Minaman> !cd Sat1
+[20:05:37] <Xpippo09X> !cd phönix
+[20:05:37] <Felix M.> !cd Kabeleins
+[20:05:37] <Susi Sushi> !cd zdf_neo
+[20:05:37] <TheDavidTeam> !cd rocketbeanstv
+[20:05:37] <The Paniac> !cd tele5
+[20:05:37] <Christoph Pg> !cd Tele 5
+[20:05:37] <+XAxeX> !cd Tele5
+[20:05:37] <Lilly across the ocean> !cd Sat1
+[20:05:37] <+Na irda> !cd sat1
+[20:05:38] <Phi So> !cd mtv
+[20:05:38] <Backzauber> !cd ZDF in
+[20:05:38] <Strooohm> !cd sat1
+[20:05:38] <neppan> !cd  tele5
+[20:05:38] <Winmi !> !cd zdf
+[20:05:38] <Seb Lakefield> !cd Pietsmiet
+[20:05:38] <Marius Meyer> !cd 9live
+[20:05:39] <Sun Nox> !cd dmax
+[20:05:39] <The Grand Chill> !cd sat 1
+[20:05:39] <LauchHürde> !cd kika
+[20:05:39] <+MrWerder> Frank Unterholz ❤
+[20:05:40] <Alexander Seiche> !cd vox
+[20:05:40] <+Jack Müller> !cd 3sat
+[20:05:40] <Melody Grimmie> !cd ZDF
+[20:05:40] <Ed. Stark> !cd Sat1
+[20:05:40] <Vol cas> !cd Kabel1
+[20:05:41] <Lisa> !cd Sat 1
+[20:05:41] <War schon da> !cd 9live
+[20:05:42] <michel müller> !cd ard
+[20:05:42] <Sharex> !cd mtv
+[20:05:42] <Minaru92> !cd vox
+[20:05:42] <+XAxeX> !cd Tele5
+[20:05:42] <Oimbubi> !cd orf
+[20:05:42] <lkayx4> !cd dmax
+[20:05:42] <DarioCvijetinovic> !cd zdf
+[20:05:43] <ArJey> !cd viva
+[20:05:43] <Bella Bomb> !cd sat1
+[20:05:44] <AfroLutz> ZDF ist falsch Zweites deutsches FeRnsehen
+[20:05:44] <Franziska Fraunstedt> !cd kabel 1
+[20:05:44] <Maus Laura> !cd kika
+[20:05:44] <hoommaa> !cd prosieben
+[20:05:44] <+the austria> !cd arte
+[20:05:44] <Joshua Wien> !cd MTV
+[20:05:45] <nein _> !cd sat 1
+[20:05:45] <+GyroKite> !cd vox
+[20:05:45] <Lemâr> !cd Tele 5
+[20:05:45] <+Jack Müller> !cd kika
+[20:05:46] <Mary M.> !cd ZDF
+[20:05:46] <TripleS976> !cd tele 5
+[20:05:46] <Ariane> !cd Vox
+[20:05:47] <+Exoduz86> Fernsehen wird mit r geschrieben, ZDF also auch
+[20:05:47] <sc4rred> !cd Dmax
+[20:05:47] <AnonyBy> zdf ist theoretisch ja flasch 😉
+[20:05:47] <Trafalgar3390> Zweites Deutsches FerRnsehen
+[20:05:47] <KiboChan1> !cd tele 5
+[20:05:48] <c0ldsun> !cd sky
+[20:05:48] <RhombusHuerde> !cd kabel eins
+[20:05:48] <Robin Berlusconi> ZDF HAT EIN R
+[20:05:48] <Jacob Braun> !cd vox
+[20:05:48] <Dome TV> !cd rtl
+[20:05:48] <Tino> !cd ntv
+[20:05:49] <+Hari Seldon> @Joe Fettarsch rafft keiner - aber die Teams dann auch nicht 😀
+[20:05:49] <Supernature87> !cd ZDF
+[20:05:49] <Towelie 420> !cd tele5
+[20:05:49] <+Kamikazeworm> !cd Sat 1
+[20:05:49] <Sven Wellmann> !CD pro7
+[20:05:49] <JoJo Productions> !cd kabel eins
+[20:05:49] <Master Bean> !cd Sat 1
+[20:05:49] <Dominic LaLiLu> !cd DMAX
+[20:05:49] <Prinzessin der weißen Schatten> !cd tele5
+[20:05:50] <+Hubu FM> !cd SexySat
+[20:05:50] <Bluetoothfan> !cd giga
+[20:05:50] <Melody Grimmie> !cd VOX
+[20:05:50] <Daisycutter> !cd tele5
+[20:05:50] <Markus R.> Sat 1
+[20:05:50] <Somja> !cd sat1
+[20:05:50] <Lisa> !cd zdf
+[20:05:51] <FenrizBelial> !cd Tele 5
+[20:05:51] <+Deschain92> !cd Tele5
+[20:05:51] <Max Buras> !cd kabel1
+[20:05:51] <+D3R GäRtN3r> !cd tele5
+[20:05:52] <Joi nty> cd! Kabel1
+[20:05:52] <Arbor> !cd dmax
+[20:05:52] <Sven> !cd KiKa
+[20:05:53] <Klaus W.> !cd SAT1
+[20:05:53] <+Jack Müller> !cd tele 5
+[20:05:53] <Olaf Behrens> ,cd Sat 1
+[20:05:54] <Mitternachtselbin> !cd vox
+[20:05:54] <Jakob MPunkt> cd nikelodeon
+[20:05:56] <schony3000> !cd Nickelodeon
+[20:05:57] <+XAxeX> !cd Tele5
+[20:05:57] <Sobols Brotkip> !cd sport1
+[20:05:57] <Eggthér Limettenschniedel> !cd pheonix
+[20:05:57] <Milka0706> chateskalation 😂😂😂
+[20:05:58] <schdeef> swaaaayzeeeee
+[20:05:58] <FenrizBelial> !cd 9 Live
+[20:05:58] <Mara Schuster> sat1
+[20:05:58] <Fab030> zweites deutschen feRnsehen ... leute
+[20:05:58] <JayKayTue> !cd dmax
+[20:05:59] <Prodigy0960> !cd prosieben
+[20:05:59] <Tobias Krejci> !cd Kabel 1
+[20:05:59] <TJ Holland> !cd MTV
+[20:06:00] <Gerrit Horst> !cd sat1
+[20:06:02] <Philipp S> !cd tele 5
+[20:06:02] <Tobias Tebben> hallo
+[20:06:02] <PhilB> !CD zdf
+[20:06:03] <Uldysssian> !cd kabel 1
+[20:06:03] <Linnea Low> !cd Tele5
+[20:06:03] <skypiercer13> !cd kabel 1
+[20:06:03] <Franziska Fraunstedt> !cd vox
+[20:06:04] <Sarahfinchen SCHWARZ> ! NICK
+[20:06:05] <Benji_zockt> Es ist schon längst vorbei 😀
+[20:06:05] <Morissa Kaba> !cd sat1
+[20:06:05] <AfroLutz> !cd DW
+[20:06:05] <darkcrab> !cd Kabel Eins
+[20:06:05] <masterjojo78> !cd tele5
+[20:06:06] <desert season> !cd DMAX
+[20:06:07] <+Hubu FM> !cd Kabel Eins
+[20:06:07] <F tothe X> !cd prosieben
+[20:06:07] <John Laserdrucker> 😂 auf zdf kommen die nie
+[20:06:07] <Siebentöter> !cd zdf
+[20:06:08] <Adrian Flück> cd! 3sat
+[20:06:08] <Mary E> !cd pro7
+[20:06:09] <+Maxzero100> Aber warum ist Donnie dabei?
+[20:06:11] <War schon da> !cd kika
+[20:06:12] <Andreas Müller> !cd Sky
+[20:06:12] <Jan Lehners> !cd Sat 1
+[20:06:12] <Laura Isabell> !cd kabel1
+[20:06:12] <Alexander Seiche> cd! mtv
+[20:06:13] <+Bugfix 85> 😀 eddy
+[20:06:15] <ChrisII Slaw.> !cd Prosieben
+[20:06:16] <JayKayTue> !cd sat1
+[20:06:16] <Mary E> !cd sat1
+[20:06:16] <Ed. Stark> Hmm...ZDF = Zweites Deutsches Fensehen?
+[20:06:17] <Markus R.> !cd Sat 1
+[20:06:17] <+XAxeX> !cd Tele5
+[20:06:17] <Bin Entzückd> @Nannerl hi du
+[20:06:18] <+Exoduz86> !cd phoenix
+[20:06:18] <Sven> Zweites deutsches FeRnsehen
+[20:06:18] <Kay Liebisch> !cd Sat1
+[20:06:19] <+Xplorer7> !cd ZDF
+[20:06:20] <+Hubu FM> !cd SexySat
+[20:06:21] <War schon da> !cd kika
+[20:06:22] <F tothe X> !cd vox
+[20:06:22] <Lisa> !cd tele 5
+[20:06:23] <Pixel Nerd> !cd GIGA
+[20:06:23] <Felix Schumacher> ZDF = Zweites deutsches FeRRRRRRnsehen
+[20:06:23] <Benji_zockt> klickt mal alle auf Live^^
+[20:06:23] <Esusa> 😀 seid ihr noch yt? ich guck ja auf twitch
+[20:06:24] <Melody Grimmie> !cd Sat.1
+[20:06:25] <Adrian Flück> !cd 3sat
+[20:06:25] <Mary E> !cd vox
+[20:06:25] <Muntaron 1> !cd mtv
+[20:06:25] <Seb Lakefield> !cd Pietsmiet
+[20:06:25] <Prinzessin der weißen Schatten> !cd viva
+[20:06:26] <Jay19Jay93> 🌝
+[20:06:26] <Philipp S> !cd ZDF
+[20:06:27] <+derjoker> 😀
+[20:06:31] <Xpippo09X> !cd phönix
+[20:06:31] <Jakob MPunkt> schreibt nicht so schnell leute ich bin schon wieder rausgekommen mit dem zählen
+[20:06:32] <Adrian Flück> !cd 3sat
+[20:06:33] <tim tim> !cd Tele5
+[20:06:33] <masterjojo78> !cd dmax
+[20:06:34] <NipponHints> !cd tele5
+[20:06:34] <c0ldsun> !cd Beate Uhse
+[20:06:35] <Fluschwusch> !cd tele5
+[20:06:36] <Lisa> !cd kabel  1
+[20:06:37] <+XAxeX> 😀
+[20:06:37] <Tobiko K> !cd zdf
+[20:06:38] <Mara Schuster> !cd sat1
+[20:06:39] <Somja> !cd kika
+[20:06:39] <Mangamaniac71> Swayzee!
+[20:06:40] <Lion Wedel> !cd VOX
+[20:06:40] <+Ceziᴴᴰ> hat eddy jetzt schon ne neue brille?
+[20:06:40] <Bertmeister> ZDF auszuschreiben scheint schwieriger als gedacht 😀
+[20:06:40] <Hillbilly TheKid> Pro 7 enthält also kein "R" soso 🌝
+[20:06:41] <Harry_Bo> Alle boykottieren die frage
+[20:06:41] <+XAxeX> 👍
+[20:06:41] <+derjoker> 😀 😀
+[20:06:41] <Tabea Fri> !ch Kika
+[20:06:42] <desert season> Donnie der Maulaffe
+[20:06:42] <Eomeras1> !cd ZDF
+[20:06:43] <Ed Drow> !cd phoenix
+[20:06:45] <madd1nmw> Zweites Standup confirmed?
+[20:06:47] <+Ceziᴴᴰ> oder ist die geklebt?
+[20:06:47] <Ben Shepherd> hier im Chat sind tlw echt nicht so die hellsten unterwegs
+[20:06:48] <+Exoduz86> leute Zweites deutsches ferRRRRRRRRRnsehen
+[20:06:48] <Maus Laura> !cd kika
+[20:06:49] <Jonny & Schehr> !cd rocket beans
+[20:06:50] <ThoK93> !cd Tele5
+[20:06:50] <timhaa24> !cd prosieben
+[20:06:51] <Rob Boss> viva
+[20:06:51] <Gamer5795> xD
+[20:06:52] <kristallinsche> immer Salz in die Wunde 😀
+[20:06:54] <+XAxeX> @Hillbilly TheKid  Po7 😀
+[20:06:55] <Chris Chros> !cd RBTV
+[20:06:56] <schdeef> Ich erwarte ein Gagfeuerwerk!
+[20:06:57] <R H> !cd ZDF_neo
+[20:06:58] <Ehte24> !cd tele5
+[20:06:58] <chair> !cd prosieben
+[20:06:58] <Gregor Sawatzki> Leute... zentRales deutsches feRnsehen, wo ist da bitte kein R?!
+[20:06:59] <+JotunnLoki> @Ceziᴴᴰ is die neue
+[20:06:59] <hiard10> !cd zdf
+[20:07:00] <Naddidaddi> @Ed. Stark Danke!!
+[20:07:00] <Raphael Seeger> !cd 9live
+[20:07:01] <+XAxeX> TELE5 wins 😀
+[20:07:01] <wasabion3000> Oket Beans Leute !!!!
+[20:07:01] <Balmung> !cd tele5 ihr Banausen
+[20:07:05] <+XAxeX> HAhaaaa
+[20:07:05] <Dominic LaLiLu> !cd DMAX
+[20:07:05] <Horst Birnenbaum> 😂
+[20:07:05] <+Alex> 😀
+[20:07:06] <+XAxeX> xDDD
+[20:07:06] <NfsmanPlays> 😀
+[20:07:07] <Torkatus21> hahaha
+[20:07:07] <Klaus Klausen> 😀
+[20:07:08] <+tH3h0ff> xD
+[20:07:09] <Jay19Jay93> 😂
+[20:07:09] <HipHopGuru> @Einfach Ich Würde dich auch so oft gerne mitnehmen. Von daher schon echt schade, dass du immer so weit weg bist. Wird aber schon. Muss jetzt aber echt mal los. Hab um 20:15 ausgemacht. Hob di lieb ❤
+[20:07:09] <+derjoker> 😀 😀 😀
+[20:07:09] <+Jenny LovesMusic> :D
+[20:07:09] <xChrisS41x> 😁
+[20:07:10] <+Bugfix 85> 😀
+[20:07:10] <Romana> 😀
+[20:07:10] <+Ceziᴴᴰ> gahahahaha
+[20:07:11] <+Redlock> 😀
+[20:07:11] <NurNuls> !cd pro7
+[20:07:11] <Trafalgar3390> STEFAN!!!
+[20:07:11] <caos> ❤
+[20:07:11] <Jallefcb> 😀
+[20:07:11] <Moutertwist> HAHAHA
+[20:07:12] <xoto> 😀
+[20:07:12] <Millenia16> 😀
+[20:07:12] <Joe Fettarsch> nicht schlecht
+[20:07:12] <YoungLouie> 😀
+[20:07:12] <Eomeras1> looool
+[20:07:13] <+Mill van Teer> haha
+[20:07:13] <Hans Rosenkohl> xD
+[20:07:13] <marcsigal -> @Ceziᴴᴰ  war ja laut moinmoin beim optiker heute
+[20:07:13] <TheMoepics> !cd Stefan
+[20:07:13] <Xpippo09X> schlecht
+[20:07:14] <+Julian G.> 😁
+[20:07:15] <Hazee81> ihr zdf deppen 😀
+[20:07:15] <Dome TV> wo sind die catchphrases?
+[20:07:15] <Kai Rubick> :D:D:D:D
+[20:07:15] <ardstsp> Stefan ❤ :D
+[20:07:15] <Jaime> ...
+[20:07:15] <K Dr> lol
+[20:07:15] <xucxic> XD
+[20:07:15] <DIE FISCHKARTE> lul
+[20:07:16] <jackyhorror> hammer gag
+[20:07:16] <Prism> xDD
+[20:07:16] <Herr Ignozero> f
+[20:07:16] <Steffen> joah, hab gelacht 😀 😀
+[20:07:16] <LastOrangeman> 😀
+[20:07:16] <Blau Wal> 😀
+[20:07:16] <Corporal Chaos> 😂
+[20:07:17] <+MrWerder> 😀
+[20:07:17] <Hillbilly TheKid> @XAxeX 😂
+[20:07:17] <der1unbekannte1> lol
+[20:07:17] <+Ceziᴴᴰ> :awesome:
+[20:07:17] <Not MyName> haha
+[20:07:18] <Simon 97> f 😀
+[20:07:18] <ElwinH24> 😀
+[20:07:18] <+Hari Seldon> WoIngeNau
+[20:07:18] <caos> GUTE ARBEIT STEFAN<3
+[20:07:18] <Dome TV> aaah
+[20:07:19] <Der Ersatzreifen> 🙀
+[20:07:19] <TheMoepics> Stefan
+[20:07:19] <Lukas Herbertson> 😀 😀 😀
+[20:07:19] <+Vincent Vegaaa> 😀
+[20:07:19] <Bla Bla> 😀
+[20:07:20] <+Hubu FM> xD
+[20:07:20] <Hazee81> "fernsehen hat ein r
+[20:07:21] <madd1nmw> 😀
+[20:07:21] <Thomas H> 😀
+[20:07:22] <NipponHints> was war die frage
+[20:07:22] <Prüssi> lol
+[20:07:24] <+Touch of Hell> 😀
+[20:07:24] <MeisterEder> hahaha
+[20:07:24] <Simon> !cd one
+[20:07:24] <Tokolo Whiteoak> !cd
+[20:07:24] <Jufi16> 😂
+[20:07:25] <+XAxeX> Gute arbeit originals Steffan 😀
+[20:07:25] <Tobias Löffler> 😂
+[20:07:26] <MC Lulz> haHAA
+[20:07:26] <Ulti mate> !cd Gulasch
+[20:07:27] <Lanet der Affe> Stefun!
+[20:07:27] <+Bugfix 85> sehr originell 😀
+[20:07:28] <Firlefranz Brötchen> 😀
+[20:07:28] <Drehwespe> cringe parade!
+[20:07:28] <manus dei> nice
+[20:07:29] <Shroomy Mc'Mushroom> das FUN wird groß geschrieben in Stefan
+[20:07:30] <Moneypenny78> zdf = zweites deutsches feRnsehen ? da ist doch nen R drin ?
+[20:07:31] <Mel Pinkman> xDD
+[20:07:31] <Bella Bomb> hahahahahaha
+[20:07:32] <Corporal Chaos> homer!
+[20:07:34] <+derjoker> 😀 😀
+[20:07:35] <Alex Neujahr> ok der war echt gut
+[20:07:36] <Adrian Flück> !cd 3sat
+[20:07:36] <+Bugfix 85> xDD
+[20:07:37] <Robin Klink> kindeR Kanal
+[20:07:38] <NurNuls> xd
+[20:07:39] <Alex aka *Ghostpeper*> xD
+[20:07:45] <marcsigal -> @Gregor Sawatzki  Zweites deutsches fernsehen, aber ja
+[20:07:46] <Benny> 😀
+[20:07:46] <Hillbilly TheKid> lol
+[20:07:46] <Gamer5795> 😅
+[20:07:46] <Gamer5795> 😂
+[20:07:46] <Gamer5795> 🤣
+[20:07:47] <tash ixy> !cd VOX
+[20:07:49] <+derjoker> 😀 😀
+[20:07:49] <+JotunnLoki> 😀
+[20:07:50] <+XAxeX> uhhhh ^^
+[20:07:51] <Joe Povic> !cd prosieben
+[20:07:51] <c0ldsun> ej was fürn shice utube geruckel
+[20:07:51] <Lion Wedel> gute arbeit gute powerphrase
+[20:07:52] <Einfach Ich> @HipHopGuru oje nu lauf los und viel Spaß. Hob di a lieb ❤
+[20:07:52] <Klaus Klausen> oooooooohhhhhhh
+[20:07:52] <Carsten L> lol
+[20:07:52] <+Alex> 😀
+[20:07:53] <LastOrangeman> DAB
+[20:07:53] <Joe Fettarsch> BURN
+[20:07:54] <+Daniel W> burned
+[20:07:55] <Harry_Bo> salzig
+[20:07:55] <+Mill van Teer> bow bow bow
+[20:07:55] <+Hari Seldon> uuuuuuuh
+[20:07:55] <Alex aka *Ghostpeper*> lol andi xDD
+[20:07:55] <Prüssi> hahahahahahaha
+[20:07:56] <Corporal Chaos> f
+[20:07:56] <Jay19Jay93> 😯 rekt
+[20:07:57] <+Bugfix 85> xDD Andreas
+[20:07:57] <Klaus Klausen> Burn!
+[20:07:57] <Fab030> shots fored
+[20:07:57] <+Ceziᴴᴰ> :D <3
+[20:07:57] <+GG Most Wanted> LUL
+[20:07:58] <Lukas Wayne> shots fired
+[20:07:58] <+Frannts bruh> Im Gegensatz zur Anfangspointe
+[20:07:59] <Eomeras1> get rekt
+[20:07:59] <MeisterEder> burn
+[20:08:00] <Drehwespe> wahre worte
+[20:08:00] <der1unbekannte1> burned
+[20:08:00] <Steffen> ouuuuh 😮
+[20:08:01] <Ansgar Ragsna> fired!
+[20:08:01] <+GG Most Wanted> rekt
+[20:08:02] <Chris Chros> MIC DROP
+[20:08:02] <Jaime> 🌚
+[20:08:02] <Chris89> Ob Chat die Frage richtig gelesen hat? Hier werden diverse Sender mit r im vollen Namen benannt
+[20:08:02] <Sebastian G> buuurn
+[20:08:02] <+Helmut Hummer> 😯
+[20:08:02] <212Piet> daaaaamn
+[20:08:03] <Shroomy Mc'Mushroom> wohwohwoh
+[20:08:03] <Blau Wal> !mvp andreas
+[20:08:03] <Boner Alert> wowowowowow
+[20:08:03] <Orbital Frame> destroyed
+[20:08:03] <+Ceziᴴᴰ> ich lieb es
+[20:08:03] <SHARP> savage!
+[20:08:03] <+Bugfix 85> 😂
+[20:08:04] <Zlatan Kunisch> !cd steffan
+[20:08:04] <Cerby> so true 😀
+[20:08:05] <rockonX> Andy rekt sie mal derbe haha 🌝
+[20:08:05] <K Dr> xD
+[20:08:05] <+A Lemon Rethinks> Buuuurn
+[20:08:05] <Fatalist> F
+[20:08:06] <alch134> xD
+[20:08:06] <BME19991> steckt wahrheit drin 😂
+[20:08:06] <WarWolf> sick buuuuuurn
+[20:08:06] <Mike D> ❤
+[20:08:07] <madd1nmw> 😀
+[20:08:09] <+M3nTaLilluSi0n> sick burn! :0
+[20:08:10] <Crank795> f Andi
+[20:08:10] <Krähe> dat burn
+[20:08:11] <Red Dead Rainer> REKT
+[20:08:11] <+Bugfix 85> F
+[20:08:11] <+Ceziᴴᴰ> sheeesh
+[20:08:13] <Doktor Fetus> he ripped them a new one
+[20:08:13] <Kabalto> ❤
+[20:08:13] <TheMoepics> STEFAN
+[20:08:14] <manus dei> shit, die waren aber diesmal beide gut
+[20:08:15] <HerrGoeffel> Burn!
+[20:08:17] <caos> schüße abgefeuert
+[20:08:17] <Crazy Zwayze> Holy
+[20:08:18] <Deinomer> gg
+[20:08:18] <rockonX> Alle Powerphrases megageil! ❤
+[20:08:18] <Jüngling mit Apfel> !cd VOX
+[20:08:19] <Red Dead Rainer> !mvp andreas
+[20:08:21] <Alex Neujahr> naja...sie macheni ihrem namen alle ehre
+[20:08:21] <TheMoepics> !cd stefan
+[20:08:22] <Ben Shepherd> !cd MTV
+[20:08:22] <Seb Lakefield> buuuuuuurrnn
+[20:08:23] <Ken Stunich> Powerphrase-Duell ❤
+[20:08:25] <Jakob MPunkt> kommt ein ire inne bar zu chatduell
+[20:08:26] <Balmung> hahaha
+[20:08:36] <+Exoduz86> bringt es eigentlich was mehrmals abzustimmen oder hat jeder nur eine?
+[20:08:38] <Deinomer> !cd puploch
+[20:08:38] <+Alex> Die jogginghose <3
+[20:08:39] <+Ceziᴴᴰ> los tini <3
+[20:08:39] <+XAxeX> @Jakob MPunkt  kommt ein Irrer in die Bar 😀
+[20:08:39] <Jakob MPunkt> kommt nen ihre inne bar zu rocketbeans meint wir müssen reden
+[20:08:40] <Glutax> !cd Twitchchat geht ab
+[20:08:40] <Da Vid> !cd zdf
+[20:08:44] <Siggy 87> !cd *pupsgemacht*
+[20:08:45] <+XAxeX> xDD
+[20:08:47] <Fab030> nur 1
+[20:08:50] <xChrisS41x> xD
+[20:08:50] <LastOrangeman> eddy 😀 😀 😀
+[20:08:51] <+Bugfix 85> 😀
+[20:08:53] <Jay19Jay93> 😀
+[20:08:56] <Horatio McCallister> !cd vaginalwurm
+[20:08:57] <+XAxeX> GG Eddy 😀
+[20:08:58] <xoto> #covfefe
+[20:08:59] <Dark06Side> !cd GDI
+[20:09:04] <Krähe> was is das da mit edes gesicht 📙
+[20:09:09] <+GG Most Wanted> Jogginghose 😀
+[20:09:09] <Harry_Bo> Das hat Tini nicht erwartet
+[20:09:11] <212Piet> <!
+[20:09:12] <rockonX> die sind ja ON FIRE gerade ❤
+[20:09:12] <+XAxeX> #covfefe
+[20:09:14] <Bella Bomb> florentin hat die haare geschnitten
+[20:09:15] <212Piet> !cd covfefe
+[20:09:18] <Krähe> kotleten und dann so bart mit so ner lücke dazwwischen, das sieht nicht richtig aus 📙
+[20:09:19] <Siggy 87> ede sieht so gangztääää aus 😍
+[20:09:20] <Jakob MPunkt> was ist mit edes brille
+[20:09:26] <Gamer5795> 😆
+[20:09:26] <Gamer5795> 🕵
+[20:09:26] <Gamer5795> 😘
+[20:09:27] <Lemâr> !cd covfefe
+[20:09:27] <DerNameistdochvielzulange umwirklichechtzusein> wer hat die belechtung heute gemacht ist ja mega shice^^
+[20:09:29] <+XAxeX> @thomate67  @Zeddy  #covfefe
+[20:09:31] <Philip Bechmann> Wann setzt sich Tini endlich durch?
+[20:09:32] <R H> WIll Flo mit dem Kopf buzzern? xD
+[20:09:40] <Michael Pluder> f
+[20:09:44] <+Ceziᴴᴰ> was denn los tini
+[20:09:45] <Tyrael> eddddddie
+[20:09:47] <Jay19Jay93> @Jakob MPunkt die alte ging kaputt -> kochshow von gestern
+[20:09:49] <+JotunnLoki> gg
+[20:09:51] <AfroLutz> Zweites Deutsches FeRnsehen
+[20:09:52] <%thomate67> covfefe ist doch so 9 uhr morgens
+[20:09:52] <Deinomer> ede guter mann
+[20:09:53] <Chris Chros> F
+[20:09:53] <Blau Wal> lul
+[20:09:54] <+Bugfix 85> GG F
+[20:09:54] <+Frannts bruh> Satelliten-Rundfunk 1!!!! Fake News!
+[20:09:55] <+Ceziᴴᴰ> eddy savage
+[20:09:55] <Der Ersatzreifen> whaat
+[20:09:56] <jackyhorror> ez
+[20:09:57] <+Redlock> Eddie Eddie eddie
+[20:09:57] <Bulldoser824> RTL
+[20:09:58] <Joe Fettarsch> wie aber jeder erst einmal überlegt hat XD
+[20:09:58] <Siggy 87> ede 🙌
+[20:09:58] <Steffen> huch 😲
+[20:09:58] <+Bugfix 85> 😚 eddy
+[20:09:59] <Milka0706> jawoll Ede
+[20:10:00] <+MasterRaik> nice
+[20:10:00] <Jay19Jay93> F
+[20:10:02] <Mel Pinkman> F
+[20:10:03] <EnsingerSport001> EDE GG
+[20:10:05] <Harry_Bo> Katja kennt keine sender
+[20:10:12] <popo2k3> sat1? ich hätte mehr von chad erwartet
+[20:10:14] <Ihave Question> Leute, wird hier die Viewerzahl gleich addiert aus beiden streams?
+[20:10:15] <Gamer5795> obama's shake 🤜🤛
+[20:10:16] <+derjoker> swayzt voll
+[20:10:17] <+Exoduz86> ZDF ist Platz 2, da drauf kommen die nie
+[20:10:19] <madd1nmw> Zweites deutsches Fe>R<nsehen 🤦
+[20:10:19] <Klaus Klausen> ❎
+[20:10:22] <Bertmeister> oida
+[20:10:22] <+Anisie Aradis> Ede wirds rocken.
+[20:10:24] <Jakob MPunkt> @Jay19Jay93 ja eh warum ist sie wieder ganz hat er hermione granger getroffen?
+[20:10:25] <Corporal Chaos> X
+[20:10:25] <Shroomy Mc'Mushroom> wtf was macht ihr denn noch hier kusch kusch nach twitch ich will hier meine ruhe ^^
+[20:10:26] <+GesichtsKuchen> WTF
+[20:10:27] <YoungLouie> FAIL
+[20:10:27] <Horst Birnenbaum> wot?
+[20:10:27] <+Ceziᴴᴰ> was
+[20:10:29] <Joe Fettarsch> XDDD
+[20:10:29] <PimX> wat
+[20:10:29] <FenrizBelial> X
+[20:10:30] <desert season> bullshit
+[20:10:30] <Xpippo09X> whatttt
+[20:10:30] <Harry_Bo> was#ß
+[20:10:31] <Ben Shepherd> donnie ist so ein Idiot 😀
+[20:10:31] <Minaman> zweites deutsches feRnsehen
+[20:10:31] <Alex aka *Ghostpeper*> was
+[20:10:31] <Kappageck> LOL
+[20:10:32] <Saubstauger> faaaaake
+[20:10:32] <+Ceziᴴᴰ> das kann nicht sein
+[20:10:32] <+Mill van Teer> what?
+[20:10:32] <Rya Bread> Pro 7 enthält ein R
+[20:10:33] <Balmung> hä?
+[20:10:33] <+Exoduz86> what?
+[20:10:33] <+XAxeX> hahaaa
+[20:10:33] <Corporal Chaos> er schnalls nicht, lol
+[20:10:34] <+GesichtsKuchen> oh
+[20:10:34] <+Alex Lamparski> wut?
+[20:10:35] <Blau Wal> donnie <<
+[20:10:35] <+Jamayr Productions> wtf xDD
+[20:10:35] <+GesichtsKuchen> stimmt!
+[20:10:36] <+tH3h0ff> LOL
+[20:10:36] <+XAxeX> Tele5 😀
+[20:10:37] <+DrHelican> was?
+[20:10:37] <Ghetelen> ......
+[20:10:38] <John Laserdrucker> Filter
+[20:10:38] <+Exoduz86> faaaake
+[20:10:38] <+Mill van Teer> achso lol
+[20:10:38] <Torkatus21> wot
+[20:10:38] <jackyhorror> omg ...
+[20:10:38] <Chris Chros> ❎❎
+[20:10:39] <Domi Gonzalez> hä was
+[20:10:39] <Balmung> haha
+[20:10:39] <MrScamsonite> wtf? seit wann werden denn falsche ANtworrten gefioltert?
+[20:10:39] <El Cativo> der chat war schlau^^
+[20:10:40] <Alex aka *Ghostpeper*> zdf war so offt dabei
+[20:10:40] <NfsmanPlays> wtf
+[20:10:41] <ShdY20> zweites deutsches feRnsehen
+[20:10:41] <+Bugfix 85> 😀
+[20:10:41] <Bastian Wolff> Whaaaaaat?
+[20:10:41] <Steffen> öhm ... nun ... 😀
+[20:10:41] <Bella Bomb> CLASSIC
+[20:10:41] <Eppmaster> lol
+[20:10:42] <Torkatus21> schiebung!
+[20:10:42] <EliteVenomz> ...
+[20:10:42] <Ken Stunich> Filter-Regie :D
+[20:10:43] <Boner Alert> chat wurde zensiert weil falsche antwort
+[20:10:43] <+Ceziᴴᴰ> wegen fernsehen
+[20:10:44] <+JotunnLoki> f Andreas
+[20:10:44] <+GG Most Wanted> LUL
+[20:10:44] <Gixxer> What?
+[20:10:45] <Krähe> #sat1gate
+[20:10:45] <+XAxeX> JEahh
+[20:10:45] <+Exoduz86> die Filtern die Antworten
+[20:10:45] <+Frannts bruh> seit wann geht es um richtige Antworten bei Chat Duell?
+[20:10:47] <Meister Gammler> never told
+[20:10:47] <wadda fack> BR
+[20:10:48] <marcsigal -> Zweites Deutsches FeRRRRRRnsehen, ihr vögel
+[20:10:48] <MikedieONE> hä???
+[20:10:48] <Balmung> Tele5 ❤
+[20:10:48] <+Bugfix 85> F
+[20:10:49] <Mary E> wieso
+[20:10:49] <STUUN GROUND> Donnie du Vollidiot
+[20:10:49] <SebHighDef> zweites deutsches feRnsehen
+[20:10:49] <CaptainKotPilot> whattt ?
+[20:10:49] <anagallis> #zdfgate
+[20:10:49] <Semigut> fail
+[20:10:50] <SHARP> lul
+[20:10:50] <lawportGames> zdf ist nicht dabei? was zum f
+[20:10:50] <Dr Zoidberg> f
+[20:10:51] <Jn K> haben doch voll viele abgestimmt
+[20:10:51] <Schiggus> 50% der Chatantworten entfallen also
+[20:10:52] <Chris89> There you go chat
+[20:10:52] <+Hubu FM> Saved
+[20:10:52] <TheBehnson> Andi kennt den Chat!
+[20:10:53] <+H a n n e s> Chad ist dumm
+[20:10:53] <MrDlorw> Kabel 1 :D
+[20:10:53] <Andreas Rastl> what so ein käse
+[20:10:53] <+Helmut Hummer> f
+[20:10:53] <Danny F> schummelRegie
+[20:10:53] <Joe Fettarsch> wurden alle antworten im chat bezüglich ZDF gelöscht ???
+[20:10:54] <212Piet> loooool fail chad :D
+[20:10:54] <wadda fack> FUNK
+[20:10:54] <MyGeld> whaaaat
+[20:10:54] <MikedieONE> skandal!
+[20:10:54] <Red Dead Rainer> FERRRRRNSEHEN ihr nasen LOL
+[20:10:55] <Dark06Side> lol
+[20:10:55] <CigarsAndGames> Tele5 beschte
+[20:10:55] <+XAxeX> ❤ Tele5 😀 freudne des hauses ❤
+[20:10:55] <Xpippo09X> ZDF wurde trotzdem gesagt
+[20:10:56] <+MrWerder> ❤
+[20:10:56] <Harry_Bo> Schiebung
+[20:10:57] <Moneypenny78> zdf ist falsch weil feRnsehen ihr pflaumen 😛
+[20:10:57] <Saubstauger> fensehen wird gar nicht mit r geschrieben
+[20:10:57] <+Alex Lamparski> wie dumm
+[20:10:57] <NipponHints> seit wann werden falsche antworten ausgeblendet????
+[20:10:57] <DerNameistdochvielzulange umwirklichechtzusein> chad wieder kluk^^
+[20:10:58] <Sun Nox> hat er recht
+[20:10:58] <Gamer5795> F
+[20:10:58] <Jaime> 9 live
+[20:10:59] <M. G.> sexy sat
+[20:10:59] <Eras> Filter 😲
+[20:11:00] <Torkatus21> was? RTL ist nicht dabei?!?
+[20:11:00] <schdeef> der halbe chat hats nicht gepeilt
+[20:11:01] <HardstyleRulesz> ZENSUR PUR
+[20:11:01] <+XAxeX> xD
+[20:11:02] <16thBeatz> sat 1 ist auch nicht der volle name btw
+[20:11:02] <+JotunnLoki> f
+[20:11:03] <Bastian Wolff> Fakeeee
+[20:11:03] <Jay19Jay93> @Jakob MPunkt zauberei ist tatsächlich die einzige logische erklärung
+[20:11:03] <Moutertwist> Donnie hatte die Top-Antwort
+[20:11:03] <Semigut> der halbe chat hat tdf gesagt
+[20:11:03] <Siggy 87> ey sogar donnie hat heut den swazzeyyy capi day 😎
+[20:11:04] <Wib nak> zählt dann kika auch nicht?
+[20:11:04] <t-dog> L
+[20:11:05] <c0ldsun> what?
+[20:11:05] <CigarsAndGames> NeunLive
+[20:11:06] <+Bugfix 85> nice
+[20:11:08] <Draggo> das sah im chat anders aus
+[20:11:09] <Trafalgar3390> #zdfgate
+[20:11:09] <Semigut> f
+[20:11:11] <Cerby> xD
+[20:11:11] <Mangamaniac71> Dog TV
+[20:11:13] <RamBo Como> lol chat ist dumm 😛
+[20:11:14] <TheBehnson> Natürlich werden Antworten gefiltert, wenn sie einfach faktisch falsch sind 😃
+[20:11:14] <Antiqui> VOX
+[20:11:15] <CigarsAndGames> KabelHeinz
+[20:11:15] <Hazee81> fake, so viele haben zdf gesagt...
+[20:11:17] <+Hari Seldon> seit wann werden falsche Antworten gestrichen
+[20:11:18] <El Cativo> stimmt eigentlich intressiert es nicht ob es stimmt was der chat sagt
+[20:11:19] <Ken Stunich> eY Chad ZDF = Zweites Deutsches FeRRRRRRRRRRRRRRNsehen ^^
+[20:11:19] <Corporal Chaos> Karbel eins
+[20:11:21] <Moneypenny78> ZDF ist aber falsch
+[20:11:22] <+XAxeX> uhhh
+[20:11:22] <Siggy 87> LTR
+[20:11:24] <FlyingSoHighnow> lol
+[20:11:25] <+H a n n e s> Zweites Deutsches FeRnsehn
+[20:11:26] <Danny F> #zdfgate
+[20:11:27] <Corporal Chaos> 1 2 3 TV
+[20:11:29] <+Helmut Hummer> lol
+[20:11:29] <JeRec361> grad reingeschalten.. wie ist die frage?
+[20:11:31] <JoJo Productions> aber donnie kennt den chat sehr gut
+[20:11:33] <Jay19Jay93> F
+[20:11:33] <+Exoduz86> ganz schlecht, @Chatbot
+[20:11:35] <Lion Wedel> wie oft wollt ihr noch aufs zdR hinweisen?
+[20:11:35] <Antiqui> Kika = KindeRkanal
+[20:11:35] <Alex aka *Ghostpeper*> Dmax ist aber ami
+[20:11:37] <Jakob MPunkt> xx
+[20:11:38] <+JotunnLoki> 😀
+[20:11:38] <Bastian Wolff> DMAX ist auch eine Abkürzung
+[20:11:38] <Corporal Chaos> Sat 1 Gold
+[20:11:38] <Alex aka *Ghostpeper*> naja was weis ich
+[20:11:39] <+XAxeX> dRei sat xDD
+[20:11:39] <madd1nmw> Beate Uhse TV
+[20:11:40] <Joe Fettarsch> XD
+[20:11:41] <Xpippo09X> #zdfgate
+[20:11:42] <Moutertwist> f Andreas!
+[20:11:42] <Draggo> neeeeeever :D
+[20:11:44] <Joe Fettarsch> XXD
+[20:11:44] <Leo Schuster> lol
+[20:11:44] <Klaus Klausen> ❎❎
+[20:11:44] <Robert Arndt> sky, mtv
+[20:11:44] <+M3nTaLilluSi0n> 😀
+[20:11:45] <Jaime> xx
+[20:11:46] <Der Ersatzreifen> 2Sat
+[20:11:46] <Siggy 87> Plo7
+[20:11:47] <Max Klose> drei sat 🤔
+[20:11:48] <Saubstauger> Zweites Deutsches Fensehen
+[20:11:49] <+Deschain92> Giga auf 3
+[20:11:49] <+XAxeX> hahaa 😀
+[20:11:49] <RamBo Como> defuck
+[20:11:50] <Ken Stunich> dRRRRRRReisat
+[20:11:52] <Jakob MPunkt> die regie bescheißt doch
+[20:11:52] <Graue Eminenz> BEKLOPPT
+[20:11:53] <JeRec361> wiem ist die ffage?
+[20:11:53] <+sturm111> 😂
+[20:11:54] <Aster321> auch falsche antworten kommen doch normal in die liste
+[20:11:54] <+MHB7193> Sixx?
+[20:11:55] <Boner Alert> MTV
+[20:11:57] <Moutertwist> #zdfgate
+[20:11:57] <popo2k3> dmax wär ganz nice wenns nur nich so werbeverseuch wär
+[20:11:59] <Dr Zoidberg> stefan titzler
+[20:11:59] <+XAxeX> XD
+[20:11:59] <JeRec361> wie ist die frage?
+[20:12:00] <Gamer5795> 🖕+
+[20:12:00] <+GG Most Wanted> what
+[20:12:01] <Ihave Question> Leute wird hier die Streamerzahl addiert?
+[20:12:02] <+XAxeX> lolol 😀
+[20:12:03] <Xpippo09X> viva
+[20:12:03] <Held Gregor> was ist 1+
+[20:12:04] <Master Bean> Zentrales Deutsches Fernsehen ihr deppen
+[20:12:04] <MrScamsonite> Sonst wurden nur Quatschantworten gefiltert, nicht falsche
+[20:12:04] <Dr Zoidberg> lol
+[20:12:04] <+Ceziᴴᴰ> dann
+[20:12:04] <Domi Gonzalez> 😂
+[20:12:06] <+XAxeX> FUNK ? ^^
+[20:12:06] <marcsigal -> giga
+[20:12:06] <Der Ersatzreifen> Sky
+[20:12:06] <schwanzus longus> 1 minus
+[20:12:06] <Klaus Klausen> ❎❎❎
+[20:12:07] <Joe Fettarsch> XXXD
+[20:12:07] <rockonX> rocketbeans?!
+[20:12:08] <Hyperion> VOX
+[20:12:08] <Zlatan Kunisch> giga ❤
+[20:12:10] <L S> was ist mir VOX
+[20:12:10] <Schinken271> vox
+[20:12:10] <Torkatus21> Nickelodeon
+[20:12:11] <rockonX> 🌝

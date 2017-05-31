@@ -1,5 +1,7 @@
 # RBTV Chat logs
 
+**Twitch chat wird nicht geloggt! Dafür auf overrustlelogs schauen!**
+
 Das logging basiert auf der [YouTube Live Chat API](https://developers.google.com/youtube/v3/live/docs/liveChatMessages). Die Daten werden in einem Format ähnlich dem Logging-Format von ZNC konvertiert und dann als Textdatei gespeichert.
 
 Ein automatisches Update des Repository wird ein mal pro Stunde ausgeführt.
