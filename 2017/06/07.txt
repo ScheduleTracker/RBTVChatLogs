@@ -2688,3 +2688,313 @@
 [12:04:15] <Siggy 87> schom wieder tekken? 🤔
 [12:04:31] <Siggy 87> schon*
 [12:04:58] <deface> :awesome:
+[12:05:01] <MadHatt0r> yo Chad, hab Inet Probleme, kennt sich damit jmd aus? hab speedtest gemacht, da läuft alles super, alles wies sein soll, aber im praktischen Umgang werd ich aus Spiele dced wegen timeouts, youtube
+[12:05:02] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[12:05:12] <MadHatt0r> buffert wie blöde, teamspeak, skype, discord komm ich verzerrt/abgehackt an
+[12:05:18] <MadHatt0r> weiß jmd woran sowas liegen kann?
+[12:05:42] <inge braun> liegt bestimmt am internet
+[12:05:50] <MadHatt0r> 🌝
+[12:05:56] <Mike D> router neu gestartet, lantreiber aktualisiert?
+[12:05:58] <Willson> benutzt du wlan?
+[12:06:06] <Der Boris aka. Sneaky> @MadHatt0r  W-Lan oder Kabel ?
+[12:06:09] <MadHatt0r> router neu gestartet 😦 und lan, kein wlan
+[12:06:14] <Willson> ja router neu starten löst fast alle probleme 😀
+[12:06:14] <Revane> Vielleicht mal dns flushen
+[12:06:30] <Mike D> vorallem den killerlan immer aktuell halten falls vorhanden
+[12:06:36] <Revane> Oder schauen ob es ne generelle störungsmeldung gibt
+[12:06:46] <Willson> lan kabel neu starten
+[12:06:54] <Mike D> kann halt viel sein^^
+[12:07:05] <inge braun> neue wlan kabel kaufen
+[12:07:08] <inge braun> s}
+[12:07:15] <IXIX XIXI> stecker is drin?
+[12:07:16] <deface> 🐼
+[12:07:18] <Der Boris aka. Sneaky> mal probiert einen generellen Router-Resett zu machen? nicht nur neu starten sondern komplett
+[12:07:29] <Boner Alert> der panda kämpft ja wie ein mensch
+[12:07:44] <Willson> wie soll der panda sonnst kämpfen?
+[12:07:53] <Boner Alert> wie ein pnda
+[12:07:57] <Hate Chance> oder die menschen kämpfen wie pandas
+[12:08:04] <IXIX XIXI> 🤔
+[12:08:09] <Siggy 87> dvb t2 ist gestern nacht auch für en paar Stunden komplett gewesen.... denke mal is das Wetter das schäden an funkanalgen etc. verursacht hat. aber was weiss ich 😋
+[12:08:38] <MadHatt0r> "Seit gestern Abend (5.6.) ständig Störungen in Mönchengladbach. Mal Netz, mal nicht. Ändert sich minütlich." ah ok, scheint tatsächlich generelle Störungen zu geben 😀 dass ich darauf nicht kam
+[12:08:46] <Krähe> orkan bläst dvbt weg 😭
+[12:08:55] <Mike D> wenn du wirklich nur bei spielen rausfliegt vielleicht iwas mit deinem VAC client dingens?
+[12:09:03] <IXIX XIXI> #Krähe 😋/
+[12:09:19] <Sille 1988> @Pipo Pipo Ja sag ich. Denn du muss noch lernen was Trash TV ist ^^
+[12:09:21] <Krähe> heyho ixi 😯/
+[12:09:32] <Der Boris aka. Sneaky> Naja bei Unwetter kan nes ja mal sein, dass die Connection weg ist.. passiert...
+[12:09:34] <Krähe> 😄 God dag @Sille 1988
+[12:09:45] <Sille 1988> @Krähe Hi ^^
+[12:09:54] <IXIX XIXI> unwetter in fullhd🤗
+[12:09:58] <Sille 1988> So ich geh jetzt mit meinen hunden Gassi. Bis nachher ^^
+[12:10:05] <Der Boris aka. Sneaky> wenn halt Speedtests und div. dauerhaft okay sind würde ich eher auf die Hrdware tippen.. abe rwie es scheint hat sich das Problem ja geklärt 😀
+[12:10:09] <IXIX XIXI> 🐩
+[12:10:15] <Siggy 87> @Krähe ja es nervt so in letzter zeit mit dem dvb t2 hier in berlin.... 😠 legt euch kein dvb t2 zu
+[12:10:17] <Krähe> Hunde 👿
+[12:10:42] <MadHatt0r> ich werds mal im Auge behalten 😀 wenns nach n paar Tagen noch ist werd ich hardware/software durchchecken, aber das ist immer so.. meh :I
+[12:10:43] <Krähe> warum sollte ich mir dvbt2 zulegen? ich hab rbtv, netzflix und die ÖR mediatheken 👍
+[12:10:46] <IXIX XIXI> schau sowieso nur die mediatheken🤷
+[12:10:57] <Dersim Kurde> 👎👎👎👎
+[12:11:12] <Der Boris aka. Sneaky> @MadHatt0r beziehst DSL oder Kabel ?
+[12:11:23] <MadHatt0r> dsl 💔
+[12:11:24] <+GesichtsKuchen> #Krähe 🍒
+[12:11:39] <Der Boris aka. Sneaky> Ohja.. da hatte ich auch immer probleme :D....
+[12:11:45] <Krähe> 😠 he's my cherrypie ♫
+[12:11:55] <Der Boris aka. Sneaky> 16k Leitung wo nur 8k ankamen etc.etc.etc
+[12:12:04] <Siggy 87> @Krähe uh der herr Krähe guckt kein normalo tv 😑
+[12:12:05] <IXIX XIXI> #Krähe 💍👈😯
+[12:12:09] <inge braun> und wo is das schoko
+[12:12:32] <Krähe> @Siggy 87 naja, ich kann ja auch nix dafür dass da nur mist kommt 📙
+[12:12:36] <IXIX XIXI> ey hier hagelts😐
+[12:13:07] <Zaldarion> #IXIX XIXI 😠 aber nich zu knapp ✊
+[12:13:15] <crytectobi> find das mit dem exklusiv content auf twitch ja bisschen...unkomfortabel. 😕
+[12:13:17] <IXIX XIXI> ja😖
+[12:13:39] <Siggy 87> @Krähe ne aber das stimmt ja auch so nisch... kannst umschalten und gute filme etc. gibst auch im free tv. nur die Werbung nervt
+[12:13:40] <Zaldarion> 😭 was haste denn gemacht
+[12:13:59] <IXIX XIXI> nich auffegessn gestern😭
+[12:14:17] <Zaldarion> 😧 dann zurecht 😖
+[12:14:20] <Andreas R> @crytectobi Exklusiv content? Kannst da mal aufklären? Ich komm mit twitch nie wirklich klar...
+[12:14:27] <IXIX XIXI> 😞
+[12:14:39] <Zaldarion> aufessen wichtig !!
+[12:14:46] <+GesichtsKuchen> #Krähe god dag!
+[12:14:55] <IXIX XIXI> damit man groß und stark wird💪
+[12:15:00] <Sille 1988> @Andreas R Es gibt dort nur zwei exklusive LPs als VoD. Nichts besonderes.
+[12:15:02] <%Nightbot> Nehmt an der Content-Evaluation 2017 teil: https://www.rbtv.to/evaluation
+[12:15:04] <Zaldarion> ☝
+[12:15:06] <Sille 1988> So bis denne ^^
+[12:15:28] <IXIX XIXI> liefen die exklusiven LPs eigentlic schon?
+[12:15:32] <+GesichtsKuchen> #Sille 1988 schönen tag noch
+[12:15:35] <Zaldarion> gl #Sille 1988 😋
+[12:15:49] <Krähe> 😄 God dag AnsiktKake
+[12:15:50] <Zaldarion> #IXIX XIXI das is eines davon
+[12:15:56] <Krähe> @IXIX XIXI tekken7 war eines
+[12:16:19] <+GesichtsKuchen> woher wisst ihr das !?
+[12:16:27] <IXIX XIXI> ah ok, schau grad nich. thx👍
+[12:16:36] <inge braun> chad is kluk
+[12:16:37] <Zaldarion> #GesichtsKuchen das wird oder wurde oben links kurz eingeblendet gestern
+[12:17:03] <deface> ☕
+[12:17:13] <Andreas R> @Sille 1988 Ist das jetzt nur temporär um mehr Zuschazuer zurück zu locken oder dauerhafter Zustand?
+[12:17:45] <+GesichtsKuchen> #Zaldarion aaaaaah, dakke!
+[12:18:08] <IXIX XIXI> temporäres locken auf dauer☝
+[12:18:25] <Sille 1988> @Andreas R Das hat damit nichts zu tun. Es wird ein paar Lets Plays nur auf Twitch hochgeladen. Das heißt aber nicht, dass man es nicht sehen kann.
+[12:18:33] <Sille 1988> @Andreas R Tekken 7, also das was jetzt gerae läuft ist z.B exklusiver Content, dass man nur auf Twitch sehen kann
+[12:18:37] <Siggy 87> fachgesimpelbullshit 2.0
+[12:18:56] <Hazee81> und deswegen sehen wir es gerade auf youtube 😛
+[12:19:15] <Sille 1988> @Andreas R Also als Upload meinte ich
+[12:19:23] <Zaldarion> #GesichtsKuchen gerne 😃
+[12:19:31] <Krähe> Als VoD nur twitch, live, bzw im fliessenden sendebetrieb auch hier ¯\_(ツ)_/¯
+[12:19:40] <Sille 1988> @Hazee81 Ja als Wiederholung, aber das Lets Play wird nicht auf Youtube hochgeladen, sondern auf Twitch
+[12:19:42] <Siggy 87> die sieht aus wie die Schwarmkönigin aus Starcraft.mmm
+[12:20:13] <Sille 1988> So ich muss ersmal meinen  Welpen einfanggen, damit ich Gassi gehen kann
+[12:20:15] <Andreas R> @Sille 1988 Ich finde youtube immer nur sehr viel intuitiver und übersichtlicher..Plus: Rückspulfunktion benutze ich andauernd
+[12:20:36] <Zaldarion> #Sille 1988 🐯 wieso is dein freund noch nich stubenrein?
+[12:21:06] <GodofWar> weiß jemand wieso plötzlich wieder mitten im moinmoin werbung ist?
+[12:21:07] <Sille 1988> @Zaldarion Kimi ist stubenrein, aber er muss trotzdem mit. ^^
+[12:21:09] <IXIX XIXI> 🐕
+[12:21:10] <Siggy 87> den gigas kenn ich gar nicht. seit welchem teil isn der dabei?
+[12:21:21] <Sille 1988> @GodofWar Weil sie es können
+[12:21:23] <Krähe> andy möchte den ganzen tag da sitzen und reden 🐸
+[12:21:25] <Zaldarion> #Sille 1988 🐯👍
+[12:21:34] <Fritz Kalus> nsuns4 war ne erlösung^^
+[12:21:35] <Krähe> ich will auch dass der andy den ganzen tag da sitzt und redet 😄
+[12:21:42] <Krähe> warum passiert das nicht? 😖
+[12:22:09] <%Viet Ruan> auf Maul bekommt Andy! =D
+[12:22:13] <IXIX XIXI> erderwärmung
+[12:22:24] <inge braun> das ist wie bei gpethe yuviel auf einmal ertr'gt keiner
+[12:22:25] <deface> 😃
+[12:22:28] <Zaldarion> #Viet Ruan 😯/
+[12:22:30] <Siggy 87> viet du maschinetier 😂
+[12:22:45] <Krähe> Ihr könnt den armen Mann doch nicht so demütigen 😖 @Viet Ruan
+[12:22:46] <Sille 1988> So jetzt in ih mit minen beiden wirklich Gassi. Bis denne ^^
+[12:22:54] <Zaldarion> #Viet Ruan ich hab das noch so im ohr vom sonntag: andi wird mich fertig machen, ich muss üben?? 😀
+[12:23:13] <+GesichtsKuchen> #Viet Ruan ❤
+[12:23:24] <%Viet Ruan> habe Andy überschätzt xD
+[12:23:32] <Zaldarion> ein wenig ^^
+[12:23:53] <Krähe> er sich scheinbar auch, so grantig wie er wurde 😀
+[12:24:08] <Zaldarion> er wäre perfekt für nen beef ^^
+[12:24:16] <Siggy 87> tekken weckt immer tiefe gefühle 😃
+[12:24:40] <Krähe> Beef Jr II mit Viet, Andy, ???, ??? 😯
+[12:24:46] <+Enrico Horn> der fuck-span 😀
+[12:25:12] <%Viet Ruan> Ich will Gegner, keine Opfer! xD
+[12:25:17] <Tortuga LP> xD
+[12:25:35] <Tortuga LP> Mein damaliger bester Freund konnte immer mit Paul alle Moves.. 😀
+[12:25:44] <Siggy 87> da musst du mit 12jährigen spielen. das sind pros ^^
+[12:25:46] <Tortuga LP> Er immer Paul genommen, ich Jin und dann gib ihm.. ❤ 😀
+[12:26:01] <deface> Thiem! :awesome:
+[12:26:38] <Zaldarion> ich bin so schlecht in so spielen.. ich brauch opfer keine gegner 😖
+[12:26:43] <Krähe> ich musste sonntag schon vor ende weg, wirst du nochmal tekken zocken oder warste damit fertig geworden? @Viet Ruan
+[12:27:55] <%Viet Ruan> @Krähe bin leider nicht fertig geworden. Hänge beim Endboss. Werde ich demnächst fortsetzten
+[12:28:05] <inge braun> asiaten sind nich alle 12 die sehen nur so aus
+[12:28:24] <Siggy 87> @Viet Ruan storymodus wirklich so schwer?
+[12:28:29] <Krähe> nais, dann bin ich wieder dabei 😯
+[12:29:21] <+raptorh> @Viet Ruan spielst du es im stream am donnerstag zu ende?
+[12:29:43] <Krähe> oh, raptorh ist ja auch da \😚/
+[12:29:43] <Boner Alert> 😠
+[12:30:03] <%Nightbot> Nehmt an der Content-Evaluation 2017 teil: https://www.rbtv.to/evaluation
+[12:30:05] <Siggy 87> hey @raptorh
+[12:30:06] <+raptorh> @Krähe hallo 😃
+[12:30:15] <+raptorh> hallo @Siggy 87
+[12:30:23] <Hawtin25> Wenn ich diesen Yoshimitsu sehe bekomme ich Hunger auf Pulpo xD
+[12:30:31] <Boner Alert> er meint es macht spaß gegen andy zu spielen 😀
+[12:31:02] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[12:31:28] <Krähe> chef kam vorbei, viet musste wieder so tun als arbeitet er 😖
+[12:31:32] <Zaldarion> #Viet Ruan das sah sehr unbequem aus mit dem knochen 😀
+[12:31:32] <Andreas R> An die Experten...Was ist jetzt der Unterschied zu Mortal Kombat?
+[12:31:58] <Siggy 87> @Krähe ja der antwortet selten
+[12:32:00] <Krähe> das ist als fragst du was der unterschied zwischen zwei betriebssystemen ist
+[12:32:01] <inge braun> die kombos
+[12:32:01] <Boner Alert> anderer name
+[12:32:20] <+Stefan Funke> die "Story"
+[12:32:24] <Krähe> keiner, ist halt beides n fightinggame
+[12:32:26] <Zaldarion> die grafik
+[12:32:29] <+raptorh> also viet hat mir den unterschied zu streetfighter erklärt, aber was mortal kombat angeht kp^^
+[12:32:32] <Krähe> alles, funktioniert halt im detail sehr anders
+[12:32:57] <blinx44> overhead overhead overhead 😀
+[12:33:29] <deface> 😠
+[12:33:38] <%Viet Ruan> joa, hoffentlich kann ich es am Donnerstag beenden
+[12:33:53] <Hawtin25> Was diese Spiele bei mir damals Controller gekostet haben...
+[12:34:13] <Boner Alert> spielt das andy zum ersten mal?
+[12:34:18] <Boner Alert> also ein videospiel?
+[12:34:20] <Siggy 87> 😂😂
+[12:34:25] <Andreas R> Gut...gerne auch den Unterschied zu Streetfighter..für mich als Laien bei beat em ups sieht alles immer sehr sehr gleich aus...
+[12:35:02] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[12:35:13] <Krähe> wenn man einfach nur das spiel beobachtet ist es auch sehr ähnlich. die art und weise wie du die angriffe performst ist aber komplett anders. kannte lange nur tekken, als ich dann mal an mortal
+[12:35:31] <Krähe> kombat saß dachte ich müsste ich ja auch können. pustekuchen, was du da am controler machst ist komplett anders
+[12:36:02] <+GesichtsKuchen> LÜGE
+[12:36:12] <Tobitod87> so erstmal noch nen kaffe und in life is strange reinschauen ☕(^_^)
+[12:36:17] <Siggy 87> DoA is mein favourite was steuerung angeht...
+[12:36:20] <Krähe> ich lüge nicht, ich bin einfach nur sehr dumm 😖
+[12:36:28] <Zaldarion> #Tobitod87 😚 gönn dir
+[12:36:30] <+GesichtsKuchen> neeeeein
+[12:36:32] <+raptorh> also mal schauen ob ich das noch zusammen bekomme. streetfighter hat mehr so fernsachen und du versuchst nicht so in nahkampf oder so.aber auf jedenfall soll streetfighter anfängerfreundlicher zu sein
+[12:36:38] <+raptorh> das konnte ich mir merken
+[12:37:01] <inge braun> falsch
+[12:37:09] <Krähe> 😠 Hadouken!
+[12:37:33] <Siggy 87> Tiger Uppercut
+[12:38:56] <Shroomy Mc'Mushroom> niice ^^
+[12:39:20] <Andreas R> Danke!
+[12:39:30] <Sille 1988> So da bin ich wieder
+[12:39:54] <+GesichtsKuchen> #Sille 1988 ❤
+[12:40:09] <+raptorh> bin mal weg nü, machts jut
+[12:40:21] <Krähe> Sind die Hunde noch da? 👿
+[12:40:31] <Krähe> reinhaun raptorh 😯/
+[12:40:36] <Siggy 87> @raptorh Tschö 😢
+[12:40:55] <+GesichtsKuchen> #raptorh schönen tag
+[12:41:04] <Sille 1988> @GesichtsKuchen ❤
+[12:41:20] <inge braun> ich <3
+[12:42:54] <Krähe> 😄🐩👈
+[12:43:09] <Krähe> 😄👈
+[12:43:11] <Krähe> 🐸
+[12:43:45] <Tobitod87> au cool ne schwarze Krähe i like :)
+[12:44:16] <Krähe> gib mir was was glitzert 📙
+[12:44:20] <+fedora> Mahlzeit
+[12:44:26] <Siggy 87> gibst auch bunte krähen? 😃
+[12:44:35] <Krähe> *schnappt sich fedora und fliegt damit weg*
+[12:44:39] <Tobitod87> @fedora Tag (^_^)/
+[12:44:42] <+fedora> huch
+[12:44:45] <inge braun> nur mit dlc
+[12:44:47] <Siggy 87> 😘 @fedora
+[12:44:58] <+fedora> @Krähe @Siggy 87 @Tobitod87 😗
+[12:45:02] <%Nightbot> Nehmt an der Content-Evaluation 2017 teil: https://www.rbtv.to/evaluation
+[12:45:16] <+fedora> aber ich glitzer doch gar nicht @Krähe
+[12:45:34] <Shroomy Mc'Mushroom> das wär super xD
+[12:45:43] <Krähe> mein fehler, verzeihung *landet wieder im chat*
+[12:45:53] <Tobitod87> :D
+[12:46:07] <+GesichtsKuchen> #fedora ❤
+[12:46:09] <+fedora> Hey gib meine Uhr zurück! 💪
+[12:46:21] <Krähe> CRAW
+[12:46:24] <Krähe> Niemals!
+[12:46:36] <+fedora> Frecher Vogel!
+[12:46:41] <+fedora> 😗 @GesichtsKuchen
+[12:46:44] <Krähe> hehehehehehe
+[12:46:49] <+GesichtsKuchen> #Krähe uhr gegen 🌽?
+[12:46:55] <Siggy 87> elstern klauen doch wa?!
+[12:47:15] <Krähe> nein, ich bin satt, hatte heute morgen ne dicke maus 😄
+[12:47:29] <Tobitod87> 🐭
+[12:47:34] <+fedora> Elstern weiß ich jetzt gar nicht genau. Denke aber schon
+[12:47:50] <Krähe> damit die elster klauen könnte müssten die sachen ja dir gehören. die gehören aber der elster. oder mir! 📙
+[12:48:02] <%Nightbot> Hey Böhnchen, ihr schaut gerade überlange Werbung? Dann tut unserem Treibstofftank einen Gefallen und wartet 30 Sekunden, bis ihr sie überspringt. Das füllt den Tank und ihr verpasst trotzdem nichts.
+[12:48:02] <+GesichtsKuchen> macht sinn
+[12:48:20] <+fedora> Petrik ist Klug! ☝
+[12:48:26] <+GesichtsKuchen> eigendlich nimmt sich die krähe oder elster die sachen wieder, die menschen klauen das ganze zeug ja!
+[12:48:41] <Krähe> kuchi hats verstanden, CRAW
+[12:48:49] <bonggzilla> funkt auch mit ps3 arcadesticks
+[12:49:12] <Siggy 87> mir hat letztens irgendein elstervieh probiert nen löffel zu klauen. hatte das Fenster in der küche auf und das vieh sass auf meiner waschmaschine und hatte den löffel schon im maul 😨 hab mich sau
+[12:49:21] <Siggy 87> erschrocken 😠
+[12:49:25] <Krähe> 📙🥄
+[12:50:16] <+fedora> echt in die Bude rein? die haben aber auch gar keinen Respekt mehr
+[12:50:33] <Krähe> das sind ja auch kleine dinosaurier, was denkst du denn 😀
+[12:50:36] <Zaldarion> ein federviech mit löffel 😧
+[12:50:49] <Ryvellin> :DD
+[12:50:55] <blinx44> Andy 😀
+[12:51:12] <+GesichtsKuchen> #fedora das liegt daran das die bude der elster/krähe gehört!
+[12:51:32] <Phoenix Wright> Frauentausch Andyas
+[12:51:36] <deface> 🐻
+[12:51:45] <+fedora> @GesichtsKuchen wieso muss ich jetzt an die Simpsons Folge denken, wo die Delphine die Macht übernehmen?
+[12:51:48] <Siggy 87> @fedora ja aber echt. vorallem du gehst hungrig in die küche und so en bescheuerter vogel sitzt da rum.... das war weird 😨
+[12:51:52] <Krähe> hart wirds nur wenn ein ferderciech auf eine katze trifft, der auch die bude gehört, dann gibts streit 😀
+[12:52:04] <+GesichtsKuchen> #fedora das wird früher oder später passieren nur mit raben!
+[12:52:34] <HidekoYamamoto94> 🐟
+[12:52:38] <Simon Müller> Mustache Andy... nice
+[12:52:44] <Shroomy Mc'Mushroom> Salmon Punch !
+[12:52:51] <+fedora> jetzt hab ich Angst mein Fenster offen zu lassen ^^^
+[12:52:57] <Siggy 87> ohja ich leg mir ne Katze zu. danke für den tipp @Krähe 😈
+[12:53:11] <inge braun> der arme controller
+[12:53:25] <Krähe> wenn du die nicht gut behandelst warte ich bis du schläfst und hack dir das ohr ab 😨
+[12:53:32] <Diplomat999> der arme Bär
+[12:53:54] <inge braun> war ein braunb'r ..nciht so schlimm >P
+[12:54:06] <Diplomat999> oo OO O oo
+[12:54:14] <Siggy 87> noch so en Ohrenfooder ^^ wald wolf 🙌
+[12:55:30] <Krähe> !pfump
+[12:55:33] <%Beansplan> @Krähe: Aktuell läuft [Wdh.] 1 Runde mit - Tekken 7: Aufs Maul mit Andy und Viet. Um 13:00 folgt  [Wdh.] Bada Binge #10 - .
+[12:55:34] <inge braun> müssen aber mal langsam was gegen die eisbären tun,die population hat sich verdoppelt...
+[12:55:55] <+GesichtsKuchen> es sind jetz 2 ?
+[12:56:02] <Krähe> erstmal müssen wir die umbenennen, eis haben die ja nicht mehr viel 😂
+[12:56:03] <+fedora> @inge braun sind doch eh schon dran, das sie weniger Eis haben oben in der Arktis
+[12:56:14] <Boner Alert> knüppelsuppe
+[12:56:20] <+GesichtsKuchen> wie wäre es mit kaltbären !?
+[12:56:23] <Siggy 87> polarbären? ☝😄
+[12:56:31] <Krähe> Ertrunkenbären 👍
+[12:56:40] <+GesichtsKuchen> wasserbär!
+[12:56:43] <Krähe> Oder Verhungertbären? 📙
+[12:56:50] <Siggy 87> nichtwaldbär
+[12:57:03] <+GesichtsKuchen> schwimmbär!
+[12:57:09] <Diplomat999> puhderbär
+[12:57:14] <Krähe> Eswareinmalbär!
+[12:57:19] <Siggy 87> erklärbärrrrrr
+[12:57:20] <inge braun> ja aber trotzdem vermehren die sich immer mehr ..die wollen einfach nicht aussterben
+[12:57:25] <Dan W> ich sehe das > bock auf tekken > steam: 50€+25€SP = -.-
+[12:57:32] <HidekoYamamoto94> Hubschraubären
+[12:57:38] <Tobitod87> Hwoarang hab ich immer am liebsten genommen oder Yoshimitzu aber mit denn konnte ich net so gut fighten wie Hwoarang
+[12:57:44] <+GesichtsKuchen> kauf dir doch den season pass einfach nich ^^
+[12:57:51] <Siggy 87> hmmmmm bärbel
+[12:57:57] <GodofWar> hwoarang ist mehr op als eddy
+[12:58:00] <Krähe> yoshi is auch sauschwer
+[12:58:11] <+GesichtsKuchen> boomerang war immer geil
+[12:58:22] <inge braun> ja für yoshi brauch man eier
+[12:58:26] <inge braun> 😀
+[12:58:32] <Late Knight> beste sind Lei und Hwoarrang
+[12:58:46] <Diplomat999> ling ling
+[12:59:13] <Diplomat999> la a a ag ?
+[12:59:15] <+GesichtsKuchen> KRÄHE!
+[12:59:16] <Boner Alert> ring ring?
+[12:59:32] <Siggy 87> kirby von smash brothers is aber der op char der op chars..... ^^
+[12:59:45] <Late Knight> as, nein pummelluff!
+[12:59:58] <Diplomat999> pandabäär
+[13:00:02] <Krähe> Wie darf ich ihnen helfen, Sir? 📙 @GesichtsKuchen
+[13:00:03] <%Nightbot> Nehmt an der Content-Evaluation 2017 teil: https://www.rbtv.to/evaluation
+[13:00:04] <Late Knight> aber mit pikachu mach ich jeden platt
+[13:01:03] <%Nightbot> Hey Böhnchen, ihr schaut gerade überlange Werbung? Dann tut unserem Treibstofftank einen Gefallen und wartet 30 Sekunden, bis ihr sie überspringt. Das füllt den Tank und ihr verpasst trotzdem nichts.
+[13:01:14] <Krähe> mit pika im alleingang durch die liga \😚/
+[13:01:50] <Siggy 87> pika war denn aber mind. lvl. 75 oder? 🙌
+[13:02:03] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[13:02:22] <Krähe> this is correct, you are correct
+[13:02:50] <Siggy 87> hatte auch mal die gelbe Edition ^^
+[13:02:51] <Diplomat999> Serien +
+[13:03:01] <Late Knight> !quote wer nicht ^^
+[13:03:02] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[13:03:03] <%Beansplan> "Yamas!" - Gregor K.
+[13:03:17] <Krähe> beste edition 😚
+[13:03:29] <Krähe> wie, ihr müsst euch ein starterpokeyman aussuchen?
+[13:03:35] <Krähe> ich hab n pika und alle drei 😯
+[13:04:00] <Gary Glauer> @Krähe Dito
+[13:04:09] <inge braun> mein tamagotchi lebt immernoch!!!!
