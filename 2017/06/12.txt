@@ -10365,3 +10365,354 @@
 [17:03:06] <+MrWerder> mixer is kacke 😞
 [17:03:50] <mee myself> low latency austellen, hilft bei lag
 [17:04:51] <DaKaio86> was soll der kack denn von den beans auf mixer
+[17:05:03] <Mr Zonk> was ist den mixer für ne kacke, nur standbilder
+[17:05:10] <+MrWerder> schade dass man das so splittet
+[17:05:24] <HidekoYamamoto94> @DaKaio86 Mixer sponsort den Bohnen die E3 (zusammen mit Samsung Mobile Deutschland)
+[17:05:24] <DaKaio86> was ist los mit den beans
+[17:05:30] <mee myself> splitten oder keine E3 vor ort
+[17:05:53] <DaKaio86> ja aber dann sollen sie werbung dafpr machen und nicht da streamen
+[17:05:53] <mee myself> sie sind halt noch abhängig von sponsoren
+[17:06:02] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[17:06:28] <Rockes [RCKS]> Hi Chat :)
+[17:06:29] <Rukalus> Kann mir jemand erklären, warum Budis Talkrunde nicht hier läuft?
+[17:06:30] <DaKaio86> finde es halt schade weil sie gehen von twitch auf youtube dann beides nun mixer. wird unübersichtlich
+[17:06:59] <Invyr> @Rukalus mixer ist sponsor für die e3 und will im gegenzug dass die platform gepushed wird
+[17:07:02] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[17:07:23] <HidekoYamamoto94> @DaKaio86 das kann doch einfach SCHEIß EGAL sein.. außerdem wird dies sicherlich im Vertrag stehen
+[17:07:25] <MadHatt0r> klug von MS und gut für rbtv, also winwin
+[17:07:35] <Rukalus> @Invyr Verstehe. Danke für die Antwort.
+[17:08:02] <+MrWerder> wenn mixer wenigstens laufen würd
+[17:08:02] <Invyr> @DaKaio86 solange überall das gleiche läuft ists doch egal. so ists halt nicht so geil
+[17:09:02] <DaKaio86> ich wünsche den beans immer das beste und unterstütze sie auch. aber ist das noch RBTV wenn ich mich überall rumtreibe.
+[17:09:06] <+Fox Eye> Ääääänimäääl Squad 😀
+[17:09:48] <Rockes [RCKS]> Was geht bei euch ab?
+[17:10:00] <Invyr> @DaKaio86 üblicherweise kannst du ja alles auf ihrer seite schauen. solche deals sind ja die absoluten ausnamen. rtl2you und jetzt mixer. gabs sonst noch was?
+[17:10:17] <HidekoYamamoto94> @DaKaio86 RBTV ist RBTV egal wo oder auf eie vielen Streamingplattformen sie streamen (Extra Content inbegriffen)
+[17:10:46] <HidekoYamamoto94> *wie
+[17:11:00] <+Fox Eye> Wasn Mixer? Such dir n Smoothie aus? Powered by MS? 🐸
+[17:11:21] <Invyr> ein rbtv smoothie *nom nom nom*
+[17:12:19] <K Dr> Mixer funktioniert bei mir auf der Xbox One brutal flüssig....
+[17:13:11] <DemonicLoner> mixer geht bei mir überhaupt ne ey kannste vergessn
+[17:13:33] <K Dr> Chrome?
+[17:13:48] <Matze So> Wisst ihr ob der Mixer Content zumindest auf Youtube hochgeladen wird?
+[17:14:00] <K Dr> denke nicht
+[17:14:11] <Invyr> @Matze So wirds wohl leider nur als vod auf mixer geben
+[17:14:15] <HidekoYamamoto94> @Matze So exklusiv auf Mixer momentan - ob es irgendwann auf YT kommt KA
+[17:14:16] <Matze So> na geil..
+[17:14:16] <+khayjeet> @Matze So nope, wird nur auf mixer als VoD hochgeladen
+[17:14:50] <+Fox Eye> @DemonicLoner wieso nich? du stehst eher drauf, würden sie ausm dunklen Keller heraus senden, mit Sturmmasken übern Kopf? Piratensender RocketBeans 👿 - 🌝
+[17:15:04] <Matze So> Na geil.. der Chromcast User guckt in die Röhre :/
+[17:15:07] <K Dr> finde ich okay wenn man bedenkt dass die Bohnen ohne Mixer gar nicht bei der E3 wären
+[17:15:10] <guddefulgaming> wo kann man E3 gucken?
+[17:15:14] <Ignoranzz> 😄
+[17:15:19] <FoxWis> hi
+[17:15:23] <K Dr> !e3
+[17:15:25] <%Nightbot> K Dr : Die E3 infos: https://goo.gl/W48lb5 , E3 Wochenplan: https://goo.gl/oX4fiE , Mo - Fr von 17-20 uhr Budis E3 Talk LIVE und exklusiv auf https://goo.gl/oCcLVd
+[17:15:57] <+Fox Eye> Nennt etwas typisch deutsches. "Meckern"....und sonst? "Fordern" ....
+[17:16:03] <%Nightbot> Nehmt an der Content-Evaluation 2017 teil: https://www.rbtv.to/evaluation
+[17:16:24] <DemonicLoner> das wees ich doch ne weder bei chrome noch bei firefox geht was bei mir
+[17:16:55] <+Natsu Dragneel> Hallo Freunde 🐸 /
+[17:17:15] <+Fox Eye> @Natsu Dragneel Hallo Freund 😠
+[17:17:36] <Invyr> @DemonicLoner mal versucht low latency aus zu schalten?
+[17:17:52] <K Dr> Ich finde es echt kurios dass viele sagen dass der Stream auf Mixer sehr gut läuft und bei anderen läuft er gar nicht
+[17:17:52] <+MrWerder> Man kann auch gute Bericherstattung von hier machen, dann reicht ein 3-4 Mann-Team in LA
+[17:18:11] <DemonicLoner> jap hab ich auch gemacht bei allen beiden
+[17:18:48] <HidekoYamamoto94> @MrWerder und die Gespräche mit den Entwickern - das Antesten von evtl Spielen dort usw.
+[17:18:56] <Leon Zubaki> Ich kann Budis Talk nicht an schauen weil man es nicht mit nidriger Qualität schauen kann es gibt nur 1080p
+[17:19:18] <RetroEnno> bei mir laggt der Mixer Stream hart. Warum wird das nur exclusiv dort gestreamt?
+[17:19:22] <K Dr> vllt solltet ihr es mal mit der Smartphone App probieren
+[17:19:28] <Steen Rai> @Leon Zubaki hab das gleiche Problem
+[17:19:42] <+MrWerder> @HidekoYamamoto94 Das macht dann das Team in LA, da muss man nicht mit ner ganzen 2. Regie und so hin.
+[17:19:54] <+Fox Eye> Immer dieses meckern, meckern, meckern 😖
+[17:20:19] <K Dr> die Latenz von Mixer liegt ca bei 2 Sekunden....nicht schlecht
+[17:20:51] <K Dr> nicht mal
+[17:20:56] <FlowLoS> wo sieht man den stream?
+[17:21:04] <K Dr> !e3
+[17:21:08] <%Nightbot> K Dr : Die E3 infos: https://goo.gl/W48lb5 , E3 Wochenplan: https://goo.gl/oX4fiE , Mo - Fr von 17-20 uhr Budis E3 Talk LIVE und exklusiv auf https://goo.gl/oCcLVd
+[17:21:38] <FlowLoS> bin auf mixer com / rocketbeans - > Stream ist offline
+[17:21:56] <K Dr> auf der Xbox läuft es noch
+[17:22:08] <HidekoYamamoto94> @FlowLoS mixer com / rocketbeansTV
+[17:22:37] <Leon Zubaki> Mixer ist ein Scheiß stream
+[17:22:42] <K Dr> einfach den Link vom Nightbot anklicken
+[17:22:48] <FlowLoS> @HidekoYamamoto94 da bin ich doch 😀 bei mir is der stream off muss man sich dafür anmelden?
+[17:23:06] <K Dr> nein
+[17:23:26] <FlowLoS> ah nice mit dem link gehts
+[17:23:53] <FlowLoS> is das en poadcast hab kein bild :D
+[17:24:02] <DoktorChaos81> Hallihallohallöle!
+[17:24:15] <%Valkyrie0025> mixer halt ich mit den lags die ich hab nicht aus. da bin ich wieder
+[17:24:38] <FlowLoS> grausig der ton ... ich hör nur laggs und seh nix :D
+[17:24:54] <Rukalus> @Valkyrie0025 Wilkommen zurück. ^^
+[17:24:59] <Invyr> komisch dass mixer so krass unterschiedlich gut läuft. beam gibts doch schon ne weile
+[17:25:06] <Max Klose> mixer bleibt alle 5 sek hängen bei mir, auch ohne low latency...
+[17:25:13] <DoktorChaos81> @Valkyrie0025 Hi, wie geht´s?
+[17:25:14] <+Fox Eye> Hm was das wohl nur für ein Spiel? Ein 3rd Person Shooter, ein Aufbauspiel, ein Sims-Clone? 🌝
+[17:25:18] <%Valkyrie0025> ich hab es auf low latency gestellt. danach hatte ich bild und ton aber es ruckelt
+[17:25:18] <Max Klose> kann man so nich gucken
+[17:25:49] <%Valkyrie0025> @Rukalus  dankö 😀
+[17:26:08] <%Valkyrie0025> @DoktorChaos81 frag besser nicht, neige zu ehrlichen antworten ^^
+[17:26:12] <Steen Rai> Warum zeigt man hier Wiederholungen und auf Mixer den interessanten Content, den viele net gucken können?
+[17:26:12] <DoktorChaos81> Was für Probleme gbt´s hier denn?
+[17:26:14] <+Fox Eye> Probier es auf dem Handy oder deiner Xbox One
+[17:26:16] <Max Klose> immerhin ist das vod zur bethesda-pk jetz online
+[17:26:19] <RetroEnno> @Max Klose  bei mir das selbe
+[17:26:20] <Rukalus> Liegts vll daran, dass ihr euch da mit nem Account eingeloggt habt? Ich mach mir nicht extra für die E3 nen Acc und bei mir läufts problemlos. XD
+[17:26:28] <%Valkyrie0025> @Steen Rai ms sponsert e3
+[17:26:32] <+Fox Eye> @Steen Rai Aus Gründen
+[17:26:38] <DoktorChaos81> @Valkyrie0025 ...!? Oha, gleich so gut geht´s???
+[17:26:53] <Invyr> wenn man den browser bei mixer kleiner als vollbild zieht schaltet es auf mobile...was issn das ey^^
+[17:26:59] <Steen Rai> @Valkyrie0025 achsoo
+[17:27:02] <%Valkyrie0025> @Rukalus war mit twitter drin. bin doch nicht jeck 😉
+[17:27:13] <+Fox Eye> Über Kurz oder lang landet eh alles auf YT und wird 3x wiederholz
+[17:27:18] <Rukalus> @Valkyrie0025 😀
+[17:27:21] <Max Klose> ich wollt mixer im andern browser probieren, aber iwie lässt er mich nich einloggen... sagt was von XBL credentials. whut
+[17:27:28] <Invyr> @Fox Eye hoffe ich auch
+[17:27:30] <%Valkyrie0025> @DoktorChaos81 noch viel besser , seufz
+[17:27:46] <FlowLoS> nice jetzt seh ich was :O
+[17:27:57] <%Valkyrie0025> @Fox Eye stimmt.
+[17:28:06] <Max Klose> @Rukalus ich dachte ohne account kann man gar nix gucken bei mixer
+[17:28:26] <RetroEnno> ich schaue auch ohne account
+[17:28:28] <DoktorChaos81> @Valkyrie0025 Nun, sieh es mal positiv: Noch schlimmer als beschissen kann es sowieso nicht werden! 😀😁😂
+[17:28:49] <+Fox Eye> Sie haben "Meer" gezeigt 🌝
+[17:28:57] <%Valkyrie0025> @DoktorChaos81 ich möchte nicht beschreiben , wie es noch beschissener geht ^^
+[17:29:10] <RetroEnno> audioonly funzt, mit bild nur lag
+[17:29:27] <%Valkyrie0025> @Max Klose war mit meinem twitter acc drin.
+[17:29:33] <DoktorChaos81> @Valkyrie0025 Okay! 😊
+[17:29:40] <Rukalus> @Max Klose Kein Plan. Hab den link hier ausm Chat heraus angeklickt, das Häkchen für das ab 18 Blabla oder so angeklickt, und da lief es. *Schulterzuck*
+[17:30:00] <K Dr> Probiert vllt mal den Edge Browser von Microsoft
+[17:30:04] <%Nightbot> Nehmt an der Content-Evaluation 2017 teil: https://www.rbtv.to/evaluation
+[17:30:19] <+Fox Eye> Ich hab das ab 18 Hinweis Ding ausversehen weggeklickt, lief dann nich. F5 gedrückt, schwups, läuft
+[17:30:24] <%Valkyrie0025> @Max Klose manche nehmen unter einstellungen das low latency raus
+[17:30:31] <DoktorChaos81> @Nightbot Äh...der ist bereits rum...^^
+[17:30:37] <%Nightbot> June 12 2017, 5:30:37 pm
+[17:30:40] <+Datscher> 😄🍺👈
+[17:31:02] <Max Klose> ja, hab schon alles probiert. flüssig läuft mixer bei mir nie
+[17:31:03] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[17:31:04] <%Valkyrie0025> @Datscher ich bitte auch , mitm kurzen dazu pls
+[17:31:26] <+Fox Eye> Die Stärkste Konsole aller Zeiten (Zeitexklusiv) 🌝
+[17:31:28] <barthezz> also Mixer ist unschaubar ...
+[17:31:34] <FlowLoS> bei mir laggts nur
+[17:31:37] <DoktorChaos81> @Datscher Man, das wär jetzt ne geile Idee!
+[17:31:40] <+Datscher> @Valkyrie0025 Schnaps gibts nur am Wochenende 😉
+[17:31:40] <FlowLoS> kanns auch vergessen :D
+[17:32:10] <%Valkyrie0025> @Datscher mist, gerade heute könnt ich was gebrauchen ^^
+[17:32:38] <%Valkyrie0025> ich tu mir das nicht an. mixt mich nicht an
+[17:32:55] <barthezz> Mixer in die Tonne
+[17:33:00] <+Fox Eye> Schnaps für alle! (100% Alkoholfrei) 🐸
+[17:33:22] <%Valkyrie0025> schanppes ohne allohol? wo gibbet dat denn
+[17:33:36] <Mister Dickenüsse> das ist doch wasser?
+[17:33:41] <DoktorChaos81> @Fox Eye 😀😁😂
+[17:34:00] <%Valkyrie0025> bier ohne alkohol ist auch nicht wasser ^^
+[17:34:01] <+Fox Eye> Hey hey, das ismeine Verkaufsidee 😀
+[17:34:05] <+Fox Eye> -Wasser abfüll-
+[17:34:13] <Mister Dickenüsse> Aber Schnaps 😛
+[17:34:27] <Rukalus> Microsoft baut einiges im Hintergrund auf... totale Vernetzung.... Jaja, wenn Skynet irgendwann alles übernimmt weiß ich, wer Schuld ist. 😂
+[17:34:29] <DoktorChaos81> Ich geb mit heute die Kante ... mit Wasser!!!
+[17:34:38] <Mister Dickenüsse> Gib ihn!!
+[17:34:49] <DoktorChaos81> Schnapps ist das neue Wasser!!!
+[17:34:56] <+Datscher> @DoktorChaos81 Solange mir keiner das Wasser reichen kann, nehme ich ein Bier xD
+[17:35:01] <+Fox Eye> Skynet wurde umbenannt iiiiiin Mixer 🌝
+[17:35:02] <%Valkyrie0025> och proste mit pfefferminztee zu
+[17:35:03] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[17:35:27] <Ricardo Liebisch> wann gehts heute mit der e3 weiter?
+[17:35:28] <Rukalus> @DoktorChaos81 Vorsicht, an zu viel Wasser kann man sterben!
+[17:35:33] <DoktorChaos81> @Datscher​ Gut gekontert! 😎
+[17:35:48] <Mister Dickenüsse> Desshalb trink ich nur Bier
+[17:35:50] <+Fox Eye> Skynet // Tenyks
+[17:35:50] <Steen Rai> "Wir machen exklusiven Content und der kommt dann in den Miiiiixxer"- Daniel Budiman
+[17:35:51] <+XAxeX> !e3
+[17:35:56] <%Nightbot> XAxeX : Die E3 infos: https://goo.gl/W48lb5 , E3 Wochenplan: https://goo.gl/oX4fiE , Mo - Fr von 17-20 uhr Budis E3 Talk LIVE und exklusiv auf https://goo.gl/oCcLVd
+[17:36:15] <Ricardo Liebisch> danke^^
+[17:36:16] <DoktorChaos81> @Rukalus Deshalb trink ich nur Bier und Met! 😊
+[17:36:16] <+Fox Eye> Wasser kann Spuren von Nüssen enthalten 😖
+[17:36:33] <Steen Rai> Wasser verursacht Krebs
+[17:36:42] <Mister Dickenüsse> Du trinks Me?
+[17:36:44] <Mister Dickenüsse> *Met
+[17:36:47] <Rukalus> @DoktorChaos81 Das lob ich mir 👍 Bier trink ich aber nur, wenn Met drinn ist. ^^
+[17:36:54] <+XAxeX> hmm
+[17:36:59] <DoktorChaos81> Wasser ist G-g-g-gesund! Igitt, was für ein ekelhaftes Wort!!!
+[17:37:01] <+Fox Eye> 100% aller Menschen sterben nach spätestens 100 Jahren durch den Konsum von Wasser! 🌝
+[17:37:14] <Invyr> nice ein neues lied ❤
+[17:37:16] <Mister Dickenüsse> Es läuft mir kalt den rücken runter.. !
+[17:37:27] <Steen Rai> Schreib dich nicht ab. Lerne Schnaps kennen
+[17:37:41] <DoktorChaos81> @Rukalus Metbier gibt es ja auch! Ist was leckeres!
+[17:37:47] <Invyr> bitch ich bin swayzeeeeee ❤
+[17:37:55] <%Valkyrie0025> @Fox Eye hmmm kommt hin
+[17:38:05] <Mister Dickenüsse> metbier? OK was neues auf was ich mich freuen kann.. klingt geil
+[17:38:05] <+Fox Eye> Schnaps, die neue coole, hippe, swayzee Einstiegsdroge um wunderhübsche Schnapsleichen kennenzulernen 🐸
+[17:38:16] <+XAxeX> soo bin da 😀  und warum laggt der mixer stream 😲 ? tut er das schon seit 17uhr?
+[17:38:21] <Mister Dickenüsse> auch in deiner nähe
+[17:38:24] <DoktorChaos81> @Fox Eye Der beste Kommi bisher! Ich schmeiß mich wech!!!
+[17:38:34] <Steen Rai> Schnaps erhöht die Geburtsrate 🌝
+[17:38:39] <Invyr> @XAxeX nur für ausgewählte leute, bei anderen läuft er super^^
+[17:38:44] <Invyr> n
+[17:38:54] <+Fox Eye> Trink Dir deinen Tag schön! - Schnaps 2.0
+[17:38:58] <%Valkyrie0025> @XAxeX hai, bin deswegen da wieder raus. schlägt leider mein maximum an genervt lvl durch die decke
+[17:39:28] <allcompositions> das ist ja gar nicht haukee
+[17:39:28] <DoktorChaos81> @Steen Rai ...und macht andere Menschen schön!
+[17:39:41] <+XAxeX> @Valkyrie0025  hm  ^^ und was hat das mit den leuten aufsich die irgend in level posten ? ^^
+[17:39:42] <+Fox Eye> @Steen Rai Das wäre mal ne tolle Werbung. Besser als diese Cartoonwerbeaufsteller draussen "Wo brennts denn" und ausm Schritt kommt der Qualm.
+[17:39:43] <DoktorChaos81> Blauke
+[17:39:45] <%Valkyrie0025> dieses shirt vom lingsch... es irritiert mich jedesmal
+[17:39:56] <Steen Rai> "*reib reib reib" ich Schnaps!!" -Vicky der Wikinger, 16 Jahre
+[17:40:07] <+Fox Eye> lol
+[17:40:27] <Fakeofthefakes> @Valkyrie0025 Krankenhaus Style 😀
+[17:40:38] <DoktorChaos81> "Ich trink Schnaps, du trinkst Schnap! Wir alle sind hier wegen dem Schnaps"!
+[17:40:47] <%Valkyrie0025> @XAxeX nicht fragen, nimms hin
+[17:40:59] <mee myself> mixer ist unbenutztbar wenn man net 16k+ leitung hat, und es keinen quali einstellungen gibt
+[17:41:04] <+Fox Eye> 2017 ist Krankenhausmode in. Sei auch du hip und trag ein Rückenfreies Krankenhauskleid 🐸
+[17:41:16] <%Valkyrie0025> @Fakeofthefakes jap , kriege den drang spritzen aufzuziehen ^^
+[17:41:32] <Steen Rai> " 1 ist meine Schnapszahl, 2 ist meine Schnapszahl, 3 ist meine Schnapszahl..." - Graf Zahl nach dem Ende der Muppetshow
+[17:41:43] <+Fox Eye> Hm, ob das wohl der Grund ist wieso Internetanbieter die Leute anrufen und mit 100k Leitungen für 30,- ködern wollen?
+[17:41:48] <%Valkyrie0025> @Steen Rai lol
+[17:42:07] <Mister Dickenüsse> 5 ..5 schnäpse .. HA HA HA 6.. 6 Schnäpse HA HA HA
+[17:42:09] <+Fox Eye> @Steen Rai lol
+[17:42:12] <+XAxeX> @Valkyrie0025  hmm iwer schrieb das es an crohme liegen könnte ^^ bin mal mit ff testen 😸
+[17:42:18] <%Valkyrie0025> ich bin so auf dem tripp : die können mich alle mal
+[17:42:27] <DoktorChaos81> @Steen Rai 😀😁😂
+[17:42:55] <+Fox Eye> Als nächstes bitte den Schnapstest! 😀
+[17:42:57] <%Valkyrie0025> @XAxeX ich war mit ff drin. kann eben auch an der leitung liegen. suppaaaa inet gucker 2. klasse
+[17:44:27] <thief life> hey bin neu was ist das?
+[17:44:29] <DoktorChaos81> 3 weise Tauben...
+[17:44:50] <DoktorChaos81> !befehle
+[17:44:51] <%Nightbot> DoktorChaos81 : Hier die Nightbot-Befehle: !regeln (Chat Regeln), !vip (Erklärung), !rbtv (Erklärung), !pnp (nächster Termin). !logo (Erklärung) , !wochenplan, !ts (Teamspeak), !uptime
+[17:44:56] <RockWolfHD> Was ist dieses mixer?
+[17:45:04] <%Nightbot> Nehmt an der Content-Evaluation 2017 teil: https://www.rbtv.to/evaluation
+[17:45:26] <DoktorChaos81> !Wochenplan @thief life
+[17:45:28] <%Nightbot> @thief : Den aktuellen Wochenplan findest du hier:  https://rbtv.to/woche
+[17:45:31] <FlowLoS> 5,52 mbits beim speedtest :O
+[17:46:06] <thief life> achsoo geil Danke :D
+[17:46:10] <FlowLoS> ping 865 ms upload 1,44 mbits is das gut o_O?
+[17:46:12] <Andreas Rastl> bei aller liebe liebes rbtv team der mixer stream ist doch echt lächerlich bei 50% nur laggs und hier laufen nur wiederholungen nice
+[17:46:13] <Fakeofthefakes> !logo
+[17:46:15] <Steen Rai> wenn ein Befehl namens !befehle einem die Befehle zeigt
+[17:46:19] <%Nightbot> Fakeofthefakes : Wenn unter dem Logo links oben "Live" steht, ist die Sendung live. Wenn dort "Neu" steht, ist es eine aufgezeichnete Erstausstrahlung. Wenn dort nichts steht, ist es eine Wiederholung
+[17:46:22] <DoktorChaos81> @thief life​ Hi, grüß dich! Schau mal auf den Wochenplan, da siehste, was es hier so gibt!
+[17:47:00] <DoktorChaos81> Vielleicht gibt es hier im Chat Nachwuchs!
+[17:47:10] <+XAxeX> hmm @Rocket Beans TV  also Mixer laggt wie die sau 😲
+[17:47:24] <Karies _> ja ich bleib dann hier.. mixer hat mir die e3 versaut.. unkuckbar deren stream.. auf keinem gerät oder browser gehts
+[17:47:34] <+XAxeX> @Rocket Beans TV  ich kann 5sec was sehen dann wieder 2sec lag 😀
+[17:47:40] <thief life> habs danke cool :D
+[17:47:42] <Karies _> hätte man ja mal testen können
+[17:47:56] <+XAxeX> @Karies _  warum haben die dir die E3 versaut? ^^
+[17:48:10] <thief life> hat sowass  jeder yt?
+[17:48:22] <Karies _> na ich bin ausgeschlossn vom recap
+[17:48:28] <+XAxeX> !wochenplan
+[17:48:30] <%Nightbot> XAxeX : Den aktuellen Wochenplan findest du hier:  https://rbtv.to/woche
+[17:48:38] <DoktorChaos81> @Nightbot Ich hab dir schon zigmal geschrieben, dass das vorbei ist, du dummes Ding!!! 😠
+[17:48:40] <%Nightbot> June 12 2017, 5:48:40 pm
+[17:48:40] <FlowLoS> 865ms ping .. noramlerweise hab ich 60ms ping kann man den speedtest seiten vertrauen o_O?
+[17:48:43] <+ChronicE99> !geltungsbedüftigkeit
+[17:48:44] <+XAxeX> @Karies _  könnte mir vorstellen als VoD wird das schon funtzen ^^
+[17:49:09] <Karies _> ich kuck doch nicht rbtv um ein vod u sehn.. live oder gar nicht
+[17:49:18] <Arnold Antilope> Hallo Leute
+[17:49:21] <Karies _> e3 hat nur liv nen mehrwerrt
+[17:49:33] <mee myself> 🐯
+[17:49:36] <Karies _> ach ich bin etwas sauer
+[17:49:39] <%Valkyrie0025> hi @Arnold Antilope
+[17:49:41] <mee myself> karies deine leitung?
+[17:49:41] <+MrWerder> Hat schon recht, da hat man was Exklusives bei Mixer, aber der Stream scheint nicht bei allen zu laufen. Dabei hat man schon 3 Plattformen wo der normale Stream läuft
+[17:49:41] <FlowLoS> ich glaub ich kündige den vertrag mal bei der telekom .. hat jmd. en tipp für en guten anbieter was zahlt ihr so wieviel leistung habt ihr?
+[17:49:43] <DoktorChaos81> @thief life Was meinste mit "jeder YT"?
+[17:49:56] <%Valkyrie0025> ich bin bockig @Karies _ tauschen?
+[17:50:00] <Rukalus> Ich les grad n bisschen im Mixer Chad.... Das ist ja dann schon wieder ein Chat mehr, in dem man bestimmte Leute auf Igno setzen muss... 😂
+[17:50:10] <+XAxeX> hmm
+[17:50:13] <Karies _> ich hab ne 16k leitung und sehe probblemlos 3 twitch streams auf source
+[17:50:13] <mee myself> mixer braucht wohl min 16mbit leitung
+[17:50:19] <DoktorChaos81> Dieses "Mixer" scheint ja nicht gerade der Hit zu sein!
+[17:50:21] <mee myself> sollte gehen
+[17:50:21] <Karies _> mixer null
+[17:50:23] <Jenso Hauck> Was ist Mixer? Läuft da die E3 Übertragung? Bahnhof?
+[17:50:27] <mee myself> schalte low latency aus
+[17:50:39] <Karies _> ja ach
+[17:50:56] <FlowLoS> Hat jmd. ein Tipp für en guten Anbieter was zahlt ihr so..für welche leistung?
+[17:50:57] <Steen Rai> @Karies _  ich fühle mit dir 😞
+[17:50:57] <mee myself> bei mir hat das gewirkt 😛
+[17:50:59] <%Valkyrie0025> wenn ich es ausschalte seh ichg ar nix und als audio taugts gar nicht
+[17:51:01] <Invyr> !e3 @Jenso Hauck
+[17:51:06] <%Nightbot> @Jenso : Die E3 infos: https://goo.gl/W48lb5 , E3 Wochenplan: https://goo.gl/oX4fiE , Mo - Fr von 17-20 uhr Budis E3 Talk LIVE und exklusiv auf https://goo.gl/oCcLVd
+[17:51:25] <Jenso Hauck> danke!
+[17:51:25] <%Valkyrie0025> ms sponsert deswegen mixer
+[17:51:32] <Arnold Antilope> Ich zahle für 100mbit/s bei Primacom 15 euro
+[17:51:37] <Arnold Antilope> im monat
+[17:51:48] <FlowLoS> oha 15€ is nich viel
+[17:51:48] <mee myself> nice^^
+[17:51:52] <Karies _> die wollen im ernst ein unfertiges produkt bewerben ?
+[17:52:09] <Invyr> @Karies _ rbtv bewerben sie ja auch^^
+[17:52:19] <Karies _> 😀
+[17:52:20] <mee myself> @Arnold Antilope hast volumen begrenzung?
+[17:52:22] <FlowLoS> telekom schlägt bei 100mbit 44,95€ im monat vor @Arnold Antilope schonmal gut zu wissen notiers mir gleich
+[17:52:29] <DoktorChaos81> RBTV ist ein unfertiges Produkt???
+[17:52:38] <endlich hat`s mit dem 1 eur-Job für dich geklappt> hh ▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬✡⬜⬜✡✡⬜⬜⬜⬜⬜⬜✡✡⬜⬜✡✡⬜⬜⬜⬜⬜⬜✡✡⬜⬜✡✡⬜⬜✡✡✡✡✡✡⬜⬜✡✡⬜⬜✡✡✡✡✡✡⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜✡✡⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜✡✡✡✡✡✡⬜⬜✡✡⬜⬜✡✡✡✡✡✡⬜⬜✡✡⬜⬜✡✡⬜⬜⬜⬜⬜⬜✡✡⬜⬜✡✡⬜⬜⬜⬜⬜⬜✡✡⬜⬜✡▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬
+[17:52:41] <+Datscher> warum läuft der e3 Stream nur auf Mixer? 😲
+[17:52:43] <Steen Rai> @DoktorChaos81 sogesehen ja
+[17:52:47] <Rukalus> Also ich muss sagen, Optionen gegen Viewtime.... Allein das gefällt mir grad an Mixer nicht so wirklich.
+[17:52:50] <Invyr> @DoktorChaos81 der prototyp eines unfertigen produktes^^
+[17:53:06] <Invyr> @datscher mixer sponsored die e3
+[17:53:08] <DoktorChaos81> @endlich hat`s mit dem 1 eur-Job für dich geklappt Geht´s noch?
+[17:53:19] <Arnold Antilope> Nee keine Begrenzung und es gibt auch keine Probleme
+[17:53:25] <Jenso Hauck> cool, bei mir ruckelt der Stream auch. Solidarität.
+[17:53:33] <Arnold Antilope> ich lebe im Osten vllt ist es deshalb so günstig ^^
+[17:53:47] <DoktorChaos81> @Invyr​ @Steen Rai 😊 Ooookay!
+[17:53:56] <Eimxr-Paules Wortschatz füllt kein A5-Blatt> nur noch verschwulte Hipster-Scheisse 😕 - wo sind die ganzen coolen Leute von früher hin? 😞
+[17:54:23] <DoktorChaos81> @Eimxr-Paules Wortschatz füllt kein A5-Blatt ...!?
+[17:54:42] <Max Klose> yeah chat-trolle! ....
+[17:54:43] <FlowLoS> @Arnold Antilope habs grad mal gegoogelt bei mir steht primacom bei 100mbit bei 24,99 im monat is aber immernoch 20€ günstiger als kack telekom -.-
+[17:54:54] <%Valkyrie0025> @Eimxr-Paules Wortschatz füllt kein A5-Blatt und nun in höflich?
+[17:55:05] <DoktorChaos81> Was ist "Telekom"?
+[17:55:14] <DoktorChaos81> 😊
+[17:55:24] <FlowLoS> wen jmd. anderes en tipp hat fürn nen guten günstigen anbieter raus damit :O
+[17:55:33] <Max Klose> aber telekom ist auch echt die dümmste entscheidung oder? das ist immer teurer...
+[17:55:45] <FlowLoS> @DoktorChaos81 meiner meinung nach abzocker und drosseln tun die auch noch
+[17:56:26] <Steen Rai> ich wette Telekom wird von anderen Anbietern für überteuerte Angebote bezahlt
+[17:56:28] <DoktorChaos81> @Valkyrie0025 Es gibt bestimmte Leutz, denen muss man "höflich" erstmal erklären! 😃
+[17:56:29] <FlowLoS> @Max Klose kann ich nur zustimmen 😀 der vertrag is aber auch uralt glaub das is schon 5-6jahre her is jetzt jedenfalls mal gekündigt
+[17:56:36] <Max Klose> also ich bin bei 1und1, war am anfang echt günstig, aber mittlerweile ist mein tarif total outdated. müsst ich eigtl mal kündigen... 😕
+[17:56:43] <Sektenaufbau täglich hier ab 6> DoktorChaos81 - wie ist es mit dem? - besser??
+[17:56:49] <Sektenaufbau täglich hier ab 6> ▬▬▬▬▬▬▬▬▬ஜ۩☆۩ஜ▬▬▬▬▬▬▬▬▬​​⚪⚪⚪🍇⚪🍇⚪🍇⚪🍇⚪⚪⚪⚪🍇⚪⚪⚪⚪⚪⚪⚪🍇⚪⚪🍇⚪⚪💎⚪💎💎💎⚪⚪🍇⚪⚪⚪⚪💎⚪💎⚪⚪⚪⚪⚪⚪🍇⚪⚪💎💎💎💎💎⚪⚪🍇⚪⚪⚪⚪⚪⚪💎⚪💎⚪⚪⚪⚪🍇⚪⚪💎💎💎⚪💎⚪⚪🍇⚪⚪🍇⚪⚪⚪⚪⚪⚪⚪🍇⚪⚪⚪⚪🍇⚪🍇⚪🍇⚪🍇⚪⚪▬▬▬▬▬▬▬▬▬ஜ۩☆۩ஜ▬▬▬▬▬▬▬▬▬+
+[17:56:59] <Arnold Antilope> @FlowLoS  Telecom ist wirklich scheiße, hatte vor 2 Jahren auch einen Vertrag bei denen. wollte eigentlich Unitymedia aber leider ist Primacom der einzige Anbieter bei uns in der Gegend.
+[17:57:00] <final zocker> guten tag
+[17:57:12] <Steen Rai> was stimmt mit dir nicht @Sektenaufbau täglich hier ab 6 ?
+[17:57:51] <DoktorChaos81> @Sektenaufbau täglich hier ab 6 Na bravo! Achtung Leute: Troll-Alarm!!!
+[17:58:14] <Max Klose> Billy Nobbler ist schon iwie ein psychopath 😀
+[17:58:16] <+Datscher> 🐟🌝
+[17:58:26] <Arnold Antilope> @Max Klose  Dann solltest du dich bei Marcel Davis beschweren. Ihrem Leiter für Kundenzufriedenheit 😀
+[17:58:33] <DoktorChaos81> @final zocker Tagchen!
+[17:58:37] <Jenso Hauck> Wie frustrierend es ist, zu wissen, dass das Highlight des Jahres auf einem anderen Stream läuft und man nur Aufzeichnungen schauen kann. :(
+[17:58:46] <Rukalus> Geil, eine Std lief Mixer tadellos, jetzt lallt mich der Stream voll. XD
+[17:59:20] <DoktorChaos81> @FlowLoS 😊 Es geht doch nix über positive Werbung für ein Produkt!
+[17:59:21] <Bambus Ratte> Hallo mein Name ist Bambus Ratte
+[17:59:32] <Zensur hier krasser als bei Kakki & den Wanderjud> DoktorChaos81 - welche Note kriegt das?▬▬▬▬▬▬▬▬▬ஜ۩☆۩ஜ▬▬▬▬▬▬▬▬▬▬​​♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥⚪⚪⚪♥♥♥♥♥♥♥⚪⚪⚪⚪⚪⚪⚪♥♥♥♥♥⚪⬜⚪⬜⬜⬜⚪♥♥♥♥⚪⚪⬜⚪⬜⚪⚪⚪⚪♥♥♥⚪⚪⬜⬜⬜⬜⬜⚪⚪♥♥♥⚪⚪⚪⚪⬜⚪⬜⚪⚪♥♥♥♥⚪⬜⬜⬜⚪⬜⚪♥♥♥♥♥⚪⚪⚪⚪⚪⚪⚪♥♥♥♥♥♥♥⚪⚪⚪♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
+[17:59:32] <guddefulgaming> Wie frustrierend es ist, dass der andere Stream scheiße performt, und man nicht safe sagen kann ob und wo VODs kommen :D
+[18:00:05] <%Nightbot> Nehmt an der Content-Evaluation 2017 teil: https://www.rbtv.to/evaluation
+[18:00:07] <Mittschnitt gerade deinen Betreuern gemailt> ▬▬▬▬▬▬▬▬▬ஜ۩☆۩ஜ▬▬▬▬▬▬▬▬▬▬​​♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥⚪⚪⚪♥♥♥♥♥♥♥⚪⚪⚪⚪⚪⚪⚪♥♥♥♥♥⚪⬜⚪⬜⬜⬜⚪♥♥♥♥⚪⚪⬜⚪⬜⚪⚪⚪⚪♥♥♥⚪⚪⬜⬜⬜⬜⬜⚪⚪♥♥♥⚪⚪⚪⚪⬜⚪⬜⚪⚪♥♥♥♥⚪⬜⬜⬜⚪⬜⚪♥♥♥♥♥⚪⚪⚪⚪⚪⚪⚪♥♥♥♥♥♥♥⚪⚪⚪♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
+[18:00:27] <Karies _> das ist ne gewaltige frechheit von ms..
+[18:00:28] <Arnold Antilope> Worin liegt eigentlich der Sinn wenn die Beans zur E3 fahren aber das Event nicht live kommentieren
+[18:00:30] <Max Klose> was ist denn hier grade los, Chad?
+[18:00:40] <DoktorChaos81> @Bambus Ratte Guten Tag! Ich bin hier das Chaos in Person!
+[18:00:44] <%sLuG> ach da hat jemand langeweile
+[18:00:44] <Rukalus> Wo kommen jetzt die ganzen Trolle her? Werden die von MS bezahlt?! O_o
+[18:01:03] <Karies _> rbtv streamt uf mixer und bei 33% der leute gehts nicht.. das ist los
+[18:01:04] <%Nightbot> Hey Böhnchen, ihr schaut gerade überlange Werbung? Dann tut unserem Treibstofftank einen Gefallen und wartet 30 Sekunden, bis ihr sie überspringt. Das füllt den Tank und ihr verpasst trotzdem nichts.
+[18:01:05] <Max Klose> naja ab 20uhr ist auch hier 'n live recap.
+[18:01:13] <+GesichtsKuchen> #sLuG ❤
+[18:01:19] <fanny green> ▬▬▬▬▬▬▬▬▬ஜ۩☆۩ஜ▬▬▬▬▬▬▬▬▬▬​​♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥⚪⚪⚪♥♥♥♥♥♥♥⚪⚪⚪⚪⚪⚪⚪♥♥♥♥♥⚪⬜⚪⬜⬜⬜⚪♥♥♥♥⚪⚪⬜⚪⬜⚪⚪⚪⚪♥♥♥⚪⚪⬜⬜⬜⬜⬜⚪⚪♥♥♥⚪⚪⚪⚪⬜⚪⬜⚪⚪♥♥♥♥⚪⬜⬜⬜⚪⬜⚪♥♥♥♥♥⚪⚪⚪⚪⚪⚪⚪♥♥♥♥♥♥♥⚪⚪⚪♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
+[18:01:31] <DoktorChaos81> @sLuG Grüß dich! Da haben gleich ein paar langeweile!
+[18:01:36] <mee myself> da hat einer langeweile
+[18:01:53] <DoktorChaos81> *Langeweile
+[18:01:56] <guddefulgaming> Aber ein weiser user hat mir erzählt das ist nicht mixers schuld. Der Upload ist einfach hoch, da kann man nix machen. xD
+[18:01:58] <%sLuG> joa 😃 ich ban gern
+[18:02:04] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[18:02:07] <mee myself> langeweile**
+[18:02:19] <%sLuG> btw hi @DoktorChaos81  😃
+[18:02:34] <%Valkyrie0025> ey lass mir auch was übrig ^^ @sLuG
+[18:02:39] <Reiner Fiedler> warumaa
+[18:02:48] <DoktorChaos81> @mee myself​ Sorry, war auf mich selber bezogen! 😀
+[18:02:54] <mee myself> 😄 ist der noch erlaubt?
+[18:03:03] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[18:03:18] <DoktorChaos81> @sLuG Wie geht´s?
+[18:03:31] <DoktorChaos81> @Trolle Na? Wo seid ihr?
+[18:03:45] <%sLuG> #DoktorChaos81 gut gut und selbst? 😃
+[18:04:15] <Vergesst nicht die Screenshot`s von meinen Beleidigungen, ach, der Stricher hat ja kein Handy> ffg ▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬⬛⬜⬜⬛⬛⬜⬜⬜⬜⬜⬜⬛⬛⬜⬜⬛⬛⬜⬜⬜⬜⬜⬜⬛⬛⬜⬜⬛⬛⬜⬜⬛⬛⬛⬛⬛⬛⬜⬜⬛⬛⬜⬜⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬜⬜⬛⬛⬜⬜⬛⬛⬛⬛⬛⬛⬜⬜⬛⬛⬜⬜⬛⬛⬜⬜⬜⬜⬜⬜⬛⬛⬜⬜⬛⬛⬜⬜⬜⬜⬜⬜⬛⬛⬜⬜⬛▬ 1488 WHITE LASH FOR THEIR BLACK ASS ⚡⚡
+[18:04:44] <DoktorChaos81> Im Augenblick noch gut! In drei Stunden muss ich allerdings dann arbeiten...😖
+[18:04:54] <+Mindraider> warum kann ich bei mixer nix sehen muss ich mich da erst anmelden?
+[18:04:56] <DoktorChaos81> Trolle Brav!
