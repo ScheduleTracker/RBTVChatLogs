@@ -1747,3 +1747,58 @@
 [05:03:41] <+Trichome Lover> Cheers ✌
 [05:03:54] <quark> @Morpho Must Die Ja, keine Ahnung. 😃 Da hat der Durchschnitt wohl Misst gebaut. Man trinkt davon in der Regel keine 100ml. Ok,er hat pro Volumen schon mehr aber nicht soviel mehr,wie man immer denkt.
 [05:04:34] <Morpho Must Die> Kommt wohl auch wieder auf die Art der Röstung, Lagerung und Zubereitung an
+[05:06:05] <JOhannes Bauer> kommt doch auch auf der Bohne selbst an oder?
+[05:06:05] <Kevin Mösch> moin
+[05:06:10] <quark> Ja. Und ich glaube, dass ein starker Filterkaffee mehr als 40mg/100g hat. Aber gemessen hab ich es noch nicht.
+[05:06:38] <Morpho Must Die> @JOhannes Bauer ja, ich wollte jetzt nicht jede einzelne Baustelle nennen xD
+[05:07:09] <JOhannes Bauer> naja aber da ist es halt wieder der Punkt. Glaube keine Statistik die du nicht selbst gefälscht hast
+[05:07:28] <Morpho Must Die> Es kommt immer drauf an wie man die Statistik interpretiert
+[05:07:48] <JOhannes Bauer> ich gebe auf statistik selten was
+[05:07:51] <Morpho Must Die> Aus einer richtigen Studie mit guten Werten kann man massiv falsche Schlüsse ziehen
+[05:08:03] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[05:08:32] <quark> @Morpho Must Die Hab grade andere Zahlen gelesen. 55mg/100ml für Filterkaffee und 133mg/100ml für Espresso. So richtig Einig ist sich die Fachwelt da wohl nicht. Weil es auch stark variieren kann.
+[05:08:46] <JOhannes Bauer> naja bei studien bin ich immer vorsichtig. da schaue ich (falls möglich ist) wer hat sie erstellt unter wessen auftrag
+[05:09:38] <Morpho Must Die> Man sollte allgemein mit den Informationen vorsichtig umgehen die einem irgendwie gezeigt werden, nicht nur bei Statistiken
+[05:09:51] <Morpho Must Die> Und vor allem sollte man diese hinterfragen und prüfen
+[05:10:02] <Soulslord Master> PvP in tower on the wall
+[05:10:56] <quark> Studien sind ein wichtiges und oft das einzige Instrument um halbwegs allgemeingültige Aussagen über den Menschen treffen zu können. Ohne geht es nicht.
+[05:11:21] <Morpho Must Die> Ich halte Studien auch für wichtig und habe auch bereits bei ein paar mitgewirkt
+[05:11:45] <JOhannes Bauer> @Quark das stimmt schon. aber wenn ich sehe Firma X hat die Studie im Auftrag geeben zu ihren eignen Produkt bzw. produkt der Tochterfirma da bin ich generell skeptisch
+[05:12:02] <JOhannes Bauer> bei studien ist immer das problem mit der Hochrechnung
+[05:12:12] <quark> Außerdem sind die meisten Studien sehr zurückhaltend mit definitiven Aussagen. Es heißt eigentlich immer nur: Mit der und der Wahrscheinlichkeit trifft das und das zu.
+[05:12:35] <quark> Den unsinn verzapft meistens die Presse, die dort Sachen rein interpretiert, die gar nicht drin stehen.
+[05:12:56] <Morpho Must Die> @JOhannes Bauer Ich stimme Quark zu. Meist musst du da sogar eher auf die Medien aufpassen die dann mit diesen "definitiven" Aussagen um sich werfen und sagen "blabla ist so und so".
+[05:13:39] <JOhannes Bauer> Ja aber jene studien gehen dann immer vom perfekten Menschen aus. einer der gesund etc. ist. da werden alle anderen umständen meist nicht emhr wirklcih mit einberechnet.
+[05:13:39] <quark> echte Wissenschaftler sind sich darüber im klaren, dass alle Aussagen immer nur auf dem aktuellen Erkenntnisstand beruhen und sich jederzeit auch wieder ändern können
+[05:14:21] <quark> das heißt aber nicht, dass man alle Studien und Statistiken in die Tonne kloppen kann. Wir habe oft nichts besseres.
+[05:14:35] <Morpho Must Die> Apropos Statistik und nicht vertrauen. Sowas sollte man auch auf Siegel anwenden ^^ Das bekannt "DLG"-Siegel ist eigentlich auch gar nix wert weil es irgendwie 95% aller getesteten Produkte kriegen
+[05:14:39] <JOhannes Bauer> sag ich ja nicht, aber man sollte skeptrisch sein etc.
+[05:15:24] <Morpho Must Die> @JOhannes Bauer kommt immer auf die jeweilige Studie an. Manchmal kannst du mit solch einem "perfekten Menschen" rechnen, weil die Abweichungen irrelevant sind. Das kommt auf die Studie an
+[05:15:36] <JOhannes Bauer> vllt sollte man erstmal klären wo fängt den wirklcih die wissenschaftliche studie an sich an und wo ist es einfach ne studie
+[05:16:11] <Morpho Must Die> @JOhannes Bauer suche nach den wissenschaftlichen Arbeiten zu der jeweiligen Studie und lese sie durch.
+[05:16:12] <quark> @JOhannes Bauer Doch, das wird eigentlich immer versucht. Ist nur bei so Themen wie Ernährung sehr schwierig. Du kannst halt Ernährung nicht isoliert untersuchen. Das liegt in der Natur der Sache.
+[05:16:24] <Morpho Must Die> @JOhannes Bauer Es gibt diverse Standards für wissenschaftliche Arbeiten/Studien
+[05:17:01] <Morpho Must Die> @JOhannes Bauer es ist also sehr wohl definiert wo eine wissenschaftliche Arbeit/Studie anfängt
+[05:17:16] <Morpho Must Die> Und damit ob sie als "seriös" im Bezug auf diese Standards betrachtet werden kann
+[05:17:38] <quark> Wenn du den Einfluss einer bestimmten Ernährung auf z.B. die Lebenserwartung untersuchst, kannst du andere Faktoren teilweise heraus rechnen, wenn die Zahl der Probanden groß genug ist.
+[05:18:00] <JOhannes Bauer> und der rest ist dan was? hochrechnung?
+[05:18:02] <quark> Aber eben nur teilweise.
+[05:19:25] <quark> Ja. Um Grunde ja. Und deshalb ist immer ne Unsicherheit drin. Aber wie gesagt. Das bestreitet die Wissenschaft auch nicht.
+[05:19:49] <JOhannes Bauer> genau deswegen mag ich statistiken nicht wirklich. aufgrund der hochrechnungen
+[05:20:42] <quark> Wir hätten nicht so eine hohe Lebenserwartung ohne Studien und Statistiken.
+[05:20:43] <Morpho Must Die> Unsicherheit hast du aber fast überall
+[05:23:20] <Rocky Knight> ich will auch driften lernen 😛
+[05:23:22] <Morpho Must Die> Naja, ich werde mich auch mal verdünnisieren
+[05:23:52] <JOhannes Bauer> na dann tschö @Morpho Must Die
+[05:25:15] <quark> ich auch
+[05:25:16] <quark> nacht
+[05:25:55] <JOhannes Bauer> nacht
+[05:37:39] <halo 5> Dwemer
+[05:39:04] <Shoguuuun> köstlich
+[05:47:10] <Bernhard Müller> singt ihr grade
+[05:47:39] <Rocky Knight> die armen Wölfe wollen doch nur spielen 😛
+[05:47:59] <Bernhard Müller> singt ihr
+[05:49:49] <EximiusDux> Gurkensaft in deine pikkelbrau!
+[05:53:30] <EximiusDux> man sie solten ein berserk spiel machen wie souls.
+[06:02:28] <Directly16> das dlc ist trotzdem viel zu kurz und das langweiligste dlc bis dato von fromsoft
+[06:02:55] <Directly16> das beste ist noch ariandels ost
