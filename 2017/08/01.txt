@@ -821,3 +821,247 @@
 [02:03:56] <+Trichome Lover> @Olliwood09 Ja, solche Programme skalieren ziemlich perfekt mit mehr Kernen.
 [02:03:57] <dead_ohio_sky> @Trichome Lover Die Hersteller haben das Angebot verknappt und jeder braucht für seine Geräte Flash-Chips. Die Kapazitäten bei Mobil-Geräten explodiert geradezu und irgendwoher müssen die Chips kommen
 [02:04:20] <+raptorh> das doch eig auch der grund warum der herkömmliche informatiker die kaum programmieren kann^^
+[02:05:04] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[02:05:16] <dead_ohio_sky> @raptorh Genau deswegen haben GPUs ganz viele "Kerne". Vega hat 4096 "Kerne" bzw. Shader Units und die 1080 Ti z.B. hat 3840.
+[02:05:40] <+Olliwood09> @dead_ohio_sky du bist Infomatiker ?
+[02:05:48] <dead_ohio_sky> @Olliwood09 Nope.
+[02:05:56] <2smart4u> ssd würde ich mir nur eine von samsung kaufen mit v-nand, keine andere
+[02:06:04] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[02:06:08] <+Olliwood09> kennst dich aber gut aus 👍
+[02:06:18] <dead_ohio_sky> @Olliwood09 Aber ich informiere mich gerne über die IT-Welt.
+[02:06:23] <orhi83> geil :D
+[02:06:40] <+Trichome Lover> Hardware ❤
+[02:06:40] <Nina Dracula> Link redet nicht!😸
+[02:06:42] <+Olliwood09> @dead_ohio_sky ja das mach ich auch schon seit meiner Kindheit 😀
+[02:06:42] <+Trichome Lover> ^^
+[02:06:51] <+Olliwood09> PC ❤
+[02:06:54] <+Olliwood09> 😀
+[02:07:06] <+raptorh> @dead_ohio_sky hab nr mal kurz was darüber gelesen als ich mich mit deeply embedded betriebssysteme befasst habe, aber sowas hatte ich auch in erinnerung
+[02:07:20] <+Trichome Lover> Ja, besser 😀
+[02:07:24] <dead_ohio_sky> @2smart4u V-NAND ist nur die Herstellungsart und sagt nichts über die Performance aus. Aber ja, Samsung hat ein gutes Preis/Leistungsverhältnis. Auf die Dauer ist das aber auch nicht gut für den Markt
+[02:07:31] <+Olliwood09> @Nina Dracula XaxeX bist du es ? 😀
+[02:08:21] <Nina Dracula> @Olliwood09 nein sorry 😸
+[02:08:44] <Devili Tv> Noch eine Nina :o
+[02:08:59] <+Trichome Lover> Naninanana
+[02:09:09] <PriiNcexGamer> Schreibt mir alle auf Whatsapp:0176 83307064
+[02:09:19] <DocDoak> Das Tagebuch des Königs in Verbindung zu Zeldas ist ziemlich cool und traurig und zeigt, dass BotW die Story schön indirekt erzählt
+[02:09:20] <+Trichome Lover> Och nö, lass mal.
+[02:09:22] <+raptorh> wie wenig ahnung ich vom pc markt habe^^
+[02:09:24] <martin campisi> nein zeig das game
+[02:09:37] <PriiNcexGamer> 0176 83307064
+[02:09:45] <+Olliwood09> so bin mal raus bis morgen 😃 / guts nächtle war ein nette IT Unterhaltung 😃
+[02:10:02] <+raptorh> gute acht
+[02:10:03] <dead_ohio_sky> See ya
+[02:10:18] <Roberto rs99> Warum gibt man seine Nummer hier preis?
+[02:10:33] <DocDoak> ist doch jedem selbst überlassen, roberto
+[02:10:36] <dead_ohio_sky> @Roberto rs99 Spam?
+[02:10:42] <+Trichome Lover> @Olliwood09 Gud' Nacht! 😃/
+[02:10:44] <Bios67> nacht und danke für die gaming tips zum laptop
+[02:10:51] <Nina Dracula> Zelda hat zum ersten Mal Drogen genommen 😹😹
+[02:11:00] <+raptorh> seine nummer^^ der will an kontakte zu anderen handys kommen um viren und ähnliches einzuschleußen
+[02:11:12] <Roberto rs99> finde das trotzdem dumm
+[02:11:16] <+raptorh> @Bios67 nacht
+[02:11:17] <dead_ohio_sky> Ihr seid aber auch ein wenig naiv. Gibt genug Spammer in jedem social network, besonders Whatsapp.
+[02:11:47] <+raptorh> hö was soll jetzt daran naiv sein?
+[02:12:09] <Roberto rs99> versteh ich auch nicht hahahah
+[02:12:10] <2smart4u> @dead_ohio_sky es ist nicht einfach nur die herstellungsart, schneller sind sie nicht unbedingt, aber die lebensdauer ist besser gegenüber allen herkömmlichen nand ssd
+[02:12:15] <DocDoak> hachja, donnie und seine verpeilte art. wie oft hab ich geflucht xD
+[02:12:19] <dead_ohio_sky> @raptorh Naja, von wegen es wäre dumm so etwas zu tun. Es eben ein Masche um an Geld zu kommen.
+[02:12:20] <2smart4u> "V-NAND Flash-Speicher erreichen mit vertikal angeordneten Speicherzellen und neuen Materialien eine höhere Datendichte und Lebensdauer."
+[02:12:28] <+Trichome Lover> Werd noch bissi The last man on earth gucken 😃
+[02:12:52] <Roberto rs99> und wie kommt man an das Geld?
+[02:12:55] <+raptorh> stimmt
+[02:13:04] <PiDi 2005> Hi
+[02:13:10] <+raptorh> ich glaub ich bin zu bedrunken um euch zu folgen^^
+[02:13:24] <PiDi 2005> Hey
+[02:13:29] <PiDi 2005> H
+[02:13:38] <dead_ohio_sky> @2smart4u Doch ist es exakt. Es heißt nicht anderes als Vertical NAND. Die NAND-Speicher Zellen werden übereinander angeordnet und kontaktiert. Das ist das Geheimnis. 👍
+[02:13:48] <+raptorh> @Roberto rs99 illegale methoden wie trojaner viren oder ähnliches oder schneeballsysteme usw
+[02:13:48] <DocDoak> nintendo soll bloss ein sequel zu BotW machen mit derselben engine, so wie bei OoT un MM...das bietet soch doch so sehr an...
+[02:14:23] <dead_ohio_sky> @2smart4u Man kann es auch 3D NAND nennen, wie es Intel macht
+[02:14:28] <Roberto rs99> was würde passieren wenn ich da Anrufe?!
+[02:14:30] <PiDi 2005> Ykykdbdkdkfkflfldbdlxlfbbsöypqjdnxlhdvflxkfbflflxbebfkcoxösbgbglcljgmdöübvnkdjfvflxlbdcbkxjxbflfkjedirjdlfkfnfkfnfljrnfojrk kjendkejfkfkfkrbbdlljxcjhxskdkxkxkfbrbfkkdbrjdkdkkxix infbenebrvrvrvtvrbrbrv
+[02:14:30] <+Trichome Lover> Bin gespannt was mit Intel Optane in Zukunft passiert!
+[02:14:52] <+Trichome Lover> Bzw. mit XPoint
+[02:15:14] <PiDi 2005> Jdkfoflflglfllfkfkflglflgjjfkflflflflfkfkfkglglflglglfkkfkflflflflgkgkfkfkfkkfkfkdkdkdkfkfkfkfkfkfkfkflfkfkkfkfkgkfkflfkkfkfkkfkkkfkfkfkfkgkgkgbgbrbbrbrbrbrbbbrnfkdlkfkflflfkfkfkfnxnnxnfkfkgnfnlgfffgg
+[02:15:31] <Nina Dracula> Der Varter ist ein Arsch...... 😾
+[02:15:36] <+raptorh> @Roberto rs99 gibt da möglichkeiten dir darüber dinge aufm handy zu installieren und wenn du dann onlinebanking aufm handy machst oder nen verbundenen google acc mit zahlungsmethode hast
+[02:15:38] <deface> :awesome:
+[02:15:46] <dead_ohio_sky> @Trichome Lover Viel zu teuer für zu wenig Nutzen.
+[02:15:47] <+raptorh> @Roberto rs99 zack ist die kohle weg
+[02:15:58] <+Trichome Lover> ​:awesome:/
+[02:16:03] <Roberto rs99> krass
+[02:16:06] <PiDi 2005> Bdkfkfkfkfkfkfkfkfkkufödlzzdlsödzödfkglghlhlgkfkffkgkfnxn.  Kgigifkfkglhlglglclclxkgkfkgkflflglglglglglglglckxkfkfl lckgfhgcgkgmcknffnckfkgkglglclflckgxdffkglglgkfkfjdjfjfkfkgkgnffkfkfggufifighhhkkkgd
+[02:16:22] <DocDoak> Der Vater wollte sich später bei ihr entschuldigen, wenn sie von der letzten quelle wiederkommt, aber dann kam die verheerung, steht im tagebuch, @Nina Dracula Fand das sehr tragisch
+[02:16:30] <+raptorh> sagmal kriegt unser hochgelobter bot so nen quatsch nicht?
+[02:16:31] <PiDi 2005> Giglgfkglclclgmglgkglfkgkglgkkxifkflzdllruktdzöqtötööhaözazösusäszäszööatötaötaazötspzsäszäzässäzusäuäsäsuusääsuzäaaäzäwuuäqäazzäqäqzqäzäqzääzötwwzöwpzezokffkhhlhlkfdkhkdhwzlhlwqzöqzözäqqäzzözäzözhjjt
+[02:16:50] <Roberto rs99> @PirDi 2005 geht's noch?
+[02:17:07] <+raptorh> @Roberto rs99 nicht drauf eingehen
+[02:17:19] <PiDi 2005> Hi
+[02:17:26] <Roberto rs99> hey
+[02:17:27] <PiDi 2005> Wie gehts
+[02:17:33] <+Trichome Lover> @dead_ohio_sky Ja, noch auf jeden Fall. Aber ganze Speicherlösungen mit XPoint sind schon ein Traum! Wobei ja auch Samsung ihren NAND weiter Entwickeln wird.
+[02:17:37] <2smart4u> @dead_ohio_sky wie es gennant wird ist doch wurscht, dass sie dadurch die problematik der zu dicht aneinander liegenden speicherzellen lösen ist das entscheidende
+[02:17:39] <Roberto rs99> gut dir?
+[02:17:45] <PiDi 2005> Twlektitezlwzqlöwzözqqzöqzqözzqqzöözqqöz
+[02:18:10] <Nina Dracula> @DocDoak sorry wusste ich nicht 😸
+[02:18:17] <Roberto rs99> ziemlich infantil
+[02:18:31] <Lea Marie> GANZ UNTEN
+[02:18:48] <PiDi 2005> Zeööszözszössözzspzpszpaözsaözhöahaöhöduwääazöazsözdhlpdzödhdözözszässzäszäzäszssäszzäszäszäsäszäzsäszüzaüazzüszsäüazszäüzazapüzaaüzüazäzazaääzazääzaäzazäaäzszüsüzsüzssüusäzaäzäazäzszäsäzsüzaüzzzzazüp
+[02:18:58] <Devili Tv> Lea das ist nicht Live...
+[02:19:01] <+Trichome Lover> @dead_ohio_sky Liest/guckst du PCper?
+[02:19:07] <dead_ohio_sky> @2smart4u Die Frage ist nun, was hat das mit Samsung zu tun? Jeder Flash-Hersteller nutzt 3D-NAND.
+[02:19:13] <+raptorh> @Lea Marie ist nicht live und unser bot mag keine großbuchstaben
+[02:19:14] <DocDoak> lol, Leas nachrichten werden wegen Caps gelöscht...aber pidi macht fröhlich weiter. super bot xD
+[02:19:15] <dead_ohio_sky> @Trichome Lover Ja.
+[02:19:51] <+raptorh> @DocDoak das ist ein ampf gegen windmühlen, hab ich auch schon des öfteren zu den mods gesagt
+[02:20:00] <Devili Tv> @DocDoak der Bot kann ja auch nicht erkennen was genau richtigr Worte udn Sätze sind und was nicht
+[02:20:04] <+Trichome Lover> @dead_ohio_sky Ich liebe es wenn Allyn über Speicher redet 😀
+[02:20:11] <DocDoak> boah, dieses random pseudo-japanisch ist ja echt borderline rassistisch xD "sching schang schong lololol"
+[02:20:36] <+raptorh> @Devili Tv kann er nicht, aber es gibt kaum worte mit 40 zeichen ohne leereichen^^
+[02:20:47] <DocDoak> naja, ewiglange schlangenwörte die mehr als 40+ zeichen haben sollte man doch auch in die ban-list mit aufnehmen. muiss doch gehen
+[02:20:50] <dead_ohio_sky> @Trichome Lover Ich weiß worauf du hinaus willst. Sie haben Tests gemacht. Und Allyn war hin und weg. Aber XPoint ist zu wenig für zu viel und wenn du eine SSD im System hast, ist der Vorteil dahin.
+[02:21:23] <Devili Tv> @raptorh Wahr aber wenn er nicht richtig eingestellt ist oder so ist das nun mal hab hier auch nur erklärt warum Leas erkannt wird und vom andern nicht
+[02:21:26] <dead_ohio_sky> @DocDoak Damit würdest du viele deutsche Wörter bannen. 🌝
+[02:21:54] <+Trichome Lover> @dead_ohio_sky Jaja, das auch. Aber ich bin da auch bei dir. Ich find'S generell genial wie sehr er in die Tiefe geht bei Tests und erklärungen.
+[02:21:54] <DocDoak> wenn ma nicht gerade von dampfschiffskapitänen redet, dann sollte das eher selten ein problem sein :p
+[02:21:59] <dead_ohio_sky> ALL CAPS ARE BASTARDS sagt der Nightbot. 🌝
+[02:22:37] <+raptorh> @Devili Tv sry wollte dich nicht angreifen, raffe gerade nicht mehr all zu viel^^ ja sollte man meinen das man das kann
+[02:22:51] <Devili Tv> Ich fühle mich nicht angegriffen keine sorge :D
+[02:23:00] <+Trichome Lover> Will auch nichts mehr raffen 😀
+[02:23:19] <Devili Tv> Warum denken das immer so viele? ö_ö
+[02:23:38] <dead_ohio_sky> Nun.
+[02:23:39] <+raptorh> @Trichome Lover machs wie ich wollte nur ein kleines gläschen met trinken, jatzt ist die flasche fast weg und ich gebe den blauke
+[02:23:43] <+Trichome Lover> CAPS again ^^
+[02:24:05] <HipHopGuru> @raptorh Nicht schlecht. Bin auch gerade auf dem Weg dahin 😉
+[02:24:06] <dead_ohio_sky> Blauke... RIP 😖
+[02:24:15] <+Trichome Lover> @raptorh Ich trinke "leider" keinen Alkohol.
+[02:24:42] <HipHopGuru> Ich schon aber meistens nur wenn nix anderes da is ^^
+[02:24:44] <2smart4u> @dead_ohio_sky ich kaufe mir doch keine ssd von den flashherstellern xD es gibt momentan 4 mal soviele nand ssd auf dem markt als mit v-nand / 3d nand und samsung hat mitunter die längste hersteller-
+[02:24:45] <+raptorh> @Devili Tv ich kann nicht für alle reden, aber ich denke oft das ich zu harsch war
+[02:24:46] <2smart4u> garantie
+[02:24:51] <+raptorh> @HipHopGuru zum wohle
+[02:25:05] <Devili Tv> Ich bin nicht aus Zucker :3
+[02:25:09] <HipHopGuru> @raptorh Danke, lass du dir dein Zauberzeug auch schmecken
+[02:25:24] <+raptorh> @HipHopGuru danke^^
+[02:25:41] <dead_ohio_sky> @2smart4u Samsung ist ein Flashhersteller? 📙
+[02:26:18] <+raptorh> @HipHopGuru liest du die ganze zeit stumm mit?
+[02:26:38] <HipHopGuru> @raptorh Nicht wirklich. Hab nur gerade mal wieder reingeschaut ^^
+[02:26:49] <+raptorh> @HipHopGuru achso^^
+[02:27:20] <HipHopGuru> Überleg die ganze Zeit was ich machen soll. Zocken, hier abhängen oder doch GoT schauen ^^
+[02:27:38] <dead_ohio_sky> Schlafen gehen.
+[02:27:44] <+Trichome Lover> GoT zocken und nebenbei hier schreiben 😀
+[02:27:45] <2smart4u> @dead_ohio_sky für andere ssd? falls ja, nenne mir bitte welche, dann krieg ich die vielleicht günstiger 🌝
+[02:27:47] <HipHopGuru> Ne, dafür bin ich noch zu wach
+[02:28:04] <+raptorh> valkyrie hat wieder halb twitter retweetet^^
+[02:28:18] <+Trichome Lover> @raptorh 😀
+[02:28:21] <HipHopGuru> GoT schau ich aber doch ^^ Zocken und schreiben kann ich aber nicht
+[02:28:47] <+Trichome Lover> Ich dachte an dieses Telltale Gelöt.
+[02:29:27] <Nina Dracula> Tötet es bevor es Eier legt bitte Link 😸😸
+[02:29:30] <A Nigro> Hey du siehst ja angespannt 😂👍
+[02:29:38] <dead_ohio_sky> @2smart4u Ich verstehe nicht worauf du hinaus willst? Du tust so als wäre Samsung der einzige seriöse Hersteller von SSDs/Flash Chips. Dabei gibt es noch Toshiba, Sandisk, Micron, Intel die entweder..
+[02:30:04] <dead_ohio_sky> für sich selbst oder andere Marken Chips herstellen. Und dabei natürlich auch 3D-NAND verwenden.
+[02:30:07] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[02:30:57] <+raptorh> hihi teitter bringtmich auf ideen
+[02:30:59] <+raptorh> blitz
+[02:31:02] <HipHopGuru> Könnte aber schon echt ein bisschen zocken. Hab immer noch Uncharted 4 und Horizon ungezockt hier liegen ^^
+[02:31:17] <HipHopGuru> Donner
+[02:31:23] <+raptorh> yeay
+[02:31:39] <HipHopGuru> Das wird auf der Gamescom lustig ^^
+[02:31:41] <dead_ohio_sky> @2smart4u Die heutigen SSDs sind für die meisten Anwendungen mehr als ausreichend, die wenigsten Personen reizen sie auch nur ansatzweise aus, daher finde ich die Vorverurteilung anderer Hersteller..
+[02:31:46] <dead_ohio_sky> ziemlich lächerlich.
+[02:32:11] <HipHopGuru> Hör die Leute schon überall Blitz schreien 😀
+[02:32:21] <+raptorh> 😀
+[02:32:41] <+raptorh> wie donnie sich einpinkelt^^
+[02:32:54] <HipHopGuru> Als wäre es Dark Souls ^^
+[02:32:57] <dead_ohio_sky> Wo kommt eigentlich das Blitz/Donner auf einmal her? Kenne das nur als Code von den Amis im zweiten Weltkrieg.
+[02:33:15] <Captain lol> Hundat 😱
+[02:33:15] <Jana The Cat> Da bin ich wieder 😉^^
+[02:33:22] <+raptorh> @dead_ohio_sky ich empfehle animalsqad^^
+[02:33:23] <HipHopGuru> Hello again
+[02:33:28] <+raptorh> hello again
+[02:33:53] <dead_ohio_sky> @raptorh Ah okay, konnte ich noch nicht sehen.
+[02:34:19] <+raptorh> wenn plötzlich keine wiederholungen mehr kommen^^
+[02:34:22] <Jana The Cat> What is das für ein komisches Ding? 😂
+[02:34:30] <2smart4u> @dead_ohio_sky aber die vergeben keine 10 jahre herstellergarantie auf ihre ssd, ah doch scandisk hat 2 ssd, samsung nur 7 🌝 was du als lächerlich bezeichnest ist der grund warum ich noch keine ssd
+[02:34:32] <+raptorh> @dead_ohio_sky nicht jetzt direkt auf dich bezogen
+[02:35:03] <dead_ohio_sky> @2smart4u Du kaufst dir Samsung Pro SSDs? Wofür?
+[02:35:05] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[02:35:30] <+raptorh> 10 jahre garantie wie wenn man das ding auch nur annähernd so lang hätte^^
+[02:35:38] <2smart4u> @dead_ohio_sky moment, war noch nicht fertig 😀
+[02:35:42] <dead_ohio_sky> @raptorh Ging eher darauf, sich über 2 Stunden auf so ein Format einzulassen. 😉
+[02:35:55] <foreignsalt> live oder wiederholung?
+[02:36:11] <+raptorh> @dead_ohio_sky so hab ichs auch gar nich gemeint
+[02:36:20] <+Trichome Lover> !live
+[02:36:22] <%Beansplan> @Trichome Lover: Diese Sendung ist eine Wiederholung!
+[02:36:33] <+Trichome Lover> !logo
+[02:36:36] <%Nightbot> Trichome Lover : Wenn unter dem Logo links oben "Live" steht, ist die Sendung live. Wenn dort "Neu" steht, ist es eine aufgezeichnete Erstausstrahlung. Wenn dort nichts steht, ist es eine Wiederholung
+[02:37:22] <deface> !rbtv
+[02:37:24] <%Nightbot> deface : RBTV ist ein 24/7 Sender, alles rund um das Thema Nerds, Games, Film, Serien und vieles mehr. HP: https://www.rocketbeans.tv LPs: http://bit.ly/2jrMPG0 GameTwo: http://bit.ly/2fGVFyn
+[02:37:26] <2smart4u> @dead_ohio_sky nocj kleine ssd gekauft habe, oder wieso liest man überall das man ssd nicht als virtuelles laufwerk nutzen sollte? weil die speicherzellen "sterben", deshalb
+[02:37:29] <dead_ohio_sky> @2smart4u *JeopardyMelodiepfeif
+[02:37:35] <2smart4u> *noch keine
+[02:38:17] <+Trichome Lover> Ich hab keine HDD im Rechner ^^
+[02:38:19] <+raptorh> @2smart4u natürlich sterben speicherzellen bei ner ssd wie halt bei eig jedem flash speicher
+[02:38:25] <Captain lol> 😵
+[02:38:35] <HipHopGuru> haha
+[02:39:36] <dead_ohio_sky> @2smart4u Ich habe seit 2012 eine 128GB SSD als OS-Platte und wenn die Preise runtergehen werde ich meine alten HDDs gegen SSDs austauschen. Und was ein virtuelles Laufwerk damit zu tun hat würde ich.
+[02:39:39] <+raptorh> ja klar ist es first try, ist aber halt auch zelda^^
+[02:39:43] <dead_ohio_sky> auch gerne wissen.
+[02:39:45] <HipHopGuru> Kein Bier vor Phase 4
+[02:40:04] <Captain lol> 😀
+[02:41:26] <+raptorh> man soll halt ne ssd nicht unbedingt partitionieren wei ldie verteilung auf die speicherzellen dann nicht funktioniert,,, aber sonst
+[02:41:33] <2smart4u> @dead_ohio_sky ja die frage ist halt nur wie schnell, ich weiß halt das es einen testlauf mit ner samsung ssd gab der ewig  lief, im gegensatz zu allen anderen davor, ok, kann sein...
+[02:41:35] <2smart4u> ...das es nicht mehr aktuell ist
+[02:42:34] <Captain lol> Aus! Aus! das Spiel ist aus! 😵
+[02:42:51] <+Trichome Lover> Golem hatte mal 'nen guten LAngzeittest.
+[02:42:55] <+raptorh> sonntag gibts ne neue folge mitm dlc ❤
+[02:43:00] <deface> 😵
+[02:43:40] <2smart4u> @dead_ohio_sky sorry ich meintew virtuellen speicher nicht laufwerk, ist schon spät xD
+[02:44:16] <Sven Schulz> ich habe für meine ssd 120 euro bezahlt für 500 gb
+[02:44:31] <Captain lol> Ich kann es einfach nicht glauben 😭
+[02:44:54] <Nina Dracula> Okay Leute ich geh jetzt schlafen G8 euch allen noch und viel Spaß 😴😪😸
+[02:44:57] <+raptorh> donnie findet doch eh keine leunen
+[02:45:05] <+raptorh> @Nina Dracula gute nacht
+[02:45:25] <+Trichome Lover> Ich hatte 'ne 850 evo 1tb für 200 geschosen gehabt. Ist seit dem meine Steam Platte.
+[02:45:28] <dead_ohio_sky> @2smart4u Ich schätze du meinst damit die Auslagerungsdatei, die bei älteren SSDs zu Probleme geführt hat, weil sie immer wieder gelesen und modiziert wurde. Dem wird u.a. durch Overprovisioning Sorge
+[02:45:30] <dead_ohio_sky> getragen.
+[02:46:35] <+raptorh> so jungs, ich kann euch eh nur noch halb folgen
+[02:46:44] <Sven Schulz> 120 für 500 gb is auch nicht  teuer
+[02:46:50] <+raptorh> ch hau mich mal aufs ohr, viel spaß euch noch 🙋
+[02:47:02] <+Trichome Lover> @Sven Schulz Nee, ist echt gut!
+[02:47:15] <HipHopGuru> @raptorh Gute Nacht und danke
+[02:47:16] <+Trichome Lover> @raptorh Gud' Naaacht 😃/
+[02:47:20] <Sven Schulz> zu der zeit gabs nur teuere
+[02:47:59] <dead_ohio_sky> @Sven Schulz Wenn man bedenkt, wie teuer Festplattenspeicher ist und dass normalerweise durch besseres Angebot und Fertigung die Preise runtergehen ist das noch zu teuer. Die Preise sollten eigentlich
+[02:48:05] <dead_ohio_sky> schon viel niedriger sein.
+[02:48:16] <+Trichome Lover> Das auf jeden!
+[02:48:41] <Sven Schulz> wirds aber nicht  ich habe 3 monate gesucht
+[02:49:32] <2smart4u> @dead_ohio_sky windows 7 meint: virtueller arbeitsspeicher, also sooo falsch lag ich nun auch wieder nicht 😛 was heißt weil sie immer wieder gelesen und modifiziert wurde, das ist ja der sinn von dem
+[02:49:33] <Sven Schulz> und das war das beste was ich damals vor 2 jahre finden konnte
+[02:49:40] <2smart4u> zumindest lesen und schreiben
+[02:49:50] <dead_ohio_sky> @Sven Schulz Ich meine auch nicht die letzten 3 Monate sondern eher Jahre. Die Preise stagnieren und das dürfte eigentlich nicht sein.
+[02:50:30] <Sven Schulz> ich weiss aber leideris so durch maning bei grafijarten werden sie nicht  billiger sondern teuer
+[02:50:44] <Sven Schulz> ich denke bei ssds is es das selbe
+[02:51:07] <dead_ohio_sky> @2smart4u Wenn die diessellbe Speicherzelle immer und immer wieder gelöscht und beschrieben wird, "ermüdet" sie bzw. fällt irgendwann aus. Dagegen gibt es heutzutage viele Schutzmechanismen man...
+[02:51:23] <dead_ohio_sky> braucht sich also keine Sorgen mehr zu machen und das ist Unfug.
+[02:52:05] <dead_ohio_sky> Was man machen kann, eine RAM-Disk erstellen und da die Auslagerungsdatei "reinstecken". Dazu braucht man aber entsprechend viel RAM und der ist auch teuer. 😉
+[02:52:23] <Captain lol> \👴/
+[02:53:09] <Flo_Kun> M
+[02:54:54] <2smart4u> @dead_ohio_sky sorry, ich argumentiere mit herstellergarantie und du mit irgendwelchen schutzmechanismen, wieso geben dann nur eine handvoll anbieter von ssd 10 jahre garantie, kapier ich nicht
+[02:55:38] <dead_ohio_sky> @2smart4u 10 Jahre... gibt es nur für Samsung Pro... wer kauft sich denn eine Samsung Pro. Das ist herausgeschmissenes Geld.
+[02:56:18] <dead_ohio_sky> @2smart4u Ein Kühlschrank hat auch nur 2 Jahre Garantie, soll aber eigentlich das Vielfache überleben.
+[02:57:16] <dead_ohio_sky> @2smart4u Dein Garantieargument ist einfach keins. Eine moderne SSD überlebt bei normaler Nutzung, als Zocken, Browsen, Filme Streamen whatever 20 Jahre.
+[03:00:24] <2smart4u> @dead_ohio_sky ja, klar, 20 jahre sind schon möglich, die frage ist halt dann wie groß der speicherplatz dann noch ist. ich habe mich sehr ausführlich informiert, mag sein das es nicht mehr der...
+[03:00:46] <2smart4u> ...aktuellste stand ist, aber dass das alles blödsinn ist glaube ich kaum
+[03:01:26] <dead_ohio_sky> @2smart4u 20 Jahre ist im Übrigen untertrieben. Die theoretischen Werte liegen weit darüber.
+[03:01:54] <+GesichtsKuchen> geht da mit den jahren speicherplatz flöten ? ich überlege ob ich mir eine in den rechner klatsch
+[03:02:29] <+Trichome Lover> Das entspräche beim oben erwähnten durchschnittlichen 40-GByte-Büroallttag einer – rein theoretischen – Laufzeit von gut 623 Jahren.
+[03:02:35] <dead_ohio_sky> @2smart4u Du müsstest am Tag wie ein Besessener deine SSD malträtieren um sie in die Knie zu zwingen. Gibt mehrere Lanzeitstudien dazu. Und ja die Samung Pro hat da am Besten abgeschnitten...
+[03:03:05] <dead_ohio_sky> aber sie kostet auch dementsprechend deutlich mehr und Otto Normal Verbraucher nutzt es nicht mal im Ansatz aus.
+[03:03:43] <2smart4u> @dead_ohio_sky dann schreib an die dutzenden von technikartikeln das sie alle falsch schrieben, wenn du mir mehr oder weniger sagst das es egal ist welche ssd ich bezüglich der lebensdauer kaufe glaub
+[03:03:48] <2smart4u> ich das einfach nicht
+[03:03:59] <2smart4u> *schreiben
+[03:04:08] <Finn TV> Habe abbonirt und geleikt
+[03:04:31] <+Trichome Lover> @Finn TV Nicenstein!
+[03:04:52] <dead_ohio_sky> @GesichtsKuchen Theoretisch tut es das. Aber bis da auch nur ein MB nicht mehr nutzbar ist, vergehen viele Jahre. Zumal neuere SSDs da Schutzmechanismen eingebaut haben.
