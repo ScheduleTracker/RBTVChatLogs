@@ -1065,3 +1065,77 @@
 [03:04:08] <Finn TV> Habe abbonirt und geleikt
 [03:04:31] <+Trichome Lover> @Finn TV Nicenstein!
 [03:04:52] <dead_ohio_sky> @GesichtsKuchen Theoretisch tut es das. Aber bis da auch nur ein MB nicht mehr nutzbar ist, vergehen viele Jahre. Zumal neuere SSDs da Schutzmechanismen eingebaut haben.
+[03:05:02] <+Trichome Lover> Mein Beispiel war von einer 850 Pro.
+[03:05:04] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[03:05:10] <+GesichtsKuchen> #dead_ohio_sky geil, danke!
+[03:05:18] <dead_ohio_sky> @2smart4u Na dann nenn mir doch mal ein paar Publikationen. Ich hoffe du kommst mir nicht mit Computer Bild. 😁
+[03:06:20] <dead_ohio_sky> @2smart4u Wie lange hat die letzte Festplatte ausgehalten die du genutzt hast bevor sie den Geist aufgegeben hat?
+[03:07:25] <dead_ohio_sky> ... oder Chip, diese clickbait-Klitsche. 🐯
+[03:08:40] <2smart4u> @dead_ohio_sky kannst du mal bitte bei einer frage bleiben? 😀 also nenne mir doch einen einzigen artikel, in dem steht das es fast keinen unterschied bezüglich der lebensdauer macht welche ssd man
+[03:08:43] <2smart4u> ..nimmt
+[03:08:56] <2smart4u> nur einen 🌝
+[03:10:06] <dead_ohio_sky> @2smart4u So funktioniert das nicht. Du stellst eine Behauptung auf, also bist du in der Beweispflicht. Du kannst aber gerne nach SSD Langzeittest googleln falls es dich glücklich macht.
+[03:12:08] <2smart4u> @dead_ohio_sky du stellst doch genau so eine behauptung auf, wie gesagt war schon etwas länger her, deshalb schrieb ich auch das es nicht der aktuellste stand war, ich glaube was ich von zd hier...
+[03:12:22] <2smart4u> ...zitiert habe war unter anderem einer von vielen
+[03:13:33] <dead_ohio_sky> War schon etwas länger her.... 🙄 Ich glaube ja eher du fühlst dich in die Ecke gedrängt und jetzt willst du die Beweispflicht umqueren. 😉
+[03:13:40] <2smart4u> @dead_ohio_sky und wenn ich nach ssd langzeittest google stoße ich auf seriöses wie c't? 🌝
+[03:13:56] <dead_ohio_sky> Deine Behauptung ist Unfug und wurde auch durch mehrere Langzeittest widerlegt.
+[03:14:52] <2smart4u> @dead_ohio_sky ja, ja alles schreiben sie blödsinn, aber du kannst mir nicht einen einzigen technikartikel nennen der deine these unterstützt
+[03:14:56] <dead_ohio_sky> @2smart4u ct' ist nicht mehr die allerbeste Publikation wenn es um IT geht, aber immer noch besser als Chip, Computer Bild und andere Konsorten. Du kannst auch gerne die deutsch Zusammenfassung
+[03:14:57] <2smart4u> *alle
+[03:15:08] <dead_ohio_sky> des Techreport Langzeittests von Golem lesen.
+[03:15:44] <+Trichome Lover> Techreport hatte den durchgefürt, stimmt!
+[03:15:45] <2smart4u> @dead_ohio_sky hat du doch gerade jetzt gegooglet 😀
+[03:15:49] <2smart4u> *hast
+[03:15:52] <dead_ohio_sky> @2smart4u Willst du mich jetzt verarschen? Ich habe dir gerade zwei genannt, den ersten hast du sogar selbst nach Anleiteung gefunden.
+[03:16:13] <2smart4u> häh?
+[03:16:15] <dead_ohio_sky> @2smart4u Nein die Test kannte ich schon vorher, sie wurden zum Teil schon vor Jahren gestartet.
+[03:16:46] <2smart4u> @dead_ohio_sky ​ok, ich schau mir den mal an
+[03:16:48] <dead_ohio_sky> Beim Techreport Langzeittest gab es sogar alles paar Monate eine Rückmeldung: Alle SSDs werkeln fröhlich vor sich hin.
+[03:17:50] <dead_ohio_sky> @2smart4u Der Techreport Test ist im Übrigen von 2015... wie die Zeit vergeht und wurde Ende 2013 gestartet.
+[03:21:44] <dead_ohio_sky> So, wir können das ja bei Gelegenheit fortführen, aber ich merke, dass ich einzelne Wörter nicht mehr buchstabieren kann und gehe jetzt pennen.
+[03:22:37] <+Trichome Lover> @Yo, gud' NAcht! :)/
+[03:22:46] <+Trichome Lover> Oh man ^^
+[03:23:31] <MagicFineLP> gute nacht
+[03:24:17] <2smart4u> @dead_ohio_sky ich hab da nix zu verlorenem speicherplatz finden können, nur ab wann da einzelne zellen gestorben sind, aber keine konkreten daten, reicht mir nicht, ok, ist vielleicht auch nicht...
+[03:24:31] <2smart4u> ...so leicht wenn die ununterbrochen laufen xD
+[03:26:25] <dead_ohio_sky> Einfach mal den Aluhut absetzen würde schon helfen. Man ist sogar schon so weit anzugeben wieviel Tera!Byte man am Tag man schreiben muss um die SSD in der Garantiezeit (potentiell) zu schrotten und..
+[03:27:18] <dead_ohio_sky> selbst dann halten die Dinger noch länger aus als vom Hersteller angegeben. Ich weiß nicht was du noch willst.
+[03:27:35] <Xellar1993> wie kann das ein livestream sein wenn draußen die sonne scheint?
+[03:27:58] <HipHopGuru> Hat nie einer behauptet dass es ein Livestream ist
+[03:27:59] <+Trichome Lover> !live
+[03:28:02] <%Beansplan> @Trichome Lover: Diese Sendung ist eine Wiederholung!
+[03:28:36] <HipHopGuru> !logo
+[03:28:37] <%Nightbot> HipHopGuru : Wenn unter dem Logo links oben "Live" steht, ist die Sendung live. Wenn dort "Neu" steht, ist es eine aufgezeichnete Erstausstrahlung. Wenn dort nichts steht, ist es eine Wiederholung.
+[03:28:53] <2smart4u> @dead_ohio_sky ich rede davon das mich interessiert ab wann  ich da z..b . 10% des speicherplatzes verloren gehen, und NICHT wenn die schrott ist, das interessiert bei ner ssd mich kein bisschen 😂
+[03:29:03] <2smart4u> *-ich
+[03:30:03] <dead_ohio_sky> @2smart4u Hast du vorher mit keiner Silbe erwähnt aber auch das wird afaik bei Techreport getestet.
+[03:30:10] <dead_ohio_sky> *wurde
+[03:30:31] <dead_ohio_sky> Aber wie gesagt, das ist mir langsam zu doof ich mach mich jetzt vom Acker.
+[03:31:05] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[03:31:09] <2smart4u> @dead_ohio_sky ich war hier: "SSD-LANGZEITTEST: Tod durch 2,4 PByte" ist doch richtig?
+[03:33:13] <dead_ohio_sky> Das ist eine Zusammenfassung, die Quelle ist im Fließtext verlinkt. Bevor du auch nur einen MB an Kapazität oder gar Daten verlierst ist die SSD mausetot, oder im Zweifel eher du. 👍
+[03:34:32] <dead_ohio_sky> Wie gesagt mir zu doof ich gehe jetzt endgültig.
+[03:35:43] <2smart4u> @dead_ohio_sky du glaubst wohl ich weiß nicht wie eine ssd funktioniert, die speicherzellen müssen nicht erst "tot" sein, damit sie nicht mehr genutzt werden, egal, dann schau ich mal nach, gute nacht
+[03:35:46] <2smart4u> 😛
+[03:37:16] <Ramon HD> Hi ihr luschen
+[03:40:14] <deface> :jakepeter:
+[03:41:05] <Killer 007> m
+[03:43:22] <Das 0mega> Hi lieber chat
+[03:44:26] <Das 0mega> evtl das mal live, waere klasse
+[03:48:08] <Das 0mega> liebe mods, war grad in nem falschen ch, und sagte, kommnt doch mit hierher
+[03:48:36] <Das 0mega> 3 alleine, sind hier willcommened
+[03:48:37] <Matthias ko> Donald John Trump [ˈdɒnəld d͡ʒɒn tɹʌmp] (* 14. Juni 1946 in Queens, New York) ist der 45. Präsident der Vereinigten Staaten und ein ehemaliger Unternehmer.Von 1971 bis 2017 war Trump CEO des Mischkonz
+[03:49:39] <Matthias ko> Trump unterstützte verschiedene Parteien und ist seit 2009 als Republikaner registriert. Als deren Kandidat gewann er die Präsidentschaftswahl am 8. November 2016 gegen Hillary Clinton und wurde am
+[03:50:38] <Das 0mega> sc, aber politik, ist nicht gerne gesehen
+[03:51:42] <Das 0mega> ich bin sehr rot, aber wenn man da anfaengt, hallo chat
+[03:51:56] <Matthias ko> Sein eklektisches, veränderliches politisches Programm enthält Elemente des Populismus, Protektionismus und Isolationismus. Trump zieht mit einer einfachen Sprache, provokanten Äußerungen sowie radika
+[03:54:11] <Das 0mega> ichg schau spiel zu, mach deine politik
+[03:54:59] <Das 0mega> fast risen und mara
+[03:56:28] <Das 0mega> schon todt, sachade haette gerne davor zugesehen
+[03:56:35] <Matthias ko> Trump zog immer wieder Aufmerksamkeit auf sich, indem er chauvinistische Äußerungen machte, insbesondere rassistische und sexistische. Kritik daran beantwortete er in der Regel
+[03:58:52] <Das 0mega> danke modbat
+[04:00:09] <Das 0mega> danke, btw chat darf alles
+[04:01:35] <Das 0mega> jemand lust auf nen kaffe ?, ich stell mal rein
+[04:02:24] <Das 0mega> auch gerne an mods
+[04:03:42] <Das 0mega> ++ pc hihi, ich meine bild
