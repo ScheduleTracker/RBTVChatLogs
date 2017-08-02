@@ -8959,3 +8959,446 @@
 [17:00:02] <petrik coffy> !wochenplan
 [17:00:09] <%Nightbot> petrik coffy : Den aktuellen Wochenplan findest du hier:  https://rbtv.to/woche
 [17:03:59] <+fedora> gestern auch so nen schönen 8-fach Sucher gehabt und dann liegste im hohen Gras und siehst trotzdem nix ^^
+[17:05:15] <Corporal Chaos> 🙄
+[17:06:44] <jes7ar> Hiiii
+[17:07:30] <Penker100> hey Jes7ar
+[17:08:03] <Jiwa> auto explodiert gleich alle tot
+[17:08:39] <%Valkyrie0025> jay mein lappi ist fast wieder gesund hurraaa
+[17:09:13] <%Valkyrie0025> !plan
+[17:09:16] <%Beansplan> @Valkyrie0025: Aktuell läuft [Wdh.] Beanstag #25 - Playerunknown's Battlegrounds. Um 19:00 folgt  [Live] 1 Runde mit - Sundered.
+[17:10:33] <+fedora> yeah @Valkyrie0025 Lüfter wieder heile
+[17:11:03] <%Valkyrie0025> @fedora ganz doof
+[17:11:20] <+fedora> ?
+[17:11:29] <%Valkyrie0025> ich hatte falsche netzteil besorgt. was das für auswirkungen hat krass.
+[17:11:46] <+fedora> au weh, falsche spannung gehabt?
+[17:12:16] <+Kellerbiest> wahrscheinlich einfach zu wenig.
+[17:12:18] <%Valkyrie0025> temp hoch, cpu hoch oder runter. glaub dieses taktgedöns durcheinander. und denke es hat den lüfter zerhauen
+[17:12:29] <+Kellerbiest> O_O
+[17:12:32] <%Valkyrie0025> @Kellerbiest so ises ;/
+[17:12:53] <+fedora> na da kannste aber froh sein, das es nur der lüfter war der dabei drauf gegangen ist
+[17:13:03] <+Kellerbiest> @Valkyrie0025 Dann drück ich Dir die Daumen, dass es jetzt alles glatt läuft!
+[17:13:31] <%Valkyrie0025> ich muss den eh mal wegbringen zum entstauben. aber im moment temp zwischen 60 und 70. max 75 . kann wieder zocken und stream gucken 😀
+[17:14:01] <+Blodyck> ja was für ein glück für uns, dass uns ein mod nicht kurzzeitig im chat weggfällt 🌝
+[17:14:16] <+Kellerbiest> Laptops sind da ja auch etwas empfindlicher. Heizen leichter auf und lassen sich schlechter reinigen. Wenn sie nur nicht so verdammt praktisch wären!
+[17:14:17] <%Valkyrie0025> originale netzteile haben zwar einen höheren preis. aber sie haben mir dazu 2 mini päckchen gummibärchis dazu gelegt ^^
+[17:14:22] <Corporal Chaos> desktop pc kann man selbst entstauben 😚
+[17:14:47] <%Valkyrie0025> @Blodyck ich hab seit tagen mich entscheiden müssen stream oder zocken. schrecklich 😞
+[17:14:51] <+Kellerbiest> @Valkyrie0025 Wenn es originale Haribos waren, hast Du die Zusatzkosten ja fast wieder drinnen. 😀
+[17:14:58] <%Valkyrie0025> @Corporal Chaos lappi
+[17:15:06] <+Blodyck> @Valkyrie0025 sowas wünscht man keinem 😖
+[17:15:15] <Corporal Chaos> ja deswegen sag ich ja^^ desktop pc kann man leichter selber entstauben
+[17:15:27] <NinjaPotato> Blitz!
+[17:15:31] <%Valkyrie0025> und ich bin technisch so begabt wie du in.... hmmm hetero? 😉
+[17:15:34] <Corporal Chaos> ich bin von lappi auf desktop pc umgestiegen als ich gemerkt hab, dass ich eh nur am tisch sitz dabei 😂
+[17:15:37] <+Blodyck> @Valkyrie0025 also dann lohnt es sich, orignalteile zu kaufen
+[17:15:38] <+Agnes Akne> donner
+[17:15:40] <%Valkyrie0025> klar waren originale ^^
+[17:16:10] <+Blodyck> @Corporal Chaos joa ging mir auch so, mit dem smartphone ist der lappi bei mir unbrauchbar
+[17:16:20] <+Kellerbiest> Ich finde Desktops scheiße. Mein neuer Desktop ist so schlau, dass er in die Zukunft gereist ist, um sich mit Laserkanonen zu bewaffnen, und seit er zurück ist, bin ich sein Sklave. 😞
+[17:16:25] <%Valkyrie0025> also das erste hat gut lange gehalten bei meinem betrieb. das 2. war made in china. billig aber zack kapott
+[17:16:37] <Corporal Chaos> das kommt noch hinzu, jo @Blodyck
+[17:16:48] <%Valkyrie0025> 2. china und ich doofkopp kombiniert. = simon -effekt
+[17:17:23] <Corporal Chaos> die sind alle made in china.... MVGAme
+[17:18:14] <Corporal Chaos> hab mal gelesen es kämen eh alle netzteile (zumindest für desktop PCs) nur von 3 herstellern oder so, also OEM hersteller, oder wie das heisst
+[17:18:21] <%Valkyrie0025> moah war das n gedöns, die tage
+[17:18:28] <Corporal Chaos> original ??? manufacturer
+[17:18:34] <Paul> wie lange geht Rülps heute?
+[17:18:48] <Derpy Hooves> das steht im plan...
+[17:18:55] <Derpy Hooves> wer lesen kann ist klar im vorteil
+[17:18:59] <+Kellerbiest> Ich schaffe das maximal 5 Sekunden am Stück. 😞
+[17:19:01] <+fedora> im Plan seht nur bis 21 uhr aber denke geht länger
+[17:19:02] <Einfach Ich> !wochenplan
+[17:19:08] <%Nightbot> Einfach Ich : Den aktuellen Wochenplan findest du hier:  https://rbtv.to/woche
+[17:19:19] <%Valkyrie0025> also ich habs jetzt unter original gekauft.
+[17:19:52] <Corporal Chaos> najo bei desktop PCs gibts eh keine "original" hersteller
+[17:20:24] <Corporal Chaos> im sinne von vom selben hersteller wie vom PCs
+[17:20:38] <Das helle Weizenbier> bei Rülps bin ich heute dabei
+[17:20:40] <+Touch of Hell> versteh ich net 😕
+[17:20:45] <%Valkyrie0025> @Corporal Chaos  hmm wenn würd mich die firma mts anlügen? steht auch so auf der echnung original
+[17:20:47] <Corporal Chaos> burp
+[17:20:48] <Derpy Hooves> bei netzteilen sollte man nie sparen! ich finds immer lustig wenn sich einen einen i7 und ne 1080 einbaut aber nen 50€ chinaböller als nt.
+[17:20:54] <Paul> @Derpy Hooves dies ist mir bewusst, jedoch steht in eben jenem das es nur bis 21oo geht, was mir recht kurz erscheint für so viele Teilnehmer... hätte ja aeein können jemand weis etwas
+[17:21:27] <Corporal Chaos> @Valkyrie0025 jo ich meine ja, bei laptops macht das noch mehr sinn, ich schätze mal mit "original" meinste, das netzteil, das vom hersteller vom laptop geliefert wird
+[17:21:33] <Lisa Heidemann> Ist das ne Wiederholungen?
+[17:21:41] <+Kellerbiest> !live
+[17:21:43] <Derpy Hooves> jup
+[17:21:45] <%Beansplan> @Kellerbiest: Diese Sendung ist eine Wiederholung!
+[17:21:47] <%Valkyrie0025> @Corporal Chaos hp genau
+[17:21:51] <Luckylicious DJ> jup von gestern
+[17:22:00] <Mangamaniac71> kann man bei Rülps eigentlich mitspielen?
+[17:22:09] <Lisa Heidemann> Aber das gleiche war gestern auch
+[17:22:24] <diegradebanane> gleich reporten, next drama auf reddit inc 😀
+[17:22:25] <Corporal Chaos> @Valkyrie0025 jo und bei desktop PCs, zumindest wenn man sie sich selber zusammenbaut, gibts dann sozusagen keinen hersteller. auch wenn man natürlich komplett PCs von bestimmten herstellern auch
+[17:22:26] <Corporal Chaos> kaufen kann
+[17:22:36] <+Kellerbiest> Die Ede-Rede! 😀
+[17:22:43] <Madara Uchia> Etienne Garde sich bier saufend über strem sniper beschweren
+[17:22:50] <Derpy Hooves> @Paul hmm, ok hab grad auch bemerkt das beim format 3std steht aber der sendeplatz nur eine stunde ist...
+[17:23:00] <Cheebameister1> fuck die handeln so dumm bei dem spiel und er beschwert sich über stream sniper so kp laufen zu 4 aus dem eingang und einer ballert stumpf drauf los
+[17:23:03] <Cheebameister1> kp was dies ich wundern
+[17:23:21] <%Valkyrie0025> @Corporal Chaos da guckst aber das das preisleistungverhältnis stimmt 😃
+[17:23:26] <+Kellerbiest> Das ist Ede. Der beschwert sich immer. ^^
+[17:23:27] <Das helle Weizenbier> ede gönn dir doch ein oder 4 Weizen+#
+[17:24:23] <Corporal Chaos> @Valkyrie0025 bei was?^^
+[17:24:40] <Corporal Chaos> das sah aber doch wirklich wie stream sniper aus, auch wenn sie sich selber doof anstellen^^
+[17:25:03] <+Blodyck> bei pubg sollten sie einfach ein größere verzögerung einfügen
+[17:25:06] <%Valkyrie0025> @Corporal Chaos ich redete vom lap vs desk und du? ^^
+[17:25:06] <MadHatt0r> überall sonst ist delay gang und gebe
+[17:25:21] <+Kellerbiest> Ist auch nicht auszuschließen, dass es welche waren. Ich finde es auch nicht schlimm, wenn Ede etwas schimpft. Es gehört dazu, und ich mag ihn auch in seinen Momenten. 😀
+[17:25:31] <Derpy Hooves> da hat max gestern schon genug zu gesagt...
+[17:25:33] <Pinnauer47> Moin, is dat von gestern oder jetzt gerade?
+[17:25:39] <Corporal Chaos> @Valkyrie0025 jo, aber was meintest du mit preis-leistung in dem zusammenhang?
+[17:25:48] <MadHatt0r> jo schon, schwer bei 2 streams aber.. muss doch irgendwas zu machen sein
+[17:25:53] <bohn chauvi> wiederholung @Pinnauer47
+[17:25:55] <Derpy Hooves> da sie auf drei plattformen streamen geht das mit dem delay nicht meinte er
+[17:25:56] <MadHatt0r> oder sogar 3 streams
+[17:25:57] <+Touch of Hell> !live
+[17:25:59] <+fedora> PUBG Stories auf RBTV 😂
+[17:26:00] <%Beansplan> @Touch of Hell: Diese Sendung ist eine Wiederholung!
+[17:26:03] <Das helle Weizenbier> nein Ede darf nicht schimpfen !
+[17:26:03] <Pinnauer47> ok danke @bohn chauvi
+[17:26:28] <+Kellerbiest> @Das helle Weizenbier Solltest Du nicht in meinem Glas sein und angenehm schäumen!?
+[17:26:33] <Corporal Chaos> der deal ist ja: man erlaubt sich gegenseitig seine verwundeten zu bergen/retten
+[17:27:06] <Raketenmann> naja, wenn ein medic da war, steht der Soldat nicht direkt wieder auf und kämpft weiter ^^
+[17:27:07] <Corporal Chaos> mein erster kauf bei amazon war empire earth 🐯
+[17:27:21] <madd1nmw> Laut den Genfer Konventionen ist es verboten auf gekennzeichnete Sanitätseinheiten zu feuern (siehe Schutzzeichen)
+[17:27:52] <+fedora> Leute schaut euch das Video von Jay auf dem RBTV YT an. So gut ^^
+[17:27:57] <+Kellerbiest> Ich bin allgemein dagegen, dass man aufeinander schießt. 😲 Man kann sich doch beißen!
+[17:28:23] <+Alex> Hallo zusammen!
+[17:28:30] <Das helle Weizenbier> xD
+[17:28:31] <+Alex> @Kellerbiest Dann bekommt man aber fiese Krankheiten!
+[17:28:35] <Derpy Hooves> @fedora wo finde ich das denn?
+[17:28:36] <+Blodyck> Meine ersten Bestellungen waren: Bürgerliches Gesetzbuch, Allgemeines Schuldrecht und besonderes Schuldrecht, \ 😖 / i see the panties drop
+[17:28:38] <MadHatt0r> man kann auch einfach n yugioh match machen, zack, keine tote
+[17:28:57] <Derpy Hooves> @Blodyck 😚
+[17:28:58] <+fedora> @Derpy Hooves einfach auf den RBTV Channel guggen. Neuste Video
+[17:29:09] <MadHatt0r> @Blodyck  klingt nach einem Abend voller funofun!
+[17:29:12] <+Blodyck> @Derpy Hooves verarsch mich nicht 😨
+[17:29:12] <+Kellerbiest> @Alex: Man muss sich schon auch die Zähne putzen! Sonst ist das gefährlich. Komodowarane sollten von der Regel eh ausgeschlossen sein. 😀
+[17:29:18] <Banjo Kazooie> MadHatt0r genau ! ❤
+[17:29:36] <Shmuel> wa  gibts wieder nerdquiz?
+[17:29:51] <+Blodyck> @Shmuel ich glaube Oktober
+[17:29:57] <Derpy Hooves> @Blodyck ich steh auf juristen. 👍
+[17:30:00] <+fedora> so ich geh dann jetzt ein Feierabend Bierchen trinken.
+[17:30:02] <Das helle Weizenbier> ede bitte
+[17:30:06] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[17:30:08] <+Kellerbiest> @Blodyck Whut, Du wirst ja mal reich! Also wenn Dir nicht die Frauen die Bude einrennen, dann denken sie einfach nicht nachhaltig!
+[17:30:13] <+GesichtsKuchen> SAFT
+[17:30:20] <Derpy Hooves> @fedora hasute und trink nich so viel. 🙋
+[17:30:25] <Derpy Hooves> hauste*
+[17:30:33] <%Valkyrie0025> @Corporal Chaos man ist ein bisschen freier bei marke eigenbau , denke ich. und ich hab nur geguckt billig billiger am billigsten. was mich im endeffekt jetzt mehr gekostet hat
+[17:30:38] <Komodowaran> was ist mit mir?!
+[17:30:43] <+fedora> @Derpy Hooves nur ein Radler und nen Burger 😛
+[17:31:00] <+Kellerbiest> @fedora: Probioer Warka Starkbier! Billig, aber dafür stark! Die taumelnden Gestalten meiner Nachbarschaft empfehlen es alle!
+[17:31:01] <+fedora> also bis morgen 😗
+[17:31:02] <+Kellerbiest> -o
+[17:31:11] <+fedora> lol
+[17:31:16] <+fedora> alles klar @Kellerbiest
+[17:31:20] <%Valkyrie0025> @fedora heute kein pugb mehr?
+[17:31:22] <Derpy Hooves> @fedora drück ihn dir rein! 😚
+[17:31:25] <+Kellerbiest> 😀
+[17:31:43] <+fedora> @Valkyrie0025 eher nicht. Mein Mann möchte gerne auch mal wieder an seinen Rechner zum zocken ^^
+[17:31:58] <Der Sermunfa> hi
+[17:32:00] <%Valkyrie0025> @fedora ihr braucht 2 ^^
+[17:32:07] <%Valkyrie0025> komm gut heim 😃 /
+[17:32:12] <Fox Eye> Knallhart durchgewämst 😯
+[17:32:17] <Corporal Chaos> @Valkyrie0025 aso ja, aber wenn es dir nur um den preis geht, fährt man mit desktop pc glaub ich generell besser^^
+[17:32:22] <Das helle Weizenbier> ein helles für den Weltfrieden
+[17:32:35] <+fedora> @Valkyrie0025 meiner ist zu alt für PUBG und Aufrüsten kann ich frühstens zu Weihnachten 😞
+[17:32:54] <Fox Eye> Dein Mann ist zu alt für PUBG? @fedora 🌝
+[17:33:09] <Corporal Chaos> "die volle dröhnung" 3er CD box von onkel tom angelripper die ich 2003 gekauft hab, wird bei amazon für 200 euro gebraucht angeboten 😂
+[17:33:13] <Das helle Weizenbier> 🌝
+[17:33:17] <+fedora> @Fox Eye ne, mein Rechner. ich muss an dem von meinen Mann doch zocken
+[17:33:27] <%Valkyrie0025> @Corporal Chaos joa. der hier ist noch vom letzten weihnachtsgeld gekauft. 😃 heiliger gamer lap
+[17:33:38] <+Kellerbiest> @fedora Dein Mann kann nicht zu alt sein dafür! Gib ihm ne chance. Und wenn er es nicht mehr lernt, ist er wenigstens ein leichtes Ziel für Dich. 😄
+[17:33:42] <petrik coffy> feeeedi 😋/
+[17:33:50] <Fox Eye> Achsooo.
+[17:33:53] <+fedora> 😂
+[17:34:06] <petrik coffy> 😠 ey
+[17:34:13] <+fedora> Peeeeetriiii \ ;P
+[17:34:15] <Corporal Chaos> oh gamer lap 👍
+[17:34:15] <Derpy Hooves> ok, dann muss ich es nicht mehr suchen
+[17:34:16] <+fedora> mist
+[17:34:28] <%Valkyrie0025> lol
+[17:34:29] <Der Sermunfa> hi
+[17:34:31] <+fedora> \😜
+[17:34:34] <Crazy Zwayze> haha 😀
+[17:34:38] <HipHopGuru> haha
+[17:34:39] <Fox Eye> lol
+[17:34:47] <Das helle Weizenbier> habe ich nicht verstanden
+[17:34:53] <dead_ohio_sky> Jay ❤ 😁
+[17:35:03] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[17:35:06] <HipHopGuru> Dafür feier ich Jay auch jedes mal wieder
+[17:35:07] <Fox Eye> Das Beanstag Logo erinnert mich immer an Command&Conquer
+[17:35:11] <%Valkyrie0025> weniger weizen mehr helle?^^
+[17:35:18] <+The Real Xorax> live?
+[17:35:19] <+fedora> baba
+[17:35:25] <+Kellerbiest> @Valkyrie0025 Hell played, Sir!
+[17:35:29] <HipHopGuru> !live
+[17:35:34] <%Beansplan> @HipHopGuru: Diese Sendung ist eine Wiederholung!
+[17:35:53] <%Valkyrie0025> @fedora 😃 //
+[17:36:23] <+XerTmet Mallory> wie war das noch gleich ?
+[17:36:32] <+XerTmet Mallory> !PNP
+[17:36:33] <Raketenmann> solo-runde? 😀
+[17:36:35] <Das helle Weizenbier> lol ede
+[17:36:35] <+The Real Xorax> singelround
+[17:36:38] <HipHopGuru> @Valkyrie0025 @fedora Hi ihr ❤
+[17:36:39] <%Nightbot> Das nächste Pen and Paper Abenteuer findet statt in 16 days 2 hours 23 minutes 21 seconds
+[17:36:45] <Fox Eye> Diese Aufzeichnung ist eine Sendung 😯
+[17:36:58] <+Kellerbiest> @Fox Eye Du lüüüügst!
+[17:37:07] <%Valkyrie0025> !pnp
+[17:37:11] <%Nightbot> Das nächste Pen and Paper Abenteuer findet statt in 16 days 2 hours 22 minutes 49 seconds
+[17:37:19] <+Blodyck> Oh toll der Fox Eye ist im Chat, da können wir uns ja wieder auf unterhaltsame Bemerkungen zur Sendung freuen 🌝
+[17:37:22] <%Valkyrie0025> er kannes nur in klein ^^
+[17:37:30] <HipHopGuru> Und hi @Fox Eye  👊😃
+[17:37:42] <%Valkyrie0025> @HipHopGuru hey guru ❤ /
+[17:37:43] <Fox Eye> @HipHopGuru Huhu Guru
+[17:38:05] <+Kellerbiest> Huru Guru! 😃
+[17:38:16] <HipHopGuru> Hallo
+[17:38:18] <HipHopGuru> 😀
+[17:38:20] <Das helle Weizenbier> Krogi fehlt mir
+[17:38:30] <HipHopGuru> Krogi fehlt immer
+[17:39:03] <%Valkyrie0025> krogi wird bestimmt n nicenstein comeback bekommen . er arbeitet bestimmt auch fleissig am hörspiel ;)
+[17:39:07] <+Blodyck> Das Vertrauen unter den Bohnen ist ja bemerkenswert 🌝
+[17:39:24] <%Valkyrie0025> die kennen sich zu gut ^^
+[17:39:28] <Custer> Headset-gate
+[17:39:29] <Das helle Weizenbier> nils mvp
+[17:39:56] <+Kellerbiest> Mir ist gerade mein Superfancyrückenschonstuhl gekracht. 😞
+[17:40:02] <+Blodyck> Marco ist ja ein richtiger Suchti 😂
+[17:40:39] <Derpy Hooves> bei tropifrutti ist ja jetzt granatapfel dabei! 😯
+[17:40:47] <Fox Eye> Marco spielt aber nur auf der Arbeit. Wo hat er da Zeit für 98 Matches?
+[17:40:49] <%Valkyrie0025> @Kellerbiest kann man ihn heilen? um dir muss ich mir ja keine sorgen machen. du kannst nocht tippen 😀
+[17:40:54] <Derpy Hooves> *in die tüte greif* omnomnom
+[17:41:04] <Einfach Ich> moin
+[17:41:15] <Derpy Hooves> @Einfach Ich abend mutti. 😃/
+[17:41:17] <+Blodyck> Hallo @Einfach Ich
+[17:41:30] <%Valkyrie0025> @einfach hiho 😃 /
+[17:41:32] <Nada23> alle gegen alle oder wie 😀
+[17:41:32] <HipHopGuru> @Einfach Ich Hi du
+[17:41:33] <Katsu Maximus> wo finde ich denn eigentlich das video vom anfang? (das mit der pfanne) ^^
+[17:41:34] <Einfach Ich> @Derpy Hooves Nabend Pony ❤ 🍏
+[17:41:36] <Das helle Weizenbier> wo drückt der Schuh
+[17:41:48] <+Kellerbiest> @Valkyrie0025 Ich weiß es nicht! Er hat gekracht, und jetzt weint er, wenn ich mich darauf drehe. Ich glaube, ich hab ein bisschen zu viel dran rumgerüttelt. 😣
+[17:41:50] <+Blodyck> @Fox Eye vielleicht haben sie ja auch nicht soviel arbeit wie sie immer sagen 😂
+[17:41:53] <Einfach Ich> @HipHopGuru grooooßer ❤
+[17:41:57] <Late Knight> auf youtube, wo sonst? 7
+[17:42:01] <Einfach Ich> @Blodyck Moin
+[17:42:19] <Fox Eye> 😯
+[17:42:26] <%Valkyrie0025> @Kellerbiest das hört sich an als ob er schon schwächlich war ^^
+[17:42:44] <Einfach Ich> @Valkyrie0025 Moin Fräulein Obernase ❤ Wegen dem Herzrasen hattest du ja wegen der Schilddrüse was gesagt. Remember?
+[17:42:55] <Derpy Hooves> @Einfach Ich du achtest auch immer darauf das ich mich gesund ernähre. 🐸 🍎 *omnomnom*
+[17:43:01] <%Valkyrie0025> @Einfach Ich jap 😃
+[17:43:06] <Einfach Ich> @Derpy Hooves klar
+[17:43:08] <Netpunk> ich merke gerade, wie sehr relaxing das ist wenn alle still sind
+[17:43:23] <+Kellerbiest> @Valkyrie0025 Eigentlich nicht. Ich glaube, ich war nur zu unglaublich stark&nichtschlau für seine Einstellungsmöglichkeiten. 😣
+[17:43:35] <Crazy Zwayze> @Netpunk nich wenn man selber spielt 😀
+[17:43:46] <%Valkyrie0025> @Netpunk war aber eine krasse umstellung als zuschauer. vorher party und dann meditation ^^
+[17:44:17] <Einfach Ich> @Valkyrie0025 muss Freitag zur Blutabnahme. Verdacht auf Überfunktion. Kam wegen dem Herzrasen und weil ich nicht wirklich zunehme. Also thanks
+[17:44:35] <Netpunk> aber einfach dieser Sound der Tasten,... das Spiel,... mega schön.
+[17:44:54] <+Kellerbiest> @Einfach Ich Uh, gute Besserung! 😲
+[17:45:04] <%Nightbot> Hey Böhnchen, ihr schaut gerade überlange Werbung? Dann tut unserem Treibstofftank einen Gefallen und wartet 30 Sekunden, bis ihr sie überspringt. Das füllt den Tank und ihr verpasst trotzdem nichts.
+[17:45:10] <Crazy Zwayze> mmmh Mechanische Tastaturen ❤ *raaawr*
+[17:45:18] <Netpunk> @Einfach Ich gute Besserung!
+[17:45:19] <%Valkyrie0025> @Einfach Ich sollte man immer dran denken. hatte ich ja selber. und eine nachbarin kam deswegen in die psych. also man wußte nix von der schilddrüse. denke dann wirst auch wieder ausgeglichener 😃
+[17:45:27] <Einfach Ich> @Kellerbiest Dankeschön
+[17:45:35] <Einfach Ich> @Netpunkt danke
+[17:45:42] <Das helle Weizenbier> ede ist zu ruhig
+[17:45:53] <+GesichtsKuchen> KEKSE!
+[17:46:05] <+Kellerbiest> Wenn jemand von Euch einen typischen Grund für unglaublich ausdauernde Müdigkeit kennt, dann nehme ich gerne auch Halbweisheiten als Tipps an! 😀
+[17:46:19] <Tobitod87> @GesichtsKuchen guten morgen (^_^)
+[17:46:20] <+Trichome Lover> Hello again ❤
+[17:46:24] <Das helle Weizenbier> kekse 🤤
+[17:46:25] <+HAHA Reingelegt> Weniger oder gar kein Fleisch mehr essen.
+[17:46:29] <Crazy Zwayze> Arbeiten gehen @Kellerbiest  😛
+[17:46:31] <Netpunk> @Kellerbiest liegt oft an der Ernährung.
+[17:46:33] <Dominator> "Das geile ist, man kann einfach auf jeden ballern" - Etienne Cedric - 2017
+[17:46:42] <+Blodyck> @Kellerbiest Vitamin D Mangel? Vielleicht brauchste extra Tabletten dafür
+[17:46:50] <%Valkyrie0025> @kellerbiest zum orakeln brauch ich mehr symptome ^^
+[17:46:59] <+HAHA Reingelegt> Weniger wach-sein 🌝
+[17:47:11] <Late Knight> vielleicht mal zum Arzt gehen? 🌝
+[17:47:14] <+Kellerbiest> Meine Ernährung ist eigentlich ziemlich top, denke ich. 😲 Vitamin D müsste man mal prüfen lassen, wa!
+[17:47:17] <+HAHA Reingelegt> oder ins koma fallen 🌝
+[17:47:17] <BUDSILS> gar nicht erst aufstehen
+[17:47:18] <Einfach Ich> @Valkyrie0025 achja du ja auch. Musst mich dann aber nochmal informieren liebe valky. Hab noch keine wirkliche Ahnung xD
+[17:47:20] <Kalypso Media> schlafapnoe!
+[17:47:28] <+Kellerbiest> @Valkyrie0025 Moment, machen das Orakel nicht quasi aus dem Blauen?
+[17:47:37] <%Valkyrie0025> @Einfach Ich gute besserung. und lass langsam angehen
+[17:47:51] <Alexander Loebel> !beans nils
+[17:47:56] <iMelon> spielt hier jeder solo ?
+[17:48:06] <Alexander Loebel> ja
+[17:48:06] <Luckylicious DJ> ja
+[17:48:08] <Netpunk> jo, in der Runde haben wir gestern alle solo gespielt
+[17:48:09] <Late Knight> schnell abstimmen 🌝
+[17:48:10] <%Valkyrie0025> @Kellerbiest meine orakel habe sogar ne trefferquote in lila ^^
+[17:48:10] <Crazy Zwayze> in der runde ja
+[17:48:13] <BUDSILS> hier spielt jeder 4 gegen willy
+[17:48:14] <Nada23> !beans etienne
+[17:48:29] <%Valkyrie0025> !live
+[17:48:33] <%Beansplan> @Valkyrie0025: Diese Sendung ist eine Wiederholung!
+[17:48:41] <iMelon> XD so viele gute antworten Xd
+[17:48:48] <Crazy Zwayze> die nächste runde war schön 😛
+[17:48:51] <Arthur Ruff> !Beans nils
+[17:49:07] <+GesichtsKuchen> #Tobitod87 guten tag der herr!
+[17:49:17] <Forced Identity> marco is doch bestimmt der werewolf oder?
+[17:49:22] <+Kellerbiest> Also, ich esse jetzt erstmal ein Vitamin! Das hilft vielleicht schon. 😀
+[17:49:31] <%Valkyrie0025> @Netpunk aber dieses spontanen aktionen sind so super und alle gucken gerne zu. 😃
+[17:49:40] <BUDSILS> gegen andauernd müdigkeit hilft kaffee
+[17:49:49] <Einfach Ich> @Valkyrie0025 klar ist das ja noch nicht. Bin nur schnell müde also auch wieder n Symptom denke ich.
+[17:49:54] <Luckylicious DJ> der stufe drei Rucksack kam richtig gut
+[17:49:58] <%Valkyrie0025> @GesichtsKuchen hey kuchi , du abtrünniger ^^
+[17:50:01] <Crazy Zwayze> naja , kaffee haut dich 5 minuten hoch , dann siehts wieder gleich aus
+[17:50:02] <BUDSILS> besonders nach 18 uhr
+[17:50:06] <Einfach Ich> @Valkyrie0025 und danke ❤
+[17:50:20] <+GesichtsKuchen> #Valkyrie0025 garnich!
+[17:50:24] <BUDSILS> 😈
+[17:50:31] <+Kellerbiest> Kaffee trinke ich eher zu viel. hab schon fast ne paradoxe Reaktion auf Koffeein befürchtet. 😲
+[17:50:33] <Rodrigo Rodríguez> chad mag spontane erektionen 🙃
+[17:50:36] <Forced Identity> @Crazy Zwayze na siehste Problem erkannt, alle 5 minuten kaffee nachschütten
+[17:50:37] <Fox Eye> O Donnie
+[17:50:42] <+Kellerbiest> -e
+[17:50:42] <+GesichtsKuchen> #Netpunk ❤
+[17:50:44] <Playzie> rip
+[17:50:48] <Das helle Weizenbier> ede tot rip
+[17:50:50] <Crazy Zwayze> @Forced Identity haha 😀 könnte klappen
+[17:50:50] <%Valkyrie0025> @Einfach Ich fühlst dich wie 80? regst dich schnell auf? essen schlägt sofort auf den magen? puls 180? oft das bedrüfnis zu schreien ohne grund? 😀
+[17:50:55] <BUDSILS> viel wasser trinken
+[17:50:56] <Nursery Rhymes Fun TV> cool
+[17:50:56] <Netpunk> yaay! 1 Herz!
+[17:50:57] <Derpy Hooves> also ich mach lieber mit als zu zugucken. 👍
+[17:51:00] <Nidstang> wie lange dieser pubg Hype wohl noch anhält?
+[17:51:08] <Fox Eye> Hallo Chad, bist du Single und suchst einen netten Malt? 🌝
+[17:51:14] <Forced Identity> bis er vorbei ist
+[17:51:26] <Robert Lie> Endlich mal neuer Content
+[17:51:27] <petrik coffy> was ist 1 Malt? 📙🥄
+[17:51:33] <%Valkyrie0025> @Fox Eye ohne eis bitte
+[17:51:33] <+Kellerbiest> @Valkyrie0025 Orakelst du in alle Richtungen, oder bist Du eher reines Gesundheitsorakel?
+[17:51:47] <+Blodyck> Malt ist doch Alkohol
+[17:51:49] <BUDSILS> bis alle rausfinden dass dieses spiel nur zum ausspionieren der pcs gemachts wurde
+[17:51:51] <Crazy Zwayze> @Netpunk 1on1 Quake? ^^
+[17:51:54] <cruelson> ssuuup
+[17:51:55] <Das helle Weizenbier> verstehe ich das richtig das ist nicht Witcher 3?
+[17:51:56] <Fox Eye> @Valkyrie0025 Bitte 🍹 🐸
+[17:52:00] <Jordan> krass wie langweilig das ist denen zuzugucken und dabei mag ich pubg
+[17:52:01] <Sebastian Böck> bübchen ist pro gamer 😃
+[17:52:03] <The Blind> @Fox Eye Wenn du Whiskey meinst bin ich interessiert, sonst...eher nicht
+[17:52:07] <Derpy Hooves> @Fox Eye ich nehm nen absinth, danke. 😂
+[17:52:09] <Nidstang> Ist jetzt schon nicht sooo spannend
+[17:52:09] <%Valkyrie0025> @Kellerbiest gesundheit kernkompetenz und sonst expertin in allem ^^
+[17:52:17] <+Kellerbiest> Also ich habe jetzt dieses Vitamin gegessen, von dem Ihr geredet habt, und ich bin nicht überzeugt! Es hat nicht geschrien, als ich es geschlachtet habe. 😕
+[17:52:18] <Fox Eye> @Blodyck Jetzt stell dich mal nicht so an. Runter mit gem Gelump 👿
+[17:52:19] <Netpunk> @Crazy Zwayze NIEMALS! Hab gestern von Eddy so auf den Sack bekommen, ich muss mich erstmal erholen 😀
+[17:52:20] <Einfach Ich> @Valkyrie0025 ausser das mit dem schreinen trifft alles zu.
+[17:52:49] <Crazy Zwayze> @Netpunk 😀 verständlich ^^  Turnier wäre geil. so community und so
+[17:52:53] <+Kellerbiest> @Einfach ich Okay, ich bin gespannt auf Deine volle Diagnose. ich nehme dann einmal deine Behandlung. 😲
+[17:53:02] <Mc Lovin> na da is was los ^^
+[17:53:05] <Fox Eye> @Derpy Hooves Ist das nicht verboten? Wir führen leider nur rumulanisches Ale 🐸
+[17:53:05] <Robert Lie> Finde gut dass sie mittlerweile nur noch spielen ohne Kommentar
+[17:53:13] <Mc Lovin> spielen die solo ? ^^
+[17:53:14] <+Blodyck> 😄🍺
+[17:53:16] <Forced Identity> @Kellerbiest Fische schreien ja auch selten
+[17:53:17] <Einfach Ich> @Valkyrie0025 mein mann leidet unter dem Aufregen von mir
+[17:53:22] <Cindy Flehmig> hi
+[17:53:23] <+Trichome Lover> @Einfach Ich Hi du 😃 Ich habe gerade mal hoch gescrollt als das "gute Besserung" las. Meine mum leidet auch unter einer Schilddrüsenüberfunktion. Ich drück dir die Daumen, dass es recht "harmlos" ist
+[17:53:23] <%Valkyrie0025> @Einfach Ich muss ja auch nicht alles sein. hatte noch luftnot beim streppensteigen . sämtliche tätigkeiten haben mich fix und fertig gemacht
+[17:53:27] <Derpy Hooves> @Fox Eye 😨
+[17:53:30] <Fox Eye> @The Blind 1 Whiskey der macht blind 😀
+[17:53:31] <Netpunk> Kleines community-turnier fänd ich auch ganz geil in quake fände ich auch ganz sweet.
+[17:53:32] <+Kellerbiest> @Einfach Ich Schwitzt Du denn sehr schnell? Hab mal gehört, dass das auch ein Symptom für Überfunktion sein soll. *Dr Biest
+[17:53:43] <RaketenBohneSchweiz> rip @Kellerbiest 😖
+[17:53:45] <Fox Eye> @Einfach Ich Du nimmst nicht zu? Was wiegst Du denn?
+[17:53:56] <+Kellerbiest> @Forced Identity Die gehören für mich auch zum Obst!
+[17:54:01] <petrik coffy> papa 😨
+[17:54:03] <RaketenBohneSchweiz> @foxqso viel das nix mehr geht 😀
+[17:54:09] <RaketenBohneSchweiz> petrik 😠
+[17:54:13] <The Blind> @Fox Eye  man muss also 2 trinken
+[17:54:20] <BUDSILS> oha der froschtöter ist zurück!
+[17:54:23] <+GesichtsKuchen> #Netpunk der gewinner darf sich einen keks aussuchen?!
+[17:54:25] <Das helle Weizenbier> mir fehlt die muntereRunde
+[17:54:29] <petrik coffy> ich warte immernoch drauf dass du mir die windel wechselst 😭 @RaketenBohneSchweiz 1
+[17:54:30] <%Valkyrie0025> @Fox Eye thx kommt gut :)
+[17:54:32] <Fox Eye> @RaketenBohneSchweiz Hallo Herr Schweiz 🐸
+[17:54:32] <+Kellerbiest> @RaketenBohneSchweiz 😞
+[17:54:39] <cruelson> S a r e r
+[17:54:53] <BUDSILS> frösche für alle 😳
+[17:55:08] <Einfach Ich> @Trichome Lover Dankeschön
+[17:55:14] <RaketenBohneSchweiz> @@Fox Eye moin 🐸 @petrik coffy die reicht noch für 3 wochen, das aa muss aus allen ritzen rauslaufen 👍
+[17:55:15] <+Kellerbiest> 😞
+[17:55:17] <Forced Identity> ein frosch ohne beine verliert sein gehör
+[17:55:30] <petrik coffy> papa ist böse 😭
+[17:55:34] <RaketenBohneSchweiz> @BUDSILS frösche sind schlechte menschen und verdienen es zu sterben 👍
+[17:55:34] <Einfach Ich> @Valkyrie0025 kenne ich 😞
+[17:55:43] <%Valkyrie0025> @Einfach Ich  ich war so fertig hab am telefon nur geheult, das meine schwester und schwager gekommen sind aus 150 km entfernung weil ich so sonst nie drauf war 😉
+[17:55:44] <petrik coffy> schmier 😨
+[17:55:45] <cruelson> S a r e r, guck doch mal bitte richtig hin.
+[17:56:03] <Der Dengel> Neuer Claim für Marco: Fahren? Kann ich.
+[17:56:04] <RaketenBohneSchweiz> @petrik coffy ich schmier die schmier 😏
+[17:56:09] <Einfach Ich> @Kellerbiest ja
+[17:56:16] <BUDSILS> RaketenBohneSchweiz und sie schmecken nach hähnchen (bestimmt)
+[17:56:38] <BUDSILS> eigentlich schmeckt alles nach hähnchen. einigers nur mehr nach plastik
+[17:56:40] <RaketenBohneSchweiz> @BUDSILS sagen die meisten zum so 😀
+[17:56:43] <Einfach Ich> @Fox Eye 52 hab mich gerade gewogen schwankt aber immer
+[17:56:59] <Einfach Ich> @Fox Eye mehr als 52 werden das aber nie
+[17:57:07] <+Kellerbiest> @Einfach Ich Uff, das tut mir echt leid zu hören. Kopf hoch, es gibt immer etwas, was man tun kann! 😃
+[17:57:15] <Fox Eye> @Einfach Ich Oh. Ich hab mich heut auf der Arbeit gewochen. Da wieg ich 2kg mehr als zu Hause 🐸
+[17:57:21] <Einfach Ich> @Valkyrie0025 oje so schlimm ists zum Glück bei mir nicht
+[17:57:35] <Crazy Zwayze> SneakyAndy
+[17:57:37] <RaketenBohneSchweiz> @BUDSILS falsch! vieles was man zum ersten mal isst (wie z.b. frosch verbindet man im kopf mit dem geschmack von hähnchen 👍 erst wenn man es ein paar mal gefuttert hat merkt man den eigengeschmack
+[17:57:38] <Crazy Zwayze> 😀
+[17:57:46] <petrik coffy> paaaapaaaa 😨
+[17:57:58] <petrik coffy> ich hab hunger, gib mir die brust 😭
+[17:58:01] <%Valkyrie0025> @RaketenBohneSchweiz hey mr hcg 😀
+[17:58:01] <BUDSILS> 😯😮
+[17:58:03] <Nada23> ...der Chat weiß halt, wer zuerst stirbt ^^
+[17:58:06] <+Blodyck> 😨
+[17:58:32] <RaketenBohneSchweiz> @petrik coffy NEIN! da is noch restalkohol drin, das is nicht gut für dich 😀
+[17:58:49] <petrik coffy> dann trink ich das spüli 🤷
+[17:59:11] <RaketenBohneSchweiz> @Valkyrie0025 was is los? schreib lauter, ich bin noch nicht nüchtern 😀
+[17:59:12] <+Blodyck> @RaketenBohneSchweiz wieso sollte alkohol nicht gut sein? 📙
+[17:59:16] <Fox Eye> @petrik coffy Willst du meine weiche Männerbrust? 🐸
+[17:59:26] <BUDSILS> das reinigt von innen.
+[17:59:30] <+Kellerbiest> o_O°
+[17:59:44] <Fox Eye> @RaketenBohneSchweiz Schreib bitte leiser, ich bin doch so schüchtern 🤗
+[17:59:46] <Forced Identity> Welches Spüli denn, nicht alle sollen gut sein, nur paar wenige
+[17:59:52] <Das helle Weizenbier> mir reicht es Anzeige ist raus
+[17:59:53] <BUDSILS> hab viel abgenommen. kaum noch brust 😕
+[17:59:55] <Derpy Hooves> @Fox Eye ich dachte du bist ein fuchs! 👿
+[17:59:57] <petrik coffy> 🍳😨 nicht die mama @Fox Eye
+[18:00:07] <%Nightbot> Hey Böhnchen, ihr schaut gerade überlange Werbung? Dann tut unserem Treibstofftank einen Gefallen und wartet 30 Sekunden, bis ihr sie überspringt. Das füllt den Tank und ihr verpasst trotzdem nichts.
+[18:00:16] <Fox Eye> @Derpy Hooves Auch zarte Fuchswesen haben Brüste 🐸
+[18:00:17] <BUDSILS> willst du viel spül mit pril
+[18:00:20] <Einfach Ich> @Fox Eye nicht schlecht
+[18:00:30] <petrik coffy> paaaapaaaaa 😨
+[18:00:37] <petrik coffy> mir ist langweilig, spiel lego mit mir 😨 @RaketenBohneSchweiz
+[18:00:37] <RaketenBohneSchweiz> @Fox Eye schüchtern? bietes im gleichen atemzug einem chatlingsbaby deine weiche männertitte an. so schüchtern kannst gar nicht sein 😀
+[18:00:52] <Einfach Ich> @Kellerbiest ach ist schon ok. Klar positiv denken 😃
+[18:00:54] <Derpy Hooves> @Fox Eye sogar vier paar! 😚
+[18:01:03] <RaketenBohneSchweiz> @petrik coffy hilf lieber deiner mutti beim zusammenbauen der komode 😠
+[18:01:05] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[18:01:08] <MadHatt0r> ich denke nicht nur positiv, ich denke HIV positiv
+[18:01:10] <Einfach Ich> Schweizer 😒
+[18:01:20] <RaketenBohneSchweiz> ösi 👿
+[18:01:31] <BUDSILS> das hört sich nach schlechtem rap an 😀
+[18:01:33] <Einfach Ich> 🖕
+[18:01:34] <Derpy Hooves> pony'S \🐸/
+[18:01:56] <RaketenBohneSchweiz> @Einfach Ich schon wieder schwanger oder warum so gut gelaunt? 🌝
+[18:01:58] <Forced Identity> warum issn Marco da noch am leben? Marco ist furchtbar unangenehm wenn er in nem Spiel gut ist
+[18:01:59] <petrik coffy> paaapaaa i hans 1 zwei im detusch bekommt von lehrer her ok 😖 @RaketenBohneSchweiz
+[18:02:05] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[18:02:18] <Crazy Zwayze> 0 kills is nich gut 😀
+[18:02:24] <Das helle Weizenbier> wir schaffen das
+[18:02:25] <Nada23> !live
+[18:02:27] <%Beansplan> @Nada23: Diese Sendung ist eine Wiederholung!
+[18:02:28] <%Valkyrie0025> @RaketenBohneSchweiz google it ^^ haust nochmal richtig rein bis zum tag x was 😀
+[18:02:33] <Forced Identity> überleben zähl
+[18:02:50] <Derpy Hooves> t
+[18:02:51] <RaketenBohneSchweiz> @petrik coffy das gibt kein taschengeld und die nachtschicht unter meinem schreibtisch verlängert sich um 2 wochen 😠
+[18:03:15] <RaketenBohneSchweiz> @Valkyrie0025 wie bitte? gestern war der1.8. nat. feiertag ^^ da is saufen pflicht!
+[18:03:42] <petrik coffy> aber papa 😭
+[18:03:46] <Einfach Ich> @RaketenBohneSchweiz nein bin ich nicht.
+[18:03:48] <+Kellerbiest> @Einfach Ich Und Bewegung! Auch, wenn es wirklich eine Fehlfunktion ist, Bewegung hilft immer, vor allem gegen die Stimmungsprobleme. Ich merke das sehr, wenn es mir fehlt. 😲
+[18:03:52] <Derpy Hooves> trinken die da bei der arbeit? 👿 wenn ja, brave bohnen! 👍
+[18:03:54] <Danbu> warum bleiben die eigentlich nicht im Flugzeug wenn da unten so gefährliche Todeszonen sind?
+[18:03:58] <%Valkyrie0025> @RaketenBohneSchweiz achsooo dachte die schweiz gibt es schon seit dem uriknall
+[18:04:07] <petrik coffy> wemms i die anderem kinder kein pausengeld mehr gebem kann die haun mich KO ok 😖 @RaketenBohneSchweiz
+[18:04:17] <RaketenBohneSchweiz> @Einfach Ich dann hast wohl heute zu oft in den spiegel geschaut weil du so schlwecht drauf bist 😂
+[18:04:33] <RaketenBohneSchweiz> @Valkyrie0025 mr hcg finde ich nur iwas mit landwirtschaft ^^
+[18:04:54] <Einfach Ich> @Kellerbiest gehe eigentlich so gut wie täglich joggen. Nur gerade ist mir bissl schwindelig. Schwester @Valkyrie0025 *klingel*
