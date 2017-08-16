@@ -1102,3 +1102,160 @@
 [08:02:51] <+me_1ns> bei mir hört der um 07:12 Uhr auf
 [08:03:26] <+fedora> ich hatte das die letzten Tage schon bei mir daheim aufm Chrome. Konnte zwar lesen, mich aber nimmer einloggen.
 [08:04:29] <+fedora> so mal testen ob das so geht jetzt
+[08:05:03] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[08:05:19] <+fedora> jepp scheint so zu laufen
+[08:05:39] <+me_1ns> was haste gemacht?
+[08:05:45] <+fedora> @me_1ns sorry das ich gestern so schnell weg war. Mann wollte Aufmerksamkeit 🙄
+[08:06:02] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[08:06:09] <+me_1ns> @fedora Bin eingepennt 😀
+[08:06:13] <+fedora> Chat auf der YT Seite ausgehängt und Stream über die RBTV Seite. Da gefällt mir die Bildanordnung besser
+[08:06:31] <+fedora> @me_1ns ui und der arme dritte hat auf dich sicher gewartet 11
+[08:06:33] <+fedora> ^^
+[08:08:34] <+me_1ns> @fedora Keine Ahnung, bin etwas erschrocken um 1 aufgewacht und bin ins Bett gewandert 🤗
+[08:09:03] <+fedora> ui hoffentlich war dein Backofen aber schon zu der Zeit wieder aus.
+[08:09:38] <+me_1ns> den hatte ich vorher noch benutzt 😀 gab noch den Rest Pulled Pork
+[08:09:58] <+fedora> Ah okay.
+[08:10:24] <+fedora> Ich habe heute Pizza Reste von gestern bei. Der Teig ist so gut geworden
+[08:10:33] <+me_1ns> deshalb bin ich auch so schnell eingepennt 😀
+[08:12:08] <+fedora> Fresskoma also^^
+[08:12:37] <+me_1ns> korrekt 😵
+[08:13:46] <+fedora> uiii meine GraKa ist in Zusgtellung 😀
+[08:13:48] <+fedora> -g
+[08:13:56] <+me_1ns> woop woop
+[08:14:05] <+me_1ns> 😱
+[08:15:33] <+fedora> Bist du heute Abend PUBG bei den Bohnen mit am Start?
+[08:16:23] <+me_1ns> mit der alten Karte im System booten, via DDU die alten Treiber deinstallieren (gibt nen eigenen Punkt "Neue Karte einbauen"), neusten Treiber von Nvidia laden, ->
+[08:16:58] <+me_1ns> Herunterfahren, alte Karte raus neue rein, booten, neue Treiber installieren. Fertig ^^
+[08:17:03] <+fedora> Asus 😉
+[08:17:18] <+me_1ns> wenn nichts dazwischen kommt bin ich dabei
+[08:17:49] <+fedora> das muss mein Mann dann machen. Der kann sich besser über solche Dinge aufregen als ich. Ich muss ihm nur gut zureden, das er sie net in die Ecke wirft ^^
+[08:18:17] <+fedora> heute morgen hat er schon unsere Duschwand unfreiwillig demontiert ^^
+[08:18:35] <+me_1ns> shit happens 😀
+[08:18:43] <+me_1ns> is mir auch schon passiert
+[08:19:05] <+me_1ns> zack, hatte ich ne Tür in der Hand 😡
+[08:19:21] <+fedora> die hat so ein Lift-System das man sie weg klappen kann und jetzt müssen wir erst schauen wie das wieder richtig rein gehört.
+[08:19:30] <+fedora> du bist ja auch groß und Hulk ^^
+[08:19:34] <+me_1ns> huch ^^
+[08:20:33] <+me_1ns> so schlimm ises noch nicht, durch die Tür pass ich noch 🙃
+[08:20:50] <+fedora> ja bestimmt nur Seitlich ^^
+[08:23:33] <Frau Bugfix> #me_1ns das kann jeder sagen:D
+[08:24:09] <+fedora> @Frau Bugfix GuMo 😗
+[08:24:32] <+me_1ns> @Frau Bugfix Guten Morgen 😋
+[08:24:35] <Frau Bugfix> #fedora huhu 😗
+[08:24:45] <Frau Bugfix> #me_1ns moin
+[08:24:48] <+me_1ns> nein auch nicht seitlich 😀 das geht alles ganz normal
+[08:25:23] <+fedora> dann hast du so breite Türe wie im KH das sogar ein Bett durchpasst? 😱
+[08:25:40] <+raptorh> moin chad
+[08:25:49] <+me_1ns> genau, mit Sensor 😀
+[08:25:53] <+me_1ns> moin @raptorh
+[08:25:55] <+raptorh> tour de france 😴
+[08:26:02] <Frau Bugfix> #raptorh moin
+[08:26:23] <+fedora> @raptorh 😗 das gleiche dachte ich gestern auch als ich es im Sendeplan gesehen habe
+[08:26:36] <Moneypenny78> moin moin zusammen
+[08:26:40] <+me_1ns> es gibt kein besseres Spiel für Konsolen
+[08:26:44] <+fedora> 😗 Kojak
+[08:26:45] <+me_1ns> 🤐
+[08:26:55] <+me_1ns> @Moneypenny78 Moin
+[08:27:21] <Frau Bugfix> ich hau ab das rad fahren da interessiert mich net ich guck derweil bugi beim dtreamen zu. bis dann ihr lieben
+[08:27:23] <+raptorh> moin @Moneypenny78
+[08:27:40] <+raptorh> tschüss @Frau Bugfix
+[08:27:48] <+fedora> Buggy streamt?
+[08:28:35] <Frau Bugfix> #fedora ja schau bei twitter da hatte tricho letztens ma ein tweet gemacht gehabt
+[08:28:35] <+raptorh> vieleicht ja nur für sie XD
+[08:28:35] <+me_1ns> 🤔
+[08:28:40] <Moneypenny78> er traeumt 😛
+[08:28:55] <Frau Bugfix> ne rap offen
+[08:28:59] <+fedora> @Frau Bugfix thx werd ich schnell schauen
+[08:29:15] <+raptorh> @Frau Bugfix witz...
+[08:29:45] <+fedora> so die Einführung von Colin. Auch schon 5mal gesehen
+[08:30:04] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[08:30:39] <+fedora> so schön ... verstörend ^^
+[08:33:25] <+me_1ns> eehm
+[08:33:29] <+fedora> kann man über die Twitch App PNs verschicken?
+[08:33:37] <+Doktor Lowrider> für mich funktionieren die BJ Wiederholungen noch - hab tatsächlich noch nicht alle gesehen - die hier ist z.B. für mich neu
+[08:34:03] <+fedora> Colin ist nicht Neu. Der hat Gebrauchsspuren
+[08:34:26] <Moneypenny78> ja koennen wir den zurueckgeben? 😛
+[08:34:42] <+fedora> nein, Colin ist der Chef. Der bleibt!
+[08:34:59] <Moneypenny78> 😕 warn versuch wert
+[08:35:03] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[08:35:22] <+fedora> tztzt
+[08:38:26] <+raptorh> habt ihr das outtake video was game two als pausenprogramm veröffentlicht hst gesehen? ich fands gut
+[08:39:03] <+Doktor Lowrider> leider nich 😞
+[08:39:15] <+fedora> @raptorh die schlechten Ideen?
+[08:39:27] <+raptorh> @fedora jop
+[08:39:34] <Superbob966> Kanns sein das die Folge mega alt ist oder bin ich nur verwirrt?
+[08:39:54] <No Ba Sus> sowohl als auch superbob xD
+[08:39:55] <+Doktor Lowrider> fast so alt wie Collin 😉
+[08:39:56] <+raptorh> @Superbob966 nein die ist so irgendwann anfang 15
+[08:40:00] <Daniel Köllerer> !live
+[08:40:03] <%Beansplan> @Daniel Köllerer: Diese Sendung ist eine Wiederholung!
+[08:40:03] <+fedora> @raptorh ich hoffe sie hauen davon mehr raus. fand ich gut
+[08:40:06] <Moneypenny78> ne du hast recht, colin ist super alt und verwirrt 😛
+[08:40:13] <Daniel Köllerer> !live
+[08:40:20] <+raptorh> @fedora ich auch
+[08:40:55] <+raptorh> messer löfel gäbel war gestern so gut 😀
+[08:41:56] <+Doktor Lowrider> wer stemmt den heute das moin moin `? Ist andy wieder einsatzbereit ?
+[08:42:37] <+raptorh> @Doktor Lowrider also gestern abend war ers, bin allerdings bei beanstag eingepennt, weiß nicht ob noch was passiert ist
+[08:43:22] <+Doktor Lowrider> ach stimmt ja - der hat ja mitgezockt - ick hab ausgeschaltet als sie nach 10 minuten immernoch nix gebacken bekommen haben
+[08:44:13] <Diplomat999> Colin macht den Hannes
+[08:44:37] <Diplomat999> bevor hannes den hannes gemacht hat
+[08:44:42] <+fedora> Andy ist zäh 😉
+[08:45:06] <+raptorh> ich sag ja kurz schauen wie man startet 🤷 aber mir wurde ja deshalb gestern vorgeworfen ein hater zu sein... bin ich halt still
+[08:45:09] <+Doktor Lowrider> sowas iss doch mies - niemand hat bock den jungs beim pc konfigurieren zu zu kucken - dabei iss datt heutzutage soo einfach zusammen zu zocken - iss ja nicht so das die ein BNC netzwerk hätten
+[08:45:59] <+raptorh> oh gott, bnc war das noch nervig
+[08:47:29] <+Doktor Lowrider> ist schon verdammt luxuriös heutzutage dagegen 😉
+[08:47:37] <Mangamaniac71> hat noch wer ein T-Stück?
+[08:47:49] <+raptorh> @Doktor Lowrider wobei man sagen muss, ich hab ja zugegugt, das menü ist echt ne bitch gewesen^^ blickt keine sau... entschuldigt es nicht aber joa
+[08:47:49] <+Doktor Lowrider> hehe
+[08:48:52] <+raptorh> @Mangamaniac71 jede menge^^ diese kabel sind ja üblich an osziloskopen deshalb benutz ich die ab und an^^ aber nicht an nem pc^^
+[08:49:27] <+fedora> öhm meine Sendung ist zugestellt? Wie geht das wenn ich nicht da bin? 😕
+[08:49:42] <+Doktor Lowrider> @raptorh joa - aber sowas MUSS einfach vorher laufen - sonst verliert man zusachauer - wenn ich mir sowas geben will zock ich left for dead mit mods mit meinen kumpels - da läuft das auch immer so ^^
+[08:49:49] <Diplomat999> nachbar !!
+[08:50:05] <+Doktor Lowrider> nachbarino
+[08:50:12] <+Doktor Lowrider> postbox
+[08:50:28] <+raptorh> @Doktor Lowrider geb ich dir ja recht, ich sag ja, das entschuldigt es nicht
+[08:50:42] <+raptorh> @fedora ablagevertag?
+[08:50:53] <+Othar> Dann steht sie entweder vor der Tür oder ein Nachbar vielleicht fedora 🤷
+[08:51:00] <+me_1ns> @fedora "Altpapiertonne" 😇
+[08:51:20] <+Doktor Lowrider> @raptorh ach ick reg mich einfach immernoch auf - hätt gestern echt lust drauf gehabt 😉
+[08:51:28] <Diplomat999> oder er hats in den Briefkasten gestopft
+[08:51:38] <+fedora> @raptorh nope, weil mir schonmal was geklaut wurde und wenn jetzt meine Graka vor der Türe liegt, zuck ich aus
+[08:52:07] <+raptorh> @Doktor Lowrider kann ich nachvollziehen, wie gesagt, weil ich was gesagt hab, wurde ich dann als hater bezeichnet...
+[08:52:19] <+Doktor Lowrider> Guten Morgen Herr @Othar
+[08:52:29] <+raptorh> @fedora oh ja, verständlich
+[08:52:33] <+fedora> ich habe jetzt mal meine Nachbarin angeschrieben.
+[08:53:11] <+Othar> Morga Lowrider 👋
+[08:53:18] <Firebreath> alter war tim damals dünn
+[08:53:29] <+fedora> 😗 @Othar
+[08:53:55] <Diplomat999> yap da hat er sich noch um seine figur gekümmert haha
+[08:54:19] <+Othar> Wird scho alles gutgehen mit dem Ding fedora 😗
+[08:54:33] <+raptorh> moin @Othar
+[08:54:53] <Kein Name> MORRRRRGEN!
+[08:55:01] <+raptorh> moin
+[08:55:20] <+Doktor Lowrider> ich bin ein freund der postbox - jetzt muss so ein Ding nurnoch direkt vor meinem haus stehen - dann bestell ich nurnoch und alles ^^
+[08:55:27] <+Othar> Servus raptorh, wie läufts mit AoE2? 😛
+[08:55:37] <+fedora> @Othar ich hoffe es
+[08:56:03] <+raptorh> <---- noob @Othar aber macht bock
+[08:56:45] <+Othar> @raptorh Des wird scho, ich hab auch 15 Stunden gebraucht bis ich wieder reinkam 🤷
+[08:57:30] <+Doktor Lowrider> @fedora für was für ein schnuckelstück von hardware haste dich entschieden ?
+[08:57:36] <Diplomat999> beef ❤
+[08:57:37] <lili und soli> hallo
+[08:57:49] <+fedora> @Doktor Lowrider ne Asus 1060 6gb günstig geschossen
+[08:57:52] <+raptorh> @Othar so lange?^^ laut donnie sind 4 runden schon mega viel XD (wasn quatsch^^)
+[08:58:16] <+Othar> @raptorh 4 Runden können u. U. auch 15 Stunden dauern 😀
+[08:58:17] <lili und soli> Hallo ir seid alle netr
+[08:58:37] <+Doktor Lowrider> oh mit der kann man ja schon verdammt viel anstellen - gute wahl
+[08:59:19] <Kein Name> geile musik
+[08:59:19] <Zombie B> @lili und soli und du bist abkistr
+[08:59:34] <+Doktor Lowrider> @Othar und.... haste die deutsche kampagne schon durch `?
+[09:00:07] <+fedora> @Doktor Lowrider hatte auch im TS gute Beratung dazu
+[09:00:47] <+Othar> @Doktor Lowrider Ned ganz, glaub bei der vorletzten Mission 🤔 Alliierte fast und Russland erst am Anfang, wie schauts bei dir aus?
+[09:01:02] <+Doktor Lowrider> @fedora von den Chaoten hier 😉 na das muss ich wohl glauben ;
+[09:01:25] <+fedora> @Doktor Lowrider ja der ein oder andere kennt sich ein wenig mit aus
+[09:01:35] <+fedora> jedenfalls behaupten sie es 😳
+[09:01:50] <+me_1ns> 👼
+[09:03:05] <+Doktor Lowrider> @Othar ich hab stalingrad grade wieder durchquert ^^ - nur 5 mann dabei verloren - sonst nix - ich finds n bischen einfach - wen man sich zeit nimmt kommt man mit verdammt wenig verlusten durch
+[09:03:51] <+Doktor Lowrider> ein dritter schwierigkeitsgrad könnte nicht schaden
+[09:03:54] <+Othar> Zeit nehmen = laden @Doktor Lowrider ? 😀 Aber hast schon recht, wenn man bissel plant gehts gut.
+[09:04:02] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[09:04:49] <+Doktor Lowrider> @Othar ohne angeben zu wollen - hab ich nur 3-4 mal geladen (gut ich kannte die mission schon) - iss trotzdem noch zu einfach
