@@ -353,3 +353,201 @@
 [01:04:03] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
 [01:04:21] <+dead_ohio_sky> @Magischer Löffel Das liegt aber wahrscheinlich an Windows. Der Installer ist ein Teufelswerk.
 [01:04:47] <Magischer Löffel> grad geht 1gb nur für chrome drauf
+[01:05:03] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[01:05:05] <+dead_ohio_sky> @Magischer Löffel Wieviel Fenster?
+[01:05:38] <+dead_ohio_sky> *Tabs
+[01:05:49] <Magischer Löffel> @dead_ohio_sky 1 grade nur aber im taskmanager sind 4google betriebe offen 🤔
+[01:06:27] <+sturm111> gute Nacht alle 😃/
+[01:06:30] <+dead_ohio_sky> @Magischer Löffel Das ist okay. Google macht für alles eine Sandbox auf bzw. mehrere Prozesse.
+[01:06:34] <+XAxeX> also mein firefox frisst immer mehr als chrome ^^
+[01:06:39] <Tom> johnny bester mann
+[01:06:44] <+dead_ohio_sky> @Magischer Löffel Aber 1 GB ist viel zu viel.
+[01:06:54] <Magischer Löffel> @dead_ohio_sky ich sollte mir google ultron laden 🐸
+[01:07:12] <+dead_ohio_sky> @XAxeX Dann nutzt du eine alte Version. Der RAM-Verbrauch hat sich in den letzen Monaten deutlich verringert.
+[01:07:18] <Magischer Löffel> jetzt sinds 600
+[01:07:19] <+XAxeX> und das obwohl ich 2x chrome mit zig tabs offen hab 😸
+[01:07:42] <petrik coffy> dead_ohio_techsupport 😚
+[01:07:50] <+XAxeX> @dead_ohio_sky das wäre ja mal wieder gut für firefox ^^
+[01:08:00] <+XAxeX> so ich geh aber pennen 😀 die arbeit ruft morgen wieder 😸
+[01:08:10] <+XAxeX> n8
+[01:08:27] <petrik coffy> träum süsz von nacktem kuchen 📙
+[01:09:43] <+dead_ohio_sky> @Magischer Löffel Also Ich habe auch ein Fenster mit RBTV offen bei Chrome und es sind ca. 500 also im Rahmen würde ich sagen.
+[01:10:03] <Magischer Löffel> jetzt sinds 800 xD
+[01:10:08] <Magischer Löffel> lul
+[01:10:22] <+dead_ohio_sky> @Magischer Löffel Neu aufgemacht?
+[01:10:27] <Magischer Löffel> ne
+[01:10:34] <+dead_ohio_sky> Oder fluktuiert das die ganze Zeit?
+[01:11:00] <Magischer Löffel> ​schwankungen
+[01:11:22] <Christoph Gruhn> Kannste Nudeln machen warm, kannste machen kalt
+[01:11:30] <+dead_ohio_sky> Komisches Verhalten, aber noch nicht wirklich bedenklich. Wie viel RAM hast du?
+[01:12:35] <Magischer Löffel> 8 hatte mal 16 aber die hatten sich trotz gleicher taktrate gebissen 🙅
+[01:12:54] <+dead_ohio_sky> Von verschiedenen Anbietern? 😧
+[01:13:15] <Magischer Löffel> ja hab dann einen wieder verkauft 😂
+[01:13:27] <paul paul> kolol
+[01:13:29] <petrik coffy> ✝\😧 the power of christ compells you
+[01:13:35] <+dead_ohio_sky> Aber egal, 8 ist ja ausreichend. Also wird es auch daran nicht liegen.
+[01:14:20] <Magischer Löffel> @dead_ohio_sky es ist ziemlich paradox alles 🤔
+[01:14:33] <Magischer Löffel> @petrik coffy wat los? 😀
+[01:15:02] <Magischer Löffel> hab den alten ram für den preis vom neuen losbekommen 😀😀
+[01:16:02] <+dead_ohio_sky> @Magischer Löffel Also wie gesagt, ich würde mal die GPU versuchen zu tauschen und dann gucken ob er sich dann immer noch aufhängt. Was ist es eigentlich für eine GPU?
+[01:16:08] <Magischer Löffel> neuerdings zeigt mir windoof auch nicht mehr das symbol von nvidea gef. exp an xD
+[01:16:18] <Magischer Löffel> @dead_ohio_sky gtx 960
+[01:17:36] <petrik coffy> old mcdonald had a farm
+[01:17:41] <petrik coffy> hee-ya hee-ya ho 😨
+[01:17:41] <Magischer Löffel> die kleinere vram version
+[01:17:59] <Magischer Löffel> petrik singt 😨
+[01:18:36] <petrik coffy> 😠 gold!
+[01:18:43] <petrik coffy> always believe in your soul 😨
+[01:18:45] <Emre Aktas> ich dachte das die gamescom zu ende ist
+[01:18:49] <Magischer Löffel> @dead_ohio_sky das komische ist halt wenn ich mit nem kumpel pubg zock hängt sich der pc eigentlich nie auf 🤔
+[01:18:52] <petrik coffy> you're indestructible! 😨
+[01:19:06] <Magischer Löffel> coffy sie sind raus 😨
+[01:19:28] <petrik coffy> always believe in you 😨
+[01:19:31] <petrik coffy> you are
+[01:19:35] <petrik coffy> 😠 gold!
+[01:19:43] <Magischer Löffel> 😨 stop it
+[01:19:52] <Magischer Löffel> @petrik coffy hör mal Alcest 😨
+[01:20:23] <petrik coffy> "alcest" klingt als wärs illegal 📙
+[01:20:51] <Magischer Löffel> :yt:Alcest - Sur L'Océan Couleur De Fer
+[01:21:00] <+dead_ohio_sky> @Magischer Löffel Könnte auch immer das Netzteil sein, wenn da eine Spannungsspitze kommt und das Netzteil es nicht abfangen kann kann es auch das System zum Absturz bringen. 🤷
+[01:21:11] <+dead_ohio_sky> Aber ich würde erstmal GPU tauschen.
+[01:21:11] <petrik coffy> :yt:Alcest - Sur L'Océan Couleur De Fert 🐎
+[01:21:28] <Magischer Löffel> @dead_ohio_sky hab n neues Netzteil gekauft 😨
+[01:21:40] <Magischer Löffel> @petrik coffy hör dir mal an 😨
+[01:21:45] <Tom> ballerts euch rein
+[01:21:51] <petrik coffy> ich kann nicht 😨
+[01:21:59] <+dead_ohio_sky> @Magischer Löffel Ah okay. Sagtest du ja schon. Aber die Freezes hattest du davor auch schon?
+[01:22:07] <Magischer Löffel> @ded
+[01:22:40] <Magischer Löffel> @dead_ohio_sky yip deswegen hatte ichs gekauft mein vorheriges war unverifiziert
+[01:23:09] <+dead_ohio_sky> Du meinst no name?
+[01:23:32] <Magischer Löffel> @dead_ohio_sky kein bronze-silber-gold siegel gedöhns
+[01:23:51] <Magischer Löffel> @petrik coffy warum nicht 😨
+[01:23:52] <petrik coffy> 📙
+[01:24:09] <petrik coffy> ich schlafe schon 😨 @Magischer Löffel
+[01:24:14] <E$cute> 🍻
+[01:24:20] <petrik coffy> *patpatpat* @dead_ohio_sky
+[01:24:25] <+dead_ohio_sky> @Magischer Löffel Das ist nur eine Effizienzklasse.
+[01:24:30] <Magischer Löffel> @petrik coffy dann hör das, dass ist jetzt perfekt 😨
+[01:24:34] <E$cute> 🍼
+[01:24:42] <RaketenBohneSchweiz> bronze, silber und gold hat petrik nie gewollt 🌝
+[01:24:44] <Magischer Löffel> @dead_ohio_sky ja eben und ich war nicht sicher obs die 500 schafft
+[01:24:45] <+dead_ohio_sky> @petrik coffy Gute Nacht.. ich werde mich aber auch gleich hinhauen.
+[01:25:08] <E$cute> Gefilmt mit einer RED 😍
+[01:25:53] <+dead_ohio_sky> @Magischer Löffel Ney, wie gesagt es ist nur eine Effizienklasse(Wirkungsgrad über 80% oder so) , hat nichts damit zu tun, was das Netzteil leisten kann.
+[01:26:15] <Magischer Löffel> @petrik coffy ok übersetzt ists n deprimierender text
+[01:26:18] <Magischer Löffel> @dead_ohio_sky okay
+[01:26:41] <petrik coffy> @RaketenBohneSchweiz warum sagen duch die bank alle damen die belästigst sie bei TS? 😂
+[01:27:02] <petrik coffy> 😠 es gibt keine traurige musik @Magischer Löffel
+[01:27:27] <RaketenBohneSchweiz> @petrik coffy wer denn?
+[01:27:32] <petrik coffy> naja kinder, ich mach das flug 🙋
+[01:27:37] <+dead_ohio_sky> @Magischer Löffel Hmm... also ich bin jetzt auch nicht so der Crack, aber GPU oder RAM könnte es sein... oder das Mobo hat einen Hau weg? Hast du da noch Periperhie dran (außer K+M)?
+[01:28:00] <Gonzalez Pascal> jezt hab ich hunger aber die küche ist abgeschlossen
+[01:28:07] <petrik coffy> ist k+m nicht so eine ladenkette? 🤔
+[01:28:11] <Magischer Löffel> @petrik coffy guts nächtle
+[01:28:26] <Magischer Löffel> @dead_ohio_sky ans mobo denk ich auch
+[01:28:27] <+dead_ohio_sky> Und heißt es nicht eigentlich M+T? 🤔
+[01:28:58] <petrik coffy> Kobra + Mambo 😚
+[01:29:07] <Magischer Löffel> @dead_ohio_sky zurzeit ist m+t, feuerzeugladegerät dran ^^
+[01:29:28] <+dead_ohio_sky> @Magischer Löffel Du kannst ja auch mal gucken ob die Southbridge (also der Chip wo ein Kühlelement oder gar ein kleiner Lüfter drauf ist) scheiße heiß wird. 🤔
+[01:29:57] <+dead_ohio_sky> @Magischer Löffel Doofe Frage, das Ladegerät ist aber nicht immer dran, oder?
+[01:30:08] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[01:30:14] <Magischer Löffel> @dead_ohio_sky nein ist es nicht ^^
+[01:30:18] <Captain lol> 😨
+[01:30:31] <+dead_ohio_sky> @Magischer Löffel Naja, gibt auch kuriose Fe
+[01:30:46] <Magischer Löffel> @dead_ohio_sky uff muss ich mal machen, ich entstaub den auch regelmäßig
+[01:30:50] <petrik coffy> plasmabrücken in die freiheit 😣
+[01:30:59] <Magischer Löffel> @petrik coffy +1
+[01:31:00] <+dead_ohio_sky> ...*Fälle wo der USB-Port der Übeltäter ist.
+[01:31:35] <+dead_ohio_sky> @Magischer Löffel Sind nur Vorschläge, ich denke ja weiterhin, dass es eher die GPU ist (oder eben der RAM).
+[01:31:43] <Captain lol> moment das ist doch der Veggie Ninja 🤔
+[01:31:49] <Magischer Löffel> @petrik coffy hasts schonmal in Wasser gehalten? 🌝
+[01:32:11] <Magischer Löffel> @dead_ohio_sky bei ram müssts aber dann die motherboard brücke sein
+[01:32:12] <petrik coffy> ich hab neulich n ganz kurioses verhalten meiner hdd beobachtet. auf die daten zuzugreifen hat ewig gedauert, aber nie wirklich geklappt, dann dauernd die verbindung verloren
+[01:32:32] <Magischer Löffel> meine festplatte ist auch ziemlich kacke 😂
+[01:32:36] <+dead_ohio_sky> @Magischer Löffel Wat für ne Brücke? 🤔
+[01:32:37] <petrik coffy> bin fast ausgeflippt. dann hab ich die dvd ausm laufwerk genommen, wieder reingetan und alles war gut.
+[01:32:39] <petrik coffy> :wat
+[01:33:13] <Magischer Löffel> @dead_ohio_sky ramslots ^^
+[01:33:16] <Magischer Löffel> @petrik coffy :wat
+[01:34:35] <+dead_ohio_sky> @Magischer Löffel Nö,. wenn der RAM putt ist, ist der RAM putt. Außer du hast da mit Gewalt die Riegel reingedrückt aber sonst dürfte da wenig passieren.
+[01:34:56] <Captain lol> kleine Rinderschulter als Vorspeise 😙
+[01:35:03] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[01:35:06] <Gonzalez Pascal> ich muss andere grafikkarte und mehr arbeitsspeicher reinhauen
+[01:36:08] <Magischer Löffel> @dead_ohio_sky ram hab ich ja schon ausgewechselt wie gesagt
+[01:36:21] <+dead_ohio_sky> @Magischer Löffel Du könntest auch mal in den Gerätemanager gucken, ob du ein paar Fragezeichen hast. Vllt hast du ja einen Treiber vergessen zu installieren. Z.B. Southbridge-Treiber... 🤔
+[01:36:27] <passionate kohgay> يا سلام ع لحم راح سرقوا ككككك
+[01:37:24] <+dead_ohio_sky> Schön pulen. 👍
+[01:37:38] <Gonzalez Pascal> bringt mir wer ein halbes schwein?
+[01:38:19] <Magischer Löffel> @dead_ohio_sky im Manager# sieht alles wie immer aus^^
+[01:39:03] <E$cute> 🍖HUNGER🍖
+[01:39:07] <+dead_ohio_sky> @Magischer Löffel War nur eine Idee. Wird gerne mal der Southbridge-Treiber vergessen und Windows installiert den nicht mit iirc. 😉
+[01:39:21] <passionate kohgay> لحم
+[01:39:36] <+dead_ohio_sky> @Magischer Löffel Ich werde mich aber mal aufs Ohr hauen. Hoffe du findest die Fehlerquelle bald. 👍
+[01:39:50] <Gonzalez Pascal> @E$cute ich auch
+[01:40:31] <Captain lol> Eintöpfe sind doof 😔
+[01:40:39] <Magischer Löffel> @dead_ohio_sky jo danke, guds nächtle und träum was feines 😃
+[01:41:01] <+dead_ohio_sky> @Magischer Löffel Danke, du auch.
+[01:41:12] <Magischer Löffel> @dead_ohio_sky man schreibt sich 😉
+[01:41:15] <Magischer Löffel> danke nochmal
+[01:41:23] <passionate kohgay> لطيف لي جدا
+[01:41:47] <+dead_ohio_sky> Dafür nicht. Hab ja nix gemacht. 🤷
+[01:41:53] <Gonzalez Pascal> so ich mach mir nen braten
+[01:42:35] <+dead_ohio_sky> @Magischer Löffel Alter Marah ist in Potsdam... hätte sie mir ja mal Bescheid sagen können. 😠
+[01:42:40] <Magischer Löffel> versuchs mal mit nem chipsatz update
+[01:42:56] <Magischer Löffel> @dead_ohio_sky 😂 haste auch grad gesehen?
+[01:43:10] <passionate kohgay> 😱
+[01:43:29] <+dead_ohio_sky> @Magischer Löffel Ja, bist du etwa auch mir ihr bei FB befreundet? 😠
+[01:43:34] <passionate kohgay> 🙈
+[01:43:42] <Captain lol> hmmm gute Steinsteaks 😙
+[01:43:44] <Einfach Ich> 😲
+[01:43:48] <Magischer Löffel> @dead_ohio_sky sie wollte das so, ich wehre mich da nicht 🌝
+[01:43:54] <E$cute> Lunzen
+[01:44:16] <+dead_ohio_sky> @Magischer Löffel Ich dachte ich wäre ihr einziger "Freund"... 😭
+[01:44:17] <Gonzalez Pascal> meine salami ham
+[01:44:32] <Magischer Löffel> @dead_ohio_sky *patpat* das denken alle
+[01:45:16] <+dead_ohio_sky> 😭 Ich geh jetzt ins Bett 😭
+[01:45:28] <Gonzalez Pascal> bb
+[01:45:50] <passionate kohgay> 👌
+[01:45:54] <Magischer Löffel> @dead_ohio_sky *dir Küchentücher hinterherwerf* zu mir haste gesagt ich soll nicht heulen 🎢
+[01:46:49] <Gonzalez Pascal> hhhuuunnngggeeerrr
+[01:46:50] <Captain lol> jetzt nen gegrillter Elefant oben drauf 😙
+[01:47:16] <+dead_ohio_sky> @Magischer Löffel Da wusste ich ja auch nicht, dass sie mir fremd geht.... 😭
+[01:47:42] <Gonzalez Pascal> geil ne dubble pizza
+[01:47:45] <passionate kohgay> 😝
+[01:47:59] <Magischer Löffel> @dead_ohio_sky 🙃
+[01:48:00] <Captain lol> Calzone halt ne
+[01:48:49] <Captain lol> 😍
+[01:49:08] <Gonzalez Pascal> ich schmeis ma mein braten in den ofen bis gleich
+[01:49:22] <Magischer Löffel> @dead_ohio_sky schlaf gut 🌝
+[01:49:24] <passionate kohgay> جيل ن ديبل
+[01:49:44] <Captain lol> bisschen wenig Käse aber
+[01:50:11] <passionate kohgay> انتي شوكولاته كككككك
+[01:50:21] <Tom> ballerts uch rein
+[01:52:16] <Gonzalez Pascal> was hab ich verpasst?
+[01:52:47] <passionate kohgay> بالونات الصرفة
+[01:53:31] <Magischer Löffel> bin auch mal raus, bye 😃 /
+[01:53:47] <passionate kohgay> ضائع
+[01:53:48] <Gonzalez Pascal> bb
+[01:54:28] <passionate kohgay> اكتبوا انكيزي مابعرف في لغتكم سئلة
+[01:54:43] <passionate kohgay> تو كسمك
+[01:54:50] <passionate kohgay> كككككككك
+[01:55:24] <passionate kohgay> plz fk
+[01:55:26] <P. B.> Allah bist du es?
+[01:55:30] <passionate kohgay> f
+[01:55:38] <passionate kohgay> fuck
+[01:56:11] <Gonzalez Pascal> hdm
+[01:56:31] <passionate kohgay> wtf yuo kkkkkkk
+[01:56:58] <Gonzalez Pascal> shut up
+[01:57:20] <passionate kohgay> تباع
+[01:57:45] <ReVerse Studios> сукин сын
+[01:58:17] <passionate kohgay> Zz
+[01:58:47] <passionate kohgay> 📞📱
+[01:59:21] <Gonzalez Pascal> no
+[01:59:41] <passionate kohgay> 🔨
+[02:01:03] <passionate kohgay> ميتين انتم قناه ميتين انتم ككككككك
+[02:01:07] <Gonzalez Pascal> no
+[02:02:28] <Zwigi> is koh gay?😀
+[02:03:00] <passionate kohgay> كككككككك ميتين انتم
+[02:03:28] <Gonzalez Pascal> ​ميتين انتم قناه ميتين انتم ككككككك
+[02:04:04] <P. B.> kennst du ali aus aleppo?
+[02:04:12] <passionate kohgay> كل عشر ساعات لا جوب سوال ميتين لكون متوا لم اجيت 😘
