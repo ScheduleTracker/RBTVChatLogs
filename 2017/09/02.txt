@@ -3321,3 +3321,231 @@
 [15:04:18] <+Der Diddler> Oh diesen Monat kommt meine Mini SNES wo wir grad dabei sind
 [15:04:42] <Magischer Löffel> @Der Diddler findest du?
 [15:04:51] <%Zeddy> @Der Diddler genau, meine auch 😉
+[15:05:02] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[15:05:18] <+Milano> und ihr werdet sie direkt modden um alle spiele druaf zu machen oder?
+[15:05:45] <%Zeddy> dafür kann man sich auch en retro pi anbasteln
+[15:05:50] <deface> Uncle Charlie !?
+[15:06:01] <+Milano> oder so
+[15:07:25] <Mia Muh> warum lachen die?
+[15:07:42] <The Mito> Schröck hält dem Aparillo das Mikro hin.
+[15:07:47] <+Der Diddler> @Magischer Löffel Ja ich musste alles noch mal neu installieren und nen neues Konto anlegen damit alles funktioniert und nu rennen da 2 Diddler rum. 1 is schon mehr als genug fürs Internet
+[15:07:54] <Mia Muh> Ah gar nicht gesehen
+[15:08:09] <The Mito> *Apparillo.
+[15:08:16] <+Der Diddler> @Zeddy Kann man die eigentlich gleich anschließen und los oder brauch man da auch Zubehör wie für die NES?
+[15:08:27] <Magischer Löffel> @Der Diddler 😂okay
+[15:08:37] <+Der Diddler> @Milano Naja ich denke ehrlichgesagt drüber nach
+[15:08:57] <%Zeddy> @Der Diddler man braucht nur nen controller, was meinse denn sonst noch für zubehör?
+[15:09:07] <%Colonel_HoganV2> das snes mini hat auch kein stromkabel 😀
+[15:09:09] <%Colonel_HoganV2> schweine
+[15:09:21] <%Zeddy> @Colonel_HoganV2 moin 😃
+[15:09:21] <deface> :wat
+[15:09:26] <Mia Muh> Synchronisieren machen Spaß
+[15:09:34] <%Colonel_HoganV2> @deface aja, war beim nes genauso
+[15:09:42] <+Der Diddler> @Zeddy War da nicht was mit dem Stromkabel oder so bei der NES? Ich meine mich da dunkel an was zu erinnern. Oder war es ein Netzgerät?
+[15:09:46] <%Zeddy> @Colonel_HoganV2 ich hab soviele handystromkabel. damit kann ich dich zuschmeissen
+[15:09:48] <%Colonel_HoganV2> dont mind me, zocken
+[15:10:38] <%Zeddy> @Der Diddler stromkabel gibs doch wie sand am meer. fürs rasp braucht man kein spezielles, handyladekabel reicht da
+[15:10:48] <+Milano> @Der Diddler glaub ich. fehelen ja doch ein paar richtige highlights
+[15:11:01] <+Der Diddler> Synchronsprecher is glaub ich ein ganz schön anspruchsvoller Job. Das Timing und alles hin zu bekommen is bestimmt nicht einfach
+[15:11:06] <deface> gj Nintendo... 😑
+[15:11:40] <Mia Muh> @Der Diddler Jup, die eigene Stimme muss richtig flexibel sein und es darf nix zu peinlich sein
+[15:11:43] <%Zeddy> @Der Diddler ob die neue snes was spezielles braucht weiss ich nich. wär aber schon scheisse, wenn man sich das noch extra kaufen muss
+[15:11:50] <+Der Diddler> @Zeddy Hatte das ja nur am Rande mitbekommen weil ich bei der NES keine mehr bekommen hab. Bei der SNES hatte ich mehr glück
+[15:12:24] <+Der Diddler> @Milano Müsste mal schauen was und vor alle wie viel man noch rauf machen könnte.
+[15:12:30] <Mia Muh> Das einzig traurige ist, dass synchronsprechen nicht gut vergütet wird und du nach Takes bezahlt wirst
+[15:12:37] <%Zeddy> @Der Diddler ich glaub da hatten die meisten mehr glück bei, deshalb glaub ich auch nicht so, dass der preis da auch so steigen wird
+[15:12:41] <%Colonel_HoganV2> wie mir das in spielen aufn sack geht, wenn man 2 gegner bekämpft die sich ständig einfach gegenseitig wiederbeleben
+[15:12:42] <Magischer Löffel> @Der Diddler und hast es in der Höhle des Löwen überlebt? 🙃
+[15:13:05] <Mia Muh> Je mehr man sprechen muss, desto mehr kriegste an Geld
+[15:13:38] <+Der Diddler> @Mia Muh genau. Stelle mir das sehr schwierig vor. Man muss bestimmt viel Geduld haben wenn man eine Szenen immer und immer wieder sprechen muss. von der Belastung der Stimme mal abgesehen
+[15:13:57] <+Der Diddler> @Zeddy Na wir werden ja sehen. Gespannt bin ich auf jeden fall
+[15:14:10] <%Zeddy> @Der Diddler dito 😃
+[15:14:45] <+Der Diddler> @Magischer Löffel Welche Höhle und welche Löwen?
+[15:15:10] <Magischer Löffel> @Der Diddler du warst doch mit Familie Bugfix im Disc nech? 🙃
+[15:15:43] <+Der Diddler> @Mia Muh Ja das ist schon ne komische Sache. Wenn man sich mal anschaut wie das in Amerika z.B. zugeht. Nur mal als Beispiel die Sprecher der Simpsons. Da sieht das besser aus
+[15:16:29] <Mia Muh> @Der Diddler War aber interessant ist, dass die großen Synchronsprecher zB, der von Bruce Willis die verdienen gut Geld
+[15:16:38] <+Der Diddler> @Magischer Löffel Warum sollte ich es nicht überleben? Ich bin aber auch kein Leibeigener im Gegensatz zu dir 😁
+[15:16:59] <Magischer Löffel> @Der Diddler jaguut 🙃
+[15:18:01] <+Der Diddler> @Mia Muh Naja stell dir mal eine Bruce Willis mit der Stimme von sagen wir mal Seth McFarlane oder so vor. Da geht es darum das die Leute sich dran gewöhnt haben
+[15:18:49] <+GesichtsKuchen> #Der Diddler ❤
+[15:18:51] <+GesichtsKuchen> #Zeddy ❤
+[15:18:56] <+Der Diddler> @Mia Muh Diese Sprecher haben ganz andere Voraussetzungen um ihre Ansprüche durch zusetzen
+[15:19:10] <+Der Diddler> @GesichtsKuchen 😊❤
+[15:19:29] <%Zeddy> @GesichtsKuchen moin ❤
+[15:21:11] <Magischer Löffel> @Der Diddler kannst sie ja das nächste Mal von mir Grüßen 🌝
+[15:22:34] <deface> 🎢
+[15:22:37] <+Der Diddler> @Magischer Löffel Ist notiert...moment ich richte Grüße aus und werde daraufhin da raus geprügelt oder? Fieser Plan, gefällt mir aber
+[15:23:15] <Magischer Löffel> @Der Diddler 🙃 du schuldest mir eh noch was für das Rebelnplanet hochjagen
+[15:23:32] <+Milano> @Der Diddler dann kannst von mir auch lg ausrichten. Dann wirst dazu noch verbrannt beim rauswerfen
+[15:24:01] <+Der Diddler> @Magischer Löffel und ich dachte das war ein nettes Harmloses Date ohne Hintergedanken 😖
+[15:24:18] <Magischer Löffel> @Der Diddler 🙃
+[15:24:30] <Joe 3001> kanst du mich Größen
+[15:24:53] <+Milano> 4 Wörter und 2 Fehler :awesome:
+[15:25:13] <+Der Diddler> @Milano Na toll...ich werde ja kaum vom Chat akzeptiert und wahr genommen und ihr torpediert auch noch mein einzigen Sozialen Interaktionen mit anderen Menschen 😭
+[15:25:20] <Magischer Löffel> @Joe 3001 größ dich 🙃
+[15:26:00] <+Milano> @Der Diddler so ist das mit menschen halt. Da musst du durch
+[15:26:01] <bassmensch> 😂
+[15:26:27] <Magischer Löffel> bassdude ist ja auch da \😚/
+[15:27:08] <+Der Diddler> @Milano Mein Leben war viel einfacher als ich nur Wütend und allein vor mich hin Onanierend in meiner Wohnung gesessen hab
+[15:27:11] <Pat> malcom mitten drin ❤
+[15:27:30] <Magischer Löffel> @Der Diddler das kenn ich 🙃
+[15:27:32] <+Milano> @Der Diddler Ja das war bei uns allen so...
+[15:28:28] <+Der Diddler> @Magischer Löffel Ist dieses auf dem Kopf stehende Emote der neue Löffel?
+[15:28:50] <Magischer Löffel> @Der Diddler warum? ich mag es einfach 🙃
+[15:28:59] <+Der Diddler> @Milano Was hat sich da geändert 🤔
+[15:29:03] <+Milano> 💄 ist der neue🥄
+[15:29:21] <+Der Diddler> @Magischer Löffel Mich verwirrt es ein wenig aber das tun die meisten Emotes
+[15:29:25] <+Milano> @Magischer Löffel same here
+[15:29:38] <Magischer Löffel> @Der Diddler umso besser 🙃
+[15:29:59] <bassmensch> ☃
+[15:30:06] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[15:30:53] <Magischer Löffel> mein pc ey 😖
+[15:31:38] <Karies _> :spave_invader:
+[15:31:45] <Karies _> oh geht nich 😞
+[15:31:59] <Karies _> 👾
+[15:32:12] <Dave Jacob> was ist denn bitte an der deutschen fassung von friends schlecht?? immer diese deutsche-synchro-hasser
+[15:32:24] <+Milano> 🌈
+[15:32:48] <%Zeddy> @Dave Jacob keine ahnung, ich fands auch gut
+[15:33:16] <Karies _> ich kann mit koq und friends nix anfangen
+[15:33:27] <%Zeddy> @Dave Jacob aber ansich lassen sich manche wortwitze eben nicht so gut übersetzen
+[15:33:58] <+Milano> koq ist doch geil!
+[15:34:04] <Dave Jacob> gibt da aber ja wohl noch mehr als genug witze, die auf deutsch funktionieren. wortwitze füllen seltenst ganze serien
+[15:34:10] <+Der Diddler> @Magischer Löffel Du willst mich mit Absicht verwirren? Monster du
+[15:34:13] <Karies _> meine liebste comedy serie sind die trailer park boys.. das lässt tief blicken 😛
+[15:34:21] <%Zeddy> @Dave Jacob seh ich ja genauso
+[15:34:36] <Magischer Löffel> @Der Diddler 🙃 meh.
+[15:34:38] <Pat> einfach die beste serie
+[15:35:03] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[15:35:58] <+Der Diddler> Auf schlimmer und ewig fand ich auch immer gut
+[15:35:59] <John Barleycorn> der hase war doch der alter ego
+[15:36:41] <Magischer Löffel> @Der Diddler mir fehlt halt die gute Erziehung🙃🌝
+[15:37:23] <Karies _> der hase war mit der tochter zusammen.. bzw. der puppensprecher mit der darstellerin 😛
+[15:37:26] <Dave Jacob> donna
+[15:37:29] <+Der Diddler> @Magischer Löffel Hmm das erklärt einiges...wie regeln wir das?
+[15:37:47] <Magischer Löffel> @Der Diddler lass dir was einfallen 🙃
+[15:37:51] <Karies _> der hase wurde von dem verrückten punk aus police academy gesprochn
+[15:37:55] <Pro-emit> Moinsen ihr Rabauken!
+[15:38:08] <Karies _> bobcat threepwood.. oder so
+[15:38:15] <Magischer Löffel> moin du schuft!
+[15:38:18] <Magischer Löffel> schuft
+[15:38:21] <+Der Diddler> @Magischer Löffel Wie stehst du zu Elektroschockhalsbändern und einem kleinen Erziehungsurlaub in Guantanamo?
+[15:38:34] <+Der Diddler> @Pro-emit Mahlzeit
+[15:38:53] <Karies _> servus
+[15:38:59] <%Zeddy> mit seinfeld konnte ich allerdings auch nie was anfangen
+[15:39:18] <Magischer Löffel> @Der Diddler wahrscheinlich angenehmer als bei Frau Bugfix🌝
+[15:39:18] <Karies _> seinfeld war schon gut
+[15:39:23] <+Der Diddler> Ich fand die Serie auch nie gut. Ein unverständlicher Hype
+[15:39:27] <%Zeddy> un vll wäre das mit dem original anders gewesen
+[15:39:31] <Dave Jacob> ich hab da nur mal eine folge oder so von geguckt und fands total uninteressant
+[15:39:45] <Karies _> wer seinfeld mochte muss curb your enthusiasm sehn
+[15:39:54] <%Zeddy> @Dave Jacob eben, aber vll wäre die im orignal besser?
+[15:39:54] <+Der Diddler> @Magischer Löffel Na dann Pack die Sachen. Auf ins Boot Camp
+[15:40:08] <Perdurado00> george costanza ist der beste typ in der strie
+[15:40:12] <Magischer Löffel> @Der Diddler tut mit Leid ich komm hier nicht weg🙃
+[15:40:15] <Perdurado00> *serie
+[15:40:21] <Dave Jacob> vermutlich, ja.
+[15:40:35] <+Der Diddler> @Magischer Löffel Ich glaub dafür bekommst du Sonderfreigang
+[15:40:52] <%Zeddy> @Dave Jacob von daher gibt es ja einen grund, warum diese synchro hasser manchmal auch recht haben
+[15:40:56] <Karies _> in curb your enthusiasm spielt der orginal george die haupptrolle.. die person auf der george basiert
+[15:41:05] <Magischer Löffel> @Der Diddler glaub ich nicht 🙃 das wäre ja wie Sommerferien früher🌝
+[15:41:32] <Perdurado00> danke @Karies _ ^^
+[15:41:32] <Magischer Löffel> Schlaflos in Guantanamo :notes:
+[15:41:33] <Karies _> larry david
+[15:41:58] <+Der Diddler> @Magischer Löffel Na gut dann bleib hier und schmore weiter. Ich hatte es aber angeboten das zählt schon als 1 mal
+[15:42:08] <Dave Jacob> ich fand ja community ziemlich überragend.
+[15:42:12] <Pro-emit> kennt ihr noch maxi gstettenbauer?
+[15:42:25] <Magischer Löffel> @Der Diddler 🙃oki
+[15:42:41] <Perdurado00> ja soll sogar zu meist improvisiert sein, die haben nur einen groben skript wie die folge abläuft
+[15:42:43] <Karies _> jap.. ders auch nächste woche zu gast hier.. alte giga-nase
+[15:42:55] <Pro-emit> ach echt? cool
+[15:42:56] <+Der Diddler> ich vermisse eine Schrecklich nette Familie
+[15:43:06] <Pro-emit> ist gar nicht so unlustig der jung! :)
+[15:43:25] <Magischer Löffel> @Der Diddler ja ich finds auch schade das die Bugfixes nicht hier sind🌝
+[15:43:35] <Pro-emit> schon interessant was manche für einen weg eingeschlagen haben
+[15:44:05] <+Der Diddler> @Magischer Löffel Hmm? Wie kommst jetzt da drauf?
+[15:44:33] <Magischer Löffel> @Der Diddler "Ich vermisse eine Schrecklich nette Familie " 🌝
+[15:44:37] <+XAxeX> jo der Gregor damals von der GIGA/Liga mit Vio ist inzwischen beim Handball auf Sky 😞
+[15:44:39] <+XAxeX> 😀
+[15:44:49] <+Der Diddler> @Magischer Löffel Ach soooooo
+[15:45:01] <Magischer Löffel> @Der Diddler 🌝🙃
+[15:45:04] <%Nightbot> Hey Böhnchen, ihr schaut gerade überlange Werbung? Dann tut unserem Treibstofftank einen Gefallen und wartet 30 Sekunden, bis ihr sie überspringt. Das füllt den Tank und ihr verpasst trotzdem nichts.
+[15:45:21] <Pro-emit> ist marco eigentlich noch zdf internet experte? auch lange nicht mehr gesehen
+[15:45:45] <Magischer Löffel> Marco? der spielt doch AoE gegen Flonnie 🌝
+[15:45:57] <Pro-emit> der marco von giga games ^^
+[15:45:58] <Karies _> gute frage.. marco im morgenmagazin fand ich immer lustig deplatziert
+[15:46:12] <Karies _> seine sendung bei nrw tv war gut
+[15:46:22] <Pro-emit> nie nrw tv geguckt
+[15:46:28] <Pro-emit> war das nicht son frauensender? ^^
+[15:46:44] <Karies _> ne so lokalgedöns
+[15:47:38] <Pro-emit> gucke schon lange kein fernsehen mehr
+[15:47:47] <Pro-emit> maximal per stream
+[15:48:00] <Karies _> dito
+[15:48:19] <Magischer Löffel> sooo solangsam mach ich mich mal auf /🙃\
+[15:48:24] <Pro-emit> bei welcher sendung soll maxi denn erscheinen?
+[15:48:30] <+Milano> der @XAxeX mag mich nicht mehr 😞
+[15:48:46] <+XAxeX> warum ?
+[15:48:47] <Karies _> puuh.. wars bei nda ? bin nicht sicher
+[15:48:54] <+Der Diddler> wie kommst da drauf @Milano
+[15:49:11] <Magischer Löffel> eigenes Format mit seinem Programm kommt doch nech?
+[15:49:18] <%Zeddy> die grundidee vom film predestination is aber schon echt krank
+[15:49:18] <+XAxeX> @Pro-emit nein sein LIVE-Programm kommt am Mittwoch nach WeeklyWahnsinn
+[15:49:19] <+Milano> @XAxeX weil du mir schon letzter woche nicht mehr hallo sagst oder mir hier antwortest 😞
+[15:49:20] <+Der Diddler> @Magischer Löffel wo willst denn hin?
+[15:49:24] <Pro-emit> der wird bestimmt, wenne r schon da ist, durch jede sendung gereicht. ;)
+[15:49:35] <Karies _> achso war das
+[15:49:43] <+XAxeX> @Milano ich vergess offt hallo zusagen 😀
+[15:49:48] <+XAxeX> !wochenplan
+[15:49:51] <Magischer Löffel> @Der Diddler ich versuch mich mal hier raus zu schleichen 🙃 ohne das sie Wind von bekommt
+[15:49:52] <%Nightbot> XAxeX : Den aktuellen Wochenplan findest du hier:  https://rbtv.to/woche
+[15:50:05] <+Der Diddler> @Milano Ja dann wird er dich wohl hassen
+[15:50:16] <+Milano> @Der Diddler das glaub ich auch
+[15:50:32] <+XAxeX> @Pro-emit ne der is nich in hamburg auf RBTV wird sein Format am Mittwoch abend laufen und danach veröffentlicht er es bei sich auf der seite oder so
+[15:50:37] <+Milano> @XAxeX aber antworten tust mir auch nicht... war halt komisch
+[15:50:37] <Pro-emit> aber lustig, gestern noch gedacht, der könnte doch auch mal wieder zu rbtv ;)
+[15:50:49] <+XAxeX> @Milano dann hab ichs wohl übersehen 😀
+[15:50:54] <+Der Diddler> @Magischer Löffel Vie Erfolg. *wirft einen angezündeten Böller in den Raum*
+[15:51:03] <+Milano> 😞
+[15:51:16] <Karies _> bin etwas durchn wind heute.. böse edibles 😛
+[15:51:17] <Pro-emit> achso @XAxeX schade - der passt eigetnlich gut zu rbtv
+[15:51:35] <Magischer Löffel> @Der Diddler daaanke ._. ich hab 10min Zeit dann kommt meine Abholung🙃
+[15:51:36] <Pro-emit> 😃
+[15:52:07] <+Milano> ich zock noch bisschen, bis später 😀
+[15:52:11] <+Der Diddler> @Magischer Löffel Ich versuche eben immer gerne zu helfen
+[15:52:26] <Magischer Löffel> @Der Diddler verstehe 🙃
+[15:52:27] <+Der Diddler> @Milano viel erfolg und gute Jagd
+[15:52:39] <+XAxeX> @Pro-emit joa würde auch VIO gerne mal bei den Jungs sehen 😀 aber colin meinte schon iwo mal das RBTV ihr zu chaotisch sein könnte ^^ aber gabs noch nie zeit das sie eben mal als gast vorbei kommt
+[15:52:52] <+Milano> Danke 😃
+[15:52:53] <+XAxeX> sie hat ja auch in Köln 2 oder 3 kinder + mann + haus ^^
+[15:52:55] <Magischer Löffel> @Der Diddler am besten du sagst gleich bescheid das ich abhau 🌝
+[15:53:23] <+Der Diddler> @Magischer Löffel Wer sagt das ich das nicht schon lang gemacht hab?
+[15:53:28] <Karies _> vio hat doch ein kleines kind.. passt zeitlich wohl schlecht
+[15:53:40] <+XAxeX> @Pro-emit und der maxi ist auch etwas aus der moderations ecke raus ^^ der ist in der comedy branche unterwegs
+[15:53:43] <Karies _> damn der schnellle xaxex
+[15:53:51] <+XAxeX> @Karies _ :awesome:
+[15:53:57] <Magischer Löffel> @Der Diddler ich geb dir dann am besten noch meine Fluchtkoordinaten durch ne? 🐸
+[15:54:00] <+XAxeX> my tasta is to fast 4 you
+[15:54:01] <Pro-emit> rbtv ist ja nicht nur moderation
+[15:54:23] <+XAxeX> @Pro-emit stimmt, aber er ist halt nicht mehr so im gaming usw. drin ^^
+[15:54:26] <Pro-emit> ich sach mal, maxi wäre ein kadnidat für ein eigenes format
+[15:54:27] <+Der Diddler> @Magischer Löffel Nicht nötig du hast nen Sender unter die Haut implantiert bekommen
+[15:54:49] <Magischer Löffel> @Der Diddler ._. ja ge ge
+[15:55:15] <Pro-emit> und neben kino+, quiz sendungen und nda, hat sojemand sicher auch platz
+[15:56:43] <Magischer Löffel> @Der Diddler man könnte fast meinen das dir das gefällt was sie tut 🤔
+[15:57:03] <Spuni lol> 420 ❤
+[15:57:45] <+Der Diddler> @Magischer Löffel Ich mag es eben wenn manischen in ihrem Hobby aufgehen
+[15:57:48] <Pro-emit> noch 23 min ;)
+[15:58:00] <Spuni lol> hehe ;)
+[15:58:27] <MoshingHomer> Hab heute "Vater des Lichts" auf Netflix durchgeschaut. War wirklich gut
+[15:58:41] <Magischer Löffel> @Der Diddler .-. so Fluxhtwagen ist da, ich sag schonmal tschö \🐸/
+[15:58:58] <+Der Diddler> @Magischer Löffel Bis dann
+[15:59:13] <Spuni lol> pups
+[15:59:15] <Magischer Löffel> @Der Diddler ich hoffe es gibt kein dann 🐸
+[15:59:50] <Tim der Gaming Freund> was macht ir
+[16:00:12] <Tim der Gaming Freund> hi
+[16:00:19] <+Der Diddler> @Magischer Löffel Wir werden sehen 😈
+[16:00:26] <Magischer Löffel> Tschüss Chad \🐸/
+[16:00:41] <Tim der Gaming Freund> schö
+[16:02:10] <Tim der Gaming Freund> bei mir lekts
+[16:02:56] <Tim der Gaming Freund> tschüs
+[16:04:01] <+Luggi may> Sieht doch ganz nett aus
+[16:04:02] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
