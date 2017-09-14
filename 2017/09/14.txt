@@ -219,3 +219,103 @@
 [01:33:41] <Demon> Löffel noch da? 😲
 [01:35:49] <Deance Remix> hi
 [01:54:16] <Corporal Chaos> hi
+[02:12:36] <Winkelberg> was geht ab, ihr nachteulen!?
+[02:13:05] <Demon> nix :c
+[02:13:22] <Winkelberg> uff shiat
+[02:13:44] <Demon> verträge abschließen, seelen sammeln, das übliche halt
+[02:13:51] <Demon> 😀
+[02:14:15] <Winkelberg> klingt immerhin produktiv!
+[02:14:37] <Demon> iam a soulmen
+[02:18:07] <Berserkbeast 666> oh gaaawd 😀 an die stelle erinner ik mich noch <.< nirgendwo is ede bisher mehr verzweifelt
+[02:25:18] <Corporal Chaos> 😪
+[02:28:18] <Winkelberg> ersma einen bauen 👽
+[02:28:32] <sven schulz> ich hasse mein inet
+[02:28:55] <Corporal Chaos> sag doch sowas nich
+[02:29:11] <Winkelberg> wasn los damit?
+[02:30:39] <sven schulz> na dc in mini
+[02:30:58] <sven schulz> oder auch ,mega leggs
+[02:31:09] <sven schulz> und das schon 2 std
+[02:31:38] <Winkelberg> so ein kack
+[02:37:23] <Corporal Chaos> ☹
+[02:48:18] <Demon> router neu starten, evtl. dns catch leeren, netzwerkadapter deaktivieren und aktivieren, treiber updaten und vor dem ganzen überprüfen der hardware falls ein kabel put ist
+[02:48:31] <Demon> mehr kann ich aus der ferne auch nicht weiter helfen :c
+[02:48:51] <Demon> vielleicht macht dein router ja auch nen softwareupdate or so kann ja auch sein
+[02:48:55] <sven schulz> is schon passiert alles
+[02:49:13] <Corporal Chaos> solange das nicht ständig passiert
+[02:49:26] <Demon> wie viele geräte sind angeschlossen, manchmal stören sich diese, sind eventuell doppelte ip´s vergeben ?
+[02:49:51] <sven schulz> nur pc sonst nix
+[02:50:08] <Demon> wlan oder lan?
+[02:50:15] <Robin Leyer> beweiis mal das du wirklich exiistierst bitte etienne
+[02:50:33] <sven schulz> kabel
+[02:50:46] <Demon> also lan c:
+[02:51:10] <Demon> woher beziehst du lan? direkt vom router oder über sowas wie vdsl
+[02:51:24] <Demon> also über stromnetz quasi mit ensprechendem adapter
+[02:51:25] <sven schulz> dierekt
+[02:51:39] <Magischer Löffel> @Corporal Chaos du bist ja auch noch hier 😀
+[02:51:55] <Demon> Lan kabel oder so ist nicht beschädigt?
+[02:52:03] <sven schulz> router und sonst nix
+[02:52:22] <Corporal Chaos> ja sicher
+[02:52:23] <Demon> ? 😲
+[02:52:40] <Magischer Löffel> !
+[02:52:44] <Magischer Löffel> 😛
+[02:52:46] <Demon> vllt liegt das problem gerade dann doch beim provider
+[02:52:57] <sven schulz> das denke ich auch
+[02:53:02] <Magischer Löffel> \(^-^)/
+[02:53:25] <Corporal Chaos> 👐
+[02:53:36] <Demon> ansonsten würd ich noch mal nen viren such lauf mit malewarebytes oder so laufen lassen
+[02:53:37] <Magischer Löffel> bims mal wieder weg 😀
+[02:53:40] <Demon> nur zur sicherheit
+[02:53:51] <Demon> mehr kann ich aber auch net helfen aus der ferne leider sorry :c
+[02:53:57] <Corporal Chaos> tüdelü @Magischer Löffel 👋
+[02:54:16] <Corporal Chaos> passiert das grad zum ersten mal? oder ist das problem permanent
+[02:54:24] <sven schulz> mache ich schon nebei weil mein scanner immer an
+[02:54:34] <Corporal Chaos> kann auch sein dass von seiten des providers grad irgendwas gemacht wird, also immer erst mal füße still halten 📙
+[02:55:00] <Demon> nja klar aber ich kann nur sagen das die meisten fehler beim client selbst liegen und nicht beim provider
+[02:55:24] <Corporal Chaos> also wenn bei mir das inet weg ist liegts meistens nicht an mir, was ich daran erkenn dass es dann nach ner stunde (oder so) wieder geht
+[02:55:34] <sven schulz> ich bin ts3 admin aus der erafhrung weiss ich der grösste fehler sitzt 30 cm vorm pc
+[02:55:37] <Demon> wenns jetz aber nix ist was permanent auftritt kanns natürlich auch beim provider sein ^^
+[02:55:46] <sven schulz> also der bzrter
+[02:56:00] <Corporal Chaos> du sitzt aber nah am bildschirm
+[02:56:05] <sven schulz> benutzer
+[02:57:03] <Corporal Chaos> vllt bild ich mir das ja ein, aber provider machen sowas wohl auch lieber nachts, also an irgendwas rumwerkeln was zu unterbrechungen führt, oder router updates 🤷
+[02:57:27] <sven schulz> das machen sie dann immer ja
+[02:57:46] <Corporal Chaos> und wir sind dann die gefickten weil wir das internetz nachts brauchen 🙃
+[02:57:57] <Demon> hmmm kann gut sein da nachts unter der woche zb. die niedrigste nutzerzahl ist denke ich mal
+[02:57:58] <Kevin Schmidt> Das macht der Router, nicht der Provider
+[02:58:00] <sven schulz> mein bvb hat auch verloren was eien schande war aber auch der die pfeife
+[02:58:02] <Demon> also jetz nur ne vermutung
+[02:58:15] <Kevin Schmidt> Kann man deaktivieren, oder auf aandere Zeiten stellen
+[02:58:30] <Demon> schmidt weist du überhaupt worums geht? 😀
+[02:58:31] <Corporal Chaos> bvb hat verloren? wollt ich noch nachschauen
+[02:58:40] <Corporal Chaos> lol
+[02:59:03] <Berserkbeast 666> viel schlimmer dass die seahawks sonntag verloren haben -.-
+[02:59:29] <Kevin Schmidt> Demon denke dass bei euch nachts das internet kurz ausfällt, viel habe ich nicht mitgelesen :D
+[02:59:33] <Corporal Chaos> 🙄 (selten passt ein smiley so gut)
+[02:59:38] <sven schulz> ja leider 3:1
+[02:59:38] <Demon> ne
+[02:59:44] <Corporal Chaos> wenn ernsthaft leute mit NFL hier ankommen 🙄
+[02:59:52] <Demon> war noch davor
+[02:59:57] <Demon> einiges an kontext 😀
+[03:00:09] <%Nightbot> Hey Böhnchen, ihr schaut gerade überlange Werbung? Dann tut unserem Treibstofftank einen Gefallen und wartet 30 Sekunden, bis ihr sie überspringt. Das füllt den Tank und ihr verpasst trotzdem nichts.
+[03:00:15] <sven schulz> nur mit hilfe des schiedsrichter ein foul nicht gepfiffen da wars scjn 2:1 danach
+[03:00:31] <Corporal Chaos> @Nightbot du müsstest dich doch mit internet auskennen, hast du ne ahnung?
+[03:00:32] <sven schulz> nfl schauhe ichn auch ab und zu
+[03:00:38] <Demon> das der router manchmal updates macht, je nachdem wie er eingestellt ist ist ja klar
+[03:01:06] <%Nightbot> Hier sind die Regeln für den Chat: https://www.rocketbeans.tv/allgemein/chatregeln/
+[03:01:08] <Demon> und die neue IP vergabe die in der regel alles 24 - 48 stunden stattfindet soweit nicht anders eingegeben dauert normal nicht lange
+[03:01:13] <Corporal Chaos> ey wo wir schon mal dabei sind. hat ipv6 irgendwelche nachteile? mein provider will mir nen neuen router aufschwazen, womit wohl ein wechsela uf ipv6 verbunden wäre
+[03:01:22] <Corporal Chaos> aber bei mir funktioniert alles bestens 🤷
+[03:01:30] <Demon> uhm
+[03:01:40] <Demon> also Ipv6 wird glaube einfach noch net so viel genutzt
+[03:01:43] <Corporal Chaos> falles zuvällig jemand auf anhieb weiss, falls nich auch egal
+[03:02:07] <%Nightbot> Den aktuellen Sendeplan gibt's hier:  https://rbtv.to/woche
+[03:02:18] <sven schulz> so ich kuche nun
+[03:02:22] <sven schulz> koche
+[03:02:26] <Demon> Der unterschied zwischen ipv6 und ipv4 ist das wesentlich mehr ip adressen bei ipv6 vergeben werden können
+[03:02:27] <Corporal Chaos> lol
+[03:02:40] <Corporal Chaos> ja, danke. das weiss ich auch 😛
+[03:03:13] <Demon> glaube ipv6 wird halt nicht so sehr genutzt bzw noch nicht wird aber aufjedenfall irgendwann der neue standart sein
+[03:03:18] <Corporal Chaos> hab halt dann nur was gelesen dass man bei ipv6 keine weiterleitungen mehr machen kann/muss 🤷 kA brauch sowas selten aber naja
+[03:03:26] <Corporal Chaos> jo
+[03:03:51] <Demon> hmm keine ahnung das kann ich nicht genau sagen 😀
+[03:04:15] <Corporal Chaos> kk
