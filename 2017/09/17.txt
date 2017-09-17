@@ -1261,3 +1261,46 @@
 [08:59:39] <Oezkan Goek> guten morgen
 [09:01:00] <+raptorh> seit wann kommt denn jetzt sonntags auch noch bohn jour? puhh gut dass ich zu faul bin umzuschalten
 [09:01:41] <kleinLP06 kleinLP06> hab mich auch gewundert
+[09:06:40] <+Blodyck> @raptorh wenigstens kein pubg 😉
+[09:14:35] <JohnWayne165> ist das eigentlich allday live ?
+[09:15:07] <2smart4u> !Pampelmuse
+[09:15:59] <Quadriix> Hi... Geht bitte mal auf meinen Kanal... Und liked und Aboniert ihn #RoadTo50Abonenten
+[09:16:00] <2smart4u> !Plan
+[09:16:14] <2smart4u> !Sendeplan
+[09:17:23] <+XAxeX> @JohnWayne165 nö wenn keine LIVE oder Premiere läuft gibts wiederholungen (wie im normalen tv) ^^
+[09:17:25] <+XAxeX> !wochenplan
+[09:17:27] <%Nightbot> XAxeX : Den aktuellen Wochenplan findest du hier:  https://rbtv.to/woche
+[09:17:36] <+XAxeX> im Wochenplan kannste sehen wann was live kommt 😃
+[09:18:41] <JohnWayne165> Ahh Okay danke für die Info..
+[09:22:14] <Richard Herfort> was macht ihr
+[09:22:41] <Kathrin> ich mach ein tutorial für reactJS
+[09:22:48] <Kathrin> (und trinke kaffee)
+[09:22:52] <+raptorh> hab gerade geduscht, man fühlt sich sauber einfach besser 😃
+[09:23:18] <+raptorh> @Kathrin was ist reactJS und warum machst du ein tutorial dazu?
+[09:23:23] <Kathrin> duschen und yoga hab ich heute auch schon gemacht ;)
+[09:23:57] <Kathrin> reactJS ist ein Framework für JavaScript. Ich bin Webdeveloper und möchte das lernen weil das der heiße scheiss ist in der Webentwicklung.
+[09:24:23] <Kathrin> in meiner aktuellen firma benutzen wir aber etwas anderes, deswegen mach ich das in meiner freizeit
+[09:25:03] <+raptorh> oha, na dann viel erfolg... alles was java beinhaltet ist mir suspekt^^
+[09:25:56] <Kathrin> java und javascript haben überhaupt nichts miteinander zu tun. das wurde nur javascript genannt weil java zu dem zeitpunkt populär war.
+[09:26:05] <Jakob MPunkt> guten morgen
+[09:27:03] <Jakob MPunkt> irgendwie ist das voll schlecht synchronisiert...
+[09:27:15] <+raptorh> ich weiß^^ ist jetzt nicht so dass ich mich nicht mit beschäftigt hätte^^ musste mal irgend so nen mist machen mit nem server der auf java programmiert ist und ne page in java script dynamisch
+[09:27:48] <+raptorh> erstellt...
+[09:28:24] <+raptorh> aber ich mag diese welt nicht, ich bleib bei programmierung von maschinen, das iwie mehr meins^^
+[09:29:52] <Kathrin> ja, auf welcher schicht man so arbeitet ist defintiv typ sache. ich befinde mich sehr gerne irgendwo bei 7&8
+[09:31:15] <+raptorh> joa^^
+[09:34:11] <Jakob MPunkt> was florentin sagt
+[09:35:53] <Kathrin> ich hatte übrigens gestern zufällig das Kostüm Buch zur Originalen Star Wars Triologie in der Hand und in den aller ersten Zeichnungen von r2d2 sollte er eigentlich auf einer kugel rollen.
+[09:36:27] <Kathrin> wurde dann wegen technischer nicht machbarkeit verworfen und man hat sich dann für das 3 beinige modell entschieden. von daher finde ich es mega cool das sie die idee bei bb8 aufgegriffen haben.
+[09:38:17] <+raptorh> <- star wars noob, find das universum iwie nicht ansprechend (ja ich habs gesagt, nu isses raus)
+[09:39:36] <Jakob MPunkt> woohoo mehr dota 2
+[09:45:19] <+raptorh> william kohn oder lenin, kaum ein unterschied 😀
+[09:53:21] <Jakob MPunkt> gregor wird so abloosen
+[09:55:48] <+raptorh> finds ganz gut, trotzdem schade dass denzel krank wurde und rimworld ausfallen musste 😞 aber da kannste halt nicht machen, wenn wer krank ist soll er gesund werden 😃
+[09:59:43] <Jakob MPunkt> aber gestern pubg konnte er doch zocken...
+[10:00:27] <+raptorh> ja kp er musste sich donnerstag wohl übergeben, kann ja sein dass es ihm samstag wieder einigermaßen ging
+[10:01:24] <Jakob MPunkt> wobei viet hat beim casting als denzel ganz gut abgeliefert der hätte es ja stattdessen machen können...
+[10:01:37] <+raptorh> 😀
+[10:01:46] <+raptorh> ich glaub der hat noch urlaub
+[10:02:28] <Jakob MPunkt> ne seit dieser woche wieder da glaub ich
+[10:02:35] <Jakob MPunkt> ah ne ab morgen genau
